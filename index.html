@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crystal Sage — Grimoire Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Cinzel:wght@400;500;600;700&family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <canvas id="starfield" aria-hidden="true"></canvas>
+  <div class="nebula nebula-1" aria-hidden="true"></div>
+  <div class="nebula nebula-2" aria-hidden="true"></div>
+  <div class="nebula nebula-3" aria-hidden="true"></div>
+
+  <!-- ══ TOPBAR ════════════════════════════════════════════════ -->
+  <header id="topbar">
+    <div class="topbar-row topbar-main">
+      <a class="brand" href="#" aria-label="Crystal Sage">
+        <span class="brand-star">✦</span>
+        <span class="brand-name">Crystal Sage</span>
+      </a>
+      <div class="topbar-controls">
+        <button id="filter-toggle" class="ctrl-btn" aria-label="Toggle filters" aria-expanded="false" aria-controls="filter-panel">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="4" y1="6" x2="20" y2="6"/><line x1="8" y1="12" x2="16" y2="12"/><line x1="11" y1="18" x2="13" y2="18"/></svg>
+          <span>Filters</span>
+          <span id="filter-badge" class="badge" hidden></span>
+        </button>
+        <button id="view-toggle" class="ctrl-btn" aria-label="Toggle view" data-view="grid">
+          <svg id="icon-grid" width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><rect x="3" y="3" width="8" height="8" rx="1.5"/><rect x="13" y="3" width="8" height="8" rx="1.5"/><rect x="3" y="13" width="8" height="8" rx="1.5"/><rect x="13" y="13" width="8" height="8" rx="1.5"/></svg>
+          <svg id="icon-list" width="15" height="15" viewBox="0 0 24 24" fill="currentColor" hidden><rect x="3" y="4" width="18" height="3.5" rx="1"/><rect x="3" y="10.25" width="18" height="3.5" rx="1"/><rect x="3" y="16.5" width="18" height="3.5" rx="1"/></svg>
+        </button>
+      </div>
+    </div>
+    <div class="topbar-row topbar-search-row">
+      <div class="search-wrap">
+        <svg class="search-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        <input id="search" type="search" placeholder="Search crystals, properties, intentions, lore…" autocomplete="off" spellcheck="false" aria-label="Search crystals">
+      </div>
+    </div>
+  </header>
+
+  <!-- ══ FILTER PANEL ══════════════════════════════════════════ -->
+  <div id="filter-panel" class="filter-panel" hidden aria-label="Filter crystals">
+    <div class="filter-scroll">
+
+      <div class="filter-group">
+        <h3 class="filter-label">Intention</h3>
+        <div class="chip-row">
+          <button class="chip" data-dimension="intention" data-value="Protection">Protection</button>
+          <button class="chip" data-dimension="intention" data-value="Love">Love</button>
+          <button class="chip" data-dimension="intention" data-value="Clarity">Clarity</button>
+          <button class="chip" data-dimension="intention" data-value="Abundance">Abundance</button>
+          <button class="chip" data-dimension="intention" data-value="Healing">Healing</button>
+          <button class="chip" data-dimension="intention" data-value="Spiritual">Spiritual</button>
+          <button class="chip" data-dimension="intention" data-value="Grounding">Grounding</button>
+          <button class="chip" data-dimension="intention" data-value="Intuition">Intuition</button>
+          <button class="chip" data-dimension="intention" data-value="Calm">Calm</button>
+          <button class="chip" data-dimension="intention" data-value="Communication">Communication</button>
+          <button class="chip" data-dimension="intention" data-value="Transformation">Transformation</button>
+          <button class="chip" data-dimension="intention" data-value="Creativity">Creativity</button>
+          <button class="chip" data-dimension="intention" data-value="Courage">Courage</button>
+          <button class="chip" data-dimension="intention" data-value="Dream">Dream</button>
+        </div>
+      </div>
+
+      <div class="filter-group">
+        <h3 class="filter-label">Chakra</h3>
+        <div class="chip-row">
+          <button class="chip chip-chakra" data-dimension="chakra" data-value="Root" style="--cc:#e53e3e">Root</button>
+          <button class="chip chip-chakra" data-dimension="chakra" data-value="Sacral" style="--cc:#dd6b20">Sacral</button>
+          <button class="chip chip-chakra" data-dimension="chakra" data-value="Solar Plexus" style="--cc:#d69e2e">Solar Plexus</button>
+          <button class="chip chip-chakra" data-dimension="chakra" data-value="Heart" style="--cc:#38a169">Heart</button>
+          <button class="chip chip-chakra" data-dimension="chakra" data-value="Throat" style="--cc:#3182ce">Throat</button>
+          <button class="chip chip-chakra" data-dimension="chakra" data-value="Third Eye" style="--cc:#805ad5">Third Eye</button>
+          <button class="chip chip-chakra" data-dimension="chakra" data-value="Crown" style="--cc:#b794f4">Crown</button>
+        </div>
+      </div>
+
+      <div class="filter-group">
+        <h3 class="filter-label">Element</h3>
+        <div class="chip-row">
+          <button class="chip" data-dimension="element" data-value="Earth">Earth</button>
+          <button class="chip" data-dimension="element" data-value="Water">Water</button>
+          <button class="chip" data-dimension="element" data-value="Fire">Fire</button>
+          <button class="chip" data-dimension="element" data-value="Air">Air</button>
+          <button class="chip" data-dimension="element" data-value="Ether">Ether</button>
+        </div>
+      </div>
+
+      <div class="filter-group">
+        <h3 class="filter-label">Energy Type</h3>
+        <div class="chip-row">
+          <button class="chip" data-dimension="energy_type" data-value="Activating">Activating</button>
+          <button class="chip" data-dimension="energy_type" data-value="Calming">Calming</button>
+          <button class="chip" data-dimension="energy_type" data-value="Grounding">Grounding</button>
+          <button class="chip" data-dimension="energy_type" data-value="Protective">Protective</button>
+          <button class="chip" data-dimension="energy_type" data-value="Amplifying">Amplifying</button>
+        </div>
+      </div>
+
+      <div class="filter-group">
+        <h3 class="filter-label">Polarity</h3>
+        <div class="chip-row">
+          <button class="chip" data-dimension="polarity" data-value="Yin">☽ Yin</button>
+          <button class="chip" data-dimension="polarity" data-value="Yang">☀ Yang</button>
+          <button class="chip" data-dimension="polarity" data-value="Neutral">⊖ Neutral</button>
+        </div>
+      </div>
+
+      <div class="filter-group">
+        <h3 class="filter-label">Planet</h3>
+        <div class="chip-row">
+          <button class="chip" data-dimension="planet" data-value="Moon">☽ Moon</button>
+          <button class="chip" data-dimension="planet" data-value="Sun">☉ Sun</button>
+          <button class="chip" data-dimension="planet" data-value="Mercury">☿ Mercury</button>
+          <button class="chip" data-dimension="planet" data-value="Venus">♀ Venus</button>
+          <button class="chip" data-dimension="planet" data-value="Mars">♂ Mars</button>
+          <button class="chip" data-dimension="planet" data-value="Jupiter">♃ Jupiter</button>
+          <button class="chip" data-dimension="planet" data-value="Saturn">♄ Saturn</button>
+          <button class="chip" data-dimension="planet" data-value="Uranus">♅ Uranus</button>
+          <button class="chip" data-dimension="planet" data-value="Neptune">♆ Neptune</button>
+          <button class="chip" data-dimension="planet" data-value="Pluto">♇ Pluto</button>
+        </div>
+      </div>
+
+      <div class="filter-group">
+        <h3 class="filter-label">Zodiac</h3>
+        <div class="chip-row">
+          <button class="chip" data-dimension="zodiac" data-value="Aries">♈ Aries</button>
+          <button class="chip" data-dimension="zodiac" data-value="Taurus">♉ Taurus</button>
+          <button class="chip" data-dimension="zodiac" data-value="Gemini">♊ Gemini</button>
+          <button class="chip" data-dimension="zodiac" data-value="Cancer">♋ Cancer</button>
+          <button class="chip" data-dimension="zodiac" data-value="Leo">♌ Leo</button>
+          <button class="chip" data-dimension="zodiac" data-value="Virgo">♍ Virgo</button>
+          <button class="chip" data-dimension="zodiac" data-value="Libra">♎ Libra</button>
+          <button class="chip" data-dimension="zodiac" data-value="Scorpio">♏ Scorpio</button>
+          <button class="chip" data-dimension="zodiac" data-value="Sagittarius">♐ Sagittarius</button>
+          <button class="chip" data-dimension="zodiac" data-value="Capricorn">♑ Capricorn</button>
+          <button class="chip" data-dimension="zodiac" data-value="Aquarius">♒ Aquarius</button>
+          <button class="chip" data-dimension="zodiac" data-value="Pisces">♓ Pisces</button>
+        </div>
+      </div>
+
+      <div class="filter-group">
+        <h3 class="filter-label">Elixir Safety</h3>
+        <div class="chip-row">
+          <button class="chip chip-safe" data-dimension="elixir" data-value="Safe">✓ Safe</button>
+          <button class="chip chip-indirect" data-dimension="elixir" data-value="Indirect">⚠ Indirect</button>
+          <button class="chip chip-avoid" data-dimension="elixir" data-value="Avoid">✗ Avoid</button>
+        </div>
+      </div>
+
+      <div class="filter-group">
+        <h3 class="filter-label">Rarity</h3>
+        <div class="chip-row">
+          <button class="chip" data-dimension="rarity" data-value="Common">Common</button>
+          <button class="chip" data-dimension="rarity" data-value="Uncommon">Uncommon</button>
+          <button class="chip" data-dimension="rarity" data-value="Rare">Rare</button>
+          <button class="chip" data-dimension="rarity" data-value="Very Rare">Very Rare</button>
+        </div>
+      </div>
+
+      <div class="filter-group">
+        <h3 class="filter-label">Mohs Hardness</h3>
+        <div class="mohs-range">
+          <label class="mohs-label">From
+            <select id="mohs-min" aria-label="Minimum Mohs hardness">
+              <option value="1">1</option><option value="2">2</option><option value="3">3</option>
+              <option value="4">4</option><option value="5">5</option><option value="6">6</option>
+              <option value="7">7</option><option value="8">8</option><option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+          </label>
+          <span class="mohs-dash">—</span>
+          <label class="mohs-label">To
+            <select id="mohs-max" aria-label="Maximum Mohs hardness">
+              <option value="1">1</option><option value="2">2</option><option value="3">3</option>
+              <option value="4">4</option><option value="5">5</option><option value="6">6</option>
+              <option value="7">7</option><option value="8">8</option><option value="9">9</option>
+              <option value="10" selected>10</option>
+            </select>
+          </label>
+        </div>
+      </div>
+
+    </div><!-- /filter-scroll -->
+  </div><!-- /filter-panel -->
+
+  <!-- ══ ACTIVE FILTERS BAR ════════════════════════════════════ -->
+  <div id="active-pills-bar" class="active-pills-bar" hidden aria-live="polite">
+    <div id="active-pills" class="active-pills"></div>
+    <button id="clear-all" class="clear-all-btn">Clear all</button>
+  </div>
+
+  <!-- ══ RESULT COUNT ══════════════════════════════════════════ -->
+  <p id="result-count" class="result-count" aria-live="polite"></p>
+
+  <!-- ══ CRYSTAL GRID ══════════════════════════════════════════ -->
+  <main id="grid" class="crystal-grid" aria-label="Crystal collection"></main>
+
+  <!-- ══ DETAIL MODAL ══════════════════════════════════════════ -->
+  <div id="modal" class="modal-overlay" hidden role="dialog" aria-modal="true" aria-labelledby="modal-crystal-name">
+    <div class="modal-inner">
+      <button id="modal-close" class="modal-close-btn" aria-label="Close">✕</button>
+
+      <div id="modal-header" class="modal-header"></div>
+
+      <nav class="modal-tabs" id="modal-tabs" role="tablist" aria-label="Crystal information tabs">
+        <button class="tab-btn" data-tab="identity"     role="tab">Identity</button>
+        <button class="tab-btn" data-tab="metaphysical" role="tab">Metaphysical</button>
+        <button class="tab-btn" data-tab="healing"      role="tab">Healing</button>
+        <button class="tab-btn" data-tab="cultural"     role="tab">Cultural</button>
+        <button class="tab-btn" data-tab="practical"    role="tab">Practical</button>
+        <button class="tab-btn" data-tab="synergies"    role="tab">Synergies</button>
+        <button class="tab-btn" data-tab="care"         role="tab">Care</button>
+      </nav>
+
+      <div id="modal-body" class="modal-body" role="tabpanel"></div>
+    </div>
+  </div>
+
+  <script src="data/crystals.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
