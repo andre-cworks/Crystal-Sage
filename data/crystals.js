@@ -989,5 +989,203 @@ window.CRYSTALS = [
     planet_filter: 'Moon',
     zodiac_filter: ['Taurus', 'Cancer', 'Aquarius', 'Pisces'],
     energy_type_filter: 'Calming'
+  },
+
+  {
+    id: 'carnelian',
+    name: 'Carnelian',
+    emoji: '🔶',
+    color: '#e07b39',
+    alt_names: ['Stone of Motivation', 'Singers Stone', 'Blood of Isis'],
+    mineral_family: 'Quartz (Chalcedony)',
+    chemical_formula: 'SiO₂',
+    crystal_system: 'Trigonal / Hexagonal',
+    mohs_hardness: 7,
+    luster: 'Waxy to vitreous',
+    transparency: 'Translucent to opaque',
+    color_range: 'Pale orange to deep red-orange, sometimes brownish-red',
+    origins: ['India', 'Brazil', 'Uruguay', 'Madagascar', 'United States', 'Egypt'],
+    rarity: 'Common',
+    ethical_sourcing: 'Widely available from India and Brazil with relatively transparent supply chains. Avoid bright uniform red specimens that may be heat-treated agate rather than natural carnelian. Indian carnelian from the Cambay region has been traded ethically for thousands of years.',
+    simulant_warnings: 'Heat-treated orange agate is commonly sold as carnelian. Natural carnelian shows a cloudy, swirling internal pattern when held to light; dyed agate often reveals sharp banding. True carnelian has a warm, slightly mottled translucency rather than flat uniform color.',
+
+    short_intention: 'Ignite courage, creativity, and unstoppable forward motion',
+    intention: 'Courage & Vitality',
+    chakras: ['Sacral', 'Root', 'Solar Plexus'],
+    element: 'Fire',
+    planet: 'Mars',
+    day_of_week: 'Tuesday',
+    zodiac: ['Aries', 'Cancer', 'Leo', 'Scorpio'],
+    numerology: 5,
+    polarity: 'Yang',
+    solfeggio_frequency: '417 Hz',
+    energy_type: 'Activating',
+
+    emotional: [
+      'Dispels apathy, lethargy, and emotional stagnation',
+      'Builds courage to face fears and take bold action',
+      'Restores motivation and enthusiasm after burnout or depression',
+      'Encourages a positive, life-affirming outlook and zest for living'
+    ],
+    mental: [
+      'Sharpens concentration and analytical thinking under pressure',
+      'Counters procrastination and helps break through creative blocks',
+      'Supports decisiveness and confidence in one\'s own judgment',
+      'Stimulates ambition and goal-directed focus'
+    ],
+    spiritual: [
+      'Activates the Sacral chakra, unlocking creative and sexual life-force energy',
+      'Anchors spiritual energy into practical, physical action',
+      'Historically used as a protective talisman against psychic interference',
+      'Strengthens the will and connects the practitioner to their soul\'s purpose'
+    ],
+    physical: [
+      'Traditionally associated with stimulating metabolism and circulation',
+      'Believed to support reproductive health and vitality',
+      'Associated with increasing physical energy, stamina, and appetite for life',
+      'Linked to supporting the lower back, kidneys, and adrenal glands'
+    ],
+
+    vedic_tradition: 'Used in Jyotish as a Mars stone to enhance courage, ambition, and decisive action. Worn to strengthen beneficial Mars placements and counter lethargy. Prescribed for those with weak Mangal (Mars) energy in their birth chart.',
+    tcm_use: 'Corresponds to the Fire and Earth elements. Tonifies Kidney Yang and Spleen Qi — the root of physical vitality and digestive transformation. Used energetically to warm cold conditions and restore depleted life-force.',
+    five_element_theory: 'Primarily Fire element — dynamic, expansive, and life-giving. Secondarily Earth — grounding the fire\'s creative energy into stable, nourishing action.',
+    feng_shui_bagua: 'Fame & Reputation (Li), Career & Life Path (Kan)',
+    feng_shui_placement: 'South sector of a room to activate the Fame gua and amplify visibility. Workspace or creative studio for inspiration and productivity. Not ideal in the bedroom — its activating energy can disrupt sleep.',
+    ancient_lore: 'Ancient Egyptians called carnelian "the blood of Isis" and placed it in tombs to protect and guide the deceased. Napoleon Bonaparte wore a large carnelian seal engraved with his victories and never removed it. Ancient Sumerians used carnelian in their earliest cylinder seals. Roman soldiers wore carnelian rings engraved with the god Mars for courage in battle.',
+    indigenous_traditions: 'Carnelian beads dating back over 4,000 years have been found in Indus Valley archaeological sites, indicating deep ritual and trade significance. In parts of West Africa, carnelian is worn as a protective amulet against the evil eye and as a symbol of high social status.',
+
+    meditation_guidance: 'Hold carnelian at the Sacral chakra (just below the navel) or Solar Plexus while lying down. Breathe in a warm, fiery orange light with each inhale — feeling it build energy and ignite passion and clarity of purpose. Ideal for practices focused on manifestation, creative visioning, or breaking through fear. Use before important presentations or creative projects.',
+    body_placement: 'Lower abdomen for Sacral chakra activation and creative energy; Solar Plexus for confidence and willpower. Worn as a bracelet on the dominant hand to project energy outward. Belt or pocket placement to fuel physical vitality throughout the day.',
+    space_placement: 'Creative workspace or studio to fuel inspiration and sustained effort. Near the front door or in the south sector for fame and active energy. Pairs well with citrine in a manifestation grid on a work desk.',
+    elixir_safety: 'Safe',
+    elixir_notes: 'Carnelian is chalcedony (SiO₂) and contains no toxic minerals. Safe for direct crystal elixirs. Prefer indirect moonlight or sunrise infusion methods to preserve color vibrancy over time.',
+    jewelry_recommendations: 'Excellent for rings, pendants, and bracelets. Mohs 7 hardness makes it suitable for daily wear. The warm orange-red color pairs beautifully with gold settings. Clean with mild soap and warm water; avoid harsh ultrasonic cleaners.',
+
+    safe_cleansing: ['Running water (brief)', 'Sunlight (short duration)', 'Smudging with sage or palo santo', 'Sound bath', 'Selenite plate'],
+    unsafe_cleansing: ['Prolonged soaking (can dull the waxy surface)', 'Harsh chemical cleaners'],
+    charging_methods: ['Sunlight for 30–60 minutes', 'Placing on red jasper or citrine', 'Visualization of fire and orange light', 'Sound frequency 417 Hz'],
+    storage_guidance: 'Durable and suitable for everyday wear. Store away from harder gems that could scratch the surface. The natural color is stable and does not fade with normal use.',
+    cautions: 'No toxicity concerns. Heat-treated carnelian is chemically identical and safe. The iron oxide inclusions responsible for color are stable and inert.',
+    toxicity: 'Non-toxic',
+    fragility: 'Low — Mohs 7, excellent durability for daily wear',
+
+    synergies: [
+      { crystal: 'Citrine', id: 'citrine', rationale: 'Both Solar/Sacral stones that amplify confidence and creative manifestation. Carnelian ignites the fire; citrine transforms it into abundance. A classic pairing for entrepreneurs, artists, and anyone building something new.' },
+      { crystal: 'Clear Quartz', id: 'clear-quartz', rationale: 'Clear quartz amplifies and directs carnelian\'s activating energy with precision. Together they create a powerful focused-action pairing ideal for setting and achieving specific goals.' },
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', rationale: 'Carnelian fires action while black tourmaline grounds and protects the field. Together they keep energetic output strong and shielded — useful when working in demanding or draining environments.' }
+    ],
+    conflicts: [
+      { crystal: 'Amethyst', id: 'amethyst', reason: 'Amethyst calms and stills while carnelian fires and activates. Together they pull in opposite energetic directions — one toward stillness, the other toward motion. Best used separately for their distinct purposes.' }
+    ],
+    grid_role: 'Action anchor in manifestation grids; activating stone in the south or lower quadrant of any crystal layout',
+
+    chakra_filter: ['Sacral', 'Root', 'Solar Plexus'],
+    element_filter: 'Fire',
+    polarity_filter: 'Yang',
+    elixir_filter: 'Safe',
+    rarity_filter: 'Common',
+    intention_filter: ['Courage', 'Creativity', 'Motivation', 'Confidence', 'Vitality'],
+    planet_filter: 'Mars',
+    zodiac_filter: ['Aries', 'Cancer', 'Leo', 'Scorpio'],
+    energy_type_filter: 'Activating'
+  },
+
+  {
+    id: 'moonstone',
+    name: 'Moonstone',
+    emoji: '🌙',
+    color: '#b0bcd4',
+    alt_names: ['Traveler\'s Stone', 'Stone of the Goddess', 'Chandrakanta'],
+    mineral_family: 'Feldspar',
+    chemical_formula: 'KAlSi₃O₈',
+    crystal_system: 'Monoclinic',
+    mohs_hardness: 6,
+    luster: 'Pearly to adularescent',
+    transparency: 'Translucent to semi-transparent',
+    color_range: 'White, cream, peach, grey, and rainbow; all exhibiting adularescence — a floating blue or white inner light',
+    origins: ['Sri Lanka', 'India', 'Myanmar', 'Madagascar', 'United States', 'Australia'],
+    rarity: 'Common',
+    ethical_sourcing: 'Sri Lanka and India are primary sources with established gem-trade infrastructure. Rainbow moonstone from Madagascar and India is widely available. Synthetic glass imitations (opalite) are common in low-price markets — confirm natural origin with vendors.',
+    simulant_warnings: 'Opalite (synthetic glass) is frequently sold as moonstone. True moonstone shows adularescence — a soft, floating inner glow that moves as the stone shifts. Opalite\'s glow is flat and uniform. Natural moonstone has a milky, layered depth; opalite looks like colored glass. Labradorite is sometimes sold as "black moonstone" — it is a distinct mineral.',
+
+    short_intention: 'Attune to your inner rhythms, open to intuition, embrace new beginnings',
+    intention: 'Intuition & New Beginnings',
+    chakras: ['Crown', 'Third Eye', 'Sacral'],
+    element: 'Water',
+    planet: 'Moon',
+    day_of_week: 'Monday',
+    zodiac: ['Cancer', 'Libra', 'Scorpio'],
+    numerology: 2,
+    polarity: 'Yin',
+    solfeggio_frequency: '963 Hz',
+    energy_type: 'Calming',
+
+    emotional: [
+      'Soothes emotional instability and overreaction; brings calm reflection',
+      'Supports women through hormonal cycles, PMS, and emotional transitions',
+      'Encourages empathy, receptivity, and emotional intelligence',
+      'Helps heal emotional patterns rooted in early attachment and the mother wound'
+    ],
+    mental: [
+      'Opens the mind to non-linear, intuitive, and symbolic thinking',
+      'Softens rigid mental patterns and encourages flexibility',
+      'Supports receptive listening rather than reactive analysis',
+      'Enhances dream recall and integration of unconscious insight'
+    ],
+    spiritual: [
+      'Deeply attuned to lunar cycles — most potent at the new and full moon',
+      'Opens the Third Eye and Crown to goddess energy and cyclic wisdom',
+      'Strengthens clairvoyance, prophetic dreaming, and psychic sensitivity',
+      'Used in lunar rituals across many traditions as a sacred moon stone'
+    ],
+    physical: [
+      'Traditionally associated with supporting hormonal balance and menstrual cycles',
+      'Believed to aid fertility, pregnancy, and the journey of new mothers',
+      'Associated with supporting the digestive and lymphatic systems',
+      'Linked to relieving water retention and supporting the body\'s natural fluid rhythms'
+    ],
+
+    vedic_tradition: 'Chandrakanta ("Moon\'s beloved") is revered in Jyotish as the premier Moon stone. Worn to strengthen a weak Chandra in the birth chart, support emotional wellbeing, and enhance the mind. Especially prescribed for those born on a Monday or with Cancer ascendant.',
+    tcm_use: 'Associated with Kidney-Water and the Yin aspect of the body. Nourishes Yin, calms the Heart-Mind (Shen), and supports the cyclical nature of the body\'s energy. Used for Yin deficiency conditions — dryness, restlessness, and emotional volatility.',
+    five_element_theory: 'Water element — flowing, receptive, deep, and connected to the unconscious. Nourishes the Kidneys and harmonizes with the cyclical, tidal nature of all life.',
+    feng_shui_bagua: 'Family & Health (Zhen), Helpful People & Travel (Qian)',
+    feng_shui_placement: 'Bedroom for restful, dream-rich sleep and emotional peace. Windowsill to charge under moonlight. Near water features to amplify their calming resonance. Northwest sector for travel protection and feminine wisdom.',
+    ancient_lore: 'In ancient Rome, moonstone was believed to be formed from solidified moonbeams and prized as a lover\'s gift during the full moon. Hindu mythology holds that moonstone is made of lunar rays and is sacred to Chandra, the Moon god. In ancient Arabia women sewed moonstone into garments as a fertility talisman. The Art Nouveau movement made moonstone famous in European fine jewelry — René Lalique created legendary pieces featuring its luminous glow.',
+    indigenous_traditions: 'In some Native American traditions moonstone is called "the dream stone" and used to access visions during sleep. In parts of South Asia it is given as a wedding gift to bring harmony, fertility, and emotional attunement to a marriage.',
+
+    meditation_guidance: 'Hold moonstone at the Third Eye or place over the heart. Visualize a soft, pearlescent white-blue light filling your body from the crown downward — like moonlight on still water. Breathe slowly and allow thoughts to float past without attachment. Ideal for new moon intention-setting ceremonies, dream journaling practices, and meditations focused on emotional insight. Most powerful when performed by moonlight.',
+    body_placement: 'Third Eye for psychic opening. Over the heart for emotional healing. Lower abdomen for fertility and hormonal attunement. Worn as a pendant near the heart or as a ring on the receptive (non-dominant) hand.',
+    space_placement: 'Bedroom nightstand for dream enhancement and emotional calm. Windowsill to charge under the moon. Near water in the home to amplify receptive, flowing energy. On a moon altar alongside selenite and labradorite.',
+    elixir_safety: 'Safe',
+    elixir_notes: 'Moonstone is a feldspar mineral with no toxic components. Safe for direct elixirs. Prefer the indirect method or moonlight-charged water for maximum energetic potency and to preserve the stone\'s delicate surface over time.',
+    jewelry_recommendations: 'Beloved in pendants, rings, and earrings. Mohs 6 hardness requires more care than quartz-family stones — avoid hard impacts and rough daily wear. The adularescent glow is best showcased in cabochon cuts. Clean only with mild soap and lukewarm water — avoid ultrasonic cleaners and steamers.',
+
+    safe_cleansing: ['Moonlight overnight (especially full or new moon)', 'Selenite plate or wand', 'Sound bath with a crystal singing bowl', 'Visualization of white lunar light', 'Sage or lavender smoke'],
+    unsafe_cleansing: ['Prolonged sunlight (can cause color fading and surface damage)', 'Saltwater (can pit the surface)', 'Ultrasonic cleaners'],
+    charging_methods: ['Full moon windowsill overnight', 'New moon intention setting with the stone in moonlight', 'Selenite charging plate', 'Visualization of silver lunar energy'],
+    storage_guidance: 'Wrap individually in soft cloth — moonstone scratches at Mohs 6. Keep away from harder stones. Avoid prolonged direct sunlight to preserve the adularescent optical effect. Handle gently, as moonstone can chip at edges.',
+    cautions: 'No toxicity concerns. The potassium, aluminum, and silica composition is stable and non-reactive. Handle with care due to moderate hardness and some brittleness. Not ideal for rings used during manual work.',
+    toxicity: 'Non-toxic',
+    fragility: 'Moderate — Mohs 6; prone to chipping; not suitable for rough daily wear',
+
+    synergies: [
+      { crystal: 'Labradorite', id: 'labradorite', rationale: 'Both are feldspar stones with mystical optical effects. Moonstone opens to lunar intuition and the unconscious; labradorite protects and strengthens psychic perception. Together they form a complete intuitive shield and amplifier.' },
+      { crystal: 'Selenite', id: 'selenite', rationale: 'Both are high-vibration, lunar-associated stones. Selenite continuously cleanses while moonstone receives and amplifies lunar energy — a powerful pairing for moon rituals and dream work.' },
+      { crystal: 'Amethyst', id: 'amethyst', rationale: 'Amethyst deepens the meditative state while moonstone opens channels of intuition and dreaming. Together they create a deeply receptive, psychically attuned field ideal for meditation and divination.' }
+    ],
+    conflicts: [
+      { crystal: 'Citrine', id: 'citrine', reason: 'Citrine\'s solar, yang, action-oriented energy contrasts with moonstone\'s yin, receptive, lunar nature. Together they can feel unbalanced for sensitive practitioners — use separately for their distinct solar and lunar purposes.' }
+    ],
+    grid_role: 'Upper field receiver in lunar and intuition grids; center stone in new moon intention-setting layouts',
+
+    chakra_filter: ['Crown', 'Third Eye', 'Sacral'],
+    element_filter: 'Water',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Safe',
+    rarity_filter: 'Common',
+    intention_filter: ['Intuition', 'New Beginnings', 'Emotional Healing', 'Dream', 'Feminine Energy'],
+    planet_filter: 'Moon',
+    zodiac_filter: ['Cancer', 'Libra', 'Scorpio'],
+    energy_type_filter: 'Calming'
   }
 ];
