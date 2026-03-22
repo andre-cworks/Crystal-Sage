@@ -1385,5 +1385,203 @@ window.CRYSTALS = [
     planet_filter: 'Sun',
     zodiac_filter: ['Capricorn', 'Leo', 'Aries'],
     energy_type_filter: 'Activating'
+  },
+
+  {
+    id: 'fluorite',
+    name: 'Fluorite',
+    emoji: '🔮',
+    color: '#7b68c8',
+    alt_names: ['Genius Stone', 'Stone of Discernment', 'Rainbow Keeper'],
+    mineral_family: 'Halide',
+    chemical_formula: 'CaF₂',
+    crystal_system: 'Isometric / Cubic',
+    mohs_hardness: 4,
+    luster: 'Vitreous',
+    transparency: 'Transparent to translucent',
+    color_range: 'Colorless, purple, green, blue, yellow, pink, and multicolored banding; often zoned with multiple colors in a single specimen',
+    origins: ['China', 'Mexico', 'United States', 'South Africa', 'England', 'Germany'],
+    rarity: 'Common',
+    ethical_sourcing: 'China is the dominant global producer — scrutinize sourcing carefully given variable labor conditions in Chinese mines. Mexican fluorite (particularly from Coahuila) and English Blue John fluorite are well-documented. Seek vendors with transparent supply chains and avoid unlabeled bulk lots.',
+    simulant_warnings: 'Fluorite is often mistaken for amethyst (purple), aquamarine (blue), or jade (green). Its defining characteristic is its perfect octahedral cleavage — it breaks into perfect triangular fragments. At Mohs 4 it is easily scratched by a coin, unlike quartz. Synthetic glass may imitate its colors but lacks internal color zoning.',
+
+    short_intention: 'Clear mental fog, sharpen focus, and bring order to chaos',
+    intention: 'Mental Clarity & Focus',
+    chakras: ['Third Eye', 'Crown', 'Heart'],
+    element: 'Air',
+    planet: 'Mercury',
+    day_of_week: 'Wednesday',
+    zodiac: ['Capricorn', 'Aquarius', 'Pisces'],
+    numerology: 7,
+    polarity: 'Yin',
+    solfeggio_frequency: '852 Hz',
+    energy_type: 'Clarifying',
+
+    emotional: [
+      'Dissolves confusion and emotional chaos, bringing calm objectivity',
+      'Helps identify and release fixed emotional patterns and outdated beliefs',
+      'Reduces anxiety caused by overwhelm or information overload',
+      'Supports emotional honesty — seeing situations clearly without distortion'
+    ],
+    mental: [
+      'The foremost stone for mental clarity, focus, and organized thinking',
+      'Absorbs and neutralizes mental clutter, distraction, and scattered energy',
+      'Excellent for students, analysts, writers, and anyone requiring sustained concentration',
+      'Supports learning, retention of complex information, and rapid integration of new ideas'
+    ],
+    spiritual: [
+      'Heightens intuitive discernment — the ability to distinguish true guidance from mental noise',
+      'Opens the Third Eye to structured, clear psychic perception rather than chaotic impressions',
+      'Cleanses and stabilizes the auric field, making it coherent and organized',
+      'Used in spiritual study and esoteric learning to sharpen the mind for mystical understanding'
+    ],
+    physical: [
+      'Traditionally associated with supporting bone density, teeth, and the skeletal system',
+      'Believed to support the brain and nervous system, especially in conditions of mental fatigue',
+      'Associated with relieving joint pain, particularly arthritis and stiffness',
+      'Linked to supporting the immune system and reducing viral and bacterial susceptibility'
+    ],
+
+    vedic_tradition: 'Associated with Mercury (Budha) in Jyotish — the planet of intellect, communication, and discrimination. Used to strengthen Mercury placements and enhance analytical ability, learning, and clear expression. Worn by scholars, merchants, and those in communicative professions.',
+    tcm_use: 'Corresponds to the Lung and Large Intestine meridians — the Metal element\'s capacity to take in the pure and release the impure. Used energetically to clear mental and energetic congestion, support clarity of thought, and promote the letting go of what no longer serves.',
+    five_element_theory: 'Metal element — precise, clear, discerning, and ordered. Strengthens the capacity to cut through confusion and find the essential. Harmonizes with autumn energy: releasing the unnecessary to reveal what is true and lasting.',
+    feng_shui_bagua: 'Knowledge & Self-Cultivation (Gen), Helpful People (Qian)',
+    feng_shui_placement: 'Study, home office, or classroom for mental clarity and academic achievement. Northeast corner to activate the Knowledge gua. On or near a desk to absorb electromagnetic stress from computers. Purple fluorite in the wealth corner to attract abundance through clarity of action.',
+    ancient_lore: 'The Romans called it "fluorspar" and carved it into elaborate drinking vessels believed to prevent intoxication — much as they did with amethyst. The word "fluorescence" derives from fluorite, which was the first mineral observed to exhibit this optical effect (glowing under ultraviolet light). Medieval alchemists prized fluorite as a gateway to the philosopher\'s stone, believing its perfect cubic crystals held the secret of universal order. English Blue John fluorite from Derbyshire has been mined since Roman times and used in fine ornamental objects.',
+    indigenous_traditions: 'In some Native American traditions, fluorite is considered a "dream crystal" that clarifies and orders visions received during ceremony. Chinese traditions associate fluorite with mental protection and use it to guard against psychic interference and confused thinking.',
+
+    meditation_guidance: 'Hold fluorite at the Third Eye or place it on the forehead while lying down. Visualize a cool, crystalline light — purple or green — sweeping through the mind like a tide, carrying away mental clutter, worry, and noise. Allow the mind to settle into a state of ordered stillness. Ideal before study sessions, important decisions, or any practice requiring acute discernment. Color variations offer different emphases: purple for spiritual clarity, green for heart-centered focus, clear for pure mental organization.',
+    body_placement: 'Forehead at the Third Eye for mental clarity and psychic discernment. Temples for headache relief and mental fatigue. Over the heart for emotional clarity. On the desk beside a computer to absorb electromagnetic and mental stress throughout the workday.',
+    space_placement: 'Study or home office as the primary clarity stone. Near computers and devices for EMF absorption. Bookshelf or learning space to create an atmosphere of focused intellectual engagement. A fluorite cluster on the desk is one of the most practical and effective crystal tools for knowledge workers.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Fluorite (CaF₂) contains fluorine, which can leach fluoride ions into water. While small amounts of fluoride are normal in drinking water, uncontrolled leaching from direct elixirs is not recommended. Use the indirect method only if an elixir is desired.',
+    jewelry_recommendations: 'Beautiful in pendants and earrings but requires care — Mohs 4 means it scratches easily and is not suitable for daily-wear rings. The perfect cleavage means it can split with a sharp impact. Fluorite\'s color variety makes it a striking statement piece. Store carefully wrapped; clean only with a dry or very slightly damp soft cloth.',
+
+    safe_cleansing: ['Moonlight overnight', 'Sound bath with singing bowl', 'Selenite plate', 'Sage or palo santo smoke', 'Visualization of clear white light'],
+    unsafe_cleansing: ['Water (can damage the surface and affect color over time)', 'Salt (abrasive and can cause pitting)', 'Sunlight (causes color fading in most varieties)', 'Ultrasonic cleaners'],
+    charging_methods: ['Moonlight overnight', 'Clear quartz cluster', 'Selenite plate', 'Visualization of mercury-silver light', 'Sound frequency 852 Hz'],
+    storage_guidance: 'Handle with great care — Mohs 4 scratches from keys, coins, and most other stones. Store individually wrapped in soft cloth. Keep away from direct sunlight to prevent color fading. The perfect cleavage means a hard drop can split the stone along flat planes.',
+    cautions: 'Not suitable for elixirs. Otherwise safe to handle. Avoid rough handling due to low hardness and perfect cleavage. Wash hands after extended handling of raw specimens as a precaution.',
+    toxicity: 'Safe to handle; avoid elixirs due to fluorine content',
+    fragility: 'High — Mohs 4; scratches easily and cleaves perfectly; handle with care',
+
+    synergies: [
+      { crystal: 'Clear Quartz', id: 'clear-quartz', rationale: 'Clear quartz amplifies fluorite\'s clarifying and organizing energy, extending its field of mental clarity across a larger space. Together they create a powerful study or work environment that is both focused and energetically clear.' },
+      { crystal: 'Amethyst', id: 'amethyst', rationale: 'Amethyst deepens intuitive wisdom while fluorite organizes it into clear, actionable understanding. Together they combine higher perception with practical discernment — the ideal pairing for spiritual study and esoteric learning.' },
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', rationale: 'Fluorite clarifies and organizes the mental field while black tourmaline seals it against outside interference. Together they create a protected, clear-headed workspace — excellent for sensitive people in busy or chaotic environments.' }
+    ],
+    conflicts: [
+      { crystal: 'Moldavite', id: 'moldavite', reason: 'Moldavite\'s intense, rapid transformative energy can overwhelm fluorite\'s organizing and stabilizing function. Fluorite works best with slow, systematic clarity; Moldavite blasts through all structure. Use separately unless you are a very experienced practitioner.' }
+    ],
+    grid_role: 'Mental clarity anchor in study and learning grids; auric cleanser at the four corners of a workspace layout',
+
+    chakra_filter: ['Third Eye', 'Crown', 'Heart'],
+    element_filter: 'Air',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Common',
+    intention_filter: ['Clarity', 'Focus', 'Learning', 'Protection', 'Spiritual'],
+    planet_filter: 'Mercury',
+    zodiac_filter: ['Capricorn', 'Aquarius', 'Pisces'],
+    energy_type_filter: 'Clarifying'
+  },
+
+  {
+    id: 'pyrite',
+    name: 'Pyrite',
+    emoji: '✨',
+    color: '#c9a84c',
+    alt_names: ["Fool's Gold", 'Stone of Action', 'Healer\'s Gold'],
+    mineral_family: 'Iron Sulfide',
+    chemical_formula: 'FeS₂',
+    crystal_system: 'Isometric / Cubic',
+    mohs_hardness: 6,
+    luster: 'Metallic, bright golden',
+    transparency: 'Opaque',
+    color_range: 'Brassy to pale gold, sometimes with a slight greenish or bronze tint; natural cubic or pentagonal dodecahedron crystal faces',
+    origins: ['Spain', 'Peru', 'Italy', 'United States', 'Russia', 'South Africa'],
+    rarity: 'Common',
+    ethical_sourcing: 'Spanish pyrite (especially from Navajún, La Rioja) produces some of the world\'s finest perfect cubic crystals and is well-documented. Peruvian pyrite clusters are also widely available. Avoid specimens with no origin information — pyrite is very common but provenance still matters for ethical practice.',
+    simulant_warnings: 'Pyrite is nicknamed "Fool\'s Gold" for a reason — it closely resembles gold to the untrained eye. Unlike gold, pyrite is brittle (shatters rather than bending), has a greenish-black streak (gold has a yellow streak), and is much harder. Chalcopyrite is sometimes sold as pyrite — it has a more brassy, iridescent surface compared to pyrite\'s consistent bright gold.',
+
+    short_intention: 'Attract abundance, forge unbreakable willpower, and take bold action',
+    intention: 'Abundance & Manifestation',
+    chakras: ['Solar Plexus'],
+    element: 'Fire',
+    planet: 'Mars',
+    day_of_week: 'Tuesday',
+    zodiac: ['Leo', 'Aries', 'Scorpio'],
+    numerology: 3,
+    polarity: 'Yang',
+    solfeggio_frequency: '528 Hz',
+    energy_type: 'Activating',
+
+    emotional: [
+      'Dissolves feelings of inadequacy, poverty consciousness, and victim mentality',
+      'Builds the inner fire of ambition, self-belief, and the will to succeed',
+      'Encourages taking decisive action rather than waiting for permission or perfect conditions',
+      'Supports a confident, abundant emotional baseline — "I am capable and I create my reality"'
+    ],
+    mental: [
+      'Sharpens the mind for business, strategy, and financial planning',
+      'Counters mental blocks around money, success, and one\'s own worthiness',
+      'Enhances memory, logical analysis, and the ability to see patterns and opportunities',
+      'Stimulates the mind\'s creative-practical synthesis — turning ideas into workable plans'
+    ],
+    spiritual: [
+      'Anchors high-vibration intention into the physical plane — bridges vision and reality',
+      'Strengthens the Solar Plexus as the seat of personal power and spiritual will',
+      'Used as a shamanic mirror — pyrite\'s reflective surface was used for scrying by indigenous peoples of the Americas',
+      'Teaches that material abundance and spiritual development are not opposed but complementary'
+    ],
+    physical: [
+      'Traditionally associated with supporting the respiratory system and oxygen intake',
+      'Believed to strengthen physical stamina, vitality, and resistance to illness',
+      'Associated with supporting the digestive system and the processing of nutrients',
+      'Linked to reducing inflammation and supporting the body\'s innate repair processes'
+    ],
+
+    vedic_tradition: 'Associated with Mars (Mangal) and the Sun (Surya) in Jyotish. A stone of ambition, courage, and material accomplishment. Used to strengthen one\'s capacity to take right action (karma yoga) and to build a prosperous life in alignment with dharma.',
+    tcm_use: 'Corresponds to Spleen and Stomach Earth energy. Tonifies Spleen Qi and supports the Yi (intention and focused thought). Its golden metallic quality also resonates with Lung Metal — inspiring courage to breathe fully and act boldly. Used for deficiency conditions marked by lack of willpower or initiative.',
+    five_element_theory: 'Fire and Earth elements — the fire of ambition and the earth of sustained, grounded effort. Combines the spark of action with the endurance needed to see projects through to material completion.',
+    feng_shui_bagua: 'Wealth & Prosperity (Xun), Career & Life Path (Kan)',
+    feng_shui_placement: 'Wealth corner (southeast) of home or office to activate abundance and financial flow. Home office or workspace for productive, successful energy. Near the front door as a guardian and wealth attractor. On a business desk to sharpen financial acuity and attract opportunity.',
+    ancient_lore: 'Pyrite was used as a fire-starting tool in the Paleolithic era — struck against flint to produce sparks (its name derives from the Greek pyr, meaning fire). The Inca of South America polished pyrite into mirrors for use in divination and solar ceremonies. Elizabethan-era Europeans set pyrite in jewelry and called it "marcasite." Spanish conquistadors famously and repeatedly confused Incan pyrite for gold — hence the enduring nickname Fool\'s Gold.',
+    indigenous_traditions: 'The Inca and other Andean peoples used polished pyrite discs as solar mirrors in ceremonies honoring Inti, the Sun god. In some North American traditions, pyrite is called a "medicine shield stone" — its metallic sheen seen as a reflection of the warrior\'s inner light. Aztec priests used pyrite mirrors for divination and communication with ancestors.',
+
+    meditation_guidance: 'Hold pyrite in the dominant hand or place it at the Solar Plexus while lying down. Breathe in a bright, brassy golden light — the color of sunlight striking metal. With each exhale, release doubt, scarcity thinking, or fear of failure. Visualize the abundant life you are building with clarity and certainty. Pyrite works best in active, intention-setting meditations rather than passive, receptive ones. Follow your practice with written goals or concrete action steps to channel its energy.',
+    body_placement: 'Solar Plexus for willpower, abundance, and personal power activation. Held in the dominant hand for an energetic boost before action or negotiations. In a pocket or wallet to reinforce abundance consciousness throughout the day.',
+    space_placement: 'Wealth corner (southeast) of any room for financial activation. Home office desk for sharp business energy. Cash register or point of sale area in a business. Pyrite clusters are particularly powerful — their multiple crystalline faces reflect and amplify energy in all directions.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Pyrite (FeS₂) oxidizes in water, producing iron hydroxides and potentially sulfuric acid. Direct water contact can also damage the stone\'s surface. Never use pyrite in direct crystal elixirs. Keep dry at all times.',
+    jewelry_recommendations: 'Used in jewelry as tumbled stones or in wire-wrapped settings. Mohs 6 but brittle — not ideal for rings subject to impact. Pyrite tarnishes with prolonged moisture exposure; keep dry and store away from humidity. The bright golden-metallic appearance makes it striking in pendants. Clean with a dry soft cloth only — never water.',
+
+    safe_cleansing: ['Dry sage or palo santo smoke', 'Sound bath with singing bowl', 'Selenite plate (brief)', 'Sunlight (very brief — 10–15 minutes)', 'Visualization of golden fire light'],
+    unsafe_cleansing: ['Water in any form (causes oxidation and surface damage)', 'Salt or salt water', 'Prolonged sunlight (can cause discoloration)'],
+    charging_methods: ['Brief morning sunlight', 'Citrine cluster', 'Visualization of solar golden light', 'Sound frequency 528 Hz', 'Placed on a copper plate'],
+    storage_guidance: 'Keep completely dry — moisture causes oxidation and dulls the metallic surface. Store in a dry environment, ideally with a silica gel packet nearby. Keep away from other stones that could chip it. Handle carefully — despite Mohs 6, pyrite is brittle and crystal faces can fracture.',
+    cautions: 'Keep away from water — it oxidizes and the resulting compounds are not suitable for skin contact if the stone degrades. Wash hands after handling raw specimens. Not suitable for elixirs under any circumstances. Polished pyrite is safe for normal handling.',
+    toxicity: 'Safe to handle when intact; oxidized pyrite should not contact skin; avoid elixirs',
+    fragility: 'Moderate — Mohs 6 but brittle; crystal faces fracture easily; keep dry',
+
+    synergies: [
+      { crystal: 'Citrine', id: 'citrine', rationale: 'The ultimate abundance pairing: citrine attracts and amplifies prosperous energy while pyrite grounds it into bold action and material form. Together they are the cornerstone of any manifestation or wealth grid.' },
+      { crystal: 'Clear Quartz', id: 'clear-quartz', rationale: 'Clear quartz amplifies and directs pyrite\'s manifesting field with precision and clarity. Use together to sharpen a specific intention and project it outward with maximum force.' },
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', rationale: 'Pyrite projects ambitious, active energy outward while black tourmaline seals and protects the practitioner\'s field from interference. A powerful pairing for those building something in competitive or challenging environments.' }
+    ],
+    conflicts: [
+      { crystal: 'Selenite', id: 'selenite', reason: 'Selenite\'s delicate, high-frequency spiritual energy and sensitivity to moisture conflict with pyrite\'s dense, earthy, activating nature. Keep them separated — pyrite\'s heaviness can dampen selenite\'s ethereal qualities, and they work at opposite ends of the energetic spectrum.' }
+    ],
+    grid_role: 'Wealth and abundance anchor; Solar Plexus activator in manifestation grids; south or center stone in prosperity layouts',
+
+    chakra_filter: ['Solar Plexus'],
+    element_filter: 'Fire',
+    polarity_filter: 'Yang',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Common',
+    intention_filter: ['Abundance', 'Manifestation', 'Confidence', 'Motivation', 'Willpower'],
+    planet_filter: 'Mars',
+    zodiac_filter: ['Leo', 'Aries', 'Scorpio'],
+    energy_type_filter: 'Activating'
   }
 ];
