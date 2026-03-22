@@ -1781,5 +1781,203 @@ window.CRYSTALS = [
     planet_filter: 'Venus',
     zodiac_filter: ['Aries', 'Leo', 'Libra'],
     energy_type_filter: 'Uplifting'
+  },
+
+  {
+    id: 'smoky-quartz',
+    name: 'Smoky Quartz',
+    emoji: '🤎',
+    color: '#7a6050',
+    alt_names: ['Cairngorm', 'Stone of Power', 'Morion'],
+    mineral_family: 'Quartz',
+    chemical_formula: 'SiO₂',
+    crystal_system: 'Trigonal / Hexagonal',
+    mohs_hardness: 7,
+    luster: 'Vitreous',
+    transparency: 'Transparent to translucent',
+    color_range: 'Pale grey-brown to deep chocolate brown and near-black; always with the characteristic smoky translucency that distinguishes it from opaque stones',
+    origins: ['Brazil', 'Scotland', 'Switzerland', 'Australia', 'Madagascar', 'United States'],
+    rarity: 'Common',
+    ethical_sourcing: 'Brazil is the largest producer with generally established trade channels. Scottish cairngorm smoky quartz from the Cairngorm Mountains has centuries of documented history. Avoid very cheaply priced dark specimens — many are irradiated clear quartz artificially darkened to appear as natural smoky quartz.',
+    simulant_warnings: 'Artificially irradiated clear quartz is widely sold as smoky quartz. Natural smoky quartz has a warm, organic brownish tone with subtle color gradation; artificially darkened quartz tends to be uniformly very dark grey or black and may be sold as "morion." Natural smoky quartz is never completely opaque — it always retains some translucency when held to light.',
+
+    short_intention: 'Release what no longer serves, transmute negativity, and walk forward lighter',
+    intention: 'Release & Transmutation',
+    chakras: ['Root', 'Solar Plexus'],
+    element: 'Earth',
+    planet: 'Saturn',
+    day_of_week: 'Saturday',
+    zodiac: ['Capricorn', 'Sagittarius', 'Scorpio'],
+    numerology: 2,
+    polarity: 'Yin',
+    solfeggio_frequency: '396 Hz',
+    energy_type: 'Grounding',
+
+    emotional: [
+      'Gently dissolves fear, depression, and emotional heaviness without forcing confrontation',
+      'Supports the gradual, dignified release of grief, anger, and old resentments',
+      'Transforms negative emotional patterns by grounding their energy into the earth',
+      'Brings calm acceptance and equanimity in the face of difficulty and change'
+    ],
+    mental: [
+      'Clears mental fog caused by stress, overwhelm, or accumulated psychic debris',
+      'Neutralizes negative thought patterns and the tendency toward pessimism',
+      'Supports practical, realistic thinking grounded in what is actually possible',
+      'Helps process and integrate difficult experiences rather than suppressing them'
+    ],
+    spiritual: [
+      'The great transmuter — absorbs dense, heavy energy and returns it to the earth to be recycled',
+      'Teaches the spiritual lesson of non-attachment: releasing what is complete with grace',
+      'Grounds high-frequency spiritual energy safely into the physical body',
+      'Protective against psychic negativity without creating the heaviness of purely defensive stones'
+    ],
+    physical: [
+      'Traditionally associated with supporting the adrenal glands and stress response',
+      'Believed to support the elimination organs — kidneys, liver, and colon',
+      'Associated with relieving chronic pain, cramps, and tension held in the lower body',
+      'Linked to supporting recovery from illness, addiction, and periods of depletion'
+    ],
+
+    vedic_tradition: 'Associated with Saturn (Shani) in Jyotish — the planet of karma, discipline, and the release of what no longer serves dharmic growth. Worn to ease difficult Saturn transits, support karmic clearing, and strengthen the endurance required for long-term spiritual practice.',
+    tcm_use: 'Corresponds to Kidney and Large Intestine energy. Supports the Kidney\'s function of storing essence and the Large Intestine\'s function of releasing what is no longer needed. Used for conditions of accumulation — held grief, stagnant energy, and the inability to let go.',
+    five_element_theory: 'Earth and Water elements — the stability of earth combined with the releasing, downward-flowing nature of water. Embodies the autumnal, composting energy of transformation: what falls away becomes nourishment for what grows next.',
+    feng_shui_bagua: 'Career & Life Path (Kan), Knowledge & Self-Cultivation (Gen)',
+    feng_shui_placement: 'Near doorways and windows to absorb negativity entering the home. In the north sector for career clarity and the release of obstacles. Meditation room or altar as a clearing and grounding stone. Under the bed (at the feet) to release the day\'s accumulated stress during sleep.',
+    ancient_lore: 'In ancient Scotland, smoky quartz (called cairngorm after the Cairngorm Mountains) was the national gemstone — worn in Highland dress, set in the handles of daggers (sgian-dubh), and used as a protective talisman. The Druids of Celtic Britain used smoky quartz in their most powerful protective and divination rituals. Ancient Romans carved smoky quartz into intaglio seals and amulets. In ancient Egypt, dark quartz was associated with the god Set and used in rites of transformation and protection.',
+    indigenous_traditions: 'In some Native American traditions, smoky quartz is considered a sacred stone for releasing grief and anchoring the spirit during times of loss and transition. In Swiss and Alpine traditions, large natural smoky quartz crystals from the Alps were believed to be sacred objects of power and were kept as heirlooms passed down through generations.',
+
+    meditation_guidance: 'Hold smoky quartz in both hands or place at the base of the spine while lying down. With each exhale, consciously release something — a worry, a fear, a resentment, a memory that no longer serves. Visualize it flowing down through the stone, through the floor, deep into the earth where it dissolves and is transformed into neutral energy. This stone works best with conscious intention: name what you are releasing. Ideal for end-of-day clearing practices, grief processing, and any time accumulated heaviness needs a safe path out.',
+    body_placement: 'Base of spine or between the feet for grounding and release. In both hands for bilateral clearing during meditation. Solar Plexus for releasing fear and restoring personal power. Worn as a pendant for continuous gentle transmutation of absorbed stress throughout the day.',
+    space_placement: 'Near the front door to absorb negativity before it enters the home. In corners of rooms that feel heavy or stagnant. Beside electronic devices for EMF grounding. In the workspace to continuously clear accumulated mental and emotional static. Pairs powerfully with selenite — selenite elevates as smoky quartz clears.',
+    elixir_safety: 'Safe',
+    elixir_notes: 'Smoky quartz is pure SiO₂ — the smoky color comes from natural irradiation of aluminum impurities within the crystal lattice, not from any toxic mineral additions. Safe for direct crystal elixirs. Moonlight or earth-charged water infusion is recommended to honor the stone\'s grounding energy.',
+    jewelry_recommendations: 'Excellent for all jewelry types. Mohs 7 makes it suitable for daily wear in rings, pendants, and earrings. The warm brown tones pair beautifully with gold and copper settings. Avoid prolonged direct sunlight — like amethyst, the color can fade over time. Clean with mild soap and lukewarm water.',
+
+    safe_cleansing: ['Moonlight overnight', 'Buried in dry earth overnight', 'Sound bath with singing bowl', 'Selenite plate', 'Sage or cedar smoke', 'Running water briefly'],
+    unsafe_cleansing: ['Prolonged direct sunlight (causes color fading)', 'Prolonged salt water soaking'],
+    charging_methods: ['Moonlight (especially dark or new moon)', 'Buried in earth for 24 hours', 'Black tourmaline cluster', 'Visualization of deep brown earth energy', 'Sound frequency 396 Hz'],
+    storage_guidance: 'Store away from prolonged direct sunlight to preserve the smoky color. The Mohs 7 hardness makes it durable but keep away from harder stones to prevent surface scratching. Wrap in dark cloth when storing for extended periods.',
+    cautions: 'No toxicity concerns — the color is caused by natural irradiation within the crystal structure, not by toxic inclusions. Safe for all normal handling. Artificially irradiated specimens are also chemically safe.',
+    toxicity: 'Non-toxic',
+    fragility: 'Low — Mohs 7; durable for daily wear; protect from prolonged sunlight',
+
+    synergies: [
+      { crystal: 'Selenite', id: 'selenite', rationale: 'Selenite elevates and purifies the energetic field from above while smoky quartz grounds and transmutes from below. Together they create a complete cleansing circuit — one of the most effective pairings for clearing a space or person of accumulated negativity.' },
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', rationale: 'Black tourmaline creates an active protective shield while smoky quartz transmutes whatever dense energy reaches the practitioner\'s field. Together they offer both prevention and processing — the two pillars of energetic protection.' },
+      { crystal: 'Amethyst', id: 'amethyst', rationale: 'Smoky quartz clears and grounds the lower field while amethyst elevates and clarifies the upper field. Together they create a full-spectrum purification from root to crown — excellent for deep clearing meditations and space cleansing rituals.' }
+    ],
+    conflicts: [
+      { crystal: 'Citrine', id: 'citrine', reason: 'Citrine activates, energizes, and amplifies outward expression while smoky quartz gently dissolves, releases, and draws inward. Together they can create an energetic push-pull that feels restless or unresolved for sensitive practitioners. Use separately for their distinct purposes.' }
+    ],
+    grid_role: 'Transmutation anchor in clearing and release grids; lower-field grounding stone in full-body crystal layouts',
+
+    chakra_filter: ['Root', 'Solar Plexus'],
+    element_filter: 'Earth',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Safe',
+    rarity_filter: 'Common',
+    intention_filter: ['Grounding', 'Release', 'Protection', 'Calm', 'Spiritual'],
+    planet_filter: 'Saturn',
+    zodiac_filter: ['Capricorn', 'Sagittarius', 'Scorpio'],
+    energy_type_filter: 'Grounding'
+  },
+
+  {
+    id: 'moldavite',
+    name: 'Moldavite',
+    emoji: '🌑',
+    color: '#4a7c59',
+    alt_names: ['Stone of Transformation', 'Holy Grail Stone', 'Cosmic Crystal'],
+    mineral_family: 'Tektite (Silica Glass)',
+    chemical_formula: 'SiO₂ (with Al₂O₃, FeO, MgO, CaO)',
+    crystal_system: 'Amorphous (non-crystalline)',
+    mohs_hardness: 5.5,
+    luster: 'Vitreous',
+    transparency: 'Transparent to translucent',
+    color_range: 'Forest green to olive green to mossy brown-green; always with a characteristic wrinkled, sculpted, or pitted surface texture from its formation',
+    origins: ['Czech Republic (Bohemia and Moravia)', 'Scattered as strewn field across Central Europe'],
+    rarity: 'Rare',
+    ethical_sourcing: 'Moldavite forms a single strewn field in the Czech Republic — it exists nowhere else on Earth. All genuine moldavite comes from Czech sources. The supply is finite and diminishing. Ethical sourcing means purchasing from reputable dealers with certificates of authenticity and Czech origin. The market is saturated with fakes — buy only from trusted, established sources with guarantees.',
+    simulant_warnings: 'Fake moldavite is one of the most widespread problems in the crystal market — estimated that over 50% of moldavite sold online is fake. Common fakes include green glass (lacks the natural wrinkled surface texture), green obsidian, and dyed glass. Genuine moldavite always has: a deeply textured, sculpted surface; natural inclusions and flow marks visible under magnification; a warm, forest-green color with some variation; and a certificate of Czech origin from a reputable dealer. If the price seems too low, it is almost certainly fake.',
+
+    short_intention: 'Accelerate transformation, break through limits, and align with your highest path',
+    intention: 'Transformation & Ascension',
+    chakras: ['Heart', 'Third Eye', 'Crown'],
+    element: 'Storm',
+    planet: 'Uranus',
+    day_of_week: 'Wednesday',
+    zodiac: ['Scorpio', 'Sagittarius', 'Aquarius'],
+    numerology: 6,
+    polarity: 'Yang',
+    solfeggio_frequency: '963 Hz',
+    energy_type: 'Transformative',
+
+    emotional: [
+      'Catalyzes rapid emotional transformation — surfaces buried wounds for accelerated healing',
+      'Breaks through emotional stagnation and long-held patterns that resist gentler approaches',
+      'Can trigger an intense release process — not always comfortable, but always purposeful',
+      'Ultimately moves the practitioner toward emotional authenticity and freedom from the past'
+    ],
+    mental: [
+      'Shatters outdated mental frameworks and belief systems that no longer serve growth',
+      'Opens the mind to entirely new paradigms, possibilities, and ways of understanding reality',
+      'Accelerates spiritual and intellectual evolution — often dramatically',
+      'Not recommended for those seeking stability — moldavite seeks change and will find it'
+    ],
+    spiritual: [
+      'Formed from a meteorite impact 15 million years ago — carries cosmic, extra-terrestrial energy',
+      'The most powerful transformation stone known; accelerates spiritual evolution more rapidly than any other',
+      'Opens communication with higher dimensions, guides, and cosmic intelligence',
+      'Associated with the legend of the Holy Grail — some traditions hold the Grail was carved from a moldavite stone that fell from the heavens'
+    ],
+    physical: [
+      'Often causes immediate physical sensations: warmth, tingling, or heat in the hand — known as the "moldavite flush"',
+      'Traditionally associated with supporting the eyes and enhancing subtle perception',
+      'Believed to accelerate the body\'s healing processes, though the intensity requires careful titration',
+      'Not recommended for those with fragile health — its transformative energy is highly activating'
+    ],
+
+    vedic_tradition: 'Has no traditional Vedic correspondence due to its extra-terrestrial origin and recent rise in the Western crystal tradition. In contemporary Jyotish-influenced practice, it is sometimes associated with Rahu (the North Node) — the planet of sudden change, karmic acceleration, and unconventional paths.',
+    tcm_use: 'Has no traditional TCM correspondence. In contemporary energetic practice, its intense transformative quality is likened to a powerful Constitutional treatment — addressing root patterns rather than surface symptoms. Not for daily use; reserved for intentional, carefully held transformation work.',
+    five_element_theory: 'Beyond the traditional five elements — its extra-terrestrial origin places it in the sixth element recognized in some traditions: Ether or Storm. The element of the heavens, cosmic order, and the transformative lightning bolt that reorganizes all that exists below.',
+    feng_shui_bagua: 'Not traditionally used in feng shui due to its intensity. When used intentionally: Helpful People & Travel (Qian) for cosmic connection, or the center of the bagua (Tai Chi) for total life transformation.',
+    feng_shui_placement: 'Use with extreme intentionality — moldavite placed in a space will accelerate change in all areas of life governed by that area. Not for passive display. Best kept on a personal altar or in a dedicated sacred space where it is worked with consciously rather than left to broadcast freely.',
+    ancient_lore: 'Moldavite was formed approximately 15 million years ago when a large meteorite struck what is now southern Germany, melting the terrestrial rock and meteoritic material together and scattering the resulting glass across Central Europe. Archaeological evidence shows Neolithic peoples in the Czech Republic used moldavite for tools, arrowheads, and amulets as early as 25,000 BCE. The Venus of Willendorf, one of humanity\'s oldest known sacred objects, was found alongside moldavite amulets. Some scholars of esoteric tradition identify moldavite as the original material of the Holy Grail.',
+    indigenous_traditions: 'Neolithic Central European peoples revered moldavite as a sacred sky stone — fallen from the heavens and carrying the power of both cosmic and earthly forces. In Bohemian folk tradition, it was given as a gift to ensure harmony in relationships and to guarantee good fortune in new ventures, particularly marriage.',
+
+    meditation_guidance: 'Begin with brief contact — hold moldavite for only 5–10 minutes in your first sessions. Place it at the Heart chakra or hold it in the receptive (non-dominant) hand. Ground thoroughly before and after using black tourmaline or hematite. Allow whatever arises to arise without resistance. Moldavite does not require directing — it finds what needs to shift. Build duration gradually over weeks. Keep a journal: moldavite often initiates a period of vivid dreams, synchronicities, and life changes that are meaningful to track.',
+    body_placement: 'Heart chakra for the most common and powerful work. Third Eye for expanded perception and spiritual opening. Crown for cosmic connection. Always ground before and after use — hold hematite or black tourmaline after sessions. Begin with short contact periods and build gradually.',
+    space_placement: 'Keep in a dedicated sacred space rather than as general décor. On a personal altar with grounding stones nearby. Avoid placing in common areas of the home unless you welcome significant life change in all areas simultaneously. Store wrapped in natural cloth when not in active use.',
+    elixir_safety: 'Indirect',
+    elixir_notes: 'Moldavite is primarily silica glass with trace metal oxides. While not acutely toxic, the trace iron, aluminum, and other compounds make the indirect method preferable. Use a sealed glass vessel submerged in water rather than direct contact. Moonlight or starlight-charged water is the most aligned method for this cosmic stone.',
+    jewelry_recommendations: 'Worn most powerfully as a pendant near the Heart or Third Eye. Mohs 5.5 — more fragile than quartz and requires protective settings to avoid chipping. Wire wrapping is the most common and appropriate setting for raw pieces, allowing the natural sculpted surface to be appreciated. Clean only with a dry soft cloth. Store with care — moldavite chips and scratches easily.',
+
+    safe_cleansing: ['Moonlight overnight (especially full moon)', 'Selenite plate', 'Sound bath with crystal singing bowl', 'Visualization of emerald-green cosmic light', 'Starlight overnight outdoors'],
+    unsafe_cleansing: ['Salt or salt water (can damage the surface)', 'Prolonged water soaking', 'Ultrasonic cleaners', 'Harsh sunlight'],
+    charging_methods: ['Full moon light outdoors', 'Meteorite or tektite cluster', 'Selenite charging plate', 'Starlight overnight', 'Visualization of cosmic green fire'],
+    storage_guidance: 'Wrap in natural dark cloth — silk or velvet is ideal. Keep away from other stones that will scratch it (Mohs 5.5). Store in a dedicated container on your altar rather than in a general crystal collection. Handle with intention and respect — this is not a passive decorative stone.',
+    cautions: 'Begin slowly — moldavite is intensely activating and can cause dizziness, disorientation, and emotional overwhelm in sensitive practitioners. Always ground before and after use. Not recommended for those in acute emotional crisis, those with a history of psychosis, or those who are not ready for significant life change. Respect its power.',
+    toxicity: 'Non-toxic; indirect elixir method preferred as precaution',
+    fragility: 'Moderate — Mohs 5.5; chips and scratches easily; handle and store with care',
+
+    synergies: [
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', rationale: 'Essential pairing for moldavite work. Moldavite activates intense transformation; black tourmaline grounds and protects the practitioner\'s field throughout the process. Always have black tourmaline nearby when working with moldavite.' },
+      { crystal: 'Amethyst', id: 'amethyst', rationale: 'Amethyst brings spiritual wisdom and calm discernment to moldavite\'s intense transformative process. Together they combine cosmic acceleration with serene integration — powerful for those doing serious spiritual development work.' },
+      { crystal: 'Clear Quartz', id: 'clear-quartz', rationale: 'Clear quartz amplifies and clarifies moldavite\'s transformative signal, helping the practitioner receive its transmissions with greater precision. Use together intentionally in grids designed to accelerate a specific transformation.' }
+    ],
+    conflicts: [
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', reason: 'While tourmaline is recommended as a grounding companion for moldavite sessions, using them as equal partners in the same grid or layout can create conflict — moldavite seeks rapid change while tourmaline seeks stability and conservation. Use tourmaline as a grounding anchor, not as a co-equal energy in the same working.' }
+    ],
+    grid_role: 'Transformation catalyst at the center of any grid designed for major life change or spiritual acceleration; never a passive anchor stone',
+
+    chakra_filter: ['Heart', 'Third Eye', 'Crown'],
+    element_filter: 'Storm',
+    polarity_filter: 'Yang',
+    elixir_filter: 'Indirect',
+    rarity_filter: 'Rare',
+    intention_filter: ['Transformation', 'Spiritual', 'Intuition', 'New Beginnings', 'Manifestation'],
+    planet_filter: 'Uranus',
+    zodiac_filter: ['Scorpio', 'Sagittarius', 'Aquarius'],
+    energy_type_filter: 'Transformative'
   }
 ];
