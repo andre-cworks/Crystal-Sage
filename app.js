@@ -49,7 +49,7 @@ const SYNONYMS = {
   grief:        ['loss', 'sadness', 'mourning', 'heartbreak'],
   anger:        ['rage', 'frustration', 'irritation'],
   meditation:   ['meditate', 'mindfulness', 'stillness', 'presence'],
-  third eye:    ['intuition', 'psychic', 'clairvoyant', 'perception'],
+  'third eye':  ['intuition', 'psychic', 'clairvoyant', 'perception'],
   crown:        ['divine', 'higher self', 'spiritual', 'enlightenment'],
   root:         ['grounding', 'stability', 'safety', 'security']
 };
