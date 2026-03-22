@@ -49,7 +49,7 @@ const SYNONYMS = {
   grief:        ['loss', 'sadness', 'mourning', 'heartbreak'],
   anger:        ['rage', 'frustration', 'irritation'],
   meditation:   ['meditate', 'mindfulness', 'stillness', 'presence'],
-  third eye:    ['intuition', 'psychic', 'clairvoyant', 'perception'],
+  'third eye':  ['intuition', 'psychic', 'clairvoyant', 'perception'],
   crown:        ['divine', 'higher self', 'spiritual', 'enlightenment'],
   root:         ['grounding', 'stability', 'safety', 'security']
 };
@@ -658,6 +658,7 @@ function initStarfield() {
   const canvas = document.getElementById('starfield');
   if (!canvas) return;
   const ctx = canvas.getContext('2d');
+  if (!ctx) return;
 
   const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
@@ -817,7 +818,7 @@ document.addEventListener('DOMContentLoaded', () => {
   window.CRYSTALS.forEach(c => { c._search = buildSearchBlob(c); });
 
   loadNotes();
-  initStarfield();
+  try { initStarfield(); } catch (e) { console.warn('Starfield unavailable:', e); }
   computeFiltered();
   renderGrid();
   bindEvents();
