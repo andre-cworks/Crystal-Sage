@@ -1583,5 +1583,203 @@ window.CRYSTALS = [
     planet_filter: 'Mars',
     zodiac_filter: ['Leo', 'Aries', 'Scorpio'],
     energy_type_filter: 'Activating'
+  },
+
+  {
+    id: 'hematite',
+    name: 'Hematite',
+    emoji: '⚫',
+    color: '#6c7a89',
+    alt_names: ['Iron Rose', 'Blood Stone of Mars', 'Mirror Stone'],
+    mineral_family: 'Iron Oxide',
+    chemical_formula: 'Fe₂O₃',
+    crystal_system: 'Trigonal / Hexagonal',
+    mohs_hardness: 6,
+    luster: 'Metallic to submetallic (polished); dull to earthy (raw)',
+    transparency: 'Opaque',
+    color_range: 'Silver-grey to black when polished; red-brown to ochre in raw or botryoidal form; always leaves a distinctive red-brown streak',
+    origins: ['Brazil', 'Australia', 'United Kingdom', 'United States', 'China', 'Canada'],
+    rarity: 'Common',
+    ethical_sourcing: 'Hematite is one of the most abundant iron ore minerals on Earth and is widely mined with generally established safety standards. Brazilian and Australian specimens are the most common in the crystal market. Avoid "magnetic hematite," which is almost always a synthetic ceramic — not a natural mineral.',
+    simulant_warnings: 'Magnetic hematite sold widely in markets is a manufactured ceramic bead, not natural hematite. Real hematite is only very weakly magnetic (or not at all). The definitive test: natural hematite always leaves a red-brown streak on unglazed porcelain — no other common grey-black stone does this. Polished hematite has a mirror-bright metallic surface.',
+
+    short_intention: 'Ground into your body, strengthen your resolve, find your anchor',
+    intention: 'Grounding & Strength',
+    chakras: ['Root'],
+    element: 'Earth',
+    planet: 'Mars',
+    day_of_week: 'Tuesday',
+    zodiac: ['Aries', 'Capricorn', 'Scorpio'],
+    numerology: 9,
+    polarity: 'Yang',
+    solfeggio_frequency: '396 Hz',
+    energy_type: 'Grounding',
+
+    emotional: [
+      'Provides a powerful anchor during emotional storms and overwhelm',
+      'Dissolves timidity and builds courageous, grounded self-assertion',
+      'Helps empaths return fully to their own body and energetic center after absorbing others\'s feelings',
+      'Supports emotional resilience and the capacity to face difficult realities without avoidance'
+    ],
+    mental: [
+      'Cuts through mental fog and confusion with iron-like clarity',
+      'Strengthens concentration, logical reasoning, and sequential thinking',
+      'Helps organize scattered thoughts into coherent, practical plans',
+      'Counters anxiety-driven mental spiraling by rooting attention in the present and the physical'
+    ],
+    spiritual: [
+      'The premier grounding stone — keeps the practitioner fully embodied during energy work',
+      'Seals and strengthens the aura against energy leakage and psychic drain',
+      'Teaches the spiritual lesson of embodiment: that the physical world is sacred and worth inhabiting fully',
+      'Used in protective rituals and boundary-setting work across many traditions'
+    ],
+    physical: [
+      'Strongly associated with blood, iron, and the circulatory system — historically used to support anemia',
+      'Believed to strengthen the liver and support the body\'s detoxification processes',
+      'Associated with supporting bone marrow, red blood cell production, and oxygen transport',
+      'Linked to reducing leg cramps, spinal tension, and conditions of physical weakness'
+    ],
+
+    vedic_tradition: 'Strongly associated with Mars (Mangal) in Jyotish. Worn to embody Martian courage, strength, and decisive action. Prescribed for those lacking physical vitality, assertiveness, or the will to act. Used to counter inauspicious Mars transits and strengthen the warrior archetype within the chart.',
+    tcm_use: 'Corresponds to Liver and Kidney energy — the Blood and the Root. Tonifies Liver Blood and Kidney Yang, grounds the Spirit, and anchors Qi in the lower body. Used for conditions of floating energy, dizziness, or weakness in the lower limbs.',
+    five_element_theory: 'Metal and Water elements — the precision of Metal combined with the depth of Water. Draws scattered energy downward and inward, consolidating the body\'s resources and strengthening the will to endure.',
+    feng_shui_bagua: 'Career & Life Path (Kan), Knowledge & Strength (Gen)',
+    feng_shui_placement: 'At the base of stairs or heavy-traffic areas to anchor and ground the home\'s energy. Near the front door for protective boundary energy. On a work desk to maintain focus and physical endurance. Not recommended in the bedroom for sensitive sleepers — its dense, activating energy can interfere with rest.',
+    ancient_lore: 'Ancient Egyptians used hematite in amulets and placed it in tombs to assist the deceased in the journey through the underworld. Greek and Roman soldiers rubbed crushed hematite (which is red in powder form) on their bodies before battle, believing it made them invulnerable — hence its name from the Greek haima, meaning blood. Native Americans used red ochre (powdered hematite) in sacred body painting and burial rites across many nations. The surface of Mars is red due to widespread iron oxide — hematite links Earth to the Red Planet.',
+    indigenous_traditions: 'Across many Native American nations, red ochre (powdered hematite) is a sacred material used in ceremony, body painting, and the honoring of ancestors. In Aboriginal Australian tradition, ochre is the most sacred pigment used in Dreamtime ceremony and is traded across vast distances. In parts of sub-Saharan Africa, hematite is worn as a warrior\'s talisman for protection and strength.',
+
+    meditation_guidance: 'Hold one piece of hematite in each hand, or place a single piece at the base of the spine while lying down. Feel its weight — let that physical heaviness be a guide for your awareness, drawing your attention down from the mind into the body. Breathe slowly and deeply, visualizing roots growing from the base of your spine deep into the earth. Ideal for use before or after high-energy spiritual practices to ensure full grounding and return to the body. Carry in your pocket during stressful days for a continuous anchor.',
+    body_placement: 'Base of spine or between the feet for Root chakra grounding. One in each hand for bilateral energetic grounding during meditation. On the forehead briefly to reduce mental racing. In a pocket or shoe for sustained physical grounding throughout the day.',
+    space_placement: 'Base of doorways as guardian stones. Beneath the bed (at the foot) for grounding during sleep without disrupting rest. At the base of any crystal grid to anchor the energy into physical manifestation. Near electronic devices — its iron content is believed to help deflect EMF.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Hematite is iron oxide and will oxidize (rust) in water, releasing iron compounds and staining the water. Degraded hematite in contact with skin may cause irritation. Never use for direct elixirs. Keep completely dry.',
+    jewelry_recommendations: 'Popular in beaded bracelets, rings, and pendants. Mohs 6 but can be brittle — beaded hematite bracelets break more easily than they appear. The mirror-bright polished surface scratches with hard contact. Magnetic hematite sold in jewelry is artificial. Clean only with a dry soft cloth — keep away from water to prevent rusting.',
+
+    safe_cleansing: ['Dry sage or palo santo smoke', 'Sound bath with singing bowl', 'Selenite plate (brief)', 'Visualization of red-gold earth energy', 'Buried in dry earth overnight'],
+    unsafe_cleansing: ['Water in any form (causes oxidation and rusting)', 'Salt or salt water', 'Prolonged sunlight'],
+    charging_methods: ['Brief morning sunlight (15–30 minutes)', 'Buried in dry earth', 'Black tourmaline cluster', 'Visualization of deep red earth-fire energy', 'Sound frequency 396 Hz'],
+    storage_guidance: 'Keep completely dry — moisture causes rusting. Store individually or with other durable stones. The mirror surface scratches easily; wrap in soft cloth. Magnetic hematite purchased as jewelry will wear and chip faster than natural stone.',
+    cautions: 'Keep dry at all times — oxidized hematite is not suitable for skin contact. Not suitable for elixirs. Wash hands after handling raw specimens. Polished hematite is safe for normal handling and daily wear in dry conditions.',
+    toxicity: 'Safe to handle when dry; avoid elixirs; oxidized surface should not contact skin',
+    fragility: 'Moderate — Mohs 6 but brittle; mirror surface scratches; keep dry',
+
+    synergies: [
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', rationale: 'The two most powerful grounding stones in the mineral kingdom. Black tourmaline transmutes negative energy while hematite anchors and strengthens the physical body. Together they create an unshakeable foundation of protection and presence.' },
+      { crystal: 'Clear Quartz', id: 'clear-quartz', rationale: 'Clear quartz elevates and clarifies while hematite roots and anchors. Together they embody the full energetic spectrum — from earth to sky — keeping the practitioner both grounded and luminously clear.' },
+      { crystal: 'Carnelian', id: 'carnelian', rationale: 'Hematite grounds and strengthens the physical foundation while carnelian ignites courage and drive above it. Together they build the complete warrior combination: rooted power with passionate, directed action.' }
+    ],
+    conflicts: [
+      { crystal: 'Selenite', id: 'selenite', reason: 'Selenite operates at the highest, most ethereal frequencies while hematite is the densest, most earth-bound grounding stone. Their energies work in direct opposition — together they can feel disorienting, pulling consciousness simultaneously upward and downward.' }
+    ],
+    grid_role: 'Foundation anchor in all grids; base stone at the root point of any body layout; earth-direction stone in elemental grids',
+
+    chakra_filter: ['Root'],
+    element_filter: 'Earth',
+    polarity_filter: 'Yang',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Common',
+    intention_filter: ['Grounding', 'Strength', 'Courage', 'Protection', 'Focus'],
+    planet_filter: 'Mars',
+    zodiac_filter: ['Aries', 'Capricorn', 'Scorpio'],
+    energy_type_filter: 'Grounding'
+  },
+
+  {
+    id: 'green-aventurine',
+    name: 'Green Aventurine',
+    emoji: '🍀',
+    color: '#4caf6f',
+    alt_names: ['Stone of Opportunity', 'Gambler\'s Stone', 'Whisper of Spring'],
+    mineral_family: 'Quartz (Aventurine)',
+    chemical_formula: 'SiO₂ with fuchsite inclusions',
+    crystal_system: 'Trigonal / Hexagonal',
+    mohs_hardness: 7,
+    luster: 'Vitreous with aventurescence (glittery internal sparkle)',
+    transparency: 'Translucent to opaque',
+    color_range: 'Pale mint to deep forest green, with a distinctive metallic sparkle (aventurescence) caused by fuchsite mica inclusions',
+    origins: ['India', 'Brazil', 'Russia', 'Tanzania', 'Austria', 'Chile'],
+    rarity: 'Common',
+    ethical_sourcing: 'India is the world\'s largest producer — the Mysore region of Karnataka produces the finest specimens. Indian aventurine is generally well-traded. Brazilian specimens are also common. Ask vendors for country of origin and avoid unlabeled bulk lots.',
+    simulant_warnings: 'Green aventurine is sometimes confused with jade (nephrite or jadeite) or green quartz. The distinguishing feature is its aventurescence — the internal metallic sparkle of fuchsite inclusions. Jade has no such sparkle. Dyed quartz or green glass may imitate the color but lack the characteristic sparkle. Aventurine is also softer than jadeite (Mohs 7 vs 6.5–7).',
+
+    short_intention: 'Open to opportunity, invite good fortune, and lead with the heart',
+    intention: 'Luck & Opportunity',
+    chakras: ['Heart'],
+    element: 'Earth',
+    planet: 'Venus',
+    day_of_week: 'Friday',
+    zodiac: ['Aries', 'Leo', 'Libra'],
+    numerology: 3,
+    polarity: 'Yang',
+    solfeggio_frequency: '639 Hz',
+    energy_type: 'Uplifting',
+
+    emotional: [
+      'Instills a genuine sense of optimism and openness to what life can offer',
+      'Dissolves the emotional blocks that prevent us from seizing opportunity',
+      'Supports emotional recovery after disappointment, rejection, or loss of hope',
+      'Encourages a light-hearted, curious engagement with life\'s possibilities'
+    ],
+    mental: [
+      'Opens the mind to creative solutions and unexpected opportunities',
+      'Counters negative self-talk that frames life as inherently limited or unfair',
+      'Supports decisive, positive action rather than overthinking and hesitation',
+      'Enhances leadership qualities — clear vision, calm confidence, and natural magnetism'
+    ],
+    spiritual: [
+      'Aligns the Heart chakra with the frequency of abundance and divine generosity',
+      'Teaches that true luck is the resonance between an open heart and universal flow',
+      'Used in prosperity rituals, luck-drawing ceremonies, and new ventures across many traditions',
+      'Strengthens the connection between heartfelt intention and material manifestation'
+    ],
+    physical: [
+      'Traditionally associated with supporting the heart and cardiovascular health',
+      'Believed to support the adrenal glands and the body\'s response to stress',
+      'Associated with supporting the lungs, sinuses, and connective tissue',
+      'Linked to supporting nervous system balance and overall physical vitality'
+    ],
+
+    vedic_tradition: 'Associated with Venus (Shukra) and Mercury (Budha) in Jyotish. Used to attract good fortune, support new ventures, and strengthen the capacity for heart-led leadership and inspired action. Worn during important new beginnings — business launches, travel, examinations.',
+    tcm_use: 'Corresponds to Liver and Heart energy — the free-flowing of Qi (Liver) and the joyful circulation of Spirit (Heart). Used energetically to smooth Liver Qi stagnation: the pattern of frustrated plans, irritability, and blocked opportunity. Encourages the smooth, free movement of energy and life circumstances.',
+    five_element_theory: 'Wood element — the energy of spring, growth, new beginnings, and upward expansion. Like a shoot pushing through soil, aventurine embodies the unstoppable vitality of life seeking its fullest expression.',
+    feng_shui_bagua: 'Wealth & Prosperity (Xun), Family & New Beginnings (Zhen)',
+    feng_shui_placement: 'Wealth corner (southeast) for attracting abundance and opportunity. Near the front door to welcome fortunate energy into the home. On a desk or table where important decisions are made. In the east sector (Family & New Beginnings) to support fresh starts. Gaming tables or wherever chance and fortune are in play.',
+    ancient_lore: 'The name "aventurine" derives from the Italian a ventura, meaning "by chance" — a reference to the accidental discovery of aventurine glass (goldstone) in 18th-century Venice when copper filings fell into molten glass, creating a sparkling effect. The stone was named after the glass, not the other way around. In ancient Tibet, aventurine was used to improve nearsightedness and symbolized visionary sight. Ancient Chinese craftspeople carved aventurine into figures and amulets representing good fortune and long life.',
+    indigenous_traditions: 'In some Native American traditions green stones are associated with the heart of the Earth and with healing, growth, and the generosity of the natural world. Green aventurine has been adopted widely in contemporary indigenous-influenced medicine wheel practices as a stone of the East — new beginnings, the rising sun, and the spirit of spring.',
+
+    meditation_guidance: 'Hold green aventurine over the heart or place it there while lying down. Breathe slowly and deeply, feeling a fresh, sparkling green light expanding from the heart outward with each exhale. Imagine doors opening — to opportunity, to abundance, to connection. Set a clear intention for what you are welcoming into your life. This stone works well in gratitude meditations and in practices designed to shift from a scarcity mindset to one of genuine abundance and openness. Use before new ventures, job interviews, or any moment that calls for fresh courage.',
+    body_placement: 'Over the heart for emotional opening and opportunity alignment. In the left (receptive) hand to draw opportunity toward you. In a pocket or purse throughout the day as a luck talisman. Worn as a pendant near the heart for sustained optimism and heart-centered leadership.',
+    space_placement: 'Wealth corner (southeast) of home or office for prosperity. Near the front entrance to attract fortunate energy. On an altar for new beginnings and intentions. In a garden or near plants — aventurine resonates with the growing, renewing energy of the natural world.',
+    elixir_safety: 'Safe',
+    elixir_notes: 'Green aventurine is quartz (SiO₂) with fuchsite mica inclusions. The fuchsite (chrome-muscovite) is present in small, stable amounts and is not considered a health risk at these concentrations. Safe for direct elixirs. Prefer moonlight or sunrise-charged water for maximum energetic effect.',
+    jewelry_recommendations: 'Excellent for rings, pendants, bracelets, and earrings. Mohs 7 makes it suitable for daily wear. The aventurescent sparkle catches light beautifully in cabochon cuts. The green tones work well with both gold and silver settings. Clean with mild soap and lukewarm water; avoid ultrasonic cleaners.',
+
+    safe_cleansing: ['Running water (brief)', 'Moonlight overnight', 'Sunlight (short duration)', 'Sound bath', 'Selenite plate', 'Sage or palo santo smoke'],
+    unsafe_cleansing: ['Prolonged water soaking', 'Harsh chemical cleaners'],
+    charging_methods: ['Morning sunlight for 30–60 minutes', 'Full moon light', 'Rose quartz or citrine cluster', 'Visualization of vibrant green spring light', 'Sound frequency 639 Hz'],
+    storage_guidance: 'Durable and suitable for everyday wear and handling. Store away from harder stones that could scratch the surface. The color is stable and does not fade with normal use. Clean periodically with a soft cloth.',
+    cautions: 'No meaningful toxicity concerns for polished specimens. The fuchsite inclusions are stable at normal handling. Wash hands after extended handling of raw specimens as general good practice.',
+    toxicity: 'Non-toxic',
+    fragility: 'Low — Mohs 7; durable and suitable for daily wear',
+
+    synergies: [
+      { crystal: 'Citrine', id: 'citrine', rationale: 'Green aventurine opens the door to opportunity from the heart while citrine amplifies abundance and confident expectation from the Solar Plexus. Together they are among the most powerful pairings for attracting prosperity and good fortune.' },
+      { crystal: 'Rose Quartz', id: 'rose-quartz', rationale: 'Both are Heart chakra stones. Rose quartz deepens the capacity to love and be loved; green aventurine opens the heart to the abundance and opportunity that flows from that loving state. A gentle, powerful pairing for heart-centered abundance work.' },
+      { crystal: 'Clear Quartz', id: 'clear-quartz', rationale: 'Clear quartz amplifies aventurine\'s luck-attracting and heart-opening frequency, projecting it further into the practitioner\'s field and environment. An excellent pairing for opportunity grids and new-beginning altars.' }
+    ],
+    conflicts: [
+      { crystal: 'Obsidian', id: 'obsidian', reason: 'Obsidian\'s shadow-revealing, truth-forcing energy can clash with aventurine\'s light, optimistic, forward-moving nature. Obsidian demands confrontation with what is; aventurine focuses on what could be. Use them in different sessions for their distinct and complementary purposes.' }
+    ],
+    grid_role: 'Heart-field activator in prosperity grids; opportunity attractor at the east or upper points of abundance layouts',
+
+    chakra_filter: ['Heart'],
+    element_filter: 'Earth',
+    polarity_filter: 'Yang',
+    elixir_filter: 'Safe',
+    rarity_filter: 'Common',
+    intention_filter: ['Luck', 'Abundance', 'Opportunity', 'Emotional Healing', 'Confidence'],
+    planet_filter: 'Venus',
+    zodiac_filter: ['Aries', 'Leo', 'Libra'],
+    energy_type_filter: 'Uplifting'
   }
 ];
