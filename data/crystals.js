@@ -1187,5 +1187,203 @@ window.CRYSTALS = [
     planet_filter: 'Moon',
     zodiac_filter: ['Cancer', 'Libra', 'Scorpio'],
     energy_type_filter: 'Calming'
+  },
+
+  {
+    id: 'rhodonite',
+    name: 'Rhodonite',
+    emoji: '🌸',
+    color: '#c06080',
+    alt_names: ['Stone of Compassion', 'Rescue Stone', 'Stone of Forgiveness'],
+    mineral_family: 'Pyroxenoid',
+    chemical_formula: 'MnSiO₃',
+    crystal_system: 'Triclinic',
+    mohs_hardness: 6,
+    luster: 'Vitreous to pearly',
+    transparency: 'Translucent to opaque',
+    color_range: 'Rose pink to deep raspberry, always veined or spotted with black manganese oxide inclusions',
+    origins: ['Russia', 'Australia', 'Brazil', 'Peru', 'United States', 'Sweden'],
+    rarity: 'Common',
+    ethical_sourcing: 'Russian rhodonite from the Ural Mountains is among the most historically mined and well-documented. Australian and Brazilian specimens are generally well-sourced. Ask for country of origin and avoid unmarked bulk lots.',
+    simulant_warnings: 'Rhodonite is sometimes confused with rhodochrosite, which is also pink but lacks the characteristic black veining and is softer (Mohs 4). Dyed rose quartz or pink jasper may also be passed off as rhodonite. Genuine rhodonite always shows black manganese oxide veining or patches — this is its most reliable identifier.',
+
+    short_intention: 'Heal the wounded heart, practice forgiveness, reclaim self-worth',
+    intention: 'Emotional Healing & Forgiveness',
+    chakras: ['Heart'],
+    element: 'Earth',
+    planet: 'Venus',
+    day_of_week: 'Friday',
+    zodiac: ['Taurus', 'Scorpio'],
+    numerology: 9,
+    polarity: 'Yin',
+    solfeggio_frequency: '639 Hz',
+    energy_type: 'Healing',
+
+    emotional: [
+      'Heals deep emotional wounds from betrayal, abandonment, and heartbreak',
+      'Supports the practice of forgiveness — of others and of oneself',
+      'Clears away resentment, bitterness, and unprocessed grief',
+      'Rebuilds self-worth and the capacity to give and receive love again'
+    ],
+    mental: [
+      'Brings clarity to emotionally charged situations without detachment',
+      'Helps identify and release co-dependent thought patterns',
+      'Encourages balanced perspective in relationship conflicts',
+      'Supports therapeutic and shadow-work processes by making difficult truths bearable'
+    ],
+    spiritual: [
+      'Activates the Heart chakra from a place of earned wisdom rather than naïve openness',
+      'Bridges earthly love and unconditional, soul-level compassion',
+      'Used in rescue work — carried by first responders and healers to process secondary trauma',
+      'Supports past-life healing related to grief, separation, and unrequited love'
+    ],
+    physical: [
+      'Traditionally associated with supporting recovery from emotional shock or trauma',
+      'Believed to support the circulatory system and heart health',
+      'Associated with bone and joint support, particularly the hands',
+      'Linked to soothing inflammation conditions believed to have emotional root causes'
+    ],
+
+    vedic_tradition: 'Associated with Venus (Shukra) in Jyotish — the planet of love, beauty, and relationship. Used to heal Venus-related wounds: heartbreak, relationship trauma, and loss of self-love. Supports the bhava (house) of relationships and pleasure.',
+    tcm_use: 'Corresponds to the Heart and Pericardium meridians. Tonifies Heart Blood, calms the Spirit (Shen), and is used for conditions of emotional wounding that manifest as Heart deficiency — palpitations, insomnia, and unresolved grief.',
+    five_element_theory: 'Fire element (Heart) tempered by Earth (stability and groundedness). Brings warmth and compassion into the body\'s center while keeping the emotional process rooted in practical reality.',
+    feng_shui_bagua: 'Love & Relationships (Kun), Family & Health (Zhen)',
+    feng_shui_placement: 'Southwest corner of home or bedroom to activate the Love & Relationships gua. Bedside table to support emotional healing during sleep. Therapy or counseling spaces to hold a container of compassion.',
+    ancient_lore: 'Rhodonite was discovered in the Ural Mountains of Russia in the 1790s and quickly became a national treasure — used for ornamental objects in the Tsar\'s court, including decorative columns in St. Petersburg\'s Beloselsky-Belozersky Palace. Russian miners called it "orletz" (eagle stone), believing eagles lined their nests with it. In the 19th century it was customary for Russian travelers to carry rhodonite as a protection stone.',
+    indigenous_traditions: 'In some South American traditions, rhodonite is carried as a compassion stone during community conflict resolution. In parts of Siberia, it has been used in healing ceremonies to mend broken relationships between people and clans.',
+
+    meditation_guidance: 'Place rhodonite directly over the heart chakra while lying down. Breathe slowly into the chest, letting each inhale bring in a soft rose-pink light and each exhale release old pain, resentment, or grief. Name what you are forgiving — yourself or others — silently or aloud. This stone works gently but profoundly. Allow emotions to surface without judgment. Best used in quiet, private settings where emotional release is welcome.',
+    body_placement: 'Directly over the heart for grief and forgiveness work. Held in both hands for self-compassion meditation. Worn as a pendant near the heart for sustained emotional support throughout the day.',
+    space_placement: 'Bedroom or therapy room for a container of compassion and safe emotional processing. Southwest corner of the home for relationship healing. Pairs powerfully with rose quartz — together they form a complete heart-healing altar.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Rhodonite contains manganese (MnSiO₃), which can be harmful if ingested in elevated quantities. Do not use for direct crystal elixirs. Use the indirect method only: place the crystal in a sealed glass vessel submerged in water without contact.',
+    jewelry_recommendations: 'Beautiful in cabochon pendants, earrings, and bracelets where the black-veined pink pattern can be appreciated. Mohs 6 hardness — handle with care and avoid hard impacts. The black manganese veining is a feature, not a flaw. Clean gently with a damp cloth; avoid prolonged soaking.',
+
+    safe_cleansing: ['Moonlight overnight', 'Sound bath with singing bowl', 'Selenite plate', 'Sage or palo santo smoke', 'Visualization of rose-pink light'],
+    unsafe_cleansing: ['Prolonged water soaking (can affect surface over time)', 'Salt water (can damage the manganese oxide inclusions)', 'Harsh chemical cleaners'],
+    charging_methods: ['Full moon light', 'Rose quartz cluster', 'Visualization of heart-pink light infusion', 'Sound frequency 639 Hz', 'Copper plate or bowl'],
+    storage_guidance: 'Store wrapped in soft cloth away from harder stones. The black manganese inclusions are stable but the overall stone can chip at Mohs 6 with hard impacts. Clean gently — prolonged water exposure is not recommended.',
+    cautions: 'Contains manganese — wash hands after extended handling of raw specimens. Not suitable for elixirs. No risk from normal handling of polished pieces. Avoid ingestion in any form.',
+    toxicity: 'Low risk externally; avoid elixirs due to manganese content',
+    fragility: 'Moderate — Mohs 6; handle with care; avoid hard impacts',
+
+    synergies: [
+      { crystal: 'Rose Quartz', id: 'rose-quartz', rationale: 'Rose quartz provides gentle, unconditional love energy while rhodonite heals the specific wounds that prevent love from flowing freely. Together they form the complete heart-healing pairing — opening and mending simultaneously.' },
+      { crystal: 'Malachite', id: 'malachite', rationale: 'Malachite draws out and transforms deep emotional wounds while rhodonite holds the heart with compassion through the process. A powerful but intense pairing for serious emotional transformation work.' },
+      { crystal: 'Amethyst', id: 'amethyst', rationale: 'Amethyst brings spiritual perspective and mental calm to the deep emotional work rhodonite initiates. Together they support the full integration of heart-level healing into wisdom.' }
+    ],
+    conflicts: [
+      { crystal: 'Obsidian', id: 'obsidian', reason: 'Obsidian\'s raw, uncompromising truth-revealing energy can be overwhelming when combined with rhodonite\'s deep emotional vulnerability work. Each is powerful alone — using both simultaneously can surface more than is comfortable to process at once.' }
+    ],
+    grid_role: 'Heart center stone in emotional healing grids; compassion anchor in relationship layouts',
+
+    chakra_filter: ['Heart'],
+    element_filter: 'Earth',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Common',
+    intention_filter: ['Emotional Healing', 'Forgiveness', 'Self-Love', 'Compassion'],
+    planet_filter: 'Venus',
+    zodiac_filter: ['Taurus', 'Scorpio'],
+    energy_type_filter: 'Healing'
+  },
+
+  {
+    id: 'tigers-eye',
+    name: "Tiger's Eye",
+    emoji: '🐯',
+    color: '#b8860b',
+    alt_names: ['Stone of the Mind', 'Merchants Stone', 'Shapeshifter Stone'],
+    mineral_family: 'Quartz (Pseudomorph)',
+    chemical_formula: 'SiO₂ with Fe₂O₃ inclusions',
+    crystal_system: 'Trigonal / Hexagonal',
+    mohs_hardness: 7,
+    luster: 'Silky chatoyant (cat\'s eye effect)',
+    transparency: 'Opaque',
+    color_range: 'Golden brown to amber with silky chatoyant bands of lighter gold; blue-grey (hawk\'s eye) and red (ox eye) varieties also exist',
+    origins: ['South Africa', 'Australia', 'India', 'Brazil', 'United States', 'Namibia'],
+    rarity: 'Common',
+    ethical_sourcing: 'South Africa is the largest producer with relatively established mining infrastructure. Australian and Indian specimens are also widely available. Avoid specimens labeled "blue tiger\'s eye" unless confirmed as natural hawk\'s eye — blue coloration is often artificially induced.',
+    simulant_warnings: 'Synthetic chatoyant glass (fiber optic glass) is widely sold as tiger\'s eye, especially in bulk and very cheap lots. Natural tiger\'s eye has a warm, organic silk-like sheen that moves in a single concentrated band — fiber optic glass has a more uniform, artificial glow and lacks the stone\'s natural warm color variation.',
+
+    short_intention: 'Sharpen focus, build unshakeable confidence, and take decisive action',
+    intention: 'Confidence & Willpower',
+    chakras: ['Solar Plexus', 'Sacral', 'Root'],
+    element: 'Fire',
+    planet: 'Sun',
+    day_of_week: 'Sunday',
+    zodiac: ['Capricorn', 'Leo', 'Aries'],
+    numerology: 4,
+    polarity: 'Yang',
+    solfeggio_frequency: '528 Hz',
+    energy_type: 'Activating',
+
+    emotional: [
+      'Dissolves self-doubt, indecision, and fear of failure',
+      'Builds inner resilience and the courage to act under uncertainty',
+      'Stabilizes emotional extremes — reduces anxiety without suppressing vitality',
+      'Encourages a grounded, practical confidence rather than bravado'
+    ],
+    mental: [
+      'Sharpens discernment and the ability to see a situation from all sides',
+      'Counters scattered thinking and brings sustained focus to complex tasks',
+      'Supports strategic planning, decision-making, and clear priorities',
+      'Enhances mental endurance for long-term projects and demanding intellectual work'
+    ],
+    spiritual: [
+      'Integrates spiritual insight with practical, earthly action',
+      'Balances the lower three chakras — grounding, creativity, and will — into unified power',
+      'Traditionally carried as a talisman for courage, luck, and psychic protection',
+      'Teaches the shapeshifter\'s art: adapting skillfully to circumstances without losing one\'s core'
+    ],
+    physical: [
+      'Traditionally associated with supporting the eyes and improving night vision',
+      'Believed to strengthen the legs, bones, and overall physical endurance',
+      'Associated with supporting the digestive system and metabolism',
+      'Linked to boosting physical vitality and the body\'s ability to sustain effort'
+    ],
+
+    vedic_tradition: 'Associated with the Sun (Surya) and Mars (Mangal) in Jyotish. Worn to strengthen solar qualities: leadership, confidence, and the ability to shine one\'s light in the world. A protective stone for those in positions of authority or high-stakes endeavors.',
+    tcm_use: 'Corresponds to Spleen and Stomach Earth energy. Tonifies Spleen Qi and strengthens the Yi (intellect of the Earth element) — the capacity for focused thought, intention, and strategic planning. Counters overthinking and mental scatter.',
+    five_element_theory: 'Earth element with a Fire spark — stable, practical, and enduring, with the warmth of solar vitality. Strengthens the center of the body\'s energetic system and the capacity to act from a grounded place of power.',
+    feng_shui_bagua: 'Fame & Reputation (Li), Wealth & Prosperity (Xun)',
+    feng_shui_placement: 'Office or workspace for focus, productivity, and decisive action. South sector for fame and recognition. Cash register or wealth corner of a business for merchant\'s luck. Not ideal in meditation spaces — its activating yang energy can interfere with stillness practices.',
+    ancient_lore: 'Roman soldiers carried tiger\'s eye engraved with the god Mars into battle for protection and courage. Ancient Egyptians used it for the divine all-seeing eyes of their deity statues, believing it conveyed the capacity to observe everything on earth and in the heavens. In the Middle Ages, tiger\'s eye was worn as a talisman against the evil eye. South African Zulu warriors wore it for bravery and tactical acuity in battle.',
+    indigenous_traditions: 'In parts of South Africa, tiger\'s eye is considered a guardian stone — carried to keep one safe during travel and to give the wearer the far-seeing perception of the tiger. Some indigenous Australian traditions associate it with ancestral protection and clear-sighted decision-making.',
+
+    meditation_guidance: 'Hold tiger\'s eye at the Solar Plexus (just above the navel) or place it there while lying down. Breathe in a warm golden-amber light with each inhale, feeling it fill your center with quiet confidence and clarity of purpose. Visualize yourself moving through a challenge with calm, focused certainty. Ideal for practices before important decisions, leadership moments, or competitive situations. Grounding after meditation is recommended.',
+    body_placement: 'Solar Plexus for willpower and confidence; Sacral for creative drive; Root for physical grounding and endurance. Worn as a bracelet or ring on the dominant hand to project focused intention. In a pocket for sustained mental clarity throughout the day.',
+    space_placement: 'Work desk or office for sharp focus and productive energy. Wealth corner (southeast) for financial confidence and abundance. Avoid placing near high-vibration spiritual stones like selenite or amethyst during deep meditation — the energies work at different frequencies.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Tiger\'s eye forms as a pseudomorph after crocidolite (blue asbestos), and while the fibrous asbestos is largely replaced by quartz, residual fibrous structures may remain in some specimens. Do not use for direct elixirs as a precaution. Use the indirect method only.',
+    jewelry_recommendations: 'Excellent for rings, pendants, and bracelets — Mohs 7 makes it durable for daily wear. The chatoyant silky sheen is best seen in polished cabochon cuts under directional light. The golden-brown tones pair well with both gold and copper settings. Clean with a soft damp cloth; mild soap is fine.',
+
+    safe_cleansing: ['Sunlight for 30–60 minutes', 'Smudging with sage or cedar', 'Sound bath', 'Selenite plate', 'Buried in dry earth overnight'],
+    unsafe_cleansing: ['Prolonged soaking in water (dulls the silky surface over time)', 'Harsh chemicals'],
+    charging_methods: ['Morning sunlight for 30–60 minutes', 'Citrine cluster', 'Visualization of golden solar light', 'Sound frequency 528 Hz'],
+    storage_guidance: 'Durable for daily use. Store away from stones that could scratch it. The chatoyant silky effect is a structural optical property and cannot be damaged by normal handling. Keep out of prolonged water exposure to preserve the polished surface.',
+    cautions: 'Polished tiger\'s eye is safe to handle. Raw or unpolished specimens warrant care — wash hands after handling as a precaution due to possible residual fibrous mineral content. Do not use for elixirs.',
+    toxicity: 'Polished: safe to handle. Raw: wash hands after use as precaution.',
+    fragility: 'Low — Mohs 7; durable and suitable for daily wear',
+
+    synergies: [
+      { crystal: 'Citrine', id: 'citrine', rationale: 'Both solar, abundance-oriented stones. Tiger\'s eye provides the focused willpower and strategic mind; citrine attracts the opportunity and amplifies the confidence. Together they form a powerhouse manifestation pairing.' },
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', rationale: 'Tiger\'s eye sharpens focus and builds inner confidence while black tourmaline seals and protects the energetic field. Together they create a grounded, shielded, decisive presence.' },
+      { crystal: 'Carnelian', id: 'carnelian', rationale: 'Carnelian fires motivation and courage from the Sacral; tiger\'s eye focuses that energy from the Solar Plexus into strategic, confident action. Together they fuel both the drive and the direction.' }
+    ],
+    conflicts: [
+      { crystal: 'Amethyst', id: 'amethyst', reason: 'Tiger\'s eye\'s activating, grounding Solar Plexus energy can work against amethyst\'s calming, upper-chakra stillness. Practitioners seeking deep meditation or psychic work may find tiger\'s eye keeps them too mentally active and earth-bound.' }
+    ],
+    grid_role: 'Solar Plexus anchor in confidence and abundance grids; directional stone at compass points in protection layouts',
+
+    chakra_filter: ['Solar Plexus', 'Sacral', 'Root'],
+    element_filter: 'Fire',
+    polarity_filter: 'Yang',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Common',
+    intention_filter: ['Confidence', 'Willpower', 'Courage', 'Focus', 'Manifestation'],
+    planet_filter: 'Sun',
+    zodiac_filter: ['Capricorn', 'Leo', 'Aries'],
+    energy_type_filter: 'Activating'
   }
 ];
