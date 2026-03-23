@@ -2177,5 +2177,203 @@ window.CRYSTALS = [
     planet_filter: 'Jupiter',
     zodiac_filter: ['Libra', 'Scorpio', 'Pisces'],
     energy_type_filter: 'Calming'
+  },
+
+  {
+    id: 'sodalite',
+    name: 'Sodalite',
+    emoji: '🔵',
+    color: '#3b5fc0',
+    alt_names: ['Stone of Logic', 'Poet\'s Stone', 'Stone of Truth'],
+    mineral_family: 'Feldspathoid',
+    chemical_formula: 'Na₄Al₃Si₃O₁₂Cl',
+    crystal_system: 'Isometric / Cubic',
+    mohs_hardness: 5.5,
+    luster: 'Vitreous to greasy',
+    transparency: 'Translucent to opaque',
+    color_range: 'Deep royal blue to blue-grey, always mottled with white calcite veins; occasionally violet-blue',
+    origins: ['Brazil', 'Canada', 'Namibia', 'India', 'Greenland', 'Russia'],
+    rarity: 'Common',
+    ethical_sourcing: 'Brazilian sodalite from Bahia is the most widely traded and generally well-sourced. Canadian sodalite from Ontario (Bancroft area) has a long documented history. Namibian specimens are also common in the market. Ask for country of origin and avoid unlabeled bulk lots.',
+    simulant_warnings: 'Sodalite is most often confused with lapis lazuli. The key difference: sodalite lacks the golden pyrite flecks characteristic of lapis lazuli, and sodalite\'s white veining is calcite rather than the white calcite and gold pyrite mix of lapis. Sodalite is also more uniformly blue-grey while lapis tends toward a richer ultramarine. Dyed howlite is also sold as sodalite — howlite is much lighter and softer.',
+
+    short_intention: 'Think with clarity, speak with integrity, and align mind with truth',
+    intention: 'Logic & Truth',
+    chakras: ['Throat', 'Third Eye'],
+    element: 'Air',
+    planet: 'Mercury',
+    day_of_week: 'Wednesday',
+    zodiac: ['Sagittarius', 'Virgo', 'Gemini'],
+    numerology: 4,
+    polarity: 'Yin',
+    solfeggio_frequency: '741 Hz',
+    energy_type: 'Clarifying',
+
+    emotional: [
+      'Calms emotional reactivity and supports rational, considered responses',
+      'Helps those who speak before thinking to find their words with more care and precision',
+      'Reduces defensiveness and supports honest, open communication in conflict',
+      'Encourages emotional honesty — naming what is actually felt without dramatization'
+    ],
+    mental: [
+      'The foremost stone of rational thought, logic, and intellectual integrity',
+      'Organizes chaotic or scattered thinking into clear, coherent understanding',
+      'Excellent for writers, teachers, philosophers, scientists, and all who work with ideas',
+      'Supports the integration of intellectual knowledge with intuitive knowing'
+    ],
+    spiritual: [
+      'Bridges the Throat and Third Eye — uniting clear thinking with higher perception',
+      'Supports the path of Jnana Yoga: spiritual development through knowledge and discernment',
+      'Encourages unflinching self-honesty as a spiritual practice',
+      'Used in ritual to invoke truth, clarity of purpose, and alignment between thought, word, and action'
+    ],
+    physical: [
+      'Traditionally associated with supporting the vocal cords, larynx, and thyroid',
+      'Believed to lower blood pressure and support metabolic balance',
+      'Associated with reducing fever and supporting the immune system\'s regulatory functions',
+      'Linked to supporting the digestive system and the body\'s assimilation of nutrients'
+    ],
+
+    vedic_tradition: 'Associated with Mercury (Budha) in Jyotish — the planet of intellect, communication, and discriminative wisdom. Worn by scholars, orators, and those who must think and communicate with precision. Strengthens Mercury placements and counters Mercury afflictions that manifest as confused or dishonest thinking.',
+    tcm_use: 'Corresponds to the Lung and Large Intestine Metal element meridians. Supports the Lung\'s role in the clarity of thought and the precision of the voice. Used for patterns of Lung Qi deficiency that manifest as weak, unclear communication or the inability to assert one\'s truth.',
+    five_element_theory: 'Metal element — precise, clear, structured, and true. The quality of a fine blade: sharp, honest, and clean. Cuts through confusion and sentiment to reveal what is genuinely real and worth keeping.',
+    feng_shui_bagua: 'Knowledge & Self-Cultivation (Gen), Career & Life Path (Kan)',
+    feng_shui_placement: 'Study, library, or home office for intellectual clarity and focused thinking. Northeast corner to activate the Knowledge gua. Near the desk of anyone who communicates professionally — writers, teachers, lawyers, therapists. Not ideal in the bedroom — its activating mental energy can interfere with rest.',
+    ancient_lore: 'Sodalite was first identified as a distinct mineral in Greenland in 1811, though blue feldspathoid stones were used ornamentally in ancient civilizations. In the late 19th century, large deposits discovered in Ontario, Canada near the estate of Princess Louise (daughter of Queen Victoria) led to the stone being called "Princess Blue" after she chose it for her Rideau Hall decorations. It became fashionable in Victorian England as a result. The Tiwanaku people of ancient Bolivia used sodalite in their ritual objects.',
+    indigenous_traditions: 'The Tiwanaku civilization of pre-Columbian Bolivia used sodalite extensively in ceremonial objects and personal adornment, valuing its deep blue color as a symbol of the sky and of divine communication. In some North American traditions, deep blue stones are associated with the ability to speak with spiritual clarity and to receive guidance from the spirit world.',
+
+    meditation_guidance: 'Hold sodalite at the Throat or Third Eye, or place it on the forehead while lying down. Breathe slowly and invite the mind to settle into quiet clarity — like deep, still water. Ask a question you seek honest understanding about, then simply listen. Sodalite does not offer visions — it offers clarity. Ideal for journaling meditations, intellectual problem-solving, and practices where you seek honest self-knowledge rather than inspiration or emotion. Use before important conversations where truth and precision matter.',
+    body_placement: 'Third Eye for intellectual clarity and honest perception. Throat for clear, truthful communication. Held in the non-dominant hand during writing, study, or any intellectual work. Worn as a pendant at the throat for sustained clarity of expression throughout the day.',
+    space_placement: 'Study or library as the primary thinking stone. Home office desk for focus and clear decision-making. Beside a computer or writing desk. Northeast sector of any room for knowledge energy. Not recommended for the bedroom due to its mentally activating nature.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Sodalite contains aluminum, chlorine, and sodium compounds that are not suitable for elixirs. Do not use for direct or indirect elixirs.',
+    jewelry_recommendations: 'Popular in pendants, rings, and beaded bracelets. Mohs 5.5 requires moderate care — protect from hard impacts and scratching stones. The white calcite veining makes each piece unique. Clean with a soft damp cloth; avoid prolonged water exposure and harsh chemicals.',
+
+    safe_cleansing: ['Moonlight overnight', 'Sound bath with singing bowl', 'Selenite plate', 'Sage or cedar smoke', 'Visualization of deep blue light'],
+    unsafe_cleansing: ['Prolonged water soaking (can affect calcite inclusions)', 'Salt (abrasive)', 'Sunlight (can fade the blue over time)'],
+    charging_methods: ['Moonlight overnight', 'Clear quartz cluster', 'Selenite plate', 'Visualization of Mercury\'s silver-blue light', 'Sound frequency 741 Hz'],
+    storage_guidance: 'Store away from harder stones that will scratch the surface. Keep out of prolonged direct sunlight to preserve the blue color. Wrap in soft cloth for storage. Avoid prolonged moisture exposure.',
+    cautions: 'Not suitable for elixirs. Safe for normal handling and jewelry wear with care. Wash hands after extended contact with raw specimens.',
+    toxicity: 'Safe to handle; avoid elixirs due to aluminum and chlorine compounds',
+    fragility: 'Moderate — Mohs 5.5; protect from hard impacts and scratching',
+
+    synergies: [
+      { crystal: 'Lapis Lazuli', id: 'lapis-lazuli', rationale: 'Natural companions — both deep blue Throat/Third Eye stones from the same color family. Sodalite brings logical structure and intellectual precision; lapis adds royal authority, spiritual depth, and the courage of truth. Together they are the complete philosopher-king stones.' },
+      { crystal: 'Clear Quartz', id: 'clear-quartz', rationale: 'Clear quartz amplifies sodalite\'s clarifying and truth-seeking energy, projecting it further into the practitioner\'s field and the surrounding environment. An excellent pairing for study spaces and places where clear, honest communication is essential.' },
+      { crystal: 'Amethyst', id: 'amethyst', rationale: 'Sodalite engages the rational, analytical mind while amethyst opens the intuitive, spiritual mind. Together they bridge the gap between thinking and knowing — a powerful combination for those seeking to unite intellect and wisdom.' }
+    ],
+    conflicts: [
+      { crystal: 'Carnelian', id: 'carnelian', reason: 'Carnelian fires emotion, passion, and gut instinct while sodalite calls for logic, precision, and calm analysis. Together they can create an inner conflict between head and gut that makes decision-making harder rather than easier. Use each for its distinct strength.' }
+    ],
+    grid_role: 'Intellectual clarity anchor in study and communication grids; Third Eye activator in truth-seeking layouts',
+
+    chakra_filter: ['Throat', 'Third Eye'],
+    element_filter: 'Air',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Common',
+    intention_filter: ['Clarity', 'Truth', 'Communication', 'Focus', 'Wisdom'],
+    planet_filter: 'Mercury',
+    zodiac_filter: ['Sagittarius', 'Virgo', 'Gemini'],
+    energy_type_filter: 'Clarifying'
+  },
+
+  {
+    id: 'sunstone',
+    name: 'Sunstone',
+    emoji: '☀️',
+    color: '#e8923a',
+    alt_names: ['Stone of Joy', 'Stone of the Sun', 'Heliolite'],
+    mineral_family: 'Feldspar',
+    chemical_formula: 'NaAlSi₃O₈–CaAl₂Si₂O₈',
+    crystal_system: 'Triclinic',
+    mohs_hardness: 6,
+    luster: 'Vitreous with aventurescence (glittery internal sparkle)',
+    transparency: 'Transparent to translucent',
+    color_range: 'Golden orange to copper-red, peach, and champagne; always with a characteristic metallic glitter (aventurescence) from hematite or goethite platelets',
+    origins: ['United States (Oregon)', 'Norway', 'India', 'Canada', 'Tanzania', 'Australia'],
+    rarity: 'Uncommon',
+    ethical_sourcing: 'Oregon sunstone from the high desert of Lake County is among the world\'s finest and is mined with generally good practices — some deposits are on public land where small-scale collecting is permitted. Norwegian sunstone is also well-documented. Indian sunstone is widely available. Ask for country of origin.',
+    simulant_warnings: 'Orange glass with glitter inclusions is occasionally sold as sunstone. Natural sunstone\'s aventurescence is caused by flat metallic platelets that create a broad, diffuse shimmer — unlike the sharp sparkle of glass glitter. Oregon sunstone is unique in sometimes containing copper platelets rather than hematite, giving it a distinctive reddish metallic sheen unlike any other feldspar.',
+
+    short_intention: 'Reclaim your joy, step into your power, and radiate your authentic self',
+    intention: 'Joy & Personal Power',
+    chakras: ['Sacral', 'Solar Plexus'],
+    element: 'Fire',
+    planet: 'Sun',
+    day_of_week: 'Sunday',
+    zodiac: ['Leo', 'Libra', 'Aries'],
+    numerology: 1,
+    polarity: 'Yang',
+    solfeggio_frequency: '528 Hz',
+    energy_type: 'Uplifting',
+
+    emotional: [
+      'Dissolves depression, chronic sadness, and the habit of self-diminishment',
+      'Restores genuine joy — not forced positivity but authentic, embodied happiness',
+      'Encourages independence, healthy boundaries, and the right to shine without apology',
+      'Supports those who consistently put others\' needs before their own in reclaiming self-worth'
+    ],
+    mental: [
+      'Clears mental patterns rooted in unworthiness, self-doubt, and chronic pessimism',
+      'Encourages expansive, optimistic thinking and trust in one\'s own capabilities',
+      'Supports leadership qualities: vision, decisiveness, and the courage to take initiative',
+      'Brings mental warmth and lightness to periods dominated by heaviness or stagnation'
+    ],
+    spiritual: [
+      'Carries the direct energy of solar consciousness — radiant, generous, and life-giving',
+      'Activates the Solar Plexus and Sacral chakras simultaneously, igniting personal power and creative vitality',
+      'Used in solar ceremonies and sun-honoring practices across many cultures',
+      'Teaches the spiritual lesson of benevolent self-expression: your light is a gift to the world, not a burden'
+    ],
+    physical: [
+      'Traditionally associated with supporting the metabolic system and physical vitality',
+      'Believed to support the spinal column, the autonomic nervous system, and the body\'s energy regulation',
+      'Associated with supporting SAD (seasonal affective disorder) and conditions rooted in lack of sunlight',
+      'Linked to supporting the throat, cartilage, and the body\'s inflammatory response'
+    ],
+
+    vedic_tradition: 'Associated with the Sun (Surya) in Jyotish — the planet of the soul, vitality, and authentic self-expression. Used to strengthen a weak or afflicted Sun in the birth chart, supporting confidence, leadership, and the courage to fulfill one\'s dharmic purpose. Traditionally worn in gold to amplify solar energy.',
+    tcm_use: 'Corresponds to Heart and Triple Warmer Fire element energy. Tonifies Heart Yang — the warming, outward-shining quality of the heart\'s energy. Used for conditions of Heart Yang deficiency: depression, lack of joy, cold in the chest, and the inability to feel genuine happiness.',
+    five_element_theory: 'Fire element in its most radiant, solar expression. The energy of high summer: maximum light, generous warmth, and the full flowering of life. Strengthens the Heart, the Emperor organ, and the capacity to rule one\'s own life with clarity and benevolence.',
+    feng_shui_bagua: 'Fame & Reputation (Li), Wealth & Prosperity (Xun)',
+    feng_shui_placement: 'South sector of the home or room to activate the Fame and Reputation gua — for visibility, recognition, and living authentically. Living room or central space to warm and enliven the energy of the home. Creative studio or workspace for joyful, inspired productivity. Not recommended for the bedroom of sensitive sleepers.',
+    ancient_lore: 'In Norse mythology, sunstone (sólarsteinn) was used by Viking navigators to locate the sun on overcast days — a property now confirmed by science as calcite\'s polarizing optics. The Norsemen believed sunstone was a gift from the god Odin to his chosen navigators. Ancient Native American peoples of the Oregon high desert collected the naturally occurring sunstone deposits for trade and ceremony long before European contact. In ancient Greece, sunstone was associated with the sun god Apollo and used in solar worship rituals.',
+    indigenous_traditions: 'The Native peoples of the Oregon Plateau — including the Paiute and Klamath peoples — have collected and traded Oregon sunstone for thousands of years. The stones were used in ceremony, personal adornment, and as trade goods of high value. In Scandinavian indigenous tradition, sunstone was a sacred navigational and solar ceremonial object associated with the highest divine power.',
+
+    meditation_guidance: 'Hold sunstone at the Solar Plexus or Sacral chakra, or place it over the heart while lying down. Breathe in a warm, radiant golden-orange light with each inhale — feeling it expand from your center outward in all directions like sunrise. On each exhale, release anything that dims your light: self-doubt, shame, the habit of making yourself small. Affirm your right to be fully, joyfully yourself. Ideal for morning practices, seasonal depression, and any time you need to reconnect with your own inherent warmth and vitality.',
+    body_placement: 'Solar Plexus for personal power and self-worth. Sacral chakra for creative vitality and joy. Over the heart for warmth and generosity of spirit. Worn as a pendant or ring on the dominant hand to radiate your energy outward with confidence.',
+    space_placement: 'South sector of the home for fame, recognition, and authentic self-expression. Living room or central space to warm the atmosphere and encourage joyful gathering. Creative workspace to sustain inspired, light-filled productivity. On a window ledge to greet the morning sun.',
+    elixir_safety: 'Safe',
+    elixir_notes: 'Sunstone is a feldspar (plagioclase/oligoclase) and its metallic inclusions (hematite or goethite) are present in small, stable amounts. Generally considered safe for direct elixirs. Sunrise-charged water or a brief sunlight infusion is the most aligned method for this solar stone.',
+    jewelry_recommendations: 'Beautiful in pendants, earrings, and rings. Mohs 6 — moderate care required, protect from hard impacts. Oregon sunstone with copper inclusions is among the world\'s most distinctive and valuable feldspar gems. The aventurescent sparkle is best seen in natural or directional light. Clean with mild soap and lukewarm water; avoid ultrasonic cleaners.',
+
+    safe_cleansing: ['Sunlight (30–60 minutes — its natural home)', 'Sound bath with singing bowl', 'Selenite plate', 'Sage or cedar smoke', 'Visualization of golden solar light'],
+    unsafe_cleansing: ['Prolonged water soaking', 'Salt water', 'Harsh chemical cleaners'],
+    charging_methods: ['Morning sunlight for 30–60 minutes', 'Citrine cluster', 'Visualization of the rising sun filling the stone with golden fire', 'Sound frequency 528 Hz'],
+    storage_guidance: 'Store away from harder stones to prevent scratching. The aventurescent shimmer is a structural optical property and cannot be damaged by normal handling. Keep away from prolonged moisture. Wrap in warm-colored cloth — orange or gold — when storing on an altar.',
+    cautions: 'No toxicity concerns. Safe for all normal handling and jewelry wear. The metallic inclusions (hematite or copper) are stable and present in trace amounts only.',
+    toxicity: 'Non-toxic',
+    fragility: 'Moderate — Mohs 6; protect from hard impacts; otherwise durable for regular wear',
+
+    synergies: [
+      { crystal: 'Carnelian', id: 'carnelian', rationale: 'Both solar, Fire-element stones of confidence and vitality. Sunstone radiates joy and authentic self-expression from the heart; carnelian ignites courage and motivated action from the sacral. Together they are an unbeatable combination for stepping fully into one\'s power.' },
+      { crystal: 'Citrine', id: 'citrine', rationale: 'Citrine and sunstone are the twin solar abundance stones — both golden, uplifting, and prosperity-aligned. Citrine draws in material abundance while sunstone ensures the joy and confidence to receive and enjoy it. A powerful pairing for any manifestation or self-worth work.' },
+      { crystal: 'Moonstone', id: 'moonstone', rationale: 'The classic solar-lunar pairing: sunstone embodies the sun\'s outward, radiant, active energy while moonstone reflects the moon\'s inward, receptive, cyclic wisdom. Together they create wholeness — the full spectrum of light, the balance of giving and receiving.' }
+    ],
+    conflicts: [
+      { crystal: 'Obsidian', id: 'obsidian', reason: 'Obsidian draws energy inward for shadow confrontation and deep truth-telling, while sunstone radiates energy outward in joy and confident self-expression. Their energetic directions are directly opposed. Use separately — obsidian for deep inner work, sunstone for outward flourishing.' }
+    ],
+    grid_role: 'Solar activator at the center or south point of joy and abundance grids; personal power stone in self-worth and leadership layouts',
+
+    chakra_filter: ['Sacral', 'Solar Plexus'],
+    element_filter: 'Fire',
+    polarity_filter: 'Yang',
+    elixir_filter: 'Safe',
+    rarity_filter: 'Uncommon',
+    intention_filter: ['Confidence', 'Joy', 'Vitality', 'Abundance', 'Manifestation'],
+    planet_filter: 'Sun',
+    zodiac_filter: ['Leo', 'Libra', 'Aries'],
+    energy_type_filter: 'Uplifting'
   }
 ];
