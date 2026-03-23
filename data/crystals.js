@@ -2573,5 +2573,220 @@ window.CRYSTALS = [
     planet_filter: 'Venus',
     zodiac_filter: ['Sagittarius', 'Pisces', 'Scorpio'],
     energy_type_filter: 'Protective'
+  },
+
+  {
+    id: 'garnet',
+    name: 'Garnet',
+    emoji: '❤️‍🔥',
+    color: '#8b1a1a',
+
+    alt_names: ['Almandine', 'Pyrope', 'Rhodolite', 'Hessonite', 'Uvarovite', 'Spessartine'],
+    mineral_family: 'Silicate (Nesosilicate)',
+    chemical_formula: 'Mg₃Al₂(SiO₄)₃ (pyrope); Fe₃Al₂(SiO₄)₃ (almandine)',
+    crystal_system: 'Cubic (Isometric)',
+    mohs_hardness: '6.5–7.5',
+    luster: 'Vitreous to resinous',
+    transparency: 'Transparent to translucent',
+    color_range: 'Deep red, burgundy, dark rose, orange (hessonite), green (uvarovite, tsavorite), purple (rhodolite)',
+    origins: 'India, Sri Lanka, Madagascar, Czech Republic, USA (Arizona), Brazil, Tanzania, Russia',
+    rarity: 'Common',
+    ethical_sourcing: 'Most red garnets are commercially mined; fair-trade sources available from India and Tanzania. Tsavorite and demantoid are rarer and fetch premium prices. Verify responsible sourcing for gem-quality stones.',
+    simulant_warnings: 'Red glass and synthetic corundum are sold as garnet. Authentic garnet shows no bubbles under magnification and has slightly higher heft than glass.',
+
+    short_intention: 'Passion, vitality, and grounded love',
+    intention: 'Garnet is a stone of passionate life-force — it rekindles motivation, stirs courage, and grounds love into tangible devotion. It activates the Root chakra to ensure that ambitions, relationships, and creative drives are rooted in physical reality rather than wishful thinking. In matters of the heart, garnet burns away hesitation and calls forth full-bodied commitment. In matters of will, it restores depleted energy and the resolve to move forward through adversity.',
+
+    chakras: ['Root', 'Heart'],
+    element: 'Fire',
+    planet: 'Mars',
+    day_of_week: 'Tuesday',
+    zodiac: ['Capricorn', 'Aquarius', 'Aries'],
+    numerology: 2,
+    polarity: 'Yang',
+    solfeggio_frequency: '396 Hz (liberation from fear and guilt)',
+    energy_type: 'Activating',
+
+    emotional: [
+      'Restores passion and motivation after emotional exhaustion',
+      'Dissolves feelings of hopelessness, stagnation, or apathy',
+      'Grounds romantic love into committed, embodied devotion',
+      'Encourages courage to confront what has been avoided',
+      'Strengthens emotional endurance through prolonged challenges'
+    ],
+    mental: [
+      'Sharpens focus and determination toward concrete goals',
+      'Counters procrastination by activating initiative and follow-through',
+      'Supports practical thinking in creative and entrepreneurial endeavors',
+      'Brings clarity to decisions about commitment — career, relationship, or purpose',
+      'Encourages honest self-assessment of energy levels and authentic drives'
+    ],
+    spiritual: [
+      'Activates Kundalini energy at the base of the spine',
+      'Deepens embodied spiritual practice — yoga, martial arts, breathwork',
+      'Aligns Mars energy for sacred warrior consciousness',
+      'Used historically for protection during travel and in battle',
+      'Strengthens devotional practice by grounding it in physical dedication'
+    ],
+    physical: [
+      'Traditionally associated with blood, circulation, and cardiovascular vitality',
+      'Used in crystal healing to support the immune system and energy levels',
+      'May assist with reproductive system vitality and hormonal balance',
+      'Supports recovery from physical depletion and fatigue',
+      'Associated with bone marrow, spinal column, and adrenal health in healing traditions'
+    ],
+
+    vedic_tradition: 'Garnet (Gomed or Hessonite) is associated with Rahu in Vedic astrology and is used to mitigate the malefic effects of that shadow planet — confusion, obsession, and restlessness. Red garnet is also considered a gem of Mars (Mangal), worn to strengthen courage, ambition, and physical vitality.',
+    tcm_use: 'Corresponds to the Fire element and the Heart meridian in TCM; garnet\'s red color and warming energy are used to strengthen Yang, move stagnant Qi, and warm cold patterns affecting the blood and lower body.',
+    five_element_theory: 'Fire — garnet embodies combustive, expansive Fire energy, driving movement, passion, and transformation of raw life-force into directed action.',
+    feng_shui_bagua: 'Fame & Reputation (Li), Love & Partnership (Kun)',
+    feng_shui_placement: 'Place garnet in the south area of the home or bedroom to strengthen reputation, visibility, and passionate relationships. In the southwest corner, it supports romantic love and commitment.',
+
+    ancient_lore: 'Garnet has been used as an adornment and protective talisman for over 5,000 years. Ancient Egyptians set garnets into gold jewelry for pharaohs and nobility, believing the stone carried the life-force of Ra. Roman soldiers wore garnet signet rings and set them into sword pommels as protection in battle. Medieval European knights wore garnet amulets believing they ensured safe return from war. The name derives from the Latin "granatus" (pomegranate seed) for the resemblance of the deep red crystals to pomegranate arils.',
+    indigenous_traditions: 'Native American tribes of the Southwest used garnet as a protective stone and traded it across long-distance networks. In some traditions, red garnet was associated with blood, kinship, and ancestral power.',
+
+    meditation_guidance: 'Hold garnet in both hands at the level of the root chakra, or place it directly on the base of the spine while lying down. Breathe slowly and deeply, visualizing a deep red flame igniting at the base of your spine, growing with each breath. Feel the warmth spread through your body, restoring vitality and courage. For relationship work, hold garnet over the heart and breathe into the feeling of committed, grounded love — not romantic fantasy but embodied devotion.',
+    body_placement: 'Root chakra (base of spine, perineum), or heart chakra for love work. Can be held in the dominant hand during meditation to activate will. Worn as a ring or bracelet to maintain steady activation throughout the day.',
+    space_placement: 'Bedroom for passionate relationships; home office or studio for creative vitality; south-facing windows for career and reputation. Avoid placing garnet in areas intended for rest or contemplation — its activating energy can disrupt sleep.',
+    elixir_safety: 'Generally Safe',
+    elixir_notes: 'Most red garnets (pyrope, almandine, rhodolite) are safe for indirect elixirs. Some varieties like andradite or uvarovite may contain trace elements; use indirect method (crystal outside the container) if unsure of variety.',
+    jewelry_recommendations: 'Excellent for rings, pendants, and bracelets due to good hardness. Garnet has been a favored gemstone for centuries and is appropriate for all jewelry types. Treat with care to avoid knocks against harder materials.',
+
+    safe_cleansing: ['Running water', 'Moonlight', 'Sunlight (brief)', 'Smudging', 'Sound', 'Earth burial'],
+    unsafe_cleansing: ['Salt water (prolonged — can dull polish)', 'Harsh ultrasonic cleaners for included specimens'],
+    charging_methods: ['Sunlight', 'Moonlight (full moon)', 'Earth burial', 'Mars planetary hours', 'Red candle flame (indirect)'],
+    storage_guidance: 'Store separately from other gems to avoid surface scratching. A soft pouch or lined box works well. Keep away from prolonged direct heat.',
+
+    cautions: 'Garnet\'s activating energy is strong — use intentionally rather than habitually. People experiencing hyperactivity, anger issues, or excessive heat in the body (fever, inflammation, intense stress) should use garnet sparingly or substitute with a cooling stone like blue lace agate.',
+    toxicity: 'Non-toxic; safe to handle.',
+    fragility: 'Durable with good cleavage in some directions. Avoid hard impacts.',
+
+    synergies: [
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', rationale: 'Garnet activates root-chakra energy and courage while black tourmaline provides grounding and protective shielding. Together they create a strongly grounded, protected energetic foundation — excellent for anyone working in high-stakes, high-pressure environments.' },
+      { crystal: 'Rose Quartz', id: 'rose-quartz', rationale: 'Rose quartz opens the heart to unconditional love and tenderness; garnet grounds that love into passionate commitment and embodied devotion. The pairing balances romantic love between its gentle and ardent expressions.' },
+      { crystal: 'Citrine', id: 'citrine', rationale: 'Citrine\'s solar abundance energy pairs beautifully with garnet\'s driven vitality — together they form a powerful combination for manifestation, entrepreneurial energy, and sustained creative output.' }
+    ],
+    conflicts: [
+      { crystal: 'Amethyst', id: 'amethyst', reason: 'Amethyst is a cooling, calming, spiritually elevating stone that pulls energy upward; garnet is a warming, activating, physically grounding stone that draws energy down and inward. Their energies create a push-pull dynamic that can feel unsettled in sensitive individuals. Use separately for their distinct purposes.' }
+    ],
+    grid_role: 'Activation anchor at the base or center of grids for manifestation, courage, and vitality; cornerstone for protection grids',
+
+    chakra_filter: ['Root', 'Heart'],
+    element_filter: 'Fire',
+    polarity_filter: 'Yang',
+    elixir_filter: 'Use with Caution',
+    rarity_filter: 'Common',
+    intention_filter: ['Passion', 'Love', 'Vitality', 'Protection', 'Courage', 'Manifestation'],
+    planet_filter: 'Mars',
+    zodiac_filter: ['Capricorn', 'Aquarius', 'Aries'],
+    energy_type_filter: 'Activating'
+  },
+
+  {
+    id: 'jade',
+    name: 'Jade',
+    emoji: '🍀',
+    color: '#3a7d44',
+
+    alt_names: ['Nephrite', 'Jadeite', 'Yu (玉)', 'Green Jade', 'Imperial Jade', 'Stone of Heaven'],
+    mineral_family: 'Nephrite: Amphibole (Actinolite-Tremolite series); Jadeite: Pyroxene',
+    chemical_formula: 'Nephrite: Ca₂(Mg,Fe)₅Si₈O₂₂(OH)₂; Jadeite: NaAlSi₂O₆',
+    crystal_system: 'Nephrite: Monoclinic (fibrous); Jadeite: Monoclinic',
+    mohs_hardness: 'Nephrite: 6–6.5; Jadeite: 6.5–7',
+    luster: 'Waxy to greasy',
+    transparency: 'Translucent to opaque',
+    color_range: 'All shades of green (most prized: vivid imperial green); also white, lavender, yellow, orange, black, red',
+    origins: 'Myanmar (jadeite, world\'s finest); China, New Zealand (nephrite); Guatemala, Russia, Canada, South Korea',
+    rarity: 'Nephrite: Common; Imperial-grade jadeite: Very Rare',
+    ethical_sourcing: 'Myanmar jadeite mining has been linked to military-controlled trade and human rights concerns. Look for certified sources. New Zealand nephrite (pounamu) has specific Māori cultural and legal protections under the Treaty of Waitangi.',
+    simulant_warnings: 'Jade is one of the most heavily simulated and misrepresented stones in the market. "Jade" sold cheaply is frequently serpentine, aventurine, prehnite, Malaysian jade (dyed quartzite), or glass. Authentic nephrite has a waxy luster and is tough; jadeite has a slightly glassier surface. Purchase only from reputable dealers.',
+
+    short_intention: 'Abundance, harmony, and heartfelt wisdom',
+    intention: 'Jade is one of humanity\'s oldest sacred stones — a symbol of Heaven\'s blessing made tangible in green earth-stone. It opens the Heart chakra to receive abundance not as acquisitive greed but as the natural flow of what is rightly yours: health, meaningful relationships, harmonious living, and quiet prosperity. Jade teaches that the greatest wealth is internal — a peaceful heart, a clear mind, and alignment with the rhythms of nature. It is a stone for the long arc of a life lived with integrity.',
+
+    chakras: ['Heart'],
+    element: 'Earth',
+    planet: 'Venus',
+    day_of_week: 'Friday',
+    zodiac: ['Taurus', 'Libra', 'Pisces'],
+    numerology: 11,
+    polarity: 'Yin',
+    solfeggio_frequency: '528 Hz (love, DNA repair, transformation)',
+    energy_type: 'Harmonizing',
+
+    emotional: [
+      'Soothes emotional turbulence and restores inner equilibrium',
+      'Releases habitual patterns of self-limitation and unworthiness',
+      'Cultivates a gentle, stable sense of self-worth independent of external validation',
+      'Supports emotional processing after grief, loss, or prolonged stress',
+      'Encourages compassionate self-forgiveness and releasing old wounds'
+    ],
+    mental: [
+      'Clears mental clutter and brings patient, long-view perspective',
+      'Supports wisdom-based decision-making rather than reactive thinking',
+      'Encourages contentment and sufficiency — the antidote to scarcity thinking',
+      'Strengthens pragmatic judgment in financial and practical affairs',
+      'Calms overthinking and perfectionism by anchoring awareness in present sufficiency'
+    ],
+    spiritual: [
+      'One of the oldest sacred stones of human civilization — used for 7,000+ years across cultures',
+      'In Chinese tradition, jade is a bridge between Heaven and Earth, embodying the Five Virtues: benevolence, wisdom, courage, justice, and purity',
+      'Supports ancestors\' veneration practices and connection to generational wisdom',
+      'Aligns the practitioner with natural flow and divine timing',
+      'Protects the spiritual body while opening the practitioner to receive blessings'
+    ],
+    physical: [
+      'Traditionally associated with kidney health and filtration in Chinese medicine',
+      'Used in crystal healing to support the immune system, nervous system, and adrenal health',
+      'Associated with longevity, cellular renewal, and physical resilience',
+      'Jade rollers and gua sha tools have been used in East Asian skincare for centuries to promote lymphatic circulation',
+      'May support recovery from prolonged illness and restoration of physical equilibrium'
+    ],
+
+    vedic_tradition: 'Jade does not feature prominently in the classical Navaratna of Vedic astrology, but it is deeply respected in Ayurvedic healing as a cooling, Kapha-balancing stone that soothes Pitta excess (heat, inflammation, irritability). It is associated with the Moon and Venus in some traditions and used for emotional balance and longevity.',
+    tcm_use: 'Jade is one of the most important stones in Traditional Chinese Medicine. Associated with the Kidneys (Jing/essence), Liver, and Heart meridians. Used to clear heat, tonify Yin, and support smooth flow of Qi. Jade needles and gua sha tools are direct applications. Green jade nourishes the Wood element (Liver and Gallbladder).',
+    five_element_theory: 'Wood and Earth — jade bridges these elements: green jade activates the Wood element (growth, flexibility, the Liver), while its grounding stability and nourishing quality connect to Earth (nourishment, stability, the Spleen).',
+    feng_shui_bagua: 'Wealth & Prosperity (Xun), Health (Tai Qi), Family & Ancestors (Zhen)',
+    feng_shui_placement: 'Place jade in the southeast corner of the home or office to activate the Wealth and Prosperity gua. A jade plant or jade stone near the entrance invites auspicious Qi. In the center of the home (Tai Qi), jade supports overall health and harmony.',
+
+    ancient_lore: 'Jade has been considered sacred in China for over 7,000 years — longer than any other gem in recorded history. The character for jade (玉, yù) is one of the oldest in written Chinese and was used to represent virtue, nobility, and divine favor. Chinese emperors were buried in jade suits. Confucius catalogued jade\'s eleven virtues. In Mesoamerica, the Maya and Aztec civilizations prized jade above gold — jade masks of gods and kings were central to funerary and royal ritual.',
+    indigenous_traditions: 'Māori taonga pounamu (New Zealand greenstone/nephrite) is protected by law and considered an ancestral treasure carrying whakapapa (genealogy), passed through generations. Maya and Aztec jade was a divine material — green, the color of water, maize, and rebirth. Olmec civilization carved jade into ritual masks and figurines as early as 1500 BCE.',
+
+    meditation_guidance: 'Hold jade over the heart chakra with both hands, or place it flat on the chest while lying in savasana. Breathe slowly and deeply, allowing each exhale to release tension from the body. With each inhale, simply receive — practice receiving without doing. Visualize a soft green light expanding from the jade into the heart, spreading outward in all directions. Jade meditation works best in stillness and quiet; it reveals its depth through patience rather than intensity.',
+    body_placement: 'Heart chakra (center of chest); kidneys (lower back, one stone on each side) for physical healing; third eye for wisdom work. Jade rollers can be used on the face and neck for skincare and lymphatic support.',
+    space_placement: 'Southeast corner for wealth activation; near entryways for welcoming auspicious energy; in the bedroom for harmonious relationships and restful sleep; on altars for ancestors or spiritual practice.',
+    elixir_safety: 'Generally Safe',
+    elixir_notes: 'Nephrite and most jadeite are safe for direct elixirs. However, some dyed or treated jade could leach colorants. Use genuine, untreated jade and indirect method if provenance is uncertain.',
+    jewelry_recommendations: 'Jade has been worn as jewelry for millennia and is highly suited to rings, bangles, pendants, and earrings. The classic Chinese jade bangle is one of the most enduring jewelry forms in human history. Nephrite is particularly tough and durable despite moderate hardness.',
+
+    safe_cleansing: ['Running water', 'Moonlight', 'Sound', 'Smudging', 'Earth burial'],
+    unsafe_cleansing: ['Prolonged sunlight (may affect color of some varieties)', 'Steam cleaning for treated jade', 'Harsh chemicals'],
+    charging_methods: ['Full moon', 'Moonlight', 'Earth burial', 'Placing on living plants or in a garden', 'Sunlight (morning, brief)'],
+    storage_guidance: 'Jade is tough but can scratch softer stones and be scratched by harder ones. Store in a soft cloth or individual pouch. Keep away from harsh chemicals, perfumes, and ultrasonic cleaners.',
+
+    cautions: 'Beware of simulants — much of what is sold as "jade" is other materials entirely. Ensure you are working with authentic nephrite or jadeite for meaningful practice. Myanmar-sourced jadeite raises ethical concerns; seek certified responsible sources.',
+    toxicity: 'Non-toxic in its natural form. Some treated or dyed jade may contain chemical dyes — handle untreated specimens when possible.',
+    fragility: 'Tough rather than hard — nephrite is one of the toughest natural materials due to its interlocking fibrous structure. Jadeite is slightly more brittle. Both resist chipping but should be protected from strong impacts.',
+
+    synergies: [
+      { crystal: 'Green Aventurine', id: 'green-aventurine', rationale: 'The classic pairing for abundance and luck — green aventurine brings opportunity-attracting energy and optimism while jade brings wisdom, patience, and the virtue to receive and steward what comes. Together they create a comprehensive abundance field rooted in both fortune and character.' },
+      { crystal: 'Rose Quartz', id: 'rose-quartz', rationale: 'Jade opens the heart to receive; rose quartz opens the heart to love and compassion. Together they create an expansive Heart chakra field that attracts loving relationships and supports deep emotional healing through both stones\' gentle Yin energy.' },
+      { crystal: 'Clear Quartz', id: 'clear-quartz', rationale: 'Clear quartz amplifies and focuses jade\'s harmonizing energy, projecting its heart-opening, abundance-attracting field further into the practitioner\'s environment and aura.' },
+      { crystal: 'Citrine', id: 'citrine', rationale: 'Citrine\'s solar, manifestation-activating energy combines with jade\'s patient abundance wisdom to create a balanced approach to prosperity — jade keeps ambition ethical and grounded, citrine keeps it energized and expansive.' }
+    ],
+    conflicts: [
+      { crystal: 'Red Jasper', id: 'red-jasper', reason: 'Red jasper is an intensely earthing, activating stone that drives action and endurance; jade is a gentle, patient, Yin-oriented stone that teaches receptivity and harmony. Their energies can conflict in sensitive practitioners — jade\'s subtle harmonizing can be overwhelmed by red jasper\'s strong activating presence. Use separately for different intentions.' }
+    ],
+    grid_role: 'Heart-center stone in abundance and harmony grids; wisdom anchor in healing layouts; protective boundary stone in traditional Asian grid arrangements',
+
+    chakra_filter: ['Heart'],
+    element_filter: 'Earth',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Use with Caution',
+    rarity_filter: 'Common',
+    intention_filter: ['Abundance', 'Harmony', 'Love', 'Healing', 'Wisdom', 'Protection', 'Luck'],
+    planet_filter: 'Venus',
+    zodiac_filter: ['Taurus', 'Libra', 'Pisces'],
+    energy_type_filter: 'Harmonizing'
   }
 ];
