@@ -2375,5 +2375,203 @@ window.CRYSTALS = [
     planet_filter: 'Sun',
     zodiac_filter: ['Leo', 'Libra', 'Aries'],
     energy_type_filter: 'Uplifting'
+  },
+
+  {
+    id: 'kyanite',
+    name: 'Kyanite',
+    emoji: '💙',
+    color: '#4a7ab5',
+    alt_names: ['Stone of Alignment', 'Disthene', 'Stone of the Muse'],
+    mineral_family: 'Silicate',
+    chemical_formula: 'Al₂SiO₅',
+    crystal_system: 'Triclinic',
+    mohs_hardness: 4.5,
+    luster: 'Vitreous to pearly',
+    transparency: 'Transparent to translucent',
+    color_range: 'Sky blue to deep indigo with lighter streaks; also occurs in green, orange, and black varieties — blue is the most common and prized',
+    origins: ['Brazil', 'Nepal', 'India', 'Kenya', 'United States', 'Switzerland'],
+    rarity: 'Uncommon',
+    ethical_sourcing: 'Brazilian kyanite is the most widely traded. Nepalese and Indian specimens are common in the market. Ask for country of origin. Avoid very cheap specimens — kyanite\'s variable hardness and blade-like crystal structure make quality specimens more labor-intensive to prepare.',
+    simulant_warnings: 'Blue kyanite is sometimes confused with blue sapphire or aquamarine. Its defining physical property is strongly anisotropic hardness: it registers Mohs 4.5 along the length of the blade but 6.5–7 across it — no other common mineral behaves this way. The distinctive bladed, striated crystal habit also sets it apart. Dyed blue glass or resin pieces lack the natural striations.',
+
+    short_intention: 'Align mind, body, and spirit — restore balance and clear all channels',
+    intention: 'Alignment & Balance',
+    chakras: ['Throat', 'Third Eye'],
+    element: 'Air',
+    planet: 'Venus',
+    day_of_week: 'Friday',
+    zodiac: ['Aries', 'Taurus', 'Libra'],
+    numerology: 4,
+    polarity: 'Yin',
+    solfeggio_frequency: '741 Hz',
+    energy_type: 'Clarifying',
+
+    emotional: [
+      'Dissolves frustration, confusion, and the emotional static of misalignment',
+      'Helps identify and articulate feelings that have been difficult to name or express',
+      'Supports calm, clear communication in tense or emotionally loaded situations',
+      'Encourages honest self-reflection without self-judgment'
+    ],
+    mental: [
+      'Cuts through mental confusion and restores clarity of thought and purpose',
+      'Helps identify where one\'s beliefs, words, and actions are out of alignment',
+      'Supports the integration of rational and intuitive intelligence',
+      'Excellent for those in mediation, negotiation, or any situation requiring bridge-building between different perspectives'
+    ],
+    spiritual: [
+      'One of the very few minerals that neither accumulates nor requires cleansing — it continuously self-clears',
+      'Aligns all chakras simultaneously without directed intent — simply holding it initiates the process',
+      'Opens channels of communication with spirit guides and higher dimensional intelligence',
+      'Cuts energetic cords and clears karmic patterns blocking authentic self-expression'
+    ],
+    physical: [
+      'Traditionally associated with supporting the throat, larynx, and thyroid gland',
+      'Believed to support the brain, cerebellum, and the body\'s muscular system',
+      'Associated with reducing blood pressure and supporting adrenal balance',
+      'Linked to supporting the body\'s natural ability to heal from injuries and surgeries'
+    ],
+
+    vedic_tradition: 'Associated with Venus (Shukra) in Jyotish for its qualities of harmony, balance, and refined communication. Used to align contradictory energies in the birth chart and to support the expression of authentic beauty, truth, and relational wisdom. Prescribed for those whose Venus is afflicted by confusion or blocked expression.',
+    tcm_use: 'Corresponds to the Triple Warmer and Heart meridians — the integrative, harmonizing systems of the body. Used energetically to bring all organ systems into balanced communication. Supports conditions of energetic fragmentation: when the body\'s systems are working against each other rather than in coordinated flow.',
+    five_element_theory: 'Metal element with Wood undertones — the precision of Metal directing the growth and expression of Wood. The capacity to cut through obstruction (Metal) and allow authentic expression to flow freely upward (Wood) into the light.',
+    feng_shui_bagua: 'Knowledge & Self-Cultivation (Gen), Career & Life Path (Kan)',
+    feng_shui_placement: 'Meditation room or sacred space as an alignment stone that continuously keeps the environment\'s energy flowing clearly. Home office or workspace for clear-headed, integrated thinking. Near the center of a home (Tai Chi) to align all sectors simultaneously.',
+    ancient_lore: 'Kyanite\'s name derives from the Greek kyanos, meaning deep blue — the same root as the word cyan. It was used as a compass in ancient times: suspended on a thread, a kyanite blade will slowly align itself along the north-south magnetic axis like a compass needle. Medieval craftspeople used powdered kyanite as an abrasive for polishing. Its unusual property of having two different hardnesses in the same crystal fascinated early mineralogists and made it a subject of scientific study.',
+    indigenous_traditions: 'In some shamanic traditions kyanite blades are used as energetic scalpels — their thin, sharp crystal form used in ritual to cut energetic cords, remove unwanted attachments, and clear the auric field. The self-cleansing property is noted across traditions as making it a uniquely trustworthy tool.',
+
+    meditation_guidance: 'Hold a kyanite blade lengthwise in one or both hands, or place it along the Throat chakra while lying down. Simply breathe. Kyanite does not require visualization or direction — it automatically begins aligning and clearing the chakra system. If you feel called to use it actively, sweep the blade slowly through the aura a few inches above the body from crown to feet to clear stagnant energy. Ideal before any meditation practice as a preparation and alignment tool, and after energy work to seal and balance the field.',
+    body_placement: 'Throat for communication alignment. Third Eye for mental clarity and honest perception. Along the spine (placed on the floor beneath you) to align the full chakra column. Held in both hands for full-system energetic alignment during any practice.',
+    space_placement: 'Center of a crystal grid as the master aligner — kyanite harmonizes the energies of all other stones around it. On a personal altar as a clearing and alignment tool used before other spiritual practices. Meditation room for continuous environmental alignment.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Kyanite contains aluminum oxide compounds that are not suitable for ingestion. Do not use for direct or indirect elixirs.',
+    jewelry_recommendations: 'Stunning in pendants and earrings where the bladed blue crystal can be appreciated. The variable hardness (4.5 along the blade) makes kyanite fragile for rings — it can cleave under pressure. Wire-wrapped settings are ideal. The natural bladed form is often left unpolished to showcase its crystal structure. Clean only with a dry or barely damp soft cloth.',
+
+    safe_cleansing: ['Does not require cleansing — self-clearing mineral', 'Moonlight overnight (optional enhancement)', 'Sound bath (optional)', 'Selenite plate'],
+    unsafe_cleansing: ['Water (can damage the layered crystal structure)', 'Salt or salt water', 'Ultrasonic cleaners'],
+    charging_methods: ['Moonlight', 'Selenite plate', 'Clear quartz cluster', 'Sound frequency 741 Hz', 'Visualization of clear blue-white light'],
+    storage_guidance: 'Handle with care — kyanite blades cleave easily along their length under lateral pressure. Store individually wrapped in soft cloth, away from harder stones. The bladed habit is fragile at the tips and edges. Never soak in water.',
+    cautions: 'Fragile along the blade due to perfect cleavage — handle with care. Not suitable for elixirs. Safe for normal, careful handling. Wash hands after handling raw specimens.',
+    toxicity: 'Safe to handle; avoid elixirs due to aluminum content',
+    fragility: 'High — perfect cleavage along blade length; tips and edges chip easily; handle with care',
+
+    synergies: [
+      { crystal: 'Selenite', id: 'selenite', rationale: 'Both are self-cleansing minerals that continuously clear and align energetic fields. Selenite works vertically — connecting earth and sky — while kyanite aligns horizontally across the chakra system. Together they create the most comprehensive energetic alignment and cleansing pairing available.' },
+      { crystal: 'Amethyst', id: 'amethyst', rationale: 'Kyanite aligns and opens the Throat and Third Eye channels while amethyst deepens the spiritual perception that flows through them. Together they prepare the practitioner for the clearest possible meditation and intuitive practice.' },
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', rationale: 'Kyanite aligns and clears the energetic field while black tourmaline seals and protects it. Together they offer the complete cycle of energetic maintenance: clearing, alignment, and protection.' }
+    ],
+    conflicts: [
+      { crystal: 'Pyrite', id: 'pyrite', reason: 'Pyrite\'s dense, activating, materially focused energy works against kyanite\'s subtle, aligning, spiritually clarifying nature. Together they can create energetic noise rather than clarity. Use kyanite for alignment work and pyrite for manifestation work in separate sessions.' }
+    ],
+    grid_role: 'Master aligner at the center of any grid; energetic scalpel in healing layouts; bridge stone connecting upper and lower chakra stones',
+
+    chakra_filter: ['Throat', 'Third Eye'],
+    element_filter: 'Air',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Uncommon',
+    intention_filter: ['Clarity', 'Communication', 'Spiritual', 'Truth', 'Balance'],
+    planet_filter: 'Venus',
+    zodiac_filter: ['Aries', 'Taurus', 'Libra'],
+    energy_type_filter: 'Clarifying'
+  },
+
+  {
+    id: 'turquoise',
+    name: 'Turquoise',
+    emoji: '🌊',
+    color: '#3a9e98',
+    alt_names: ['Stone of Heaven', 'Horseman\'s Talisman', 'Sky Stone'],
+    mineral_family: 'Phosphate',
+    chemical_formula: 'CuAl₆(PO₄)₄(OH)₈·4H₂O',
+    crystal_system: 'Triclinic',
+    mohs_hardness: 5.5,
+    luster: 'Waxy to dull',
+    transparency: 'Opaque',
+    color_range: 'Sky blue to blue-green and apple green; the most prized color is a pure, medium sky blue with no green or brown matrix',
+    origins: ['Iran (Persia)', 'United States (Southwest)', 'China', 'Mexico', 'Egypt', 'Tibet'],
+    rarity: 'Uncommon',
+    ethical_sourcing: 'Natural, untreated turquoise is increasingly rare and valuable. The vast majority of turquoise sold is treated (stabilized, dyed, or reconstructed) — this is acceptable if disclosed. Sleeping Beauty turquoise from Arizona (now mined out) is among the most prized. Navajo, Hopi, and Zuni artisans have deep cultural relationships with American turquoise — buying from Indigenous artists directly supports ethical sourcing. Persian turquoise from Nishapur, Iran has a 3,000-year history. Be deeply skeptical of very cheap "turquoise" — it is almost certainly howlite or dyed plastic.',
+    simulant_warnings: 'The turquoise market is one of the most deceptive in the crystal world. Dyed howlite is the most common substitute — it is white with grey veining that resembles turquoise matrix, easily dyed blue-green. Plastic, resin, and glass imitations are also widespread. "Reconstituted" turquoise (powdered turquoise bound with resin) is real turquoise material but should be priced and disclosed accordingly. True natural untreated turquoise is waxy, slightly porous, and its color is never perfectly uniform.',
+
+    short_intention: 'Walk in wholeness, speak sacred truth, and carry the protection of the sky',
+    intention: 'Protection & Wholeness',
+    chakras: ['Throat', 'Third Eye'],
+    element: 'Water',
+    planet: 'Venus',
+    day_of_week: 'Friday',
+    zodiac: ['Sagittarius', 'Pisces', 'Scorpio'],
+    numerology: 1,
+    polarity: 'Yin',
+    solfeggio_frequency: '741 Hz',
+    energy_type: 'Protective',
+
+    emotional: [
+      'Brings a deep, sky-blue calm to turbulent emotional states',
+      'Supports the integration of emotional experience into embodied wisdom',
+      'Encourages honest, heartfelt self-expression without fear of judgment',
+      'Helps heal the exhaustion of long-carried emotional burdens'
+    ],
+    mental: [
+      'Clears mental fog and supports honest, clear-eyed perception of reality',
+      'Counters negative self-talk and the mental habit of self-sabotage',
+      'Supports creative and inspired thinking that draws from deep experience',
+      'Bridges analytical and intuitive thinking into integrated wisdom'
+    ],
+    spiritual: [
+      'One of the oldest and most universally sacred stones across human civilization',
+      'Carries the combined energy of sky (blue) and earth (matrix veining) — the union of heaven and earth',
+      'Used in shamanic practice as a master healer and spirit-communication stone',
+      'Strengthens the connection between the physical body and the higher self'
+    ],
+    physical: [
+      'Historically the foremost healing stone of many ancient cultures',
+      'Associated with supporting the immune system and the body\'s overall vitality',
+      'Believed to support the throat, respiratory system, and the body\'s anti-inflammatory processes',
+      'Linked to supporting the absorption of nutrients and the health of the eyes'
+    ],
+
+    vedic_tradition: 'Feroza (turquoise) is one of the most widely used protective stones in Indo-Persian tradition. Associated with Venus (Shukra) and the Moon. Worn as a powerful talisman against the evil eye, accidents, and misfortune. Believed to change color when the wearer is in danger — a property noted across multiple ancient traditions worldwide.',
+    tcm_use: 'Corresponds to Kidney Water and Lung Metal energies. Supports the Kidney\'s function of storing essence and the Lung\'s governance of the defensive Qi (Wei Qi) — the body\'s outer protective layer. Used for conditions of Kidney deficiency marked by fear, weakness, and lack of trust in one\'s own resilience.',
+    five_element_theory: 'Water element with Metal protection — the depth of Water containing the clear, boundary-setting quality of Metal. The sky above and the earth below, held together in the stone\'s characteristic blue-green matrix.',
+    feng_shui_bagua: 'Career & Life Path (Kan), Helpful People & Travel (Qian)',
+    feng_shui_placement: 'Near the front entrance as a powerful guardian and protective talisman. North sector for career and life path protection. Travel altar or anywhere in the home dedicated to safe movement through the world. In the bedroom for protection during the vulnerability of sleep.',
+    ancient_lore: 'Turquoise is among the oldest gemstones in human history — Egyptian turquoise mines in the Sinai Peninsula date to 3200 BCE. Tutankhamun\'s death mask is inlaid with turquoise. The Aztecs used turquoise mosaics to decorate ceremonial objects of the highest importance, including the famous double-headed serpent now in the British Museum. Persian kings wore turquoise to protect against unnatural death. Tibetan shamans have used turquoise in ceremony for thousands of years, and it remains the most sacred stone in Tibetan culture. Native American peoples of the Southwest have worked turquoise for over 2,000 years.',
+    indigenous_traditions: 'Turquoise holds the deepest sacred significance of any stone in the Native American traditions of the Southwest — Navajo, Hopi, Zuni, and Pueblo peoples all have profound ceremonial, medicinal, and artistic relationships with it. The Navajo believe turquoise is a fragment of the sky fallen to earth. Apache warriors attached turquoise to their bows believing it ensured accuracy. In Tibetan Buddhism, turquoise is associated with the deity Tara and is offered at shrines throughout the Himalayas.',
+
+    meditation_guidance: 'Hold turquoise at the throat or heart, or place it on the forehead while lying down. Breathe slowly, visualizing yourself held within a vast, still sky — infinite in all directions, completely peaceful. Feel the stone connecting the sky above to the earth below through your body. Call in the quality of wholeness — not needing to be different, not needing to perform. Simply being fully, protectively yourself. Ideal for practices of self-acceptance, for healing old wounds of not being believed or heard, and for any journey work involving ancestral or past-life healing.',
+    body_placement: 'Throat for sacred communication and authentic self-expression. Third Eye for clear, protective perception. Over the heart for wholeness and integration. Worn as a necklace, bracelet, or ring — turquoise is most powerful when it touches the skin, as tradition across dozens of cultures confirms.',
+    space_placement: 'Near the front door as the primary protective guardian of the home. Bedroom for protection during sleep. Travel altar for any journey. In a sacred space representing the union of sky and earth energies. On a mesa or altar representing the natural world.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Turquoise contains copper compounds (CuAl₆(PO₄)₄) which can be harmful if ingested. Natural turquoise is also porous and may harbor bacteria. Do not use for direct elixirs. Moonlight-charged or spring water infused indirectly is the preferred method if an elixir is desired.',
+    jewelry_recommendations: 'One of the most ancient and beloved jewelry stones in human history. Mohs 5.5 — requires moderate care. Protect from chemicals, perfumes, and excessive moisture, which can alter the color of natural stones. The matrix veining (brown or black host rock) is a natural feature to be valued, not a flaw. Store away from harder stones to prevent scratching. Clean only with a dry or barely damp cloth — never soak.',
+
+    safe_cleansing: ['Moonlight overnight', 'Dry sage or cedar smoke', 'Sound bath with singing bowl', 'Selenite plate', 'Sunlight (very brief — 15 minutes maximum)'],
+    unsafe_cleansing: ['Water or prolonged moisture (can alter color and damage the stone)', 'Salt water', 'Chemical cleaners', 'Ultrasonic cleaners'],
+    charging_methods: ['Moonlight overnight', 'Sunlight (brief — 15 minutes)', 'Selenite plate', 'Visualization of sky-blue protective light', 'Sound frequency 741 Hz'],
+    storage_guidance: 'Store individually — turquoise scratches easily at Mohs 5.5 and its porous surface can absorb oils and pigments from contact with other materials. Keep away from perfumes, cosmetics, and chemicals. Store in a dry environment. Wrap in soft cloth or natural fiber.',
+    cautions: 'Not suitable for elixirs due to copper content. Safe for normal jewelry wear and handling. Avoid prolonged contact with moisture, oils, and chemicals. Wash hands after extended handling of raw specimens.',
+    toxicity: 'Safe to handle; avoid elixirs due to copper compounds',
+    fragility: 'Moderate — Mohs 5.5; porous; protect from moisture, chemicals, and scratching',
+
+    synergies: [
+      { crystal: 'Lapis Lazuli', id: 'lapis-lazuli', rationale: 'The two most ancient and sacred blue stones of human civilization — used together in Egyptian and Tibetan sacred objects for millennia. Turquoise brings sky-energy, wholeness, and protective power; lapis adds wisdom, truth, and royal authority. Together they are the complete sacred blue pairing.' },
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', rationale: 'Turquoise carries protective energy across broad spiritual and physical territory; black tourmaline seals and grounds the protective field into the Root chakra. Together they offer layered, comprehensive protection from the earth to the sky.' },
+      { crystal: 'Clear Quartz', id: 'clear-quartz', rationale: 'Clear quartz amplifies turquoise\'s protective and healing field, projecting its wholeness-restoring frequency further into the practitioner\'s environment. A classic pairing for medicine bundles and healing altars across many traditions.' }
+    ],
+    conflicts: [
+      { crystal: 'Malachite', id: 'malachite', reason: 'Both contain copper and both are powerful in their own right, but their energies overlap in ways that can create confusion — malachite drives transformation and emotional excavation while turquoise offers protection and wholeness. Together their copper-dominant energies can become overstimulating. Use separately for their distinct purposes.' }
+    ],
+    grid_role: 'Master protection stone at the outer boundary of any grid; sky-earth bridge stone in healing and shamanic layouts',
+
+    chakra_filter: ['Throat', 'Third Eye'],
+    element_filter: 'Water',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Uncommon',
+    intention_filter: ['Protection', 'Healing', 'Communication', 'Spiritual', 'Truth'],
+    planet_filter: 'Venus',
+    zodiac_filter: ['Sagittarius', 'Pisces', 'Scorpio'],
+    energy_type_filter: 'Protective'
   }
 ];
