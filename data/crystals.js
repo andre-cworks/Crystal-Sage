@@ -1979,5 +1979,203 @@ window.CRYSTALS = [
     planet_filter: 'Uranus',
     zodiac_filter: ['Scorpio', 'Sagittarius', 'Aquarius'],
     energy_type_filter: 'Transformative'
+  },
+
+  {
+    id: 'aquamarine',
+    name: 'Aquamarine',
+    emoji: '🩵',
+    color: '#5ba3c9',
+    alt_names: ['Stone of Courage', 'Sailor\'s Stone', 'Water of the Sea'],
+    mineral_family: 'Beryl',
+    chemical_formula: 'Be₃Al₂Si₆O₁₈',
+    crystal_system: 'Hexagonal',
+    mohs_hardness: 7.5,
+    luster: 'Vitreous',
+    transparency: 'Transparent to translucent',
+    color_range: 'Pale sky-blue to deep sea-blue and blue-green; the finest gems are clear and deeply saturated',
+    origins: ['Brazil', 'Pakistan', 'Nigeria', 'Madagascar', 'Zambia', 'Afghanistan'],
+    rarity: 'Uncommon',
+    ethical_sourcing: 'Brazilian aquamarine from Minas Gerais is the most abundant and well-documented. Pakistani specimens from the Karakorum range are prized for color depth. Nigerian aquamarine has increased in availability with generally transparent supply chains. Ask for country of origin when purchasing gem-quality stones.',
+    simulant_warnings: 'Blue topaz and synthetic spinel are commonly sold as aquamarine. Natural aquamarine is typically pale — deeply saturated specimens are rare and expensive. Blue topaz is heavier and usually more intensely blue. Natural aquamarine often shows parallel growth tubes ("rain" inclusions) under magnification that glass and synthetics lack.',
+
+    short_intention: 'Speak your truth with calm courage and flow through fear with grace',
+    intention: 'Communication & Courage',
+    chakras: ['Throat', 'Heart'],
+    element: 'Water',
+    planet: 'Moon',
+    day_of_week: 'Monday',
+    zodiac: ['Pisces', 'Aquarius', 'Aries'],
+    numerology: 1,
+    polarity: 'Yin',
+    solfeggio_frequency: '741 Hz',
+    energy_type: 'Calming',
+
+    emotional: [
+      'Dissolves fear around speaking one\'s truth and being truly heard',
+      'Brings calm, clear-headed composure in emotionally charged situations',
+      'Supports the release of old grief and unexpressed emotion held in the throat',
+      'Encourages compassionate, honest communication from a place of inner peace'
+    ],
+    mental: [
+      'Clears mental confusion and brings clarity of thought and expression',
+      'Supports structured, eloquent communication of complex ideas',
+      'Reduces overthinking and mental loops that prevent clear decision-making',
+      'Enhances intellectual precision and the ability to cut to the essential truth'
+    ],
+    spiritual: [
+      'Activates the Throat chakra for clear, truthful, and aligned self-expression',
+      'Historically the stone of oracles and prophets who speak divine truth',
+      'Deepens meditation by bringing a still, oceanic quality to the mind',
+      'Supports clairvoyance and the ability to perceive truth beneath surface appearances'
+    ],
+    physical: [
+      'Traditionally associated with supporting the throat, thyroid, and vocal cords',
+      'Believed to support the eyes, teeth, and the body\'s fluid systems',
+      'Associated with reducing allergies and respiratory conditions',
+      'Linked to soothing skin conditions and supporting healthy fluid balance'
+    ],
+
+    vedic_tradition: 'Associated with the Moon (Chandra) and Saturn (Shani) in Jyotish. Used to calm an afflicted Moon — reducing emotional volatility and anxiety. Worn by those in communicative professions to enhance eloquent, inspired speech and by spiritual teachers seeking to express divine wisdom clearly.',
+    tcm_use: 'Corresponds to the Lung and Kidney Water meridians. Supports the Lung\'s function of dispersing Qi and governing the voice. Nourishes Kidney Yin — the foundation of calm, clear, and courageous self-expression. Used for Lung deficiency: weak voice, grief held in the chest, and difficulty expressing one\'s needs.',
+    five_element_theory: 'Water element — flowing, adaptive, deep, and connective. Embodies the quality of water that carves canyons: gentle persistence that overcomes all obstacles. Supports the capacity to communicate with the same effortless, sustained power.',
+    feng_shui_bagua: 'Career & Life Path (Kan), Helpful People & Travel (Qian)',
+    feng_shui_placement: 'North sector for career clarity and life path alignment. Near the front door for protection during travel. Home office or creative studio for clear, inspired communication. On a travel altar for safe passage across water.',
+    ancient_lore: 'Ancient sailors carved aquamarine with the figure of Neptune as a talisman against drowning — earning it the name Sailor\'s Stone. The ancient Greeks believed it absorbed the spirit of the sea and was sacred to Poseidon. Roman fishermen called it "water of the sea" and used it in divination to receive messages from the ocean\'s depths. Medieval European seers used aquamarine as a scrying stone to reveal hidden truths and the location of lost objects.',
+    indigenous_traditions: 'In ancient Sumer, aquamarine was associated with the sea goddess and used in rites of purification and truth-speaking. In some South American traditions, pale blue stones connected to water are used in rain-calling ceremonies and rites honoring the spirit of rivers and the living ocean.',
+
+    meditation_guidance: 'Hold aquamarine at the throat or place it there while lying down. Breathe slowly, imagining each inhale drawing in cool, clear ocean air and each exhale releasing everything unspoken or held too tight in the body. Allow the mind to settle into the rhythm of gentle waves. Ideal before important conversations, public speaking, or any situation where calm, courageous communication is needed. Also powerful for grief work — aquamarine creates a safe container for tears and long-held sorrows.',
+    body_placement: 'Throat for communication and self-expression. Heart for emotional clarity and compassionate release. Forehead to still mental chatter. Worn as a necklace or pendant at the base of the throat — the most traditional and effective placement.',
+    space_placement: 'Near the front door for protection. North sector for career and life path energy. Recording studio, therapy room, or any space dedicated to authentic communication. Near water features to amplify their calming resonance.',
+    elixir_safety: 'Indirect',
+    elixir_notes: 'Aquamarine is a beryl (Be₃Al₂Si₆O₁₈). Beryllium compounds can be toxic if ingested. The stone is stable and safe to handle, but the indirect method is strongly recommended: place in a sealed glass vessel submerged in water without direct contact.',
+    jewelry_recommendations: 'One of the finest jewelry stones — Mohs 7.5, excellent clarity, and beautiful color. Suitable for rings, pendants, earrings, and bracelets with care. Avoid hard impacts. The color can fade with prolonged direct sunlight. Clean with mild soap and lukewarm water; avoid steam cleaners.',
+
+    safe_cleansing: ['Moonlight overnight', 'Running water (brief)', 'Sound bath with singing bowl', 'Selenite plate', 'Sage smoke'],
+    unsafe_cleansing: ['Prolonged direct sunlight (can fade color)', 'Saltwater soaking', 'Ultrasonic cleaners for included specimens'],
+    charging_methods: ['Full moon light near a bowl of water', 'Selenite plate', 'Visualization of clear ocean light', 'Sound frequency 741 Hz'],
+    storage_guidance: 'Store away from prolonged direct sunlight to preserve color. Mohs 7.5 is durable — keep away from harder stones to prevent scratching. Wrap in soft cloth for storage.',
+    cautions: 'Safe to handle. The indirect elixir method is recommended due to beryllium content. No risk from normal jewelry wear or handling.',
+    toxicity: 'Safe to handle; indirect elixir method recommended due to beryllium',
+    fragility: 'Low to moderate — Mohs 7.5; durable but protect from sunlight',
+
+    synergies: [
+      { crystal: 'Lapis Lazuli', id: 'lapis-lazuli', rationale: 'Both are classic Throat chakra stones. Aquamarine brings calm, flowing clarity to expression while lapis lazuli adds depth, authority, and the courage of truth. Together they create the complete voice of wisdom — serene and powerful.' },
+      { crystal: 'Rose Quartz', id: 'rose-quartz', rationale: 'Aquamarine opens the throat to speak truth while rose quartz ensures that truth is spoken from a foundation of love and compassion. Together they embody the highest form of communication: honest, kind, and healing.' },
+      { crystal: 'Amethyst', id: 'amethyst', rationale: 'Amethyst stills and deepens the mind while aquamarine flows that stillness into clear expression. Together they support the full arc of inspired communication: from inner knowing to outer voice.' }
+    ],
+    conflicts: [
+      { crystal: 'Carnelian', id: 'carnelian', reason: 'Carnelian fires and activates while aquamarine calms and flows. Together they create a restless tension between urgency and ease. Use separately — carnelian for boldness and drive, aquamarine for calm and considered expression.' }
+    ],
+    grid_role: 'Throat-field activator in communication grids; water-direction stone in elemental layouts; travel protection anchor',
+
+    chakra_filter: ['Throat', 'Heart'],
+    element_filter: 'Water',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Indirect',
+    rarity_filter: 'Uncommon',
+    intention_filter: ['Communication', 'Courage', 'Calm', 'Clarity', 'Truth'],
+    planet_filter: 'Moon',
+    zodiac_filter: ['Pisces', 'Aquarius', 'Aries'],
+    energy_type_filter: 'Calming'
+  },
+
+  {
+    id: 'lepidolite',
+    name: 'Lepidolite',
+    emoji: '💜',
+    color: '#9b7cb9',
+    alt_names: ['Stone of Transition', 'Peace Stone', 'Grandmother Stone'],
+    mineral_family: 'Mica Group',
+    chemical_formula: 'K(Li,Al)₃(Al,Si)₄O₁₀(OH,F)₂',
+    crystal_system: 'Monoclinic',
+    mohs_hardness: 2.5,
+    luster: 'Pearly to vitreous',
+    transparency: 'Translucent',
+    color_range: 'Pale lilac to deep rose-purple and lavender-grey; the characteristic mica shimmer gives it a soft, glittery appearance',
+    origins: ['Brazil', 'United States', 'Russia', 'Afghanistan', 'Madagascar', 'Zimbabwe'],
+    rarity: 'Common',
+    ethical_sourcing: 'Brazilian lepidolite is the most common market source. The lithium content has increased its commercial mining value — prefer small-batch artisan sources over industrial mining byproducts sold into the crystal market. Ask vendors about sourcing practices.',
+    simulant_warnings: 'Lepidolite is sometimes confused with purple fluorite or lavender amethyst. The key identifier is its extremely low hardness (Mohs 2.5) — a fingernail can scratch it. Its pearly, layered mica structure is also unique. Some pink tourmaline-bearing lepidolite is sold simply as "lepidolite" — this is accurate as the two minerals commonly occur together.',
+
+    short_intention: 'Find stillness in the storm, ease anxiety, and move through change with grace',
+    intention: 'Calm & Transition',
+    chakras: ['Crown', 'Third Eye', 'Heart'],
+    element: 'Air',
+    planet: 'Jupiter',
+    day_of_week: 'Thursday',
+    zodiac: ['Libra', 'Scorpio', 'Pisces'],
+    numerology: 8,
+    polarity: 'Yin',
+    solfeggio_frequency: '963 Hz',
+    energy_type: 'Calming',
+
+    emotional: [
+      'One of the most effective stones for anxiety, panic, and emotional overwhelm',
+      'Brings deep, stabilizing calm to emotional storms without suppressing feeling',
+      'Supports major life transitions — loss, change, endings, and new beginnings',
+      'Reduces emotional volatility and the exhaustion of cycling between extremes'
+    ],
+    mental: [
+      'Quiets obsessive, anxious, and circular thought patterns',
+      'Brings objectivity and perspective to situations that feel overwhelming or hopeless',
+      'Supports the recognition that all transitions are temporary and purposeful',
+      'Enhances receptivity to new ways of thinking when old frameworks are dissolving'
+    ],
+    spiritual: [
+      'Contains natural lithium — a mineral used medicinally for mood stabilization — giving it a unique biochemical dimension',
+      'Opens the Crown and Third Eye to higher guidance during periods of uncertainty and change',
+      'Known as the "grandmother stone" — carries the energy of wise, compassionate elder counsel',
+      'Supports work with mortality, endings, and the graceful release of what is complete'
+    ],
+    physical: [
+      'Contains natural lithium, traditionally associated with calming physical effects on the nervous system',
+      'Believed to support the adrenal glands and the body\'s stress response',
+      'Associated with supporting restful sleep and reducing the physical symptoms of anxiety',
+      'Linked to supporting conditions of nervous exhaustion and electromagnetic sensitivity'
+    ],
+
+    vedic_tradition: 'Associated with Jupiter (Guru) in Jyotish — the planet of wisdom, grace, and benevolent expansion. Used to invite Jupiter\'s most beneficent qualities: peace, wisdom, and the perspective that comes from seeing the larger pattern of one\'s life across time.',
+    tcm_use: 'Corresponds to Heart and Pericardium meridians. Calms the Heart-Mind (Shen) and supports the Pericardium\'s protective function — guarding the heart from shock and overwhelm. Used for anxiety, insomnia, and Heart deficiency patterns that manifest as restlessness and a deep sense of unease.',
+    five_element_theory: 'Metal and Water elements — the precision and release of Metal combined with the deep, yielding receptivity of Water. Supports the letting go of what is complete and the quiet listening that allows new wisdom to be received.',
+    feng_shui_bagua: 'Knowledge & Self-Cultivation (Gen), Family & Health (Zhen)',
+    feng_shui_placement: 'Bedroom for restful sleep and emotional calm. Meditation or sacred space for its deeply settling energy. Northeast corner for Knowledge and inner wisdom. Therapy or counseling spaces as a container for safe emotional processing.',
+    ancient_lore: 'Lepidolite was identified as a distinct mineral in the late 18th century. Its name derives from the Greek lepidos (scale) for its characteristic layered mica structure. It is a primary ore of lithium — the element found to be profoundly effective in treating bipolar disorder — giving it a unique intersection of mineral chemistry and mental health. Brazilian miners traditionally called it the "peace stone" for the calm it seemed to bring to those who handled it regularly.',
+    indigenous_traditions: 'In contemporary crystal traditions, lepidolite is known as the "grandmother stone" — carrying the energy of wise feminine counsel, patience, and the long view. It is used in grief circles and transition ceremonies to help people move through endings with dignity and peace.',
+
+    meditation_guidance: 'Hold lepidolite over the heart or place it on the forehead while lying down. Breathe slowly and let its calming energy settle over you like soft lavender light. You do not need to direct or visualize — simply allow. This stone works by holding. Ideal for anxious states where structured meditation feels impossible: simply holding lepidolite and breathing slowly is sufficient. Excellent for use before sleep, after difficult conversations, and during major life transitions.',
+    body_placement: 'Over the heart for emotional calming and anxiety relief. Forehead for quieting an overactive mind. Under the pillow or beside the bed for sleep support. Held in both hands during acute anxiety — its weight and texture provide a grounding sensory anchor.',
+    space_placement: 'Bedroom nightstand for sleep and emotional calm. Therapy or meditation room for a settled, safe container. On a desk for those prone to work-related anxiety. In a child\'s room for gentle soothing energy.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Lepidolite contains lithium, aluminum, and fluorine — not suitable for ingestion in uncontrolled quantities. Do not use for direct or indirect elixirs.',
+    jewelry_recommendations: 'Beautiful in pendants and earrings but extremely fragile at Mohs 2.5 — not suitable for rings or jewelry subject to impact. Best appreciated as a polished palm stone or tumbled stone for holding. Handle gently; clean only with a dry soft cloth.',
+
+    safe_cleansing: ['Moonlight overnight', 'Selenite plate', 'Sound bath with gentle singing bowl', 'Visualization of soft violet light', 'Sage or lavender smoke'],
+    unsafe_cleansing: ['Water in any form (can cause surface delamination)', 'Salt (abrasive)', 'Sunlight (fades color)', 'Ultrasonic cleaners'],
+    charging_methods: ['Full moon light', 'Amethyst cluster', 'Selenite plate', 'Visualization of Jupiter\'s golden-purple light', 'Sound frequency 963 Hz'],
+    storage_guidance: 'Extremely fragile — Mohs 2.5 means almost anything will scratch it. Store individually wrapped in soft cloth, completely separate from all other stones. Keep dry and away from sunlight.',
+    cautions: 'Handle with exceptional care due to extremely low hardness. Not suitable for elixirs due to lithium, aluminum, and fluorine content. Wash hands after extended handling of raw specimens.',
+    toxicity: 'Safe to handle when polished; avoid elixirs; wash hands after handling raw specimens',
+    fragility: 'Very high — Mohs 2.5; scratches from almost anything; handle and store with great care',
+
+    synergies: [
+      { crystal: 'Amethyst', id: 'amethyst', rationale: 'Both calming purple-hued stones that quiet the mind and support rest. Amethyst deepens spiritual clarity while lepidolite soothes anxiety and steadies the emotions. Together they create a powerful sanctuary of peace for the mind and heart.' },
+      { crystal: 'Rose Quartz', id: 'rose-quartz', rationale: 'Rose quartz holds the heart with unconditional love while lepidolite calms the nervous system and releases anxiety. Together they offer complete comfort — being both loved and at peace — a powerful pairing for grief and emotional exhaustion.' },
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', rationale: 'Black tourmaline grounds and protects the energetic field while lepidolite calms the emotional body within it. Together they address anxiety from both the external (protection from triggers) and internal (calming the response) directions.' }
+    ],
+    conflicts: [
+      { crystal: 'Moldavite', id: 'moldavite', reason: 'Moldavite accelerates intense transformation and is highly activating — the opposite of what lepidolite provides. Using them together can amplify anxiety rather than calm it. When someone needs lepidolite\'s peace, moldavite\'s intensity is contraindicated.' }
+    ],
+    grid_role: 'Calming center stone in anxiety and transition grids; upper-field anchor in sleep and emotional healing layouts',
+
+    chakra_filter: ['Crown', 'Third Eye', 'Heart'],
+    element_filter: 'Air',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Common',
+    intention_filter: ['Calm', 'Emotional Healing', 'Spiritual', 'Dream', 'New Beginnings'],
+    planet_filter: 'Jupiter',
+    zodiac_filter: ['Libra', 'Scorpio', 'Pisces'],
+    energy_type_filter: 'Calming'
   }
 ];
