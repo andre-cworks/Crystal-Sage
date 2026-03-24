@@ -3965,5 +3965,112 @@ window.CRYSTALS = [
     planet_filter: 'Venus',
     zodiac_filter: ['Taurus', 'Leo', 'Libra', 'Scorpio'],
     energy_type_filter: 'Calming'
+  },
+
+  {
+    id: 'prehnite',
+    name: 'Prehnite',
+    emoji: '🌿',
+    color: '#a8c8a0',
+
+    alt_names: ['Stone of Unconditional Love', 'Healer\'s Stone', 'Stone of Dreaming'],
+    mineral_family: 'Phyllosilicate (Calcium Aluminium)',
+    chemical_formula: 'Ca₂Al(AlSi₃O₁₀)(OH)₂',
+    crystal_system: 'Orthorhombic',
+    mohs_hardness: '6–6.5',
+    luster: 'Waxy to pearly',
+    transparency: 'Translucent to semi-transparent',
+    color_range: 'Pale mint green, apple green, yellow-green, occasionally white or yellow; often with inclusions of dark epidote needles',
+    origins: ['South Africa (first described 1788)', 'Australia', 'China', 'USA (New Jersey)', 'Scotland', 'Germany', 'Namibia'],
+    rarity: 'Common',
+    ethical_sourcing: 'Prehnite is widely available from responsible commercial sources. Australian and South African material dominates the market. No significant ethical concerns associated with mainstream prehnite supply.',
+    simulant_warnings: 'Jade, chrysoprase, and green fluorite are sometimes confused with prehnite. Authentic prehnite often shows characteristic botryoidal (grape-like) surface texture in natural form and may contain black or dark green epidote inclusions. It has a distinctly waxy, soft luster rather than the glassier quality of fluorite.',
+
+    short_intention: 'Inner peace, prophetic dreaming, and the healer\'s quiet strength',
+    intention: 'Prehnite is the stone of the quiet interior — the garden inside oneself that remains tended and peaceful regardless of what storms move through the outer world. It is the stone of healers who must give endlessly without losing themselves, of dreamers who need a bridge between waking and sleeping consciousness, and of those seeking not the dramatic awakening of high-frequency stones but the deep, sustaining peace that can only grow in stillness. Prehnite does not dazzle — it restores.',
+
+    chakras: ['Heart', 'Solar Plexus'],
+    element: 'Earth',
+    planet: 'Venus',
+    day_of_week: 'Friday',
+    zodiac: ['Libra', 'Capricorn', 'Pisces'],
+    numerology: 5,
+    polarity: 'Yin',
+    solfeggio_frequency: '528 Hz (love, DNA repair, transformation)',
+    energy_type: 'Harmonizing',
+
+    emotional: [
+      'Cultivates deep, stable inner peace that does not depend on external conditions',
+      'Supports healers, caregivers, and empaths in maintaining their own emotional reserves',
+      'Dissolves restlessness, worry, and the anxious need to control outcomes',
+      'Encourages acceptance and trust in the natural unfolding of circumstances',
+      'Soothes the emotional body after prolonged stress, overextension, or burnout'
+    ],
+    mental: [
+      'Quiets the busy, planning, problem-solving mind into restful presence',
+      'Supports prophetic and intuitive thinking — hunches, dreams, and inner knowing',
+      'Encourages decluttering: releasing mental attachments to objects, outcomes, and identities',
+      'Supports the development of genuine discernment over reactive judgment',
+      'Reduces the mental habit of accumulating worries, possessions, and obligations'
+    ],
+    spiritual: [
+      'A stone of prophetic dreaming and lucid dream development',
+      'Enhances clairvoyance and the ability to perceive future possibilities',
+      'Deepens connection to the angelic realm and spiritual guides',
+      'Supports the healer\'s path — maintaining spiritual integrity and personal reserves while serving others',
+      'Encourages voluntary simplicity and spiritual non-attachment'
+    ],
+    physical: [
+      'Traditionally associated with the kidneys, bladder, and the body\'s connective tissues',
+      'Used in crystal healing to support the shoulders, chest, and lungs',
+      'Associated with the thymus gland and immune system regulation',
+      'May support the body\'s natural detoxification and fluid balance',
+      'Used for gout and uric acid regulation in some crystal healing traditions'
+    ],
+
+    vedic_tradition: 'Prehnite\'s Venus rulership and peaceful, harmonizing nature align it with Shukra (Venus) practices for cultivating beauty, harmony, and inner wealth. Its dreaming and prophetic qualities also connect it to Neptune and Moon influences in contemporary Vedic crystal work.',
+    tcm_use: 'Associated with the Spleen and Stomach meridians (Earth element) — governing nourishment, groundedness, and the capacity to transform experience into wisdom. Prehnite supports the Spleen\'s role in housing thought (Yi) and the quiet, centered thinking that arises from a well-nourished center.',
+    five_element_theory: 'Earth and Metal — prehnite bridges Earth\'s nourishing, centering quality with Metal\'s refined clarity and capacity for release. It supports the harvest of inner wisdom from lived experience and the graceful letting go of what has been outgrown.',
+    feng_shui_bagua: 'Knowledge & Wisdom (Gen), Health (Tai Qi)',
+    feng_shui_placement: 'Place in the northeast (Knowledge) for developing inner wisdom and prophetic intuition. In the center of the home (Health) for overall emotional equilibrium and calm. In a meditation or healing space as an anchor for sustained, quiet spiritual work.',
+
+    ancient_lore: 'Prehnite was the first mineral to be named after a person — Colonel Hendrik von Prehn, who brought specimens from the Cape of Good Hope to Europe in 1774. It was formally described in 1788. In South Africa, the Bushmen (San people) used prehnite in shamanic practice for dreaming work and to connect with ancestral guidance. Its pale green color was associated with the subtle world of spirits and the in-between spaces of consciousness.',
+    indigenous_traditions: 'The San people of South Africa are among the earliest recorded users of prehnite, employing it in trance and dreaming ceremonies to access prophetic visions and ancestral communication. Pale green stones in many traditions are associated with the world between waking and dreaming, the borderlands of consciousness where guidance becomes available.',
+
+    meditation_guidance: 'Lie down and place prehnite gently on the heart or hold it in both hands resting on the chest. Close your eyes and breathe slowly. Rather than directing your awareness anywhere in particular, simply allow it to settle — like sediment in undisturbed water. Prehnite works in stillness. Do not try to see anything, receive anything, or achieve any state. Simply allow the stone\'s quiet garden-green energy to restore what has been depleted. This is a stone for resting in, not working with.',
+    body_placement: 'Heart chakra for peace and restoration; Solar Plexus for inner stability; placed under the pillow for prophetic dreaming; held gently in both hands during restful, non-directed meditation.',
+    space_placement: 'Meditation rooms and healing spaces. Bedside for dream work and restful sleep. Any space that needs a quality of quiet, restorative peace. In a garden or near plants — prehnite resonates with growing, living green things.',
+    elixir_safety: 'Generally Safe',
+    elixir_notes: 'Prehnite is generally considered safe for indirect elixirs. Use indirect method as standard precaution. The stone\'s aluminum content is naturally occurring and of low concern at elixir concentrations.',
+    jewelry_recommendations: 'Good hardness for daily wear in pendants, earrings, and rings with reasonable care. The pale green cabochons are beautiful in silver settings. Prehnite with epidote inclusions creates particularly striking specimens. Affordable and widely available.',
+
+    safe_cleansing: ['Running water', 'Moonlight', 'Sound', 'Smudging', 'Earth burial'],
+    unsafe_cleansing: ['Prolonged sunlight (may affect pale color)', 'Harsh chemicals'],
+    charging_methods: ['Full moon', 'Moonlight', 'Earth burial', 'Placed among living plants', 'Sound bath'],
+    storage_guidance: 'Durable for everyday use. Store separately from harder stones to prevent scratching the waxy surface. No special care required beyond standard crystal storage.',
+
+    cautions: 'One of the gentlest and most universally accessible stones — suitable for all levels of practitioners, sensitive individuals, and children. No significant cautions.',
+    toxicity: 'Non-toxic; safe to handle.',
+    fragility: 'Good durability for everyday wear.',
+
+    synergies: [
+      { crystal: 'Selenite', id: 'selenite', rationale: 'Selenite\'s pure, high-frequency Crown energy elevates prehnite\'s Heart-centered peacefulness toward spiritual clarity. Together they create a field of luminous, restful spiritual presence — ideal for meditation, healing spaces, and sleep.' },
+      { crystal: 'Lepidolite', id: 'lepidolite', rationale: 'Both are gentle, restorative stones that work with the nervous system and the need for inner peace. Lepidolite addresses anxiety through lithium-like calming; prehnite restores peace through deep Heart-Solar Plexus harmonizing. Together they are exceptional for burnout recovery and caregiver restoration.' },
+      { crystal: 'Amethyst', id: 'amethyst', rationale: 'Amethyst opens the Third Eye for spiritual perception; prehnite opens the dream channel for prophetic receiving. Together they create a complete intuition-dreaming field — particularly powerful placed near the bed for lucid dreaming and spiritual dream work.' }
+    ],
+    conflicts: [
+      { crystal: 'Moldavite', id: 'moldavite', reason: 'Moldavite is an intensely high-frequency, rapidly transformative stone that can feel overwhelming; prehnite is a gentle, slow, restorative stone that cultivates peace through stillness. Moldavite\'s intensity overwhelms prehnite\'s quiet. Use prehnite after moldavite work to ground and restore.' }
+    ],
+    grid_role: 'Peaceful center stone in healing and restoration grids; dream-activation stone placed at the head in sleep and vision layouts',
+
+    chakra_filter: ['Heart', 'Solar Plexus'],
+    element_filter: 'Earth',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Generally Safe',
+    rarity_filter: 'Common',
+    intention_filter: ['Healing', 'Calm', 'Dream', 'Spiritual', 'Clarity'],
+    planet_filter: 'Venus',
+    zodiac_filter: ['Libra', 'Capricorn', 'Pisces'],
+    energy_type_filter: 'Harmonizing'
   }
 ];
