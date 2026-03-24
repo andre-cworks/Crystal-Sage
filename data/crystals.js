@@ -3644,5 +3644,112 @@ window.CRYSTALS = [
     planet_filter: 'Saturn',
     zodiac_filter: ['Capricorn', 'Leo', 'Scorpio'],
     energy_type_filter: 'Protective'
+  },
+
+  {
+    id: 'peridot',
+    name: 'Peridot',
+    emoji: '💚',
+    color: '#8fbf4d',
+
+    alt_names: ['Chrysolite', 'Evening Emerald', 'Gem of the Sun', 'Olivine'],
+    mineral_family: 'Silicate (Nesosilicate / Olivine group)',
+    chemical_formula: '(Mg,Fe)₂SiO₄',
+    crystal_system: 'Orthorhombic',
+    mohs_hardness: '6.5–7',
+    luster: 'Vitreous',
+    transparency: 'Transparent to translucent',
+    color_range: 'Lime green, olive green, yellow-green, bright chartreuse; color intensity depends on iron content',
+    origins: ['Egypt (Zabargad/St. John\'s Island)', 'USA (Arizona, Hawaii)', 'Pakistan (Suppat Valley)', 'Myanmar', 'China', 'Norway'],
+    rarity: 'Common',
+    ethical_sourcing: 'Most commercial peridot comes from Arizona (San Carlos Apache Reservation — note tribal land protocols) and Pakistan. Pakistani peridot from Suppat Valley is gem-quality artisanal material. Arizona material is often tribally owned; purchase through licensed dealers who support the Apache community.',
+    simulant_warnings: 'Green tourmaline, green sapphire, and green glass are sold as peridot. Authentic peridot shows characteristic doubling of facet edges under magnification (high birefringence) and ranges from yellow-green to olive — rarely pure grass green.',
+
+    short_intention: 'Renewal, abundance, and release of old burdens',
+    intention: 'Peridot is the stone of new beginnings — bright, solar, and unstoppable as the first warm day of spring. It is one of the few stones that forms in the Earth\'s mantle and is also found in meteorites, carrying both deep-earth and cosmic origins. Peridot\'s great gift is the dissolution of old emotional patterns, resentments, and burdens so thoroughly that new growth becomes not just possible but inevitable. It teaches that abundance is the natural state of an open heart.',
+
+    chakras: ['Heart', 'Solar Plexus'],
+    element: 'Earth',
+    planet: 'Mercury',
+    day_of_week: 'Wednesday',
+    zodiac: ['Leo', 'Virgo', 'Scorpio', 'Sagittarius'],
+    numerology: 5,
+    polarity: 'Yang',
+    solfeggio_frequency: '528 Hz (love, DNA repair, transformation)',
+    energy_type: 'Activating',
+
+    emotional: [
+      'Dissolves long-held resentment, jealousy, and bitterness at their root',
+      'Releases guilt and the habit of self-blame for past mistakes',
+      'Restores optimism and genuine delight in life after prolonged difficulty',
+      'Supports forgiveness — both of self and of others who caused harm',
+      'Encourages emotional independence and freedom from victim-consciousness'
+    ],
+    mental: [
+      'Clears mental patterns of lack, scarcity thinking, and chronic comparison',
+      'Sharpens discernment — distinguishing what is truly important from what merely seems urgent',
+      'Supports intellectual growth and the joy of learning',
+      'Counters the mental habit of dwelling on past failures or future anxieties',
+      'Encourages fresh, unencumbered perspective on old problems'
+    ],
+    spiritual: [
+      'One of the oldest gem materials used by humans — found in Egyptian jewelry dating to 1500 BCE',
+      'The only common gem found in both Earth\'s mantle (as xenoliths) and in meteorites (pallasites)',
+      'Bridges earth and cosmic origin — a stone of both roots and stars',
+      'Associated with Ra, the Egyptian sun god, and used in solar temple offerings',
+      'Supports integration of personal will (Solar Plexus) with heart-centered values (Heart)'
+    ],
+    physical: [
+      'Traditionally associated with the digestive system, liver, and gallbladder',
+      'Used in crystal healing to support the adrenal glands and overall metabolic function',
+      'Associated with cellular regeneration and the body\'s capacity for renewal',
+      'May assist with skin conditions and the body\'s detoxification processes',
+      'Historically used to support eyesight — ancient Egyptians called it "gem of the sun"'
+    ],
+
+    vedic_tradition: 'Peridot is associated with Mercury (Budha) in Vedic astrology and strengthens intellectual clarity, communication, and adaptability. As a green stone it also relates to Venus and the Heart chakra. Supports Virgo and Gemini placements in developing discernment and mental agility.',
+    tcm_use: 'Associated with the Liver and Gallbladder meridians (Wood element) — governing smooth flow of Qi, vision and planning, and release of frustration and resentment. Peridot\'s bright green, activating, cleansing energy tonifies the Liver\'s function of keeping Qi moving freely.',
+    five_element_theory: 'Wood — the element of growth, springtime, vision, and the liver. Peridot embodies Wood energy at its most vibrant: the unstoppable upward thrust of new growth and the joy of expansion after a long winter.',
+    feng_shui_bagua: 'Wealth & Prosperity (Xun), Family & New Beginnings (Zhen)',
+    feng_shui_placement: 'Place in the southeast (Wealth) corner for abundance activation. In the east (Family/New Beginnings) for fresh starts. On a desk for mental clarity and productive energy.',
+
+    ancient_lore: 'Peridot has been mined on Zabargad (St. John\'s Island) in the Egyptian Red Sea for over 3,500 years — one of the longest continuously mined gem sources in history. The ancient Egyptians called it "the gem of the sun" and believed it protected against night terrors when set in gold. Cleopatra\'s famous emerald collection was reportedly composed largely of peridot. The Romans called it "evening emerald" because its color does not darken in artificial light.',
+    indigenous_traditions: 'The San Carlos Apache of Arizona consider peridot sacred — the reservation has been the world\'s primary commercial source since the 1960s. In Hawaiian tradition, peridot crystals on beaches are called "Pele\'s tears" — tears of the volcano goddess, carrying her creative fire.',
+
+    meditation_guidance: 'Hold peridot over the Solar Plexus or Heart, or place on the body while lying down. Visualize a bright, clear green-gold light filling the chest and abdomen — the translucent green of spring leaves backlit by the sun. Ask: "What am I ready to release? What new beginning am I ready to receive?" Peridot works with willingness — its renewal energy activates most strongly when the practitioner genuinely chooses to let go.',
+    body_placement: 'Heart chakra for emotional renewal; Solar Plexus for personal will and abundance activation; held in the dominant hand for energizing work.',
+    space_placement: 'Southeast corner for abundance; east-facing spaces for new beginnings; kitchen and shared dining areas for nourishment and generosity.',
+    elixir_safety: 'Generally Safe',
+    elixir_notes: 'Peridot (olivine) is generally considered safe for elixirs. Use direct or indirect method. Avoid prolonged soaking as it can affect polish on faceted specimens.',
+    jewelry_recommendations: 'Well-suited to all jewelry types with reasonable care. Classic August birthstone used in fine jewelry since antiquity. Striking in yellow gold settings that complement its warm green tones.',
+
+    safe_cleansing: ['Running water (brief)', 'Moonlight', 'Sound', 'Smudging', 'Selenite'],
+    unsafe_cleansing: ['Prolonged water soaking', 'Acidic solutions', 'Ultrasonic cleaners', 'Steam cleaning'],
+    charging_methods: ['Sunlight (brief — morning preferred)', 'Full moon', 'Earth burial', 'Mercury planetary hours (Wednesday)', 'Green plants and gardens'],
+    storage_guidance: 'Store separately from harder stones. Peridot has two cleavage directions — avoid hard impacts. Keep away from acids and harsh chemicals.',
+
+    cautions: 'Peridot\'s activating Solar Plexus energy can be intense for sensitive individuals. If overstimulating, pair with a grounding stone like hematite or black tourmaline.',
+    toxicity: 'Non-toxic; safe to handle.',
+    fragility: 'Moderate — cleavage in two directions makes it somewhat brittle. Handle with care.',
+
+    synergies: [
+      { crystal: 'Citrine', id: 'citrine', rationale: 'Both are solar, abundance-activating stones — citrine energizes the new through golden Solar Plexus will, peridot clears the old through green Heart renewal. Together they create a complete abundance field: releasing what blocks (peridot) and magnetizing what\'s coming (citrine).' },
+      { crystal: 'Malachite', id: 'malachite', rationale: 'Both are green Heart-Solar Plexus stones of transformation. Malachite drives deep emotional excavation; peridot restores joy and renewal after that work. A powerful sequential pairing for emotional healing.' },
+      { crystal: 'Clear Quartz', id: 'clear-quartz', rationale: 'Clear quartz amplifies peridot\'s renewal and abundance energy, projecting its bright, clean frequency further into the practitioner\'s aura and environment.' }
+    ],
+    conflicts: [
+      { crystal: 'Obsidian', id: 'obsidian', reason: 'Peridot is a bright, solar, forward-looking stone of renewal; obsidian is a deep, volcanic, backward-looking stone of shadow work. Their temporal orientations conflict — use sequentially: obsidian to process, then peridot to renew.' }
+    ],
+    grid_role: 'Renewal and abundance activator at the center or eastern point of manifestation grids; Heart-Solar Plexus bridge stone in healing layouts',
+
+    chakra_filter: ['Heart', 'Solar Plexus'],
+    element_filter: 'Earth',
+    polarity_filter: 'Yang',
+    elixir_filter: 'Generally Safe',
+    rarity_filter: 'Common',
+    intention_filter: ['Abundance', 'Healing', 'Transformation', 'Vitality', 'Love'],
+    planet_filter: 'Mercury',
+    zodiac_filter: ['Leo', 'Virgo', 'Scorpio', 'Sagittarius'],
+    energy_type_filter: 'Activating'
   }
 ];
