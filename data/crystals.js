@@ -4393,5 +4393,112 @@ window.CRYSTALS = [
     planet_filter: 'Venus',
     zodiac_filter: ['Taurus', 'Gemini', 'Aries', 'Cancer'],
     energy_type_filter: 'Harmonizing'
+  },
+
+  {
+    id: 'sapphire',
+    name: 'Sapphire',
+    emoji: '💙',
+    color: '#1a3a8b',
+
+    alt_names: ['Blue Corundum', 'Stone of Wisdom', 'Stone of Prophecy', 'Neelam (Vedic)'],
+    mineral_family: 'Oxide (Corundum)',
+    chemical_formula: 'Al₂O₃ (with iron and titanium for blue)',
+    crystal_system: 'Trigonal (Hexagonal)',
+    mohs_hardness: '9',
+    luster: 'Adamantine to vitreous',
+    transparency: 'Transparent to opaque',
+    color_range: 'All shades of blue (most prized: velvety "cornflower blue" of Kashmir); also pink, yellow, green, orange (padparadscha), purple, white — all non-red corundum is sapphire',
+    origins: ['Kashmir (legendary — now nearly exhausted)', 'Myanmar (Mogok)', 'Sri Lanka (Ceylon)', 'Madagascar', 'Australia', 'Montana (USA)', 'Thailand'],
+    rarity: 'Rare',
+    ethical_sourcing: 'Sri Lankan (Ceylon) sapphires are generally well-regulated and ethically traceable. Madagascar has become a major source with improving but still variable standards. Kashmir sapphire is virtually unavailable new — almost all on the market are antique or previously mined. Verify supply chain carefully for Myanmar material.',
+    simulant_warnings: 'Blue topaz, iolite, tanzanite, blue glass, and synthetic sapphire are all sold as or confused with sapphire. Genuine sapphire has hardness 9 — only diamond can scratch it. Synthetic sapphires are chemically identical; inclusions (silk — fine rutile needles) distinguish natural from synthetic under magnification.',
+
+    short_intention: 'Divine wisdom, truthful vision, and celestial clarity',
+    intention: 'Sapphire is the mind at its most elevated — not clever or analytical but clear in the way a high mountain lake is clear: still, deep, and capable of reflecting the sky without distortion. It is the stone of kings, priests, scholars, and judges throughout human history precisely because it embodies the quality most required of those who must see truly and speak truthfully: the capacity to perceive reality without the distorting lens of desire, fear, or self-interest. Sapphire connects the Third Eye to the Throat and Crown, creating a column of integrated wisdom — seen clearly, understood deeply, expressed truthfully.',
+
+    chakras: ['Third Eye', 'Throat', 'Crown'],
+    element: 'Air',
+    planet: 'Saturn',
+    day_of_week: 'Saturday',
+    zodiac: ['Virgo', 'Libra', 'Sagittarius', 'Aquarius'],
+    numerology: 2,
+    polarity: 'Yin',
+    solfeggio_frequency: '852 Hz (returning to spiritual order, awakening intuition)',
+    energy_type: 'Calming',
+
+    emotional: [
+      'Brings profound emotional clarity — seeing situations as they are, not as feared or wished',
+      'Dissolves emotional confusion, indecision, and the paralysis of competing feelings',
+      'Supports emotional loyalty, fidelity, and the depth of sustained commitment',
+      'Encourages the release of depression and despair by reconnecting with truth',
+      'Cultivates inner serenity rooted in genuine understanding rather than avoidance'
+    ],
+    mental: [
+      'Sharpens the analytical mind toward wisdom rather than mere cleverness',
+      'Supports focused concentration for demanding intellectual and spiritual work',
+      'Encourages truthful thinking — perceiving one\'s own biases and blind spots',
+      'Enhances memory, learning, and the retention of complex understanding',
+      'Supports scholarly, judicial, philosophical, and strategic mental work'
+    ],
+    spiritual: [
+      'One of the four precious gems of antiquity — stone of Saturn, divine law, and celestial order',
+      'Navaratna gem of Saturn (Shani) in Vedic tradition',
+      'The stone of the Ten Commandments in Hebrew tradition — Moses\' tablets reportedly sapphire',
+      'Associated with divine prophecy, truth-seeing, and the gift of spiritual discernment',
+      'Used across traditions to consecrate oaths, treaties, and sacred commitments'
+    ],
+    physical: [
+      'Traditionally associated with the eyes, ears, and the brain\'s cognitive functions',
+      'Used in crystal healing to support the thyroid, parathyroid, and nervous system',
+      'Associated with blood disorders and the regulation of glandular function',
+      'May support the reduction of fever and inflammatory conditions in some traditions',
+      'Historically used to treat eye conditions — ground sapphire was used in ancient eye medicines'
+    ],
+
+    vedic_tradition: 'Sapphire (Neelam) is the gem of Saturn (Shani) in Vedic astrology — the most powerful and potentially difficult of the Navaratna gems. Saturn\'s lessons are discipline, karma, and mastery through limitation; sapphire intensifies these. Traditionally worn only after careful astrological consultation, as an ill-placed Saturn can be exacerbated. When correctly worn, it brings discipline, focus, longevity, and spiritual advancement.',
+    tcm_use: 'Associated with the Kidney meridian (governing wisdom, will, and deep reserves) and the Triple Burner\'s upper region. Sapphire\'s cool, clear, descending energy tonifies Kidney Yin and clarifies the Shen — supporting the quality of deep, settled mental clarity that TCM calls "clear spirit."',
+    five_element_theory: 'Water and Metal — sapphire combines Water\'s depth, wisdom, and capacity for stillness with Metal\'s clarity, precision, and refined perception. It represents the still point where deep knowing and clear expression meet.',
+    feng_shui_bagua: 'Knowledge & Wisdom (Gen), Career & Life Path (Kan)',
+    feng_shui_placement: 'Place in the northeast (Knowledge) corner for wisdom, clarity, and focused learning. In the north (Career) for disciplined professional development and long-term strategic clarity. On a meditation altar for deepening contemplative practice.',
+
+    ancient_lore: 'Sapphire has been revered as a stone of divine wisdom for at least 4,000 years. In ancient Persia, the sky was blue because it rested on a giant sapphire. The ancient Hebrews believed the Ten Commandments were written on sapphire tablets. The Greeks associated it with Apollo and wore it at Delphi for clearer oracular communication. Medieval European clergy wore sapphire rings to symbolize heaven and divine truth — it was considered the gem of the Catholic Church. Sri Lanka (Ceylon) has been producing sapphires for over 2,000 years.',
+    indigenous_traditions: 'In Sri Lankan tradition, sapphires are considered gifts of the gods and have been traded for millennia along ancient spice and gem routes. In ancient Persian and Arabic traditions, the blue of sapphire represented the heavens and divine protection. The gem appears in royal regalia across every major civilization — from British Crown Jewels to Mughal imperial treasures.',
+
+    meditation_guidance: 'Hold sapphire at the Third Eye or Crown, or simply rest it in both hands in your lap. Close your eyes and breathe slowly. Imagine the quality of absolute stillness — a high mountain lake at dawn, before any wind moves. Let the mind become that still. Do not try to see anything or understand anything — simply practice the quality of clear, undisturbed awareness. Sapphire rewards sustained, patient meditation practice more than any other stone. Its depth reveals itself over months and years, not minutes.',
+    body_placement: 'Third Eye (between eyebrows) for clarity and spiritual vision; Throat for truthful expression; Crown for divine connection; worn on the middle finger (Saturn\'s finger) for ongoing wisdom and discipline.',
+    space_placement: 'Study, library, and any space for serious intellectual or spiritual work. Meditation room as a primary altar stone. Judicial or counseling spaces for truth and clarity. Northeast corner for ongoing wisdom cultivation.',
+    elixir_safety: 'Generally Safe',
+    elixir_notes: 'Natural sapphire (corundum) is safe for indirect elixirs. Use indirect method. Avoid heated or treated stones for elixir work.',
+    jewelry_recommendations: 'With hardness 9, sapphire is ideal for all jewelry including daily-wear rings — second only to diamond in durability. The classic engagement ring stone (Princess Diana\'s and Kate Middleton\'s ring is a Ceylon sapphire). September birthstone. Stunning in all metals; particularly elegant in white gold or platinum.',
+
+    safe_cleansing: ['Running water', 'Sunlight', 'Moonlight', 'Sound', 'Smudging'],
+    unsafe_cleansing: ['Ultrasonic cleaners (for fracture-filled stones)', 'Steam (for treated stones)'],
+    charging_methods: ['Moonlight', 'Full moon', 'Saturn planetary hours (Saturday)', 'Starlight', 'Sound bath'],
+    storage_guidance: 'Extremely durable — store separately only to prevent scratching softer stones. Natural sapphire requires no special care. Avoid ultrasonic cleaning for any treated or included specimens.',
+
+    cautions: 'In Vedic tradition, sapphire (Neelam) is the most powerful and potentially difficult gem — strongly advised to consult a Vedic astrologer before wearing if using for astrological purposes. As a crystal healing stone used without astrological intent, it is safe and beneficial for all.',
+    toxicity: 'Non-toxic; safe to handle.',
+    fragility: 'Exceptionally durable (hardness 9). One of the most robust gems available.',
+
+    synergies: [
+      { crystal: 'Lapis Lazuli', id: 'lapis-lazuli', rationale: 'The two great blue wisdom stones — lapis lazuli brings ancient, accumulated human wisdom and Third Eye depth; sapphire brings celestial clarity and divine truth. Together they create the most comprehensive wisdom field available, spanning from earthly knowledge to divine understanding.' },
+      { crystal: 'Amethyst', id: 'amethyst', rationale: 'Amethyst opens the Third Eye to spiritual perception; sapphire elevates that perception to its highest clarity and truthfulness. Together they create a complete upper-chakra wisdom circuit — amethyst for opening, sapphire for clarifying.' },
+      { crystal: 'Clear Quartz', id: 'clear-quartz', rationale: 'Clear quartz amplifies and focuses sapphire\'s wisdom and clarity energy. Together they create a powerful field of purified, focused, penetrating clarity — useful for any demanding mental, spiritual, or decision-making work.' }
+    ],
+    conflicts: [
+      { crystal: 'Carnelian', id: 'carnelian', reason: 'Carnelian drives impulsive, passionate, emotionally charged action from the Sacral chakra; sapphire cultivates cool, considered, wisdom-based clarity from the Third Eye and Crown. Their energetic orientations — heat versus cool, action versus reflection — can feel contradictory. Use separately for their distinct purposes.' }
+    ],
+    grid_role: 'Crown wisdom stone at the apex of truth and clarity grids; Saturn-alignment anchor in discipline and spiritual mastery layouts',
+
+    chakra_filter: ['Third Eye', 'Throat', 'Crown'],
+    element_filter: 'Air',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Use with Caution',
+    rarity_filter: 'Rare',
+    intention_filter: ['Clarity', 'Wisdom', 'Truth', 'Spiritual', 'Intuition', 'Communication'],
+    planet_filter: 'Saturn',
+    zodiac_filter: ['Virgo', 'Libra', 'Sagittarius', 'Aquarius'],
+    energy_type_filter: 'Calming'
   }
 ];
