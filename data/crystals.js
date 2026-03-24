@@ -3002,5 +3002,219 @@ window.CRYSTALS = [
     planet_filter: 'Mars',
     zodiac_filter: ['Aries', 'Scorpio', 'Taurus'],
     energy_type_filter: 'Grounding'
+  },
+
+  {
+    id: 'amazonite',
+    name: 'Amazonite',
+    emoji: '🩵',
+    color: '#4a9e8e',
+
+    alt_names: ['Amazon Stone', 'Stone of Courage', 'Stone of Truth'],
+    mineral_family: 'Feldspar (Microcline)',
+    chemical_formula: 'KAlSi₃O₈ (with lead and water inclusions for color)',
+    crystal_system: 'Triclinic',
+    mohs_hardness: '6–6.5',
+    luster: 'Vitreous',
+    transparency: 'Translucent to opaque',
+    color_range: 'Blue-green to teal, mint green, pale aqua; often with white streaks or veining',
+    origins: ['Russia (Ural Mountains)', 'USA (Colorado, Virginia)', 'Brazil', 'Madagascar', 'Ethiopia', 'India'],
+    rarity: 'Common',
+    ethical_sourcing: 'Most commercial amazonite is responsibly mined. Russian and Colorado sources have long histories of small-scale artisanal mining. Verify sourcing for Ethiopian material, which is more recently commercialized.',
+    simulant_warnings: 'Turquoise, chrysocolla, and dyed howlite are sometimes sold as amazonite. Authentic amazonite typically shows white streaks or schiller (pearlescent shimmer) and a distinctly feldspar-type cleavage pattern under magnification.',
+
+    short_intention: 'Truth, courageous communication, and heart-throat alignment',
+    intention: 'Amazonite bridges the heart and the throat — it takes what is true in the deepest part of you and gives it a voice. It is the stone for those who know what they feel but cannot say it, who know what they believe but doubt their right to claim it. Amazonite dissolves the fear of judgment, the people-pleasing instinct, and the exhausting habit of filtering one\'s authentic self for an imagined audience. It does not make the truth louder — it makes the speaker braver.',
+
+    chakras: ['Heart', 'Throat'],
+    element: 'Water',
+    planet: 'Uranus',
+    day_of_week: 'Wednesday',
+    zodiac: ['Virgo', 'Aquarius', 'Aries'],
+    numerology: 5,
+    polarity: 'Yin',
+    solfeggio_frequency: '741 Hz (expression, solutions, self-expression)',
+    energy_type: 'Balancing',
+
+    emotional: [
+      'Dissolves fear of judgment and the habit of self-censorship',
+      'Supports authentic expression of feelings without aggression or apology',
+      'Soothes emotional trauma from being consistently unheard or dismissed',
+      'Encourages healthy boundaries rooted in self-knowledge rather than reactivity',
+      'Balances masculine and feminine energies within the emotional body'
+    ],
+    mental: [
+      'Clears mental blocks that prevent honest self-expression',
+      'Supports discerning truth from conditioning, expectation, and others\' agendas',
+      'Encourages filter-free journaling, therapy work, and authentic written expression',
+      'Reduces the mental habit of anticipating others\' reactions before speaking',
+      'Supports decision-making aligned with personal values rather than social pressure'
+    ],
+    spiritual: [
+      'Activates both Heart and Throat chakras simultaneously — integration of love and truth',
+      'Aligns the practitioner with their soul\'s authentic expression',
+      'Supports work with guides and higher self communication',
+      'Used in shamanic traditions as a stone of vision and clear seeing',
+      'Encourages embodiment of one\'s highest spiritual truth in everyday speech and action'
+    ],
+    physical: [
+      'Traditionally associated with the nervous system, adrenal glands, and thyroid',
+      'Used in crystal healing to reduce electromagnetic stress and tension headaches',
+      'May support cellular regeneration and the body\'s natural balancing mechanisms',
+      'Associated with calcium absorption in some traditions',
+      'Helpful for those whose physical tension accumulates in the throat, jaw, and shoulders'
+    ],
+
+    vedic_tradition: 'Not traditionally part of classical Vedic gemology, but amazonite\'s teal color and balancing nature align it with Mercury and Venus influences in contemporary Vedic crystal work. It supports Virgo (Mercury-ruled) placements and the Heart-Throat communicative axis.',
+    tcm_use: 'Corresponds to the Heart and Lung meridians — the intersection of feeling (Heart) and speaking (Lung governs the voice). Amazonite\'s balancing, cooling energy supports Qi flow between these two organ systems, particularly when emotional holding manifests as vocal or respiratory constriction.',
+    five_element_theory: 'Water and Metal — amazonite bridges Water\'s depth of feeling with Metal\'s precision of expression. It supports the movement from internal knowing to clear, courageous articulation.',
+    feng_shui_bagua: 'Knowledge & Wisdom (Gen), Family & Ancestors (Zhen)',
+    feng_shui_placement: 'Place in the northeast (Knowledge) corner for authentic self-knowledge. In the east (Family), it supports honest communication within family relationships. On a desk to support truthful, values-aligned professional communication.',
+
+    ancient_lore: 'Amazonite is one of the oldest decorative stones in the world — beads and amulets have been found in Mesopotamia dating to 4000 BCE. The ancient Egyptians used it extensively: the "Book of the Dead" was carved on amazonite tablets, and it was found in Tutankhamun\'s tomb as a scarab ring and other jewelry. Despite its name, there is no evidence it was traded from the Amazon river; the name likely derives from a confusion with other green stones of the region.',
+    indigenous_traditions: 'Amazonite was traded across vast distances in pre-Columbian Mesoamerica and South America, where green stones were associated with the heart, water, and life-giving properties. Its use as a communication and truth-telling stone is widely consistent across traditions.',
+
+    meditation_guidance: 'Hold amazonite in your dominant hand or place it over the throat and heart simultaneously. Breathe deeply into the chest, feeling expansion of both heart and throat. With each exhale, practice letting a true thought or feeling simply exist without editing it. Ask internally: "What is true for me right now that I have not been saying?" Let the stone\'s energy create safety around that truth.',
+    body_placement: 'Throat chakra and Heart chakra simultaneously for full heart-throat alignment; jaw for tension release; worn as a necklace at throat length for ongoing support of authentic expression.',
+    space_placement: 'Therapy rooms, meditation spaces, and writing studios. On a desk for authentic professional communication. In a bedroom to support honest, vulnerable communication in intimate relationships.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Amazonite contains lead traces responsible for its color. Use the indirect method only — place the stone outside the container. Do not submerge in drinking water.',
+    jewelry_recommendations: 'Well-suited to pendants, earrings, and necklaces. Good hardness for daily wear though more fragile than quartz. Avoid ultrasonic cleaners. The polished teal surface is visually striking in silver settings.',
+
+    safe_cleansing: ['Moonlight', 'Sound', 'Smudging', 'Selenite', 'Visualization'],
+    unsafe_cleansing: ['Water (can affect polish over time)', 'Salt (abrasive)', 'Sunlight (may fade color)'],
+    charging_methods: ['Full moon', 'Moonlight', 'Sound bath', 'Clear quartz cluster', 'Breath and intention'],
+    storage_guidance: 'Store wrapped in soft cloth away from harder stones. Amazonite has good cleavage in two directions — avoid drops and hard knocks. Keep away from water and direct sunlight.',
+
+    cautions: 'Contains lead — do not make direct water elixirs. Otherwise safe to handle; wash hands after prolonged handling as a general precaution.',
+    toxicity: 'Contains trace lead; not safe for direct elixirs. Safe for handling.',
+    fragility: 'Moderate — good cleavage makes it susceptible to chipping on impacts. Handle with care.',
+
+    synergies: [
+      { crystal: 'Rose Quartz', id: 'rose-quartz', rationale: 'Rose quartz opens the heart to unconditional love and self-compassion; amazonite gives that love a voice. Together they form the complete heart-throat alignment — feeling deeply and expressing authentically from that depth.' },
+      { crystal: 'Lapis Lazuli', id: 'lapis-lazuli', rationale: 'Lapis lazuli adds depth of wisdom and spiritual truth to amazonite\'s courage and authentic expression. Together they support communication that is not only honest but wise — the marriage of heart-truth and higher knowing.' },
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', rationale: 'Amazonite is sensitive to electromagnetic frequencies; black tourmaline is the foremost EMF-protective stone. Pairing them creates a balanced field for sensitive communicators working in high-tech environments.' }
+    ],
+    conflicts: [
+      { crystal: 'Red Jasper', id: 'red-jasper', reason: 'Red jasper\'s strong, activating, Yang earth energy can overpower amazonite\'s gentle, balancing Water nature. Amazonite thrives in calm, receptive environments; red jasper drives force and endurance. Use separately for their distinct purposes.' }
+    ],
+    grid_role: 'Heart-throat bridge stone in communication and healing grids; balancing stone at the center of emotional-expression layouts',
+
+    chakra_filter: ['Heart', 'Throat'],
+    element_filter: 'Water',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Common',
+    intention_filter: ['Communication', 'Truth', 'Courage', 'Healing', 'Clarity', 'Balance'],
+    planet_filter: 'Uranus',
+    zodiac_filter: ['Virgo', 'Aquarius', 'Aries'],
+    energy_type_filter: 'Balancing'
+  },
+
+  {
+    id: 'celestite',
+    name: 'Celestite',
+    emoji: '💠',
+    color: '#7ec8e3',
+
+    alt_names: ['Celestine', 'Sky Stone', 'Angel Stone', 'Stone of Heaven'],
+    mineral_family: 'Sulfate (Strontianite group)',
+    chemical_formula: 'SrSO₄',
+    crystal_system: 'Orthorhombic',
+    mohs_hardness: '3–3.5',
+    luster: 'Vitreous to pearly',
+    transparency: 'Transparent to translucent',
+    color_range: 'Pale to medium sky blue, soft grey-blue, occasionally white, yellow, or colorless',
+    origins: ['Madagascar (finest clusters)', 'USA (Ohio, New York)', 'Mexico', 'Poland', 'Libya', 'Germany'],
+    rarity: 'Uncommon',
+    ethical_sourcing: 'Madagascar produces the finest blue celestite geodes, sourced through small-scale artisanal mining. Due to fragility and the beauty of natural specimens, prefer whole or minimally processed pieces. Verify sustainable collection practices.',
+    simulant_warnings: 'Blue barite and dyed calcite can resemble celestite. Authentic celestite is very light, extremely soft (scratched easily at 3–3.5 Mohs), and has a distinctive pearly luster. Genuine specimens often show tabular crystal habit.',
+
+    short_intention: 'Angelic communication, serene mind, and divine peace',
+    intention: 'Celestite is the frequency of the upper atmosphere made stone — the stillness above the weather, where the sky is always clear. It lifts the practitioner above the level at which confusion operates. It is the preeminent stone for angelic communication, divine guidance, and genuine inner peace — not the suppression of difficulty but the awareness of something vast and serene that holds it. In its presence, the mind quiets, the breath deepens, and the guidance that was always there becomes audible.',
+
+    chakras: ['Throat', 'Crown'],
+    element: 'Air',
+    planet: 'Neptune',
+    day_of_week: 'Sunday',
+    zodiac: ['Gemini', 'Libra', 'Pisces'],
+    numerology: 2,
+    polarity: 'Yin',
+    solfeggio_frequency: '963 Hz (divine consciousness, angelic realm)',
+    energy_type: 'Calming',
+
+    emotional: [
+      'Dissolves anxiety and mental turbulence by elevating awareness above it',
+      'Brings profound, stable inner peace — particularly useful in grief and loss',
+      'Supports emotional release through gentle, non-overwhelming processing',
+      'Reduces reactivity and the tendency to be swept up in others\' emotional states',
+      'Cultivates trust in divine timing and the benevolent intelligence of life'
+    ],
+    mental: [
+      'Quiets mental chatter and the over-active analytical mind',
+      'Supports clear, inspired thinking unclouded by anxiety or over-analysis',
+      'Enhances dream recall and subconscious communication',
+      'Useful for writers, musicians, and artists seeking access to higher inspiration',
+      'Encourages the practice of receptive listening — to self, to others, to the divine'
+    ],
+    spiritual: [
+      'The foremost stone for angelic communication and awareness of divine guidance',
+      'Opens the Crown chakra and upper Throat for reception of higher-frequency information',
+      'Supports clairvoyance, clairaudience, and mediumship work',
+      'Used to invite angelic presences into a space for protection and blessing',
+      'Deepens meditation by elevating awareness beyond the thinking mind into pure presence'
+    ],
+    physical: [
+      'Traditionally used to support the throat, thyroid, and upper respiratory system',
+      'Associated with the nervous system — useful for stress-related physical complaints',
+      'May support cellular regeneration and gentle release of chronic muscular tension',
+      'Used in crystal healing for eye strain and tension headaches from mental overwork',
+      'Promotes deep, restorative sleep when placed near the bed'
+    ],
+
+    vedic_tradition: 'Celestite aligns with Neptune and Jupiter in Vedic astrological crystal work — Neptune for spiritual dissolution and divine receptivity, Jupiter for wisdom and the higher mind. Particularly supportive of Pisces and Sagittarius placements seeking clear spiritual communication.',
+    tcm_use: 'Associated with the Lung meridian (which governs breath, the voice, and connection to heaven in TCM) and the Triple Burner\'s upper region. Celestite supports the descent of Heaven Qi into the body — the spiritual breath that nourishes the Shen (spirit) housed in the Heart.',
+    five_element_theory: 'Metal and Water — celestite bridges Metal\'s clarity and precision with Water\'s depth and spiritual receptivity. It supports Metal\'s highest expression: clear, refined, spiritually-attuned perception.',
+    feng_shui_bagua: 'Helpful People & Travel (Qian), Knowledge & Wisdom (Gen)',
+    feng_shui_placement: 'Place in the northwest (Helpful People) to invite angelic guidance and spiritual mentorship. In the northeast (Knowledge) to support meditation and higher learning. In the bedroom for peaceful sleep and vivid, meaningful dreams.',
+
+    ancient_lore: 'Celestite\'s name comes from the Latin "caelestis" (heavenly, celestial). It has been used as a stone of divine communication across many traditions, valued for its sky-blue color which universally signifies heaven and elevated spiritual states. Its extreme softness was seen in some traditions as fitting for a stone of pure spiritual essence — beautiful and otherworldly, not suited for the rough handling of the material world.',
+    indigenous_traditions: 'Sky-blue stones across many traditions are associated with the sky world, divine messengers, and communication with spirit. Celestite\'s role as an angelic stone is consistent with widespread indigenous associations between blue stones, sky beings, and the elevated messages they carry.',
+
+    meditation_guidance: 'Place celestite on a surface at eye level or hold it very gently in both hands. Close your eyes and breathe slowly. With each inhale, imagine drawing in the color of a clear sky — soft, pale blue expanding through the chest and up through the crown. With each exhale, release every thought, concern, and agenda. The goal is not to achieve anything but to arrive in pure receptivity — listening for what may be heard in the silence.',
+    body_placement: 'Crown chakra (top of head or just above in the aura); Throat chakra for communication support; beside the body rather than on it for full-field activation. Placed near the pillow for dream work.',
+    space_placement: 'Meditation rooms and altars. Bedroom for sleep support and dream recall. Near windows or in elevated positions — celestite resonates with height and openness. Avoid high-traffic areas where it may be knocked and broken.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Celestite (strontium sulfate) is water-soluble and can leach strontium into water. Do not use for elixirs in any method. Appreciate it as a visual and energetic presence only.',
+    jewelry_recommendations: 'Not recommended for jewelry due to extreme softness (3–3.5 Mohs) and fragility. Best kept as a raw specimen or geode for altar, meditation space, or bedroom use. Handle with great care.',
+
+    safe_cleansing: ['Moonlight', 'Sound', 'Smudging', 'Visualization', 'Breath'],
+    unsafe_cleansing: ['Water (dissolves slowly)', 'Salt (abrasive and damaging)', 'Sunlight (fades blue color rapidly)', 'Earth burial (moisture damage)'],
+    charging_methods: ['Full moon', 'Moonlight', 'Sound bath', 'Angelic invocation', 'Clear quartz proximity'],
+    storage_guidance: 'Extremely fragile — store in a padded box or on a stable surface where it will not be moved or knocked. Keep away from water, salt, and direct sunlight (which fades the blue color irreversibly). Handle as rarely as possible.',
+
+    cautions: 'Handle with exceptional care — one of the most fragile common crystals. Its softness means even gentle handling can chip crystals. Water will slowly dissolve it. Not suitable for jewelry or pocket carry. This is a stone for a special, protected place.',
+    toxicity: 'Strontium is of low toxicity in natural sulfate form, but the stone should not be used in elixirs. Safe for careful handling.',
+    fragility: 'Very fragile — among the most delicate crystals commonly available. Treat as a precious object.',
+
+    synergies: [
+      { crystal: 'Selenite', id: 'selenite', rationale: 'Both are high-vibration, angelic-frequency stones that clear mental clutter and elevate awareness. Selenite grounds celestite\'s celestial energy just enough to be receivable — together they create a pure, elevated field for divine communication and deep peace.' },
+      { crystal: 'Amethyst', id: 'amethyst', rationale: 'Amethyst opens the Third Eye to spiritual perception; celestite opens the Crown and upper Throat to divine reception. Together they create a complete upper-chakra channel — a powerful combination for meditation and spiritual guidance work.' },
+      { crystal: 'Lepidolite', id: 'lepidolite', rationale: 'Lepidolite soothes the nervous system and anxiety at the emotional level; celestite elevates awareness above anxiety at the spiritual level. Together they address anxious mind from both below (calming the nerves) and above (accessing the serenity that transcends it).' }
+    ],
+    conflicts: [
+      { crystal: 'Carnelian', id: 'carnelian', reason: 'Carnelian\'s fiery, activating, earthly Sacral energy is the polar opposite of celestite\'s ethereal, elevated, angelic Crown energy. Using them together can create a destabilizing push-pull between earthly desire and heavenly stillness. Work with each separately.' }
+    ],
+    grid_role: 'Crown point in angelic and divine communication grids; elevated presence stone placed above the body in healing layouts',
+
+    chakra_filter: ['Throat', 'Crown'],
+    element_filter: 'Air',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Uncommon',
+    intention_filter: ['Calm', 'Spiritual', 'Clarity', 'Dream', 'Communication', 'Healing'],
+    planet_filter: 'Neptune',
+    zodiac_filter: ['Gemini', 'Libra', 'Pisces'],
+    energy_type_filter: 'Calming'
   }
 ];
