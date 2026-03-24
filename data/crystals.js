@@ -4500,5 +4500,112 @@ window.CRYSTALS = [
     planet_filter: 'Saturn',
     zodiac_filter: ['Virgo', 'Libra', 'Sagittarius', 'Aquarius'],
     energy_type_filter: 'Calming'
+  },
+
+  {
+    id: 'larimar',
+    name: 'Larimar',
+    emoji: '🌊',
+    color: '#5fb3d4',
+
+    alt_names: ['Dolphin Stone', 'Atlantis Stone', 'Blue Pectolite', 'Caribbean Gem'],
+    mineral_family: 'Silicate (Inosilicate / Pectolite)',
+    chemical_formula: 'NaCa₂Si₃O₈(OH) (with copper for blue color)',
+    crystal_system: 'Triclinic',
+    mohs_hardness: '4.5–5',
+    luster: 'Waxy to silky',
+    transparency: 'Opaque',
+    color_range: 'Sky blue, turquoise blue, blue-green, with white cloud-like patterns; finest stones show deep volcanic blue with minimal white',
+    origins: ['Dominican Republic (Los Chupaderos mine — the only source in the world)'],
+    rarity: 'Rare',
+    ethical_sourcing: 'Larimar exists in only one place on earth — a single mountain in the Barahona province of the Dominican Republic. Mining is regulated by the Dominican government and largely conducted by local artisanal miners. Support fair-trade Dominican dealers. As a genuinely rare single-source stone, demand pressure is a real concern.',
+    simulant_warnings: 'Larimar is heavily faked — blue-dyed howlite, blue chalcedony, and blue glass are all sold as larimar. Authentic larimar shows distinctive cloud-like white patterns within a blue field, has a characteristic silky luster, and is always opaque. The volcanic blue pattern is unlike any other stone. Purchase only from reputable Dominican or certified dealers.',
+
+    short_intention: 'Oceanic calm, goddess energy, and the serenity of infinite perspective',
+    intention: 'Larimar is the Caribbean sea made stone — its blues hold the exact quality of light on tropical water: simultaneously vast and intimate, endlessly deep and perfectly clear. It is the stone of the divine feminine in her most serene expression: not the fierce goddess of malachite or the wise elder of chrysocolla, but the oceanic goddess whose love encompasses everything without effort and whose peace is not absence of feeling but the very ground beneath feeling. Larimar dissolves the constructions of fear, urgency, and self-limitation the way the tide dissolves footprints — gently, completely, without drama.',
+
+    chakras: ['Throat', 'Heart', 'Third Eye'],
+    element: 'Water',
+    planet: 'Neptune',
+    day_of_week: 'Friday',
+    zodiac: ['Leo', 'Pisces', 'Sagittarius'],
+    numerology: 6,
+    polarity: 'Yin',
+    solfeggio_frequency: '741 Hz (expression, solutions, awakening intuition)',
+    energy_type: 'Calming',
+
+    emotional: [
+      'Dissolves fear, phobia, and irrational anxiety with oceanic, encompassing calm',
+      'Supports those who feel emotionally overwhelmed by the intensity of their own sensitivity',
+      'Releases deeply held emotional patterns — grief, self-imposed limitations, old vows',
+      'Encourages playfulness, joy, and the lightness of a heart released from burdens',
+      'Supports women through major life transitions — birth, menopause, emotional rebirth'
+    ],
+    mental: [
+      'Quiets the overthinking, catastrophizing mind with gentle oceanic stillness',
+      'Encourages the "big picture" perspective that makes present anxieties feel manageable',
+      'Supports clear, open communication from a place of calm rather than reactivity',
+      'Reduces the mental habit of self-imposed limitation and "I can\'t" thinking',
+      'Encourages creative, free-flowing thought unconstrained by convention'
+    ],
+    spiritual: [
+      'Associated with the lost continent of Atlantis in metaphysical tradition — ancient oceanic wisdom',
+      'Embodies the divine feminine archetype in its most expansive, oceanic expression',
+      'Supports connection with dolphins, cetaceans, and the consciousness of the sea',
+      'Opens all three of the communication-wisdom chakras (Throat, Heart, Third Eye) simultaneously',
+      'Used in past-life regression work connected to oceanic, island, or Atlantean incarnations'
+    ],
+    physical: [
+      'Traditionally associated with the throat, chest, and the regulation of blood pressure',
+      'Used in crystal healing to support the thyroid and the body\'s stress response',
+      'Associated with the feet, joints, and pain relief in some crystal healing traditions',
+      'May support women through childbirth and the major hormonal transitions of life',
+      'Promotes deep relaxation and the release of chronic physical tension patterns'
+    ],
+
+    vedic_tradition: 'Larimar was unknown to classical Vedic tradition as a named stone, but its Neptune and Venus qualities align it with spiritual dissolution and divine feminine grace in contemporary Vedic crystal work. Its oceanic nature connects it to Moon energy — the tides, the emotional body, and the cycles of feminine wisdom.',
+    tcm_use: 'Associated with the Kidney meridian (governing deep reserves and the capacity to descend into stillness) and the Lung meridian (governing breath and the release of grief). Larimar\'s cool, descending Water energy tonifies Kidney Yin and supports the Lung\'s capacity to let go fully with each exhale.',
+    five_element_theory: 'Water — the deepest, most encompassing expression of Water energy: the ocean itself. Larimar embodies Water\'s most expansive quality: the capacity to hold everything without being disturbed by anything.',
+    feng_shui_bagua: 'Knowledge & Wisdom (Gen), Love & Partnership (Kun)',
+    feng_shui_placement: 'Place near water features — fountains, aquariums, or ocean-facing windows. In the southwest (Love) for serene, goddess-energy relationships. In the northeast (Knowledge) for wisdom rooted in oceanic perspective. Wherever calm is most needed in the home.',
+
+    ancient_lore: 'Larimar was known to indigenous Taíno people of the Caribbean long before European contact, though the modern name was coined in 1974 by Dominican Miguel Méndez, who named it after his daughter Larissa and "mar" (sea). Edgar Cayce\'s readings about Atlantis described a blue stone that would be found in the Caribbean — many metaphysical practitioners consider larimar to be this Atlantean stone, carrying the wisdom of a lost civilization. Cayce described it as holding the energy of the sea and sky united.',
+    indigenous_traditions: 'The Taíno peoples of Hispaniola (Dominican Republic/Haiti) lived in relationship with the land that produces larimar for thousands of years before European arrival. Blue stones in Taíno tradition were associated with water spirits, the sky world, and the sacred feminine. The stone was re-discovered in 1974 after a local man noticed blue stones washing up on the beach from a river that led back to the mountain source.',
+
+    meditation_guidance: 'Hold larimar over the heart, or place it on the throat and heart simultaneously. Close your eyes and breathe slowly and deeply. With each inhale, imagine breathing in the color of tropical ocean water — clear, warm, blue-green. With each exhale, release every tightness, urgency, and self-imposed limitation into that vast, receiving ocean. Feel your sense of self expanding outward — the way the horizon expands when you stand at the edge of the sea. Larimar meditation is best done near water, in sunlight, or with the sound of waves.',
+    body_placement: 'Throat chakra for communication; Heart for oceanic love and calm; Third Eye for vast perspective; laid across the chest and throat simultaneously for full upper-body release. Can be placed on the forehead during savasana for deep relaxation.',
+    space_placement: 'Near any water feature — fountain, aquarium, ocean view. Bathroom or bathing space for oceanic ritual. Meditation room for expansive perspective. Healing rooms and therapy spaces for creating a calm, safe, spacious field.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Larimar (pectolite) may contain trace copper and other minerals. Use indirect method only — place stone outside the container. Do not submerge in drinking water.',
+    jewelry_recommendations: 'Moderate softness (4.5–5 Mohs) — best as pendants and earrings rather than rings. Larimar polishes beautifully and the ocean-pattern cabochons are stunning. As a rare, single-source stone, fine larimar jewelry holds both material and spiritual value.',
+
+    safe_cleansing: ['Moonlight', 'Sound', 'Smudging', 'Visualization', 'Breath'],
+    unsafe_cleansing: ['Water (can affect surface over time)', 'Salt', 'Sunlight (can fade blue color)', 'Ultrasonic cleaners'],
+    charging_methods: ['Full moon', 'Moonlight', 'Ocean air or near the sea', 'Sound bath', 'Neptune planetary visualization'],
+    storage_guidance: 'Store individually in soft cloth — moderately soft and should be protected from scratching. Keep away from direct sunlight to preserve blue color. Handle gently; the stone is not fragile but its surface polish is worth protecting.',
+
+    cautions: 'As an extremely rare single-source stone, purchase thoughtfully and from verified ethical sources. Color fades in prolonged direct sunlight — store away from UV exposure. Not for elixirs.',
+    toxicity: 'Contains trace copper; not safe for direct elixirs. Safe for handling.',
+    fragility: 'Moderate softness. Handle with care for jewelry; palm stones and display pieces are more durable in use.',
+
+    synergies: [
+      { crystal: 'Aquamarine', id: 'aquamarine', rationale: 'Both are blue, water-energy, throat-activating stones of oceanic calm and clear communication. Aquamarine adds courage and clarity of purpose; larimar adds oceanic depth and feminine grace. Together they create the most comprehensive water-element communication field available.' },
+      { crystal: 'Rose Quartz', id: 'rose-quartz', rationale: 'Rose quartz opens the heart with gentle love; larimar opens it with oceanic spaciousness. Together they create a Heart-Throat field of extraordinary tenderness and calm expression — ideal for healing relationships and compassionate communication.' },
+      { crystal: 'Selenite', id: 'selenite', rationale: 'Selenite\'s pure, luminous, moon-aligned energy complements larimar\'s oceanic, Neptune-aligned depth. Both are Yin, both elevate awareness above anxiety, both carry a quality of serene, unearthly peace. Together they create a field of the most refined, elevated calm.' }
+    ],
+    conflicts: [
+      { crystal: 'Red Jasper', id: 'red-jasper', reason: 'Red jasper is a strongly activating, warming, Mars-influenced Earth stone of endurance and primal vitality; larimar is a cooling, receptive, Neptune-influenced Water stone of oceanic calm. Their elemental poles — Fire/Earth versus Water — can feel discordant in sensitive practitioners. Use separately.' }
+    ],
+    grid_role: 'Oceanic calm anchor in healing and communication grids; goddess-energy centerpiece in divine feminine layouts',
+
+    chakra_filter: ['Throat', 'Heart', 'Third Eye'],
+    element_filter: 'Water',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Rare',
+    intention_filter: ['Calm', 'Communication', 'Healing', 'Love', 'Spiritual', 'Truth'],
+    planet_filter: 'Neptune',
+    zodiac_filter: ['Leo', 'Pisces', 'Sagittarius'],
+    energy_type_filter: 'Calming'
   }
 ];
