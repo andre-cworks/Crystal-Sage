@@ -3430,5 +3430,219 @@ window.CRYSTALS = [
     planet_filter: 'Venus',
     zodiac_filter: ['Taurus', 'Gemini', 'Virgo'],
     energy_type_filter: 'Calming'
+  },
+
+  {
+    id: 'angelite',
+    name: 'Angelite',
+    emoji: '🕊️',
+    color: '#b0c4de',
+
+    alt_names: ['Blue Anhydrite', 'Angel Stone', 'Stone of Awareness'],
+    mineral_family: 'Sulfate (Anhydrite)',
+    chemical_formula: 'CaSO₄',
+    crystal_system: 'Orthorhombic',
+    mohs_hardness: '3–3.5',
+    luster: 'Waxy to pearly',
+    transparency: 'Translucent to opaque',
+    color_range: 'Soft powder blue, pale blue-grey, occasionally white or lilac',
+    origins: ['Peru (primary source)', 'Germany', 'Egypt', 'Mexico', 'Libya', 'Poland'],
+    rarity: 'Uncommon',
+    ethical_sourcing: 'Most angelite comes from Peru, where it forms from gypsum that was compressed over millions of years. Small-scale artisanal mining predominates. Look for responsibly sourced Peruvian material.',
+    simulant_warnings: 'Blue calcite, blue lace agate, and dyed howlite are sometimes sold as angelite. Authentic angelite is slightly heavier than calcite, lacks agate\'s banding, and has a distinctive soft, opaque powder-blue appearance. It is also water-sensitive — calcite is more resistant.',
+
+    short_intention: 'Angelic connection, compassionate awareness, and peaceful higher communication',
+    intention: 'Angelite holds the quiet of a winter sky just after snowfall — complete stillness, complete softness, complete peace. It is a stone of elevated awareness: not the excitement of spiritual discovery but the settled knowing of one who has been in the presence of something vast and loving. It opens the upper chakras gently, invites angelic guidance, and dissolves the sense of separation from the divine that underlies so much human anxiety. In angelite\'s presence, the feeling is not that you are reaching upward toward something — it is that something loving is already here.',
+
+    chakras: ['Throat', 'Third Eye', 'Crown'],
+    element: 'Air',
+    planet: 'Uranus',
+    day_of_week: 'Sunday',
+    zodiac: ['Aquarius', 'Pisces', 'Capricorn'],
+    numerology: 1,
+    polarity: 'Yin',
+    solfeggio_frequency: '963 Hz (divine consciousness, angelic realm)',
+    energy_type: 'Calming',
+
+    emotional: [
+      'Dissolves feelings of spiritual isolation and the painful sense of being unseen by the divine',
+      'Brings profound serenity in moments of grief, fear, or existential distress',
+      'Supports compassionate communication — expressing difficult truths with love',
+      'Encourages forgiveness and the release of long-held resentments',
+      'Soothes anxiety rooted in spiritual disconnection or loss of faith'
+    ],
+    mental: [
+      'Quiets the critical inner voice and replaces it with compassionate inner witness',
+      'Supports telepathic and intuitive communication — receiving rather than analyzing',
+      'Enhances awareness of synchronicities, signs, and meaningful patterns',
+      'Encourages acceptance of what cannot be controlled or understood mentally',
+      'Supports the shift from fear-based thinking to trust-based awareness'
+    ],
+    spiritual: [
+      'Opens all three upper chakras (Throat, Third Eye, Crown) for integrated higher communication',
+      'The preeminent stone for conscious connection with angelic guides and guardians',
+      'Supports astral travel, lucid dreaming, and out-of-body awareness',
+      'Used to create a protective circle of angelic energy around a space or person',
+      'Facilitates communication with departed loved ones in grief support work'
+    ],
+    physical: [
+      'Traditionally associated with the throat, thyroid, and parathyroid glands',
+      'Used in crystal healing to support the thymus and immune system',
+      'Associated with the nervous system and relief of tension headaches',
+      'May support fluid balance and the lymphatic system',
+      'Promotes deep, healing sleep when placed near the bed'
+    ],
+
+    vedic_tradition: 'Angelite aligns with Neptune and Uranus in modern Vedic crystal work — Neptune for spiritual dissolution and compassion, Uranus for sudden spiritual awakening and higher awareness. Supportive for Aquarius and Pisces placements seeking elevated perspective and divine connection.',
+    tcm_use: 'Associated with the Triple Burner\'s upper region (the chest and head) and the Lung meridian\'s connection to Heaven Qi. Angelite supports the descent of spiritual nourishment into the body and the release of grief held in the lungs that blocks the capacity for spiritual breath.',
+    five_element_theory: 'Metal — in its highest, most refined expression. Metal governs clarity, the harvest of wisdom, and the release of what no longer serves. Angelite embodies Metal\'s spiritual peak: pure, refined awareness that has released all attachment to form.',
+    feng_shui_bagua: 'Helpful People & Travel (Qian), Knowledge & Wisdom (Gen)',
+    feng_shui_placement: 'Place in the northwest (Helpful People) to invite angelic protection, spiritual guides, and beneficial mentorship. Near the bed for peaceful sleep and angelic protection during dream states. On a meditation altar as the primary stone for divine communication.',
+
+    ancient_lore: 'Anhydrite (angelite\'s mineral name) forms when gypsum loses its water content through geological compression over millions of years — the stone is itself a transformation of something softer into something more enduring. Angelite as a named spiritual stone is a more modern designation, but blue stones universally associated with heaven and angels appear in virtually every ancient spiritual tradition: lapis lazuli in Egypt, sapphire in the Middle East, blue chalcedony in Greece.',
+    indigenous_traditions: 'Peruvian angelite comes from the same Andean region that produced some of the most sophisticated spiritual traditions in the ancient world. Blue stones in Andean traditions are associated with the sky world, condor medicine (the messenger between heaven and earth), and the capacity for elevated spiritual perception.',
+
+    meditation_guidance: 'Place angelite on your chest or hold it gently in both hands. Close your eyes and breathe slowly. With each exhale, release the effort of seeking — release any spiritual striving, any desire to achieve a particular state. With each inhale, simply be open to receiving. Imagine a soft blue-white light descending from above, entering through the crown and filling the chest. This is not a doing meditation — it is a being-received meditation. Let angelite teach you the difference.',
+    body_placement: 'Crown chakra (top of head); Third Eye (between eyebrows); Throat (base of throat); or simply held gently in both hands. Placed beside the pillow for angelic protection and communication during sleep.',
+    space_placement: 'Meditation altars and sacred spaces. Bedroom for angelic protection and peaceful sleep. Healing rooms and therapy spaces for compassionate presence. Near windows at dawn or dusk when the quality of light is soft and transitional.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Angelite (anhydrite/calcium sulfate) is water-soluble and will dissolve if submerged. Do not use in elixirs in any method. Keep completely dry.',
+    jewelry_recommendations: 'Very soft (3–3.5 Mohs) — not suitable for rings or bracelets. Best as a pendant worn with care, or kept as a tumbled stone or palm stone for meditation use. Handle gently and keep away from water.',
+
+    safe_cleansing: ['Moonlight', 'Sound', 'Smudging', 'Visualization', 'Selenite'],
+    unsafe_cleansing: ['Water (dissolves — do not use water in any form)', 'Salt (abrasive and moisture-containing)', 'Earth burial (moisture damage)', 'Sunlight (may fade)'],
+    charging_methods: ['Full moon', 'Moonlight', 'Sound bath', 'Selenite cluster', 'Angelic invocation and breath'],
+    storage_guidance: 'Keep completely dry — angelite will slowly dissolve if exposed to water or high humidity. Store in a dry, padded box. Handle gently. Keep away from other stones that may scratch it.',
+
+    cautions: 'Must be kept completely dry — water destroys angelite. Not suitable for elixirs. Otherwise one of the gentlest and safest stones for spiritual work.',
+    toxicity: 'Non-toxic in dry form; calcium sulfate is benign. Not safe for elixirs due to water solubility. Safe for handling.',
+    fragility: 'Soft and water-sensitive. Store protected from moisture and impact.',
+
+    synergies: [
+      { crystal: 'Celestite', id: 'celestite', rationale: 'Celestite and angelite are the two great angelic stones — both soft, pale blue, water-sensitive, and tuned to the upper chakras and divine communication. Together they create the most powerful angelic energy field available in crystal work, each reinforcing the other\'s capacity to open the practitioner to heavenly guidance.' },
+      { crystal: 'Selenite', id: 'selenite', rationale: 'Selenite is angelite\'s ideal companion — it cleanses, charges, and grounds angelite\'s elevated energy just enough to be receivable in the physical body. Both are white/pale-blue high-vibration stones of angelic frequency; together they create a complete field of purified spiritual awareness.' },
+      { crystal: 'Amethyst', id: 'amethyst', rationale: 'Amethyst\'s Third Eye-opening, spiritually clarifying energy supports angelite\'s Crown and Throat communication work. Together they create a complete upper-chakra circuit: amethyst develops inner spiritual perception, angelite opens the channel to receive external divine guidance.' }
+    ],
+    conflicts: [
+      { crystal: 'Obsidian', id: 'obsidian', reason: 'Obsidian is a volcanic, intensely grounding, shadow-surfacing stone that works at the earthly and unconscious level; angelite is a gentle, elevated stone of divine peace and upper-chakra communication. Their energetic poles are so opposite that using them together can feel disorienting — pulled toward earth and heaven simultaneously. Use at different times for their distinct purposes.' }
+    ],
+    grid_role: 'Crown or apex stone in angelic communication and divine guidance grids; upper-field activator in healing layouts',
+
+    chakra_filter: ['Throat', 'Third Eye', 'Crown'],
+    element_filter: 'Air',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Uncommon',
+    intention_filter: ['Spiritual', 'Calm', 'Communication', 'Healing', 'Dream'],
+    planet_filter: 'Uranus',
+    zodiac_filter: ['Aquarius', 'Pisces', 'Capricorn'],
+    energy_type_filter: 'Calming'
+  },
+
+  {
+    id: 'black-onyx',
+    name: 'Black Onyx',
+    emoji: '🖤',
+    color: '#1a1a1a',
+
+    alt_names: ['Onyx', 'Black Chalcedony', 'Stone of Inner Strength', 'Warrior\'s Shield'],
+    mineral_family: 'Chalcedony (Quartz)',
+    chemical_formula: 'SiO₂',
+    crystal_system: 'Trigonal (microcrystalline)',
+    mohs_hardness: '6.5–7',
+    luster: 'Waxy to vitreous',
+    transparency: 'Opaque',
+    color_range: 'Solid jet black; natural onyx may have white banding (sardonyx); most commercial black onyx is dyed chalcedony',
+    origins: ['Brazil', 'India', 'Madagascar', 'USA', 'Mexico', 'Pakistan', 'Yemen'],
+    rarity: 'Common',
+    ethical_sourcing: 'Most commercial black onyx is dyed chalcedony from large deposits in Brazil and India — widely available with minimal ethical concerns. Natural black onyx (truly black without dye) is rarer. Verify if natural vs. treated is important for your practice.',
+    simulant_warnings: 'Most "black onyx" sold today is chalcedony dyed black — technically genuine chalcedony but not naturally black. Jet, black tourmaline, and black obsidian are sometimes confused with onyx. Authentic onyx has a distinctly smooth, waxy surface and will be cooler to the touch than glass or plastic imitations.',
+
+    short_intention: 'Inner strength, focused protection, and disciplined perseverance',
+    intention: 'Black onyx is the stone of the long game — not the sudden burst of garnet\'s fire or the explosive clearing of obsidian, but the steady, disciplined building of inner strength over time. It is the stone for those who face sustained adversity and need a foundation that will not crack. It absorbs and neutralizes negative energy not through spiritual fireworks but through sheer density of presence — the way a deep, still lake absorbs a stone without a ripple. It teaches that the greatest strength is not force, but unshakeable inner stability.',
+
+    chakras: ['Root'],
+    element: 'Earth',
+    planet: 'Saturn',
+    day_of_week: 'Saturday',
+    zodiac: ['Capricorn', 'Leo', 'Scorpio'],
+    numerology: 6,
+    polarity: 'Yang',
+    solfeggio_frequency: '396 Hz (liberation from fear and guilt)',
+    energy_type: 'Protective',
+
+    emotional: [
+      'Builds emotional resilience and the capacity to withstand prolonged challenge',
+      'Absorbs and neutralizes grief, stress, and accumulated negative emotional input',
+      'Supports those in recovery from emotional trauma, abuse, or long-term difficulty',
+      'Encourages emotional self-mastery — responding rather than reacting',
+      'Reduces the tendency to be depleted by others\' emotional demands'
+    ],
+    mental: [
+      'Sharpens mental focus and the discipline to stay on course through difficulty',
+      'Supports strategic, long-term thinking over reactive, short-term responses',
+      'Counters self-doubt and the inner critic\'s undermining narratives',
+      'Encourages logical, structured approaches to complex problems',
+      'Builds the mental fortitude to complete demanding, unglamorous work'
+    ],
+    spiritual: [
+      'One of the oldest protective stones in human history — used across every major civilization',
+      'Seals the aura against psychic intrusion and energy drain',
+      'Grounds spiritual practice into disciplined, consistent daily commitment',
+      'Associated with Saturn\'s lessons of mastery through limitation and focused effort',
+      'Supports shadow integration — working with the hidden, dark, and denied aspects of self'
+    ],
+    physical: [
+      'Traditionally associated with bones, teeth, bone marrow, and the structural body',
+      'Used in crystal healing to support the adrenal glands and the body\'s stress response',
+      'Associated with the feet, legs, and lower body — physical foundation and endurance',
+      'May support athletic performance and recovery from physical training',
+      'Used for skin conditions and the body\'s outer protective layers in some traditions'
+    ],
+
+    vedic_tradition: 'Black onyx aligns with Saturn (Shani) in Vedic astrology — the planet of karma, discipline, limitation, and mastery through sustained effort. It is used to mitigate Saturn\'s more challenging influences and to support Capricorn and Aquarius placements in developing the disciplined strength their ruling planet demands.',
+    tcm_use: 'Associated with the Kidney meridian (governing deep reserves, willpower, and the skeletal structure) and the Bladder meridian (the paired organ). Black onyx tonifies Kidney Yang — the deep, primal fire that fuels endurance, willpower, and the capacity to persist through cold, dark, and difficulty.',
+    five_element_theory: 'Water and Earth — black onyx holds Water\'s depth and mystery alongside Earth\'s solidity and endurance. It embodies the Mountain archetype of the I Ching: immovable, patient, and unshakeable in the face of external pressure.',
+    feng_shui_bagua: 'Career & Life Path (Kan), Knowledge & Wisdom (Gen)',
+    feng_shui_placement: 'Place in the north (Career) area to strengthen focus, determination, and perseverance in professional endeavors. In the northeast (Knowledge) for disciplined study and mental fortitude. Near the front door to provide strong protective energy at the home\'s entrance.',
+
+    ancient_lore: 'Black onyx has been used as a protective and strengthening stone for over 4,000 years. Ancient Romans called it "onyx" (Greek for fingernail or claw) and carried it as protective amulets in battle. Roman soldiers engraved images of Mars (god of war) onto black onyx for courage. In ancient Arabia, onyx was called "el jaza" (sadness) and was believed to cause discord and sorrow — a reminder that protective stones can cut both ways. Medieval Europeans used onyx for self-control and to banish grief. In Indian tradition, onyx is worn to calm worry and improve concentration.',
+    indigenous_traditions: 'Black stones in virtually every indigenous tradition carry protective, absorptive, and grounding properties. Black onyx specifically appears in ancient Middle Eastern, Roman, and South Asian traditions as a stone of strength, protection, and the mastery of difficult circumstances.',
+
+    meditation_guidance: 'Hold black onyx in your non-dominant hand, or place it at the Root chakra at the base of the spine. Close your eyes and feel the stone\'s weight and density. Breathe slowly and deeply, feeling your body growing heavier and more stable with each exhale. Visualize a column of black light extending from the base of your spine down through the floor into the bedrock of the earth — unshakeable, permanent, older than any personal difficulty. Feel the stone\'s absorption of whatever has been draining you, neutralizing it in its dense, still darkness.',
+    body_placement: 'Root chakra (base of spine); feet and ankles for deep grounding; held in the non-dominant (receptive) hand to absorb and neutralize unwanted energies; worn as a ring on the middle finger (Saturn\'s finger) for disciplined strength.',
+    space_placement: 'Near the front entrance for protective boundary-setting. Home office or study for disciplined focus. Athletes\' training spaces for physical endurance. Any space needing strong, stable, absorptive protection.',
+    elixir_safety: 'Generally Safe',
+    elixir_notes: 'Black onyx (chalcedony) is generally considered safe for elixirs. Note that commercial black onyx is often dyed — use indirect method if provenance of dye is uncertain. Natural black chalcedony is safe for direct elixirs.',
+    jewelry_recommendations: 'Excellent for all jewelry types — durable, affordable, and striking in any setting. Black onyx has been used in fine jewelry for millennia. Particularly powerful as rings and bracelets for ongoing grounding and protection throughout the day.',
+
+    safe_cleansing: ['Running water', 'Smudging', 'Sound', 'Earth burial', 'Sunlight'],
+    unsafe_cleansing: ['Salt water (prolonged — can affect dyed surfaces)', 'Harsh ultrasonic cleaners for dyed specimens'],
+    charging_methods: ['Sunlight', 'Full moon', 'Earth burial', 'Saturn planetary hours (Saturday)', 'Black tourmaline proximity'],
+    storage_guidance: 'Durable and low-maintenance. Store separately to avoid scratching softer stones. The smooth polished surface is easily maintained. Avoid harsh chemicals that may affect dyed specimens.',
+
+    cautions: 'Black onyx absorbs negative energy and should be cleansed regularly when used for protection work. Some traditions caution against wearing it continuously without periodic cleansing, as it can accumulate what it absorbs.',
+    toxicity: 'Non-toxic; safe to handle. Dyed specimens may contain surface dyes — general hygiene precautions apply.',
+    fragility: 'Durable. A reliable everyday stone.',
+
+    synergies: [
+      { crystal: 'Clear Quartz', id: 'clear-quartz', rationale: 'Clear quartz amplifies and focuses black onyx\'s protective and strengthening energy, while black onyx grounds clear quartz\'s potentially overwhelming amplification. Together they create focused, protected, directed energy — strength with clarity.' },
+      { crystal: 'Hematite', id: 'hematite', rationale: 'Both are grounding, protective, Saturn-influenced stones. Hematite adds magnetic mental focus and Iron-nature vitality; black onyx adds absorptive protection and deep emotional resilience. Together they create a comprehensive physical and psychic protection field.' },
+      { crystal: 'Garnet', id: 'garnet', rationale: 'Garnet activates passionate will and Root chakra vitality; black onyx provides the sustained, disciplined structure within which that passion can achieve its goals without burning out. Together they combine Mars fire with Saturn structure — the pairing of ambition and endurance.' }
+    ],
+    conflicts: [
+      { crystal: 'Celestite', id: 'celestite', reason: 'Celestite is an ethereal, elevated, Crown-frequency stone of angelic lightness; black onyx is a dense, absorptive, Root-frequency stone of earthly strength. Their energies are at opposite poles — using them together can feel like being pulled apart rather than integrated. Use separately for their distinct domains.' }
+    ],
+    grid_role: 'Absorptive anchor at the corners of protection grids; Root foundation stone in any layout',
+
+    chakra_filter: ['Root'],
+    element_filter: 'Earth',
+    polarity_filter: 'Yang',
+    elixir_filter: 'Use with Caution',
+    rarity_filter: 'Common',
+    intention_filter: ['Protection', 'Grounding', 'Strength', 'Courage', 'Clarity'],
+    planet_filter: 'Saturn',
+    zodiac_filter: ['Capricorn', 'Leo', 'Scorpio'],
+    energy_type_filter: 'Protective'
   }
 ];
