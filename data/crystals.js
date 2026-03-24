@@ -3858,5 +3858,112 @@ window.CRYSTALS = [
     planet_filter: 'Saturn',
     zodiac_filter: ['Scorpio', 'Capricorn', 'Cancer'],
     energy_type_filter: 'Protective'
+  },
+
+  {
+    id: 'kunzite',
+    name: 'Kunzite',
+    emoji: '💗',
+    color: '#e8b4cb',
+
+    alt_names: ['Pink Spodumene', 'Stone of Emotion', 'Woman\'s Stone', 'Litia Amethyst'],
+    mineral_family: 'Silicate (Pyroxene / Spodumene)',
+    chemical_formula: 'LiAlSi₂O₆ (with manganese for pink color)',
+    crystal_system: 'Monoclinic',
+    mohs_hardness: '6.5–7',
+    luster: 'Vitreous',
+    transparency: 'Transparent to translucent',
+    color_range: 'Pale pink, rose, lilac-pink, violet-pink; color fades in strong sunlight; deeply colored stones are rare and valuable',
+    origins: ['Afghanistan (finest gem quality)', 'USA (California — originally discovered)', 'Brazil', 'Madagascar', 'Pakistan', 'Myanmar'],
+    rarity: 'Uncommon',
+    ethical_sourcing: 'Afghan kunzite comes from artisanal mines in Nuristan and Kunar provinces — beautiful material but a complex supply chain given regional instability. Brazilian and California material is generally more straightforwardly sourced. Verify provenance for gem-quality Afghan stones.',
+    simulant_warnings: 'Pink tourmaline, rose quartz, and pink topaz are sometimes confused with kunzite. Kunzite is distinctively pleochroic (shows different colors from different angles) — a strong tell. It also has perfect cleavage in two directions, making it noticeably prone to splitting if dropped.',
+
+    short_intention: 'Divine love, emotional opening, and tender self-compassion',
+    intention: 'Kunzite is what happens when the love frequency of rose quartz is amplified through a crystalline structure of unusual clarity and depth. It is a stone of the awakened heart — not the guarded, cautious heart that loves carefully, but the open, radiant heart that has been through enough to know that love is worth the risk. It connects the heart directly to the Crown, linking personal feeling to universal love, and dissolves the barriers between the two with a gentleness so refined it borders on the divine.',
+
+    chakras: ['Heart', 'Crown'],
+    element: 'Water',
+    planet: 'Venus',
+    day_of_week: 'Friday',
+    zodiac: ['Taurus', 'Leo', 'Libra', 'Scorpio'],
+    numerology: 7,
+    polarity: 'Yin',
+    solfeggio_frequency: '528 Hz (love, DNA repair, transformation)',
+    energy_type: 'Calming',
+
+    emotional: [
+      'Opens the heart that has been closed by fear, hurt, or prolonged self-protection',
+      'Dissolves emotional armoring with great gentleness — without forcing or overwhelming',
+      'Supports those recovering from heartbreak, grief, or loss of faith in love',
+      'Encourages tender, compassionate self-regard — the antidote to chronic self-criticism',
+      'Brings a quality of innocent, open joy to emotional experience'
+    ],
+    mental: [
+      'Quiets the analytical mind that interferes with emotional experience',
+      'Supports the integration of feelings that have been intellectualized or avoided',
+      'Encourages trust — in oneself, in others, in the process of life',
+      'Reduces cynicism and the mental habit of pre-emptive self-protection',
+      'Supports creative work that requires emotional vulnerability and authentic expression'
+    ],
+    spiritual: [
+      'Bridges personal heart love with universal, divine love — the Heart-Crown axis',
+      'Supports unconditional love as a spiritual practice, not just an emotional state',
+      'Deepens meditation by softening the boundary between personal and divine awareness',
+      'Used in work with the higher self and in connecting with guides of love and compassion',
+      'Embodies the Venusian archetype of Aphrodite: love as a cosmic, creative force'
+    ],
+    physical: [
+      'Traditionally associated with the heart, circulatory system, and the nervous system\'s capacity for pleasure',
+      'Used in crystal healing to reduce stress-related physical tension held in the chest and shoulders',
+      'Associated with hormonal balance, the endocrine system, and the body\'s love chemistry',
+      'May support recovery from illness rooted in emotional depletion or heartbreak',
+      'Promotes deep, restorative sleep and relaxation of chronic physical holding patterns'
+    ],
+
+    vedic_tradition: 'Kunzite\'s Venus (Shukra) rulership and pink color align it with the divine feminine principle in Vedic practice. It supports Taurus and Libra placements in developing genuine heart-openness rather than merely social grace. Its lithium content (spodumene is a lithium mineral) connects it to Vedic practices for nervous system calming.',
+    tcm_use: 'Associated with the Heart meridian (governing the Shen — spirit, consciousness, and the capacity for joy) and the Pericardium meridian (the Heart\'s protector). Kunzite nourishes Heart Yin and supports the Shen\'s residence in the Heart — the quality of inner quiet, warmth, and loving presence.',
+    five_element_theory: 'Fire and Water — kunzite bridges Fire\'s warmth, joy, and radiant heart-energy with Water\'s depth, stillness, and spiritual receptivity. It embodies the union of these two elements: love that is both warmly felt and spiritually vast.',
+    feng_shui_bagua: 'Love & Partnership (Kun), Helpful People (Qian)',
+    feng_shui_placement: 'Place in the southwest (Love & Partnership) for deepening romantic love and attracting heart-centered relationship. In the northwest (Helpful People) for drawing loving mentors and compassionate guides. In the bedroom for gentle, open, loving energy.',
+
+    ancient_lore: 'Kunzite was not discovered until 1902, when gemologist George Frederick Kunz (for whom it is named) identified it from a California specimen. Despite its recent discovery, it has quickly become one of the most prized heart stones in the crystal healing tradition. Its extraordinary color, clarity, and transparency give it a quality of refined beauty that practitioners associate with elevated spiritual love.',
+    indigenous_traditions: 'As a recently named mineral, kunzite does not appear in ancient indigenous traditions by this name. However, pink stones universally carry associations with love, tenderness, and the heart across virtually every tradition. In Afghanistan, where some of the finest kunzite is found, pink and violet stones are traditionally associated with divine beauty and the blessings of heaven.',
+
+    meditation_guidance: 'Hold kunzite gently in both hands at heart level, or lay it on the chest in savasana. Close your eyes and breathe slowly into the chest. With each exhale, feel the muscles of the chest, shoulders, and jaw soften. With each inhale, receive the stone\'s pink light as pure tenderness — not directed at anyone or anything, simply the quality of loving awareness itself. Kunzite meditation is particularly powerful when combined with the intention: "I am safe to love and be loved."',
+    body_placement: 'Heart chakra (center of chest); Crown chakra (top of head) for Heart-Crown integration; held gently in both hands; worn as a pendant at heart level for continuous gentle activation.',
+    space_placement: 'Bedroom for loving, open, tender energy. Meditation space for heart-centered practice. Any space where deeper emotional connection and vulnerability feel needed. Avoid high-traffic areas where it may be knocked — kunzite\'s cleavage makes it fragile.',
+    elixir_safety: 'Generally Safe',
+    elixir_notes: 'Kunzite (spodumene) is generally considered safe for elixirs using the indirect method. Contains lithium in mineral form — use indirect method as a precaution for direct consumption.',
+    jewelry_recommendations: 'Suitable for pendants and earrings; use caution with rings and bracelets due to perfect cleavage in two directions — a hard knock can split the stone. The color fades in strong sunlight; avoid prolonged UV exposure. Stunning in rose gold or silver settings.',
+
+    safe_cleansing: ['Moonlight', 'Sound', 'Smudging', 'Selenite', 'Visualization'],
+    unsafe_cleansing: ['Sunlight (fades color irreversibly)', 'Water (can affect polish)', 'Salt', 'Ultrasonic cleaners'],
+    charging_methods: ['Full moon', 'Moonlight', 'Rose quartz proximity', 'Sound bath', 'Loving intention and breath'],
+    storage_guidance: 'Store individually wrapped in soft cloth — perfect cleavage in two directions means kunzite can split if knocked against other stones. Keep away from direct sunlight to preserve color. Handle with care.',
+
+    cautions: 'Kunzite\'s color fades irreversibly in sunlight — never cleanse or charge in direct sun. Perfect cleavage makes it fragile; treat as a precious object. The stone\'s gentle heart-opening can surface tender emotional material — use with self-compassion and support.',
+    toxicity: 'Non-toxic; safe to handle. Contains lithium in mineral (non-bioavailable) form — indirect elixir method recommended as precaution.',
+    fragility: 'Fragile due to perfect cleavage — handle carefully and store protected.',
+
+    synergies: [
+      { crystal: 'Rose Quartz', id: 'rose-quartz', rationale: 'Rose quartz creates the gentle, unconditional love field; kunzite deepens and elevates that field toward divine, Crown-connected love. Rose quartz is the foundation; kunzite is the apex. Together they create the most complete heart-love energy field available in crystal work.' },
+      { crystal: 'Selenite', id: 'selenite', rationale: 'Selenite\'s Crown-frequency clarity and angelic purity complement kunzite\'s Heart-Crown bridge perfectly. Together they create a field of pure, elevated, spiritually luminous love — the feeling of being touched by something higher.' },
+      { crystal: 'Lepidolite', id: 'lepidolite', rationale: 'Both contain lithium and both address the emotional body with unusual gentleness. Lepidolite stabilizes the nervous system; kunzite opens the heart. Together they create a deeply soothing, lovingly supportive field for anxiety, emotional exhaustion, and heartbreak.' }
+    ],
+    conflicts: [
+      { crystal: 'Malachite', id: 'malachite', reason: 'Malachite is an intensely transformative stone that forces emotional excavation and confrontation; kunzite is a tender, gentle stone of heart-opening and divine love. Malachite\'s transformative intensity can overwhelm kunzite\'s softness. Use malachite for deep work, then kunzite to restore and heal what malachite surfaces.' }
+    ],
+    grid_role: 'Heart-Crown bridge stone in love and divine connection grids; gentle apex stone in self-love healing layouts',
+
+    chakra_filter: ['Heart', 'Crown'],
+    element_filter: 'Water',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Use with Caution',
+    rarity_filter: 'Uncommon',
+    intention_filter: ['Love', 'Healing', 'Calm', 'Spiritual', 'Inspiration'],
+    planet_filter: 'Venus',
+    zodiac_filter: ['Taurus', 'Leo', 'Libra', 'Scorpio'],
+    energy_type_filter: 'Calming'
   }
 ];
