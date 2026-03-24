@@ -4286,5 +4286,112 @@ window.CRYSTALS = [
     planet_filter: 'Sun',
     zodiac_filter: ['Cancer', 'Leo', 'Scorpio', 'Sagittarius'],
     energy_type_filter: 'Activating'
+  },
+
+  {
+    id: 'emerald',
+    name: 'Emerald',
+    emoji: '💎',
+    color: '#1a6b3c',
+
+    alt_names: ['Smaragdus', 'Stone of Successful Love', 'Hermes Stone', 'Beryl (green)'],
+    mineral_family: 'Silicate (Cyclosilicate / Beryl group)',
+    chemical_formula: 'Be₃Al₂Si₆O₁₈ (with chromium and vanadium for green)',
+    crystal_system: 'Hexagonal',
+    mohs_hardness: '7.5–8',
+    luster: 'Vitreous',
+    transparency: 'Transparent to translucent',
+    color_range: 'Vivid green to deep forest green; finest Colombian stones show "jardin" (garden) — internal inclusions considered part of the stone\'s character',
+    origins: ['Colombia (Muzo, Chivor — world\'s finest)', 'Zambia', 'Brazil', 'Zimbabwe', 'Ethiopia', 'Russia (Ural Mountains)', 'Egypt (oldest mines — Cleopatra\'s)'],
+    rarity: 'Rare',
+    ethical_sourcing: 'Colombian emerald mining has a complex history involving armed conflict and informal mining. Zambian emeralds are generally considered more ethically traceable. Look for Fairtrade or Fairmined certified stones. Almost all emeralds are treated (oiled or resin-filled) — this is industry standard and not inherently unethical but should be disclosed.',
+    simulant_warnings: 'Emerald is one of the most imitated gems. Green glass, synthetic emerald (Chatham, Gilson), green tourmaline, peridot, tsavorite garnet, and dyed quartz are all sold as or confused with emerald. Synthetic emeralds are chemically identical to natural — only inclusions distinguish them. Genuine natural emerald almost always contains inclusions ("jardin"); flawless stones are extremely suspicious.',
+
+    short_intention: 'Heart wisdom, prosperous growth, and inspired vision',
+    intention: 'Emerald is the Heart chakra at its most sovereign — not the tender vulnerability of rose quartz or the passionate fire of ruby, but the deep, still, enduring green of a heart that has become wise. It is the stone of Venus in her highest expression: not desire but discernment, not longing but abundance, not romantic love but the love that has matured into wisdom. Emerald opens the heart to the full spectrum of life\'s abundance — not just material wealth but the richness of meaningful connection, creative vision, and the deep satisfaction of a life lived from the center of one\'s true values.',
+
+    chakras: ['Heart'],
+    element: 'Earth',
+    planet: 'Venus',
+    day_of_week: 'Friday',
+    zodiac: ['Taurus', 'Gemini', 'Aries', 'Cancer'],
+    numerology: 4,
+    polarity: 'Yin',
+    solfeggio_frequency: '528 Hz (love, DNA repair, transformation)',
+    energy_type: 'Harmonizing',
+
+    emotional: [
+      'Opens the heart to receive love, abundance, and beauty as natural birthright',
+      'Heals emotional wounds with the deep patience of something ancient and enduring',
+      'Encourages emotional loyalty, fidelity, and devotion in relationships',
+      'Dissolves jealousy by connecting to the direct experience of one\'s own abundance',
+      'Supports those who have difficulty receiving — love, help, appreciation, or prosperity'
+    ],
+    mental: [
+      'Sharpens mental clarity and the capacity for visionary, long-range thinking',
+      'Supports memory, learning, and the integration of complex information',
+      'Encourages inspired, creative intelligence — thinking from the heart\'s wisdom',
+      'Counters cynicism and the narrowing of perception that comes from disappointment',
+      'Supports truthful communication and the courage to express genuine perspective'
+    ],
+    spiritual: [
+      'One of the four precious gems of antiquity (with ruby, sapphire, and diamond)',
+      'Sacred to Venus/Aphrodite, Thoth/Hermes, and the heart of every major wisdom tradition',
+      'In Hermetic tradition, the "Emerald Tablet" of Thoth contains the foundation of alchemy',
+      'Opens the heart to the direct experience of divine love as the ground of all being',
+      'Deepens prophetic capacity and the ability to perceive the patterns underlying events'
+    ],
+    physical: [
+      'Traditionally associated with the heart, lungs, and spine',
+      'Used in crystal healing to support the immune system and recovery from illness',
+      'Associated with eyesight — Roman Emperor Nero reportedly viewed gladiatorial games through an emerald lens',
+      'May support the liver, kidneys, and the body\'s overall detoxification capacity',
+      'Historically used for fertility and childbirth support in many traditions'
+    ],
+
+    vedic_tradition: 'Emerald (Panna) is the gem of Mercury (Budha) in Vedic astrology — one of the Navaratna. It strengthens Mercury\'s qualities: intelligence, communication, commerce, adaptability, and the nervous system. Worn on the little finger of the right hand on Wednesday mornings. Particularly beneficial for Gemini and Virgo ascendants.',
+    tcm_use: 'Associated with the Liver and Gallbladder meridians (Wood element) and the Heart meridian. Emerald\'s deep green tonifies Liver Yin and supports the smooth flow of Qi, while its heart-resonance nourishes the Shen. Used in traditions where the liver\'s capacity for vision and planning is cultivated through the heart\'s wisdom.',
+    five_element_theory: 'Wood and Earth — emerald bridges Wood\'s visionary growth and expansive vitality with Earth\'s deep, nourishing abundance. It represents the fullness of spring at its peak: maximum growth, maximum green, maximum life-force.',
+    feng_shui_bagua: 'Wealth & Prosperity (Xun), Family & New Beginnings (Zhen)',
+    feng_shui_placement: 'Place in the southeast (Wealth) corner for abundance of all kinds — material, relational, creative. In the east (Family) for growth, vitality, and new beginnings. On a writing or creative desk for inspired vision and prosperous creative output.',
+
+    ancient_lore: 'Emerald is among the oldest mined gems — Cleopatra\'s emerald mines in Egypt (Wadi Sikait) were worked as early as 1500 BCE and she considered emerald her personal stone. The Incas and Aztecs considered emerald sacred — Spanish conquistadors looted enormous emerald treasures from the Americas. The legendary "Emerald Tablet" of Hermes Trismegistus is the foundational text of Western alchemy and esoteric tradition. In the Bible, emerald is one of the twelve stones on the High Priest\'s breastplate. The Holy Grail was believed by some medieval mystics to have been carved from a single emerald.',
+    indigenous_traditions: 'The Muzo and Chivor peoples of Colombia considered emerald sacred long before Spanish arrival. Aztec and Inca rulers adorned themselves with emeralds as symbols of divine sovereignty and the green life-force of Pachamama. In Indian tradition, emerald has been used for millennia in royal regalia and temple offerings.',
+
+    meditation_guidance: 'Hold emerald over the heart or place it there while lying down. Breathe slowly and deeply into the chest. With each inhale, receive a deep forest green light filling the heart — not rushing in, but growing slowly, the way a forest grows: steadily, silently, inexorably. Feel the heart\'s capacity expanding. Ask: "What does my heart know that I have not yet fully received?" Emerald rewards patient, receptive meditation — it reveals its depth over many sessions, not in a single sitting.',
+    body_placement: 'Heart chakra exclusively — emerald is a stone of singular Heart focus. Worn as a pendant at heart level for ongoing activation. Can be placed over closed eyes for vision and clarity work.',
+    space_placement: 'Southeast corner for prosperity and abundance. Creative studio or library for inspired intelligence. Garden or any living green space — emerald resonates with growing things. On a financial altar or abundance-focused workspace.',
+    elixir_safety: 'Use with Caution',
+    elixir_notes: 'Natural emerald is generally safe for indirect elixirs. However, most emeralds are treated with oils or resins — these treatments can leach into water. Use only verified untreated stones with indirect method. Avoid direct elixirs with any treated emerald.',
+    jewelry_recommendations: 'Good hardness but moderate toughness due to inclusions — emerald requires more care than ruby or sapphire. Best in protective settings (bezel, halo). The classic emerald cut was specifically designed to minimize stress on the stone during cutting. A timeless and prestigious jewelry gem.',
+
+    safe_cleansing: ['Moonlight', 'Sound', 'Smudging', 'Visualization', 'Selenite'],
+    unsafe_cleansing: ['Water (can remove oil treatments — affects appearance)', 'Ultrasonic cleaners (damages inclusions and treatments)', 'Steam', 'Salt'],
+    charging_methods: ['Full moon', 'Moonlight', 'Venus planetary hours (Friday)', 'Green plants and gardens', 'Sound bath'],
+    storage_guidance: 'Store individually wrapped — emerald\'s inclusions make it more fragile than its hardness suggests. Avoid temperature extremes and ultrasonic cleaners. Oil treatments should be renewed periodically by a gemologist.',
+
+    cautions: 'Almost all commercial emeralds are oil- or resin-treated — this affects elixir safety and cleansing methods. Handle with care; internal fractures make emerald more fragile than ruby or sapphire of similar hardness. Ethically verify Colombian sources.',
+    toxicity: 'Non-toxic; safe to handle.',
+    fragility: 'Moderate — inclusions and fractures reduce toughness despite good hardness. Handle with care.',
+
+    synergies: [
+      { crystal: 'Rose Quartz', id: 'rose-quartz', rationale: 'Rose quartz brings the tender, open vulnerability of the heart; emerald brings its wisdom, sovereignty, and capacity for abundance. Together they create a complete Heart chakra field — the heart that is both soft enough to feel and strong enough to receive.' },
+      { crystal: 'Clear Quartz', id: 'clear-quartz', rationale: 'Clear quartz amplifies and focuses emerald\'s heart-wisdom and prosperity energy. Together they create a powerful abundance field with both heart-center (emerald) and amplifying clarity (quartz).' },
+      { crystal: 'Lapis Lazuli', id: 'lapis-lazuli', rationale: 'Emerald (Venus, Heart, wisdom) and lapis lazuli (Jupiter/Saturn, Third Eye, truth) together create the pairing of heart-wisdom and higher knowing — love and truth united. A profound combination for any wisdom or healing practice.' }
+    ],
+    conflicts: [
+      { crystal: 'Obsidian', id: 'obsidian', reason: 'Obsidian is a volcanic, intense truth-mirror that surfaces shadow material; emerald is a refined, heart-centered stone of wisdom and abundance. Obsidian\'s forceful excavation can undermine the patient, receptive quality emerald cultivates. Use separately — obsidian for shadow work, emerald for heart restoration.' }
+    ],
+    grid_role: 'Heart sovereignty stone at the center of abundance and wisdom grids; Venus-aligned anchor in prosperity and love layouts',
+
+    chakra_filter: ['Heart'],
+    element_filter: 'Earth',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Rare',
+    intention_filter: ['Love', 'Abundance', 'Wisdom', 'Healing', 'Spiritual', 'Clarity'],
+    planet_filter: 'Venus',
+    zodiac_filter: ['Taurus', 'Gemini', 'Aries', 'Cancer'],
+    energy_type_filter: 'Harmonizing'
   }
 ];
