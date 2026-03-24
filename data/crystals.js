@@ -3751,5 +3751,112 @@ window.CRYSTALS = [
     planet_filter: 'Mercury',
     zodiac_filter: ['Leo', 'Virgo', 'Scorpio', 'Sagittarius'],
     energy_type_filter: 'Activating'
+  },
+
+  {
+    id: 'shungite',
+    name: 'Shungite',
+    emoji: '⚫',
+    color: '#2b2b2b',
+
+    alt_names: ['Carbon Stone', 'Stone of Life', 'Russian Stone', 'Miracle Stone'],
+    mineral_family: 'Mineraloid (amorphous carbon)',
+    chemical_formula: 'C (carbon, with fullerenes — C₆₀ molecules)',
+    crystal_system: 'Amorphous (no crystal structure)',
+    mohs_hardness: '3.5–4',
+    luster: 'Metallic to dull',
+    transparency: 'Opaque',
+    color_range: 'Jet black to dark grey; elite (Type I) shungite has a bright metallic lustre; regular shungite is matte',
+    origins: ['Russia (Karelia — sole significant source; Lake Onega region)'],
+    rarity: 'Uncommon',
+    ethical_sourcing: 'Shungite comes almost exclusively from the Zazhoginskoye deposit in Karelia, Russia. Given current geopolitical circumstances, verify supply chain carefully. Pre-existing stock from established dealers is generally considered acceptable. No known artisanal or community-harm issues specific to the mining itself.',
+    simulant_warnings: 'Shungite is widely faked with dyed quartzite, black tourmaline, and black obsidian. Authentic shungite conducts electricity — the quickest test is a simple conductivity test with a battery and LED. Elite (Type I) shungite is silvery-metallic; regular (Type II/III) is matte black. If it doesn\'t conduct, it\'s not shungite.',
+
+    short_intention: 'EMF protection, purification, and deep grounding',
+    intention: 'Shungite is an anomaly — a nearly two-billion-year-old carbon stone that predates complex life on Earth, containing fullerenes (C₆₀ molecules) not found in any other natural mineral. It is the stone of the primordial: ancient, absorptive, and deeply purifying. Where other protective stones deflect or transform, shungite simply absorbs — electromagnetic frequencies, environmental toxins, and discordant energies disappear into its dense carbon matrix. It is the stone for the modern world: the EMF-saturated, information-overloaded, chemically complex world we actually live in, not the idealized natural one we sometimes wish for.',
+
+    chakras: ['Root'],
+    element: 'Earth',
+    planet: 'Saturn',
+    day_of_week: 'Saturday',
+    zodiac: ['Scorpio', 'Capricorn', 'Cancer'],
+    numerology: 4,
+    polarity: 'Yang',
+    solfeggio_frequency: '396 Hz (liberation from fear and guilt)',
+    energy_type: 'Protective',
+
+    emotional: [
+      'Grounds and stabilizes emotionally turbulent states with quiet, absorptive density',
+      'Reduces the emotional impact of environmental stress, crowds, and energetic overwhelm',
+      'Supports those who are highly sensitive to their surroundings (empaths, HSPs)',
+      'Encourages emotional resilience through deep, primal groundedness',
+      'Absorbs accumulated negative emotional residue from the aura and environment'
+    ],
+    mental: [
+      'Clears mental fog caused by electromagnetic stress and information overload',
+      'Supports focused, clear thinking in technology-heavy environments',
+      'Reduces the anxious, scattered quality of mind associated with chronic screen exposure',
+      'Encourages methodical, grounded mental processing over reactive or fragmented thinking',
+      'Supports detoxification of mental patterns as well as physical environments'
+    ],
+    spiritual: [
+      'Grounds spiritual practice into the body and the ancient earth',
+      'Provides a deeply stabilizing anchor during high-frequency spiritual work',
+      'Connects the practitioner to the pre-biological earth — ancient, patient, and vast',
+      'Used in water purification rituals and space-clearing practices',
+      'Supports the integration of spiritual insight into physical, embodied life'
+    ],
+    physical: [
+      'Used to purify water — shungite has genuine water-filtration properties validated by research',
+      'Widely used for EMF mitigation near electronics, Wi-Fi routers, and mobile devices',
+      'Traditionally associated with immune system support and general detoxification',
+      'Used in Russian folk medicine for centuries for wound healing and water purification',
+      'May support the nervous system and reduce physiological stress responses'
+    ],
+
+    vedic_tradition: 'Shungite was unknown to classical Vedic tradition (being a modern discovery in the West), but its Saturn-Earth nature aligns it with Shani (Saturn) in contemporary Vedic crystal work — governing karma, discipline, limitation, and the lessons of the material plane. Its deep purification quality resonates with Rahu work in some contemporary practices.',
+    tcm_use: 'Shungite\'s absorptive, purifying, deeply grounding nature corresponds to the Kidney and Spleen meridians in TCM — governing deep reserves, the transformation and transportation of fluids, and the body\'s capacity to clear toxins and maintain structural integrity.',
+    five_element_theory: 'Earth — primordial, absorptive, enduring Earth. Shungite is the deepest possible expression of Earth energy: the compressed carbon of ancient life, patient beyond imagination, capable of absorbing and transforming virtually anything that enters its field.',
+    feng_shui_bagua: 'Career & Life Path (Kan), Health (Tai Qi)',
+    feng_shui_placement: 'Place near Wi-Fi routers, computers, and electronics for EMF absorption. In the north (Career) for grounded, protected professional environments. Near the front door as a protective absorptive boundary. In the center of the home for general purification.',
+
+    ancient_lore: 'Shungite has been used in the Karelia region of Russia for at least 300 years. Peter the Great (1672–1725) established the first Russian spa at Marcial Waters in Karelia specifically because of the region\'s shungite-filtered springs, which were believed to have healing properties. Russian soldiers were reportedly ordered to carry shungite in their packs for water purification. The stone gained global attention in the 1990s when fullerene molecules were discovered within it — a form of carbon previously thought to exist only in space.',
+    indigenous_traditions: 'The Karelian people of northern Russia have long regarded the black stone of their region as protective and purifying. The Marcial Waters area, where shungite deposits are richest, has been considered a place of healing since pre-Christian times.',
+
+    meditation_guidance: 'Hold shungite in both hands or place it at the Root chakra. Close your eyes and breathe slowly. Feel the stone\'s density — it is surprisingly heavy for its size. Visualize a deep, matte-black field extending below you, absorbing everything that does not belong: electromagnetic static, environmental stress, accumulated tension. You do not need to direct this process — shungite absorbs passively. Simply rest in its ancient, pre-biological patience. This is a stone for being, not doing.',
+    body_placement: 'Root chakra (base of spine); held in both hands for full-body EMF absorption; placed on the feet for deep earthing; worn close to the body as a pendant for ongoing protection.',
+    space_placement: 'Near electronics and Wi-Fi equipment for EMF absorption. Near the front door as a protective threshold. In work and office spaces for focused, protected mental clarity. Shungite pyramids are traditionally placed in the corners of rooms for space-clearing.',
+    elixir_safety: 'Generally Safe',
+    elixir_notes: 'Shungite water (placing shungite in water for purification) is a traditional Russian practice with some scientific backing for filtration properties. Use type II or III shungite (not elite/type I) for water. Cleanse the stone thoroughly before use. Not for internal use without proper preparation.',
+    jewelry_recommendations: 'Moderately soft (3.5–4 Mohs) — best as pendants and earrings rather than rings. Shungite is commonly sold as pendants, palm stones, and pyramids for EMF protection. The metallic lustre of elite shungite is particularly striking.',
+
+    safe_cleansing: ['Running water (rinse only — do not soak)', 'Sunlight', 'Smudging', 'Sound', 'Earth burial (brief, dry conditions)'],
+    unsafe_cleansing: ['Prolonged water soaking (absorbs moisture)', 'Salt (abrasive)', 'Chemical cleaners'],
+    charging_methods: ['Sunlight', 'Earth burial', 'Full moon', 'Saturn planetary hours (Saturday)', 'Placed outdoors on soil'],
+    storage_guidance: 'Store separately — shungite can leave black marks on other surfaces and stones. Keep away from prolonged moisture. Wipe clean with a dry cloth. The stone is relatively soft; store protected from scratching.',
+
+    cautions: 'Shungite can leave black residue on hands and surfaces — wash hands after handling and store on a non-porous surface. Cleanse regularly as it absorbs accumulated energies. Some sellers make extreme health claims (cancer cure, etc.) — approach these with discernment. The stone\'s water filtration and EMF-absorption properties are real but not miraculous.',
+    toxicity: 'Non-toxic carbon; safe to handle. Black residue is harmless carbon dust.',
+    fragility: 'Moderately soft and slightly brittle. Handle with reasonable care.',
+
+    synergies: [
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', rationale: 'The two great modern protection stones — black tourmaline deflects and repels negative energy and EMF while shungite absorbs and neutralizes it. Together they create a comprehensive two-layer protection field: nothing gets through (tourmaline) and anything that does is neutralized (shungite).' },
+      { crystal: 'Clear Quartz', id: 'clear-quartz', rationale: 'Clear quartz amplifies and focuses shungite\'s purification field while shungite grounds clear quartz\'s potentially overwhelming amplification. Together they create a focused, purified, grounded energy field.' },
+      { crystal: 'Hematite', id: 'hematite', rationale: 'Both are dense, grounding, absorptive stones with strong Root chakra affinity. Hematite adds magnetic mental focus and structured grounding; shungite adds absorptive purification and primordial earth depth. Together they create exceptional physical and energetic grounding.' }
+    ],
+    conflicts: [
+      { crystal: 'Moldavite', id: 'moldavite', reason: 'Moldavite is the most intensely activating, high-frequency, cosmic-origin stone available; shungite is one of the most absorptive, grounding, earth-origin stones. Moldavite accelerates everything upward and outward; shungite absorbs and pulls everything downward and inward. Used together they can create a disorienting energetic tug-of-war. Use separately — shungite after moldavite work to ground and integrate.' }
+    ],
+    grid_role: 'Absorptive anchor at the outer boundary of protection grids; EMF-neutralizing cornerstone in technology-heavy environments',
+
+    chakra_filter: ['Root'],
+    element_filter: 'Earth',
+    polarity_filter: 'Yang',
+    elixir_filter: 'Use with Caution',
+    rarity_filter: 'Uncommon',
+    intention_filter: ['Protection', 'Grounding', 'Healing', 'Vitality', 'Clarity'],
+    planet_filter: 'Saturn',
+    zodiac_filter: ['Scorpio', 'Capricorn', 'Cancer'],
+    energy_type_filter: 'Protective'
   }
 ];
