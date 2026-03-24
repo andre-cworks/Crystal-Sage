@@ -4072,5 +4072,112 @@ window.CRYSTALS = [
     planet_filter: 'Venus',
     zodiac_filter: ['Libra', 'Capricorn', 'Pisces'],
     energy_type_filter: 'Harmonizing'
+  },
+
+  {
+    id: 'iolite',
+    name: 'Iolite',
+    emoji: '🔮',
+    color: '#4b5fa6',
+
+    alt_names: ['Water Sapphire', 'Viking\'s Compass', 'Cordierite', 'Dichroite'],
+    mineral_family: 'Silicate (Cyclosilicate / Cordierite)',
+    chemical_formula: 'Mg₂Al₄Si₅O₁₈',
+    crystal_system: 'Orthorhombic',
+    mohs_hardness: '7–7.5',
+    luster: 'Vitreous',
+    transparency: 'Transparent to translucent',
+    color_range: 'Blue-violet, indigo, deep blue-grey; strongly pleochroic — shows violet-blue, pale yellow, and grey-blue depending on the angle of observation',
+    origins: ['India (primary commercial source)', 'Sri Lanka', 'Madagascar', 'Brazil', 'Myanmar', 'Norway', 'Tanzania'],
+    rarity: 'Uncommon',
+    ethical_sourcing: 'Most commercial iolite comes from responsible small-scale mining in India and Sri Lanka. Generally considered a responsibly sourced stone. Verify for gem-quality larger stones from Tanzania and Madagascar.',
+    simulant_warnings: 'Tanzanite, blue sapphire, and amethyst are sometimes confused with iolite. Iolite\'s defining characteristic is extreme pleochroism — it dramatically changes color when rotated (violet-blue to yellow-grey to pale blue). No other common gemstone shows this effect as strongly. This is the easiest authentication test.',
+
+    short_intention: 'Inner vision, soul navigation, and clarity of purpose',
+    intention: 'Iolite is the stone of the inner compass — the faculty that knows which way is true north when every external marker is unclear. The Vikings reportedly used thin slices of iolite as polarizing filters to navigate by the sun on overcast days; this quality of seeing clearly through obscurity is the stone\'s spiritual gift. It is for those at a crossroads who need not more information but more clarity — the capacity to see through the noise of others\' opinions, cultural conditioning, and their own fear to the genuine direction their soul is pointing. Iolite does not tell you where to go; it helps you trust what you already know.',
+
+    chakras: ['Third Eye', 'Crown'],
+    element: 'Air',
+    planet: 'Saturn',
+    day_of_week: 'Saturday',
+    zodiac: ['Sagittarius', 'Libra', 'Taurus'],
+    numerology: 7,
+    polarity: 'Yin',
+    solfeggio_frequency: '852 Hz (returning to spiritual order, awakening intuition)',
+    energy_type: 'Activating',
+
+    emotional: [
+      'Dissolves codependency and the habit of seeking external validation for inner knowing',
+      'Supports emotional sobriety — clear seeing without the distortion of wishful thinking',
+      'Encourages taking responsibility for one\'s own direction in life',
+      'Reduces the emotional paralysis that comes from too many conflicting perspectives',
+      'Builds trust in one\'s own inner guidance system over time'
+    ],
+    mental: [
+      'Cuts through mental fog, confusion, and the paralysis of over-analysis',
+      'Sharpens the faculty of discernment — distinguishing intuition from anxiety, truth from projection',
+      'Supports visionary thinking, long-range planning, and strategic clarity',
+      'Encourages independent thinking over consensus-seeking',
+      'Useful for writers, artists, and creative practitioners navigating direction and vision'
+    ],
+    spiritual: [
+      'Activates the Third Eye for genuine inner vision — not fantasy but true perception',
+      'The "Viking\'s Compass" — a stone for spiritual navigation through unclear terrain',
+      'Supports shamanic journeying and inner-world exploration',
+      'Deepens meditation by clarifying what arises as genuine insight versus mental chatter',
+      'Strengthens the connection to one\'s higher self and soul purpose'
+    ],
+    physical: [
+      'Traditionally associated with the eyes, sinuses, and the brain\'s visual processing',
+      'Used in crystal healing to support the pituitary and pineal glands',
+      'May assist with migraine and tension headaches rooted in mental strain',
+      'Associated with the liver and detoxification in some crystal healing traditions',
+      'Used to support recovery from addiction — helping reconnect with authentic desire beneath compulsion'
+    ],
+
+    vedic_tradition: 'Iolite is associated with Saturn (Shani) and Jupiter (Guru) in Vedic crystal work — Saturn for disciplined inner work and clarity through limitation, Jupiter for wisdom and the higher mind. It supports Sagittarius placements in developing genuine philosophical vision beyond intellectual accumulation.',
+    tcm_use: 'Associated with the Liver meridian (governing vision — both physical and visionary) and the Gallbladder meridian (governing decisions and the courage to act on clear perception). Iolite supports the Liver\'s role in smooth Qi flow and its spiritual function of enabling clear vision of the path forward.',
+    five_element_theory: 'Wood and Water — iolite bridges Wood\'s visionary capacity (the Liver sees the path; the Gallbladder decides to take it) with Water\'s deep, still perception. It supports the moment where inner knowing becomes outer direction.',
+    feng_shui_bagua: 'Knowledge & Wisdom (Gen), Career & Life Path (Kan)',
+    feng_shui_placement: 'Place in the northeast (Knowledge) corner for developing inner wisdom and clarity of purpose. In the north (Career) for clear navigation of professional direction and life path. On a desk or creative workspace for visionary clarity and independent thinking.',
+
+    ancient_lore: 'The Vikings\' use of iolite as a navigational tool is one of the most remarkable historical accounts of any crystal. Thin slices of iolite (cordierite) act as natural polarizing filters — by rotating a piece toward the sun, even on overcast days, the direction of the sun\'s polarized light can be determined, allowing accurate navigation. Norse sagas refer to "solarsteine" (sun stones) used for navigation, and iolite is the leading candidate for this material. It connects this stone uniquely to the archetype of navigation, exploration, and finding one\'s way.',
+    indigenous_traditions: 'The Norse and Viking seafaring cultures\' use of iolite for navigation gives it one of the most concrete historical applications of any crystal. In Indian traditions (where most commercial iolite originates), blue-violet stones are associated with the Third Eye, spiritual vision, and the capacity for deep meditative perception.',
+
+    meditation_guidance: 'Hold iolite at the Third Eye (between the eyebrows) or gaze softly at its surface with eyes half-open. Breathe slowly and allow your vision — both physical and inner — to soften and deepen. Rather than trying to see anything specific, practice the quality of open, receptive inner attention. Ask: "What do I already know, beneath all the noise?" Iolite rewards patience and stillness. The clarity it offers tends to arrive not as a vision but as a quiet, unambiguous inner recognition.',
+    body_placement: 'Third Eye chakra (between eyebrows); Crown chakra; held gently in the dominant hand for active vision work; placed under the pillow for clarifying dreams about life direction.',
+    space_placement: 'Meditation spaces and creative studios. On a desk where important decisions are made. Near maps, vision boards, or any visual representation of direction and goals. Northeast corner of a room for wisdom and clarity.',
+    elixir_safety: 'Generally Safe',
+    elixir_notes: 'Iolite (cordierite) is generally considered safe for indirect elixirs. Use the indirect method as standard precaution.',
+    jewelry_recommendations: 'Good hardness (7–7.5 Mohs) makes it suitable for all jewelry types. The pleochroism creates a dynamic, ever-changing visual quality as the stone is worn and moves. Particularly stunning in rings and pendants where the color shift can be observed. Affordable alternative to tanzanite.',
+
+    safe_cleansing: ['Running water', 'Moonlight', 'Sound', 'Smudging', 'Selenite'],
+    unsafe_cleansing: ['Prolonged sunlight (may affect color)', 'Ultrasonic cleaners for included specimens'],
+    charging_methods: ['Full moon', 'Moonlight', 'Saturn planetary hours (Saturday)', 'Clear quartz cluster', 'Starlight'],
+    storage_guidance: 'Store separately from harder stones to prevent surface scratching. Good general durability. Keep away from prolonged direct sunlight to preserve the blue-violet color.',
+
+    cautions: 'Iolite can intensify inner vision work — use with grounding support (hematite, black tourmaline at the Root) when doing deep Third Eye activation. Its clarity can feel confronting when it surfaces truths one has been avoiding.',
+    toxicity: 'Non-toxic; safe to handle.',
+    fragility: 'Good durability. Relatively low maintenance.',
+
+    synergies: [
+      { crystal: 'Labradorite', id: 'labradorite', rationale: 'Labradorite protects and illuminates the inner world during visionary work; iolite provides the navigational clarity to interpret and act on what is seen. Together they create a complete inner-vision toolkit — labradorite opens the door to the inner world, iolite provides the compass to navigate it.' },
+      { crystal: 'Amethyst', id: 'amethyst', rationale: 'Amethyst opens the Third Eye with calm, spiritual clarity; iolite sharpens that opening into precise inner vision and direction. Together they create a powerful upper-chakra field for meditation, spiritual guidance work, and visionary clarity.' },
+      { crystal: 'Hematite', id: 'hematite', rationale: 'Hematite grounds iolite\'s visionary, upper-chakra energy into the body and practical reality. This is the essential pairing for visionary work that must translate into real-world action — seeing clearly (iolite) and acting decisively in the physical world (hematite).' }
+    ],
+    conflicts: [
+      { crystal: 'Carnelian', id: 'carnelian', reason: 'Carnelian drives passionate, spontaneous Sacral action; iolite cultivates patient, considered Third Eye vision. Carnelian\'s urgency can override iolite\'s quiet inner navigation. Use separately — iolite for the visioning phase, carnelian for the action phase.' }
+    ],
+    grid_role: 'Third Eye activator and navigational compass stone in vision and clarity grids; Crown point in upper-chakra activation layouts',
+
+    chakra_filter: ['Third Eye', 'Crown'],
+    element_filter: 'Air',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Generally Safe',
+    rarity_filter: 'Uncommon',
+    intention_filter: ['Clarity', 'Intuition', 'Spiritual', 'Dream', 'Courage'],
+    planet_filter: 'Saturn',
+    zodiac_filter: ['Sagittarius', 'Libra', 'Taurus'],
+    energy_type_filter: 'Activating'
   }
 ];
