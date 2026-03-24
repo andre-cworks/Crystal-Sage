@@ -2788,5 +2788,219 @@ window.CRYSTALS = [
     planet_filter: 'Venus',
     zodiac_filter: ['Taurus', 'Libra', 'Pisces'],
     energy_type_filter: 'Harmonizing'
+  },
+
+  {
+    id: 'blue-lace-agate',
+    name: 'Blue Lace Agate',
+    emoji: '🩵',
+    color: '#a8d8ea',
+
+    alt_names: ['Blue Agate', 'Gem of Ecology', 'Communication Stone'],
+    mineral_family: 'Chalcedony (Quartz)',
+    chemical_formula: 'SiO₂',
+    crystal_system: 'Trigonal (microcrystalline)',
+    mohs_hardness: '6.5–7',
+    luster: 'Waxy to vitreous',
+    transparency: 'Translucent',
+    color_range: 'Pale sky blue to soft periwinkle, often with delicate white banding',
+    origins: ['South Africa', 'Namibia', 'Brazil', 'India', 'Romania'],
+    rarity: 'Uncommon',
+    ethical_sourcing: 'Most blue lace agate comes from small-scale mining in Namibia and South Africa. Quality specimens are becoming less available as primary deposits deplete; look for responsibly sourced material from certified suppliers.',
+    simulant_warnings: 'Dyed blue chalcedony and glass are sold as blue lace agate. Authentic specimens show natural banding and a waxy luster under magnification; color should be soft and uneven, not uniform.',
+
+    short_intention: 'Gentle communication, calm expression, and peaceful presence',
+    intention: 'Blue lace agate is the stone of the gentle voice — it soothes the throat chakra and dissolves the fear of speaking one\'s truth. Where other blue stones command or project, blue lace agate whispers: it invites communication that is kind, clear, and free from anger or anxiety. It is a stone for those who hold back their words, swallow their feelings, or struggle to ask for what they need. In its presence, the throat relaxes, the breath deepens, and words come with ease.',
+
+    chakras: ['Throat'],
+    element: 'Air',
+    planet: 'Mercury',
+    day_of_week: 'Wednesday',
+    zodiac: ['Gemini', 'Pisces'],
+    numerology: 5,
+    polarity: 'Yin',
+    solfeggio_frequency: '741 Hz (expression, solutions, self-expression)',
+    energy_type: 'Calming',
+
+    emotional: [
+      'Soothes communication anxiety — fear of public speaking, confrontation, or being misunderstood',
+      'Releases anger held in the throat and chest; enables calm expression of difficult feelings',
+      'Supports those who were silenced or invalidated in childhood',
+      'Dissolves nervous tension and helps sensitive people feel safe to speak',
+      'Encourages gentle, compassionate self-expression without self-censorship'
+    ],
+    mental: [
+      'Calms racing, anxious thoughts that obstruct clear communication',
+      'Helps articulate complex emotional states with clarity and precision',
+      'Reduces overthinking about how one\'s words will be received',
+      'Supports writing, journaling, and any verbal processing of inner experience',
+      'Encourages patient, considered response rather than reactive speech'
+    ],
+    spiritual: [
+      'Opens and gently activates the Throat chakra for authentic expression',
+      'Aligns personal truth with higher wisdom — words spoken from the soul rather than the ego',
+      'Supports channeling, mediumship, and any practice requiring clear spiritual communication',
+      'Used in angelic communication practices as a bridge between human and celestial speech',
+      'Deepens the quality of prayer, mantra, and devotional chanting'
+    ],
+    physical: [
+      'Traditionally associated with throat, thyroid, and vocal cord health',
+      'Used in crystal healing to support the lymphatic system of the neck and upper chest',
+      'May assist with sore throats, thyroid imbalances, and shoulder/neck tension',
+      'Associated with the nervous system and stress-related physical complaints',
+      'Supports restful sleep in those whose minds remain active and speech-oriented at night'
+    ],
+
+    vedic_tradition: 'Agate broadly is considered a protective and balancing stone in Vedic tradition. Blue lace agate\'s calming, Mercury-aligned nature supports Gemini and Virgo placements, reducing Mercury-influenced nervousness and over-analysis while supporting clear, truthful communication.',
+    tcm_use: 'Associated with the Lung and Large Intestine meridians (Metal element) in their communicative aspect. Blue lace agate supports the Lung\'s role in governing the breath and voice, and helps release grief held in the chest that inhibits clear, open expression.',
+    five_element_theory: 'Metal — the element of clarity, precision, and grief. Blue lace agate supports Metal\'s communication aspect: the ability to speak truth with clear boundaries and emotional honesty.',
+    feng_shui_bagua: 'Knowledge & Wisdom (Gen), Helpful People (Qian)',
+    feng_shui_placement: 'Place in the northeast (Knowledge) area to support clear thinking and articulate expression. On a desk or near communication tools it supports professional clarity. In the northwest (Helpful People), it enables effective communication with mentors and collaborators.',
+
+    ancient_lore: 'Agates have been used as protective and communicative stones since ancient Babylonia, where they were set into royal seals and used in ritual communication with the divine. Blue lace agate specifically was first identified in modern mineralogy from Namibia. In some traditions it is called the "Stone of Ecology" for its gentle, harmonious vibration.',
+    indigenous_traditions: 'Agates are among the most widely traded stones in African traditions, valued for their protective and communicative properties. Blue stones in many African spiritual systems are associated with water spirits, sky powers, and the capacity for clear, prophetic speech.',
+
+    meditation_guidance: 'Hold blue lace agate at the base of the throat or lay it there while in savasana. Breathe slowly and deeply, letting each exhale release constriction in the throat, jaw, and shoulders. With each inhale, feel a soft blue light expanding the throat space. Silently repeat: "I speak my truth with ease and grace." This stone works gently — sit with it for at least 10 minutes to feel its full effect.',
+    body_placement: 'Throat (base of throat or worn as a necklace at throat level); jaw and TMJ for tension release; over the heart when communication anxiety is emotionally rooted.',
+    space_placement: 'Meeting rooms, therapy offices, and spaces for difficult conversations. On a writing desk to support clear expression. In a child\'s room to support communication development and ease nervousness.',
+    elixir_safety: 'Generally Safe',
+    elixir_notes: 'Blue lace agate (chalcedony) is generally considered safe for elixirs. Use the direct method or indirect for added caution. Avoid if the specimen has surface treatments or dyes.',
+    jewelry_recommendations: 'One of the finest throat-chakra stones for pendants and necklaces — worn at throat level it provides continuous, gentle activation. Also suited to earrings and rings. Relatively durable for everyday wear.',
+
+    safe_cleansing: ['Running water', 'Moonlight', 'Sound', 'Smudging', 'Selenite'],
+    unsafe_cleansing: ['Prolonged sunlight (may affect delicate color)', 'Salt (can pit the surface over time)'],
+    charging_methods: ['Full moon', 'Moonlight', 'Sound bath', 'Near clear quartz', 'Morning sunlight (brief)'],
+    storage_guidance: 'Store away from harder stones to prevent surface scratching. A soft cloth pouch works well. Keep away from intense heat or direct sun to preserve the delicate blue color.',
+
+    cautions: 'Blue lace agate is extremely gentle — one of the safest stones for sensitive individuals, children, and those new to crystal work. No significant cautions.',
+    toxicity: 'Non-toxic; safe to handle.',
+    fragility: 'Moderate durability. Avoid strong impacts. Polish can be scratched by harder minerals.',
+
+    synergies: [
+      { crystal: 'Aquamarine', id: 'aquamarine', rationale: 'Both are gentle blue Throat chakra stones — aquamarine adds courage and clarity of purpose to blue lace agate\'s calming softness. Together they support communication that is both fearless and kind.' },
+      { crystal: 'Lepidolite', id: 'lepidolite', rationale: 'Lepidolite addresses communication anxiety at its root (emotional overwhelm, nervous system dysregulation) while blue lace agate soothes the throat itself. A powerful pairing for social anxiety or fear of speaking.' },
+      { crystal: 'Clear Quartz', id: 'clear-quartz', rationale: 'Clear quartz amplifies blue lace agate\'s gentle throat-opening energy, projecting its calming, expression-supporting frequency more broadly into the aura and environment.' }
+    ],
+    conflicts: [
+      { crystal: 'Carnelian', id: 'carnelian', reason: 'Carnelian is a fiery, activating sacral stone that drives bold action and passionate expression; blue lace agate is a cooling, calming throat stone for gentle, measured speech. Their very different energies can feel contradictory — use separately.' }
+    ],
+    grid_role: 'Calming perimeter stone in communication and healing grids; Throat chakra activator in body layouts',
+
+    chakra_filter: ['Throat'],
+    element_filter: 'Air',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Generally Safe',
+    rarity_filter: 'Uncommon',
+    intention_filter: ['Communication', 'Calm', 'Healing', 'Truth', 'Clarity'],
+    planet_filter: 'Mercury',
+    zodiac_filter: ['Gemini', 'Pisces'],
+    energy_type_filter: 'Calming'
+  },
+
+  {
+    id: 'red-jasper',
+    name: 'Red Jasper',
+    emoji: '🔴',
+    color: '#8b2500',
+
+    alt_names: ['Stone of Endurance', 'Warrior\'s Stone', 'Earth Blood Stone'],
+    mineral_family: 'Chalcedony (Quartz)',
+    chemical_formula: 'SiO₂ (with iron oxide inclusions)',
+    crystal_system: 'Trigonal (microcrystalline)',
+    mohs_hardness: '6.5–7',
+    luster: 'Dull to waxy',
+    transparency: 'Opaque',
+    color_range: 'Brick red, deep terracotta, rusty orange-red, dark burgundy; often with yellow or brown patterning',
+    origins: ['Brazil', 'India', 'Russia', 'USA (Wyoming, Oregon)', 'Germany', 'France', 'Australia'],
+    rarity: 'Common',
+    ethical_sourcing: 'Red jasper is one of the most widely available and affordably sourced crystals. Most commercial material comes from large deposits in Brazil and India with minimal ethical concerns. A very accessible stone.',
+    simulant_warnings: 'Dyed quartzite, red glass, and synthetic resin stones are sold as jasper. Authentic red jasper is opaque, cool to the touch, heavier than glass, and shows natural color variation and patterning under magnification.',
+
+    short_intention: 'Grounded endurance, primal vitality, and steady courage',
+    intention: 'Red jasper is the stone of slow, enduring power — the deep breath before a long climb. Where garnet burns with passionate fire, red jasper smolders with steady coal-heat: it sustains energy over time rather than igniting sudden intensity. It is the stone of warriors, athletes, and anyone engaged in long-term struggle who needs the stamina to persist. Red jasper anchors life-force in the body, connects the practitioner to the earth\'s long patience, and transforms anxiety into grounded, purposeful action.',
+
+    chakras: ['Root'],
+    element: 'Earth',
+    planet: 'Mars',
+    day_of_week: 'Tuesday',
+    zodiac: ['Aries', 'Scorpio', 'Taurus'],
+    numerology: 6,
+    polarity: 'Yang',
+    solfeggio_frequency: '396 Hz (liberation from fear and guilt)',
+    energy_type: 'Grounding',
+
+    emotional: [
+      'Builds emotional resilience and the capacity to endure prolonged difficulty',
+      'Transforms free-floating anxiety into focused, grounded determination',
+      'Supports those who feel chronically overwhelmed, scattered, or emotionally depleted',
+      'Encourages self-respect and healthy assertion of personal boundaries',
+      'Strengthens the resolve to complete what has been started'
+    ],
+    mental: [
+      'Promotes practical, step-by-step thinking over abstract ideation',
+      'Counters procrastination by grounding mental energy into the body',
+      'Supports long-term focus on complex projects requiring sustained effort',
+      'Encourages honest assessment of what is actually achievable',
+      'Reduces mental overwhelm by connecting the mind to present, embodied reality'
+    ],
+    spiritual: [
+      'One of humanity\'s oldest shamanic and protective stones — used in virtually every ancient civilization',
+      'Grounds spiritual energy into the physical body for embodied practice',
+      'Activates the Root chakra and kundalini\'s foundational base',
+      'Used in Native American traditions as a stone of the Earth Mother and sacred warrior path',
+      'Supports physical spiritual practices: drumming, dance, earth-based ceremony'
+    ],
+    physical: [
+      'Traditionally associated with blood, circulation, and iron-rich physical vitality',
+      'Used in crystal healing to support the adrenal glands and reduce physical exhaustion',
+      'Associated with liver function, bile production, and detoxification in some traditions',
+      'May assist with reproductive health and the lower digestive system',
+      'Supports physical recovery after illness, injury, or overexertion'
+    ],
+
+    vedic_tradition: 'Red jasper is associated with Mars (Mangal) and the Root chakra (Muladhara) in Vedic tradition. It strengthens physical constitution, courage, and the will to act. As a Mars stone it supports Aries and Scorpio placements and can address excessive fear or physical weakness.',
+    tcm_use: 'Associated with the Kidney and Spleen meridians in TCM — the Kidneys govern primal vitality (Jing) and the Spleen governs sustained nourishment. Red jasper tonifies Yang Qi and is used for cold, deficient patterns with fatigue, low vitality, and poor circulation.',
+    five_element_theory: 'Earth — deep, nurturing, sustaining Earth energy. Red jasper is the slow heartbeat of the planet itself: stable, enduring, and powerfully nourishing to those who have lost their physical foundation.',
+    feng_shui_bagua: 'Health (Tai Qi), Career & Life Path (Kan)',
+    feng_shui_placement: 'Place in the center of the home (Tai Qi) to support overall physical health. In the north (Career), it provides grounded endurance for long-term professional pursuits. Avoid the bedroom — its energizing effect can disrupt sleep.',
+
+    ancient_lore: 'Red jasper is one of the most ancient stones used by humans. The ancient Egyptians associated it with the blood of Isis and used it in protective amulets and burial objects. Babylonian and Assyrian warriors wore red jasper for courage in battle. In Norse mythology, Siegfried\'s magical sword hilt was inlaid with red jasper for invincibility. Native American peoples across the continent used red jasper as a sacred stone connecting warriors to the Earth Mother\'s strength.',
+    indigenous_traditions: 'Native American traditions widely regard red jasper as a stone of the Earth Mother and sacred warrior energy. It is used in prayer bundles, sweat lodge ceremony, and vision quest preparation to connect the practitioner to ancestral strength and physical endurance. In some traditions it is called "blood of the earth."',
+
+    meditation_guidance: 'Sit or lie on the earth and place red jasper directly on the Root chakra at the base of the spine, or hold it in both hands in your lap. Feel your body\'s weight pressing into the ground. Breathe slowly, drawing breath down into the belly and pelvis. With each exhale, feel yourself becoming heavier, more rooted. Red jasper meditation is not about going up — it is about going down, deeper into the body, deeper into the earth, finding the bedrock of your own endurance.',
+    body_placement: 'Root chakra (base of spine or between the feet when lying down); lower abdomen for reproductive and digestive support; held in both hands for general grounding.',
+    space_placement: 'Center of the home for health; in an athlete\'s training space for endurance; in an office or studio for sustained practical work. Keep one in a pocket or bag during physically demanding or emotionally draining work.',
+    elixir_safety: 'Generally Safe',
+    elixir_notes: 'Red jasper is considered safe for elixirs. Its iron oxide content is present in many food minerals. Use direct method or indirect for added caution.',
+    jewelry_recommendations: 'Excellent for rings, pendants, and bracelets. Its durability and wide availability make it a practical everyday stone. Tumbled pieces in a pocket are an effective way to carry red jasper\'s grounding energy.',
+
+    safe_cleansing: ['Running water', 'Sunlight', 'Earth burial', 'Smudging', 'Sound'],
+    unsafe_cleansing: ['Salt water (prolonged — can affect surface polish)'],
+    charging_methods: ['Sunlight', 'Earth burial', 'Full moon', 'Drumming and sound', 'Placed on soil or grass'],
+    storage_guidance: 'Very durable — one of the hardiest stones for everyday carry. Store separately from harder gems to prevent surface scratching. No special care required.',
+
+    cautions: 'Red jasper\'s grounding energy is safe and gentle enough for regular use. People with very high blood pressure or intense heat/inflammation may prefer to use it in moderation. Not ideal for the bedroom or before sleep.',
+    toxicity: 'Non-toxic; safe to handle.',
+    fragility: 'Very durable. An excellent everyday carry stone.',
+
+    synergies: [
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', rationale: 'Red jasper provides grounded vitality and endurance; black tourmaline provides protective shielding and energetic clearing. Together they create a comprehensive Root chakra foundation — physical and energetic stability working in concert.' },
+      { crystal: 'Hematite', id: 'hematite', rationale: 'Both are iron-rich, Mars-influenced grounding stones with complementary energies: red jasper provides warm, nourishing earth-energy and endurance while hematite adds magnetic, focused mental grounding. Together they create a deeply stabilizing anchor.' },
+      { crystal: 'Carnelian', id: 'carnelian', rationale: 'Red jasper grounds and sustains; carnelian ignites and motivates. Together they move energy from the Root (foundation) through the Sacral (creativity and action) — a powerful combination for sustained creative output and embodied drive.' }
+    ],
+    conflicts: [
+      { crystal: 'Jade', id: 'jade', reason: 'Jade is a gentle, patient, Yin-oriented stone of receptivity and harmony; red jasper is a strong, activating, Yang-driven stone of endurance and action. In sensitive practitioners, jade\'s subtle harmonizing can be overwhelmed by red jasper\'s assertive earth energy. Use separately for distinct intentions.' }
+    ],
+    grid_role: 'Foundation anchor at the base of any grid; corner stabilizer in protection and manifestation layouts',
+
+    chakra_filter: ['Root'],
+    element_filter: 'Earth',
+    polarity_filter: 'Yang',
+    elixir_filter: 'Generally Safe',
+    rarity_filter: 'Common',
+    intention_filter: ['Grounding', 'Vitality', 'Courage', 'Protection', 'Strength'],
+    planet_filter: 'Mars',
+    zodiac_filter: ['Aries', 'Scorpio', 'Taurus'],
+    energy_type_filter: 'Grounding'
   }
 ];
