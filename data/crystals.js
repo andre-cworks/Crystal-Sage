@@ -4179,5 +4179,112 @@ window.CRYSTALS = [
     planet_filter: 'Saturn',
     zodiac_filter: ['Sagittarius', 'Libra', 'Taurus'],
     energy_type_filter: 'Activating'
+  },
+
+  {
+    id: 'ruby',
+    name: 'Ruby',
+    emoji: '❤️',
+    color: '#9b1a2e',
+
+    alt_names: ['Manik', 'Ratnaraj (King of Gems)', 'Pigeon\'s Blood Ruby', 'Corundum (red)'],
+    mineral_family: 'Oxide (Corundum)',
+    chemical_formula: 'Al₂O₃ (with chromium for red color)',
+    crystal_system: 'Trigonal (Hexagonal)',
+    mohs_hardness: '9',
+    luster: 'Adamantine to vitreous',
+    transparency: 'Transparent to opaque',
+    color_range: 'Pink-red to deep blood red; finest "pigeon\'s blood" is vivid red with a hint of blue; also pink (shading into pink sapphire)',
+    origins: ['Myanmar (Mogok — finest pigeon\'s blood)', 'Thailand', 'Sri Lanka', 'Mozambique', 'Tanzania', 'Vietnam', 'India'],
+    rarity: 'Rare',
+    ethical_sourcing: 'Myanmar (Burma) ruby mining has historically been associated with human rights concerns under military rule; many countries have sanctions against Burmese gems. Mozambique and Tanzania produce fine rubies through more transparent supply chains. Always verify origin — Burmese ruby commands the highest prices and the most complex ethics.',
+    simulant_warnings: 'Ruby is one of the most faked gems on earth — red glass, red spinel, red garnet, and synthetic corundum are all sold as ruby. Genuine ruby has a hardness of 9 (second only to diamond), shows strong fluorescence under UV light, and displays asterism (star) in cabochon form. "Treated" rubies (heated, filled) are common even in legitimate trade.',
+
+    short_intention: 'Passionate devotion, royal vitality, and the courageous heart',
+    intention: 'Ruby is the fire of the heart made stone — the most concentrated form of life-force energy available in the mineral kingdom. Where garnet smolders and carnelian flickers, ruby blazes: it is the stone of kings, warriors, and devoted lovers throughout all of human history. It activates the Root and Heart chakras simultaneously, fusing primal survival energy with the highest expression of love into a single, unified field of passionate, courageous living. Ruby does not permit half-measures or emotional timidity — in its presence, one is called to love, live, and act with full force.',
+
+    chakras: ['Root', 'Heart'],
+    element: 'Fire',
+    planet: 'Sun',
+    day_of_week: 'Sunday',
+    zodiac: ['Cancer', 'Leo', 'Scorpio', 'Sagittarius'],
+    numerology: 3,
+    polarity: 'Yang',
+    solfeggio_frequency: '396 Hz (liberation from fear and guilt)',
+    energy_type: 'Activating',
+
+    emotional: [
+      'Ignites passionate, courageous love — romantic, familial, and self-directed',
+      'Dissolves emotional timidity, numbness, and the fear of fully feeling',
+      'Restores zest for life after grief, depression, or prolonged emotional flatness',
+      'Encourages the courage to pursue what is genuinely desired without apology',
+      'Supports those who have suppressed their own desires in service to others'
+    ],
+    mental: [
+      'Sharpens concentration and the mental intensity required for excellence',
+      'Supports decisive action — cutting through hesitation and analysis paralysis',
+      'Encourages leadership and the confidence to direct one\'s own life',
+      'Counters lethargy, apathy, and the mental fog of unexpressed desire',
+      'Activates willpower and the discipline to pursue ambitious goals'
+    ],
+    spiritual: [
+      'One of the Navaratna (nine sacred gems) of Vedic tradition — stone of the Sun',
+      'Used in royal and priestly adornment across every major civilization',
+      'Activates the spiritual warrior — dharmic action aligned with the highest good',
+      'Bridges earthly passion with spiritual devotion — love as a sacred act',
+      'Used in Tibetan Buddhism to represent the Buddha\'s teachings (dharma)'
+    ],
+    physical: [
+      'Traditionally associated with the heart, blood, and cardiovascular vitality',
+      'Used in crystal healing to support the adrenal glands and physical stamina',
+      'Associated with the spleen and blood detoxification in some traditions',
+      'May support reproductive vitality and the lower chakra\'s physical functions',
+      'Historically carried to support fever reduction and circulation in Ayurvedic practice'
+    ],
+
+    vedic_tradition: 'Ruby (Manik) is the gem of the Sun (Surya) in Vedic astrology and is one of the nine Navaratna gems. It strengthens the Sun\'s qualities: vitality, leadership, confidence, paternal relationships, and soul purpose. Worn on the ring finger of the right hand on Sunday mornings to activate solar blessings. Contraindicated when the Sun is malefically placed without remediation guidance.',
+    tcm_use: 'Associated with the Heart meridian and the Pericardium — the Heart\'s protector and the seat of Shen (spirit). Ruby\'s warming, activating, red Fire energy tonifies Heart Yang and stirs the Shen into full, passionate aliveness. Used for cold, deficient heart patterns characterized by depression, emotional flatness, and lack of joy.',
+    five_element_theory: 'Fire — the most intensely Fire-natured gem available. Ruby embodies the Heart\'s highest expression: joy, clarity, warmth, and the courage to love completely and live fully.',
+    feng_shui_bagua: 'Fame & Reputation (Li), Love & Partnership (Kun)',
+    feng_shui_placement: 'Place in the south (Fame) for visibility, recognition, and passionate creative expression. In the southwest (Love) for igniting deep romantic devotion and heart-centered partnership. Avoid the bedroom if sleep is a priority — ruby\'s activating energy can be too stimulating.',
+
+    ancient_lore: 'Ruby has been considered the most precious of all gemstones in virtually every ancient civilization. In Sanskrit, it is "ratnaraj" — king of precious stones. Ancient Burmese warriors implanted rubies under their skin before battle, believing it made them invincible. The ancient Hindus divided rubies into castes — only Brahmin-quality rubies could bring their owners fortune and health. In medieval Europe, ruby was believed to darken when danger was near and restore its color when the danger passed. The biblical "Proverbs 31 woman" whose worth is "far above rubies" established the stone as the ultimate measure of value.',
+    indigenous_traditions: 'In Burmese tradition, rubies have been mined in the Mogok Valley for over 2,500 years and are considered sacred gifts from the earth, imbued with the fire of the sun and the blood of the earth herself. Across South and Southeast Asia, ruby is associated with royal lineage, divine protection, and the courage of the warrior spirit.',
+
+    meditation_guidance: 'Hold ruby over the heart or at the Root chakra. Breathe deeply into the chest, feeling the warmth of the stone. Visualize a deep crimson light filling the heart — not the pale pink of gentle love but the full, blazing red of a love that has passed through fire and emerged stronger. Ask: "Where am I holding back? What am I afraid to want?" Let ruby\'s fierce tenderness dissolve that withholding. This is a stone for those willing to feel everything.',
+    body_placement: 'Heart chakra for passionate love activation; Root chakra for primal vitality and life-force; worn on the ring finger (heart connection) or as a pendant at heart level.',
+    space_placement: 'South wall for fame and passionate creative expression. Altar for devotional practice. Studio or creative workspace for inspired, full-force creative output. Not recommended for calming spaces — ruby is the opposite of sedating.',
+    elixir_safety: 'Generally Safe',
+    elixir_notes: 'Natural ruby (corundum) is generally safe for indirect elixirs. Use indirect method. Avoid treated or filled rubies for elixir work — only use verified natural stones.',
+    jewelry_recommendations: 'With a hardness of 9, ruby is second only to diamond in durability and is ideal for all jewelry types including daily-wear rings. The finest pigeon\'s blood rubies from Myanmar are among the most expensive gems on earth. Synthetic and treated rubies are widely available at accessible prices.',
+
+    safe_cleansing: ['Running water', 'Sunlight', 'Moonlight', 'Sound', 'Smudging'],
+    unsafe_cleansing: ['Ultrasonic cleaners (for treated/filled rubies)', 'Steam (for fracture-filled stones)'],
+    charging_methods: ['Sunlight', 'Full moon', 'Fire (candle — indirect)', 'Sunday solar hours', 'Red altar cloth or red light'],
+    storage_guidance: 'Extremely durable — one of the hardest natural materials. Store separately only to prevent scratching softer stones. No special care required for natural ruby.',
+
+    cautions: 'Ruby\'s intense activating energy is not for everyone at all times. Those experiencing hypertension, intense anger, inflammatory conditions, or emotional overwhelm should use ruby with moderation. Its force can amplify what is already present — including difficult emotions. Use with intention.',
+    toxicity: 'Non-toxic; safe to handle.',
+    fragility: 'Exceptionally durable (hardness 9). One of the most robust gems available.',
+
+    synergies: [
+      { crystal: 'Diamond (Clear Quartz)', id: 'clear-quartz', rationale: 'Clear quartz amplifies ruby\'s passionate fire and channels it with clarity and focus. Historically, ruby and diamond were considered the supreme gemstone pairing — fire (ruby) and light (diamond/quartz) united.' },
+      { crystal: 'Garnet', id: 'garnet', rationale: 'Ruby works at the spiritual level of devoted, royal love; garnet grounds that same fire into physical reality and sustained motivation. Together they create a comprehensive field of passionate, embodied vitality spanning from the physical to the divine.' },
+      { crystal: 'Rose Quartz', id: 'rose-quartz', rationale: 'Rose quartz softens and opens the heart with unconditional tenderness; ruby ignites it with passionate, courageous fire. Together they create the complete spectrum of Heart chakra expression — from gentle self-love to blazing devotion.' }
+    ],
+    conflicts: [
+      { crystal: 'Amethyst', id: 'amethyst', reason: 'Amethyst cools, calms, and elevates awareness away from passion and the physical; ruby ignites, warms, and plunges awareness into full embodied feeling. Their energies are opposing in the most elemental sense — Fire versus Air/Water. Use each for its distinct domain.' }
+    ],
+    grid_role: 'Heart-fire anchor in love, devotion, and vitality grids; Sun-activation stone at the center of solar manifestation layouts',
+
+    chakra_filter: ['Root', 'Heart'],
+    element_filter: 'Fire',
+    polarity_filter: 'Yang',
+    elixir_filter: 'Use with Caution',
+    rarity_filter: 'Rare',
+    intention_filter: ['Love', 'Passion', 'Vitality', 'Courage', 'Strength', 'Spiritual'],
+    planet_filter: 'Sun',
+    zodiac_filter: ['Cancer', 'Leo', 'Scorpio', 'Sagittarius'],
+    energy_type_filter: 'Activating'
   }
 ];
