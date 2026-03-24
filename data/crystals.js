@@ -3216,5 +3216,219 @@ window.CRYSTALS = [
     planet_filter: 'Neptune',
     zodiac_filter: ['Gemini', 'Libra', 'Pisces'],
     energy_type_filter: 'Calming'
+  },
+
+  {
+    id: 'rhodochrosite',
+    name: 'Rhodochrosite',
+    emoji: '🌸',
+    color: '#e8829a',
+
+    alt_names: ['Inca Rose', 'Rosa del Inca', 'Stone of the Compassionate Heart', 'Manganese Spar'],
+    mineral_family: 'Carbonate (Rhodochrosite group)',
+    chemical_formula: 'MnCO₃',
+    crystal_system: 'Trigonal',
+    mohs_hardness: '3.5–4',
+    luster: 'Vitreous to pearly',
+    transparency: 'Transparent to translucent (crystals); opaque (massive form)',
+    color_range: 'Hot pink, rose red, pale pink, banded pink-and-white (stalactitic forms)',
+    origins: ['Argentina (Capillitas mine — world\'s finest)', 'USA (Colorado)', 'South Africa', 'Romania', 'Peru', 'China'],
+    rarity: 'Uncommon',
+    ethical_sourcing: 'Fine rhodochrosite from Argentina has been mined since Inca times. The Capillitas mine produces exceptional stalactitic specimens. Verify that collector-quality pieces come from licensed operations. Avoid pieces from informal or unregulated mining.',
+    simulant_warnings: 'Rhodonite, pink calcite, and dyed howlite are sometimes sold as rhodochrosite. Authentic rhodochrosite has characteristic pink-and-white banding in polished forms, effervesces in acid, and is noticeably soft (will be scratched by a steel knife). The deep rose-red crystalline form is distinctive.',
+
+    short_intention: 'Self-love, inner child healing, and compassionate heart opening',
+    intention: 'Rhodochrosite is the stone that finds you where you are most tender — the unhealed places in the heart where childhood wounds still live, where self-love broke down, where love was withheld or lost. It does not demand healing; it makes healing feel safe. With a warmth that is at once fierce and gentle, it dissolves the armoring around the heart and restores the capacity to receive love — not just to give it. It is the stone of the inner child who is still waiting to be told: you are enough, you are loved, you are worthy of care.',
+
+    chakras: ['Heart', 'Solar Plexus'],
+    element: 'Fire',
+    planet: 'Mars',
+    day_of_week: 'Friday',
+    zodiac: ['Scorpio', 'Leo', 'Aries'],
+    numerology: 4,
+    polarity: 'Yin',
+    solfeggio_frequency: '528 Hz (love, DNA repair, transformation)',
+    energy_type: 'Activating',
+
+    emotional: [
+      'Heals deep wounds of self-worth, self-rejection, and chronic self-criticism',
+      'Restores the capacity to receive love after loss, betrayal, or emotional abandonment',
+      'Supports inner child work — accessing and healing the root of adult emotional patterns',
+      'Dissolves emotional numbness and the protective disconnection from feeling',
+      'Encourages passionate self-expression and claiming one\'s right to joy and pleasure'
+    ],
+    mental: [
+      'Dissolves the mental narrative of unworthiness and "not enough"',
+      'Supports recognition of subconscious emotional patterns driving self-sabotage',
+      'Encourages integration of the shadow — accepting all parts of oneself with compassion',
+      'Stimulates creativity and the willingness to take emotional risks in expression',
+      'Helps reframe past pain as part of a meaningful, evolving personal story'
+    ],
+    spiritual: [
+      'Activates the Heart chakra at its most personal and vulnerable level',
+      'Bridges the Heart and Solar Plexus — love and personal power integrated',
+      'Supports past-life healing work connected to love, loss, and abandonment',
+      'In Incan tradition, considered sacred stone of the Earth Mother and divine love',
+      'Deepens the practice of loving-kindness (metta) meditation'
+    ],
+    physical: [
+      'Traditionally associated with the heart, circulatory system, and blood',
+      'Used in crystal healing to support the kidneys and reproductive system',
+      'Associated with skin health, cellular renewal, and the body\'s self-healing capacity',
+      'May assist with thyroid function and overall hormonal balance',
+      'Supports recovery from illness involving depletion of vital energy and will to live'
+    ],
+
+    vedic_tradition: 'Rhodochrosite\'s Mars and Venus-influenced energy (pink = Venus; activation = Mars) corresponds in Vedic practice to the integration of Shakti and Shiva — receptive love and active will. It supports Leo and Scorpio placements in developing the courage to be vulnerable and fully alive in the heart.',
+    tcm_use: 'Associated with the Heart meridian (emotional regulation, joy, and Shen) and the Pericardium (Heart Protector). Rhodochrosite supports the Pericardium\'s role in filtering emotional experience — allowing love in while maintaining the heart\'s integrity. Tonifies Heart Blood in TCM terms.',
+    five_element_theory: 'Fire — the element of the Heart, joy, and authentic relational warmth. Rhodochrosite embodies Fire\'s most vulnerable aspect: the open, loving heart that risks being hurt and chooses to love anyway.',
+    feng_shui_bagua: 'Love & Partnership (Kun), Health (Tai Qi)',
+    feng_shui_placement: 'Place in the southwest corner (Love & Partnership) for attracting and deepening romantic love, particularly self-love as the foundation for healthy relationships. In the center of the home for overall emotional health and warmth of the household.',
+
+    ancient_lore: 'In Incan mythology, rhodochrosite is the petrified blood of their ancestors — ancient Incan kings and queens whose love for their people lives on in the stone. The Spanish discovered magnificent stalactitic rhodochrosite formations in the Capillitas mine in Argentina, which had been worked by the Incas centuries earlier. In medieval European alchemy, pink and red stones were associated with the philosopher\'s stone in its aspect of compassionate transformation.',
+    indigenous_traditions: 'The Incas of Peru and Argentina considered rhodochrosite a sacred stone of their royal lineage — "Rosa del Inca" (Rose of the Inca) — and used it for ceremonial objects and royal adornments. It was considered a stone of passionate love, divine heritage, and the living connection between the earthly and divine.',
+
+    meditation_guidance: 'Lie down and place rhodochrosite directly over the heart chakra. Rest both hands lightly over the stone. Breathe slowly and deeply into the chest. As you breathe, invite the awareness of your own heart — not your achievements or your roles, but your simple, beating, feeling heart. If emotion arises, let it. Rhodochrosite works by creating safety for what has been held back. The most healing thing you can do with this stone is allow yourself to be seen by yourself — fully, without judgment.',
+    body_placement: 'Heart chakra (center of chest); Solar Plexus for personal power integration; held against the sternum for deep heart-opening work. Can be placed over the heart during sleep for gentle overnight healing.',
+    space_placement: 'Bedroom and personal sanctuary for self-love and emotional healing. Therapy rooms and spaces for deep personal work. Place where you most need to feel safe and loved — a reading nook, a bath, a morning ritual space.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Rhodochrosite contains manganese and is slightly soluble in acidic water. Do not use for direct or indirect elixirs involving ingestion. Use as a visual and energetic presence only.',
+    jewelry_recommendations: 'Soft (3.5–4 Mohs) — best suited to pendants and earrings worn with care rather than rings or bracelets subject to daily impact. The banded stalactitic form makes stunning cabochons. Crystalline rhodochrosite is rare and precious; treat gently.',
+
+    safe_cleansing: ['Moonlight', 'Sound', 'Smudging', 'Selenite', 'Visualization'],
+    unsafe_cleansing: ['Water (softly soluble — will damage over time)', 'Salt (highly damaging)', 'Sunlight (fades color)', 'Acidic solutions'],
+    charging_methods: ['Full moon', 'Moonlight', 'Rose quartz proximity', 'Sound bath', 'Loving intention and breath'],
+    storage_guidance: 'Very soft — store in individual padded pouch away from all other stones. Keep away from water, salt, and direct light. Handle with care; rhodochrosite is easily scratched and chipped.',
+
+    cautions: 'Rhodochrosite can surface deep emotional material — grief, childhood wounds, and unprocessed feelings of unworthiness. Use intentionally and with support (therapist, trusted friend, journaling practice) when doing deep inner child work. Not for use in elixirs.',
+    toxicity: 'Contains manganese; not safe for elixirs. Safe for careful handling.',
+    fragility: 'Soft and relatively fragile. Treat with care.',
+
+    synergies: [
+      { crystal: 'Rose Quartz', id: 'rose-quartz', rationale: 'Rose quartz provides the gentle, unconditional love field within which rhodochrosite\'s deeper healing work can safely occur. Rose quartz holds space; rhodochrosite does the excavation. Together they create a comprehensive self-love healing environment.' },
+      { crystal: 'Malachite', id: 'malachite', rationale: 'Malachite drives emotional transformation through confrontation; rhodochrosite heals through compassionate heart-opening. Together they create a powerful but balanced emotional healing pairing — malachite uncovers, rhodochrosite restores.' },
+      { crystal: 'Lepidolite', id: 'lepidolite', rationale: 'Lepidolite calms the nervous system during emotionally activating work; rhodochrosite opens the heart to that work. Together they support deep emotional healing without overwhelm — the combination for grief, inner child work, and trauma processing.' }
+    ],
+    conflicts: [
+      { crystal: 'Obsidian', id: 'obsidian', reason: 'Obsidian is an intense truth-mirror that can surface shadow material forcefully; rhodochrosite opens the heart\'s most vulnerable places. Using both simultaneously can be emotionally overwhelming, particularly for those in early stages of healing work. Use separately and sequentially — obsidian first to reveal, then rhodochrosite to heal.' }
+    ],
+    grid_role: 'Heart-center stone in self-love and emotional healing grids; inner child healing anchor in personal transformation layouts',
+
+    chakra_filter: ['Heart', 'Solar Plexus'],
+    element_filter: 'Fire',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Uncommon',
+    intention_filter: ['Love', 'Healing', 'Courage', 'Transformation', 'Spiritual'],
+    planet_filter: 'Mars',
+    zodiac_filter: ['Scorpio', 'Leo', 'Aries'],
+    energy_type_filter: 'Activating'
+  },
+
+  {
+    id: 'chrysocolla',
+    name: 'Chrysocolla',
+    emoji: '🌊',
+    color: '#2e8b8b',
+
+    alt_names: ['Goddess Stone', 'Stone of Communication', 'Earth\'s Turquoise', 'Wise Woman Stone'],
+    mineral_family: 'Phyllosilicate (copper silicate)',
+    chemical_formula: 'Cu₂-xAlx(H₂-xSi₂O₅)(OH)₄·nH₂O',
+    crystal_system: 'Amorphous (no defined crystal structure)',
+    mohs_hardness: '2.5–3.5',
+    luster: 'Waxy to dull',
+    transparency: 'Opaque',
+    color_range: 'Blue-green, teal, cyan, turquoise blue; often intergrown with malachite (green), azurite (blue), or quartz',
+    origins: ['Chile', 'Peru', 'USA (Arizona, New Mexico)', 'Russia', 'Israel', 'DR Congo', 'Australia'],
+    rarity: 'Common',
+    ethical_sourcing: 'Chrysocolla is a byproduct of copper mining. Look for specimens from operations with responsible environmental practices. Chrysocolla-in-quartz (Gem Silica) from Arizona is highly regarded and responsibly sourced.',
+    simulant_warnings: 'Often confused with turquoise — both are copper-based and share color. Chrysocolla is softer (will be scratched by a fingernail), has a more glassy or waxy appearance, and lacks turquoise\'s vein patterns. Also confused with amazonite. Mixed specimens with malachite and azurite are genuine and beautiful.',
+
+    short_intention: 'Goddess wisdom, peaceful expression, and earth-anchored compassion',
+    intention: 'Chrysocolla is the voice of the earth herself — the quiet authority of deep knowing that has no need to shout. It embodies the archetype of the wise woman: one who speaks from the body\'s knowing, who holds space without losing herself, who communicates truth with compassion rather than force. It soothes the places in us that have been hardened by the pressure to compete, perform, or prove, and restores the softer intelligence of listening, feeling, and speaking from the heart of lived experience.',
+
+    chakras: ['Heart', 'Throat'],
+    element: 'Water',
+    planet: 'Venus',
+    day_of_week: 'Friday',
+    zodiac: ['Taurus', 'Gemini', 'Virgo'],
+    numerology: 5,
+    polarity: 'Yin',
+    solfeggio_frequency: '528 Hz (love, DNA repair, transformation)',
+    energy_type: 'Calming',
+
+    emotional: [
+      'Soothes intense emotional states — grief, anger, fear — through grounded, watery calm',
+      'Supports those recovering from emotional exhaustion, burnout, or over-giving',
+      'Encourages healthy emotional boundaries rooted in wisdom rather than defensiveness',
+      'Dissolves resentment and bitterness held in the chest and throat',
+      'Supports women\'s emotional cycles and the wisdom of cyclical feeling'
+    ],
+    mental: [
+      'Encourages teaching, sharing knowledge, and communicating from lived experience',
+      'Supports the integration of intellectual knowledge with embodied, felt wisdom',
+      'Reduces the pressure to have all the answers — cultivates comfort with mystery',
+      'Supports clear, compassionate communication in leadership and teaching roles',
+      'Encourages speaking from genuine authority rather than performed confidence'
+    ],
+    spiritual: [
+      'Associated with goddess archetypes across many traditions — Isis, Gaia, Pachamama, Kuan Yin',
+      'Embodies the divine feminine principle of wisdom-through-embodiment',
+      'Supports earth-based spiritual practice and deep listening to natural cycles',
+      'Used in indigenous copper-working cultures as a stone of the sacred feminine',
+      'Deepens connection to ancestral feminine wisdom and the wisdom of the body'
+    ],
+    physical: [
+      'Copper content traditionally associated with joint health and anti-inflammatory properties',
+      'Used in crystal healing to support the thyroid, adrenal glands, and hormonal balance',
+      'Associated with women\'s reproductive health and support through menstrual cycles',
+      'May support the lungs and respiratory system, particularly stress-related breathing difficulties',
+      'Used topically in some traditions for skin conditions and burns (copper\'s natural properties)'
+    ],
+
+    vedic_tradition: 'Chrysocolla\'s Venus rulership and copper nature align it with Shukra (Venus) in Vedic astrology. It supports Taurus and Libra placements in developing genuine, embodied wisdom rather than intellectual performance. Its cooling, Yin nature makes it a balancing stone for Pitta excess in Ayurvedic practice.',
+    tcm_use: 'Associated with the Lung meridian (voice, grief, communication) and the Kidney meridian (deep reserves, wisdom, will). Chrysocolla\'s cooling copper nature and watery energy tonify Yin and support the descending function of the Lungs — the capacity to let go, exhale fully, and speak from the depths rather than the surface.',
+    five_element_theory: 'Water and Metal — chrysocolla holds both the depth of Water (emotional wisdom, reserves, the unconscious) and the clarity of Metal (precise, truthful expression). It is the bridge between what is felt deeply and what is spoken clearly.',
+    feng_shui_bagua: 'Knowledge & Wisdom (Gen), Love & Partnership (Kun)',
+    feng_shui_placement: 'Place in the northeast (Knowledge) corner for deepening wisdom and authentic self-knowledge. In the southwest (Love & Partnership) for bringing wise, compassionate feminine energy into relationships. In any teaching or healing space to support the practitioner\'s authentic, embodied authority.',
+
+    ancient_lore: 'Chrysocolla has been found at ancient copper-working sites across the world — Egypt, Israel, Peru, the American Southwest. Cleopatra reportedly wore chrysocolla jewelry as a symbol of her authority and wisdom. The stone has long been associated with the great feminine archetypes of antiquity — Isis in Egypt, Pachamama in the Andes, and the copper goddesses of the ancient Near East. In ancient Israel, the "Eilat Stone" — chrysocolla intergrown with malachite and turquoise — was considered the national stone of Israel.',
+    indigenous_traditions: 'Native American cultures of the Southwest — particularly the Zuni, Hopi, and Pueblo peoples — have used chrysocolla and related copper minerals in ceremonial jewelry and offerings for centuries. In Andean traditions, the stone is associated with Pachamama (Earth Mother) and the wisdom of women healers. Copper and its stones are widely considered sacred materials in earth-based traditions worldwide.',
+
+    meditation_guidance: 'Hold chrysocolla cupped in both hands at heart level, or place it at the throat. Close your eyes and breathe into the belly. Feel the stone\'s weight — its cool, earthy, watery presence. Rather than directing the meditation, practice simply receiving. Ask: "What does my body know that my mind has not heard?" Let chrysocolla\'s quiet authority surface what has been waiting to be acknowledged. This is a stone for listening, not directing.',
+    body_placement: 'Throat chakra for expression and communication; Heart chakra for emotional soothing; lower abdomen for feminine cycle support; held in both hands for grounded presence and embodied wisdom.',
+    space_placement: 'Teaching spaces, healing rooms, and therapy offices. Kitchen and spaces of nourishment and communal care. Women\'s circles and gathering spaces. Near water features — chrysocolla resonates with flowing water.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Chrysocolla contains copper, which is toxic in solution. Do not use for direct or indirect elixirs. Not safe in drinking water.',
+    jewelry_recommendations: 'Soft (2.5–3.5 Mohs) — best suited to pendants and earrings rather than rings or bracelets. Chrysocolla-in-quartz (Gem Silica) is harder and more suitable for jewelry. Natural chrysocolla is fragile; protect from knocks and chemicals.',
+
+    safe_cleansing: ['Moonlight', 'Sound', 'Smudging', 'Visualization', 'Breath'],
+    unsafe_cleansing: ['Water (copper minerals are water-sensitive)', 'Salt (damaging to soft surface)', 'Sunlight (fades color)'],
+    charging_methods: ['Full moon', 'Moonlight', 'Earth (dry surface only)', 'Sound bath', 'Loving intention'],
+    storage_guidance: 'Store in individual padded pouch — chrysocolla is soft and easily scratched. Keep completely dry. Avoid contact with perfume, chemicals, or acidic materials. Handle gently.',
+
+    cautions: 'Contains copper — not safe for elixirs in any form. Do not use near open cuts or broken skin for extended periods. Otherwise safe to handle; wash hands after prolonged contact as a general precaution.',
+    toxicity: 'Contains copper; toxic if ingested or dissolved. Safe for careful handling.',
+    fragility: 'Soft and fragile. Handle with care and store protected.',
+
+    synergies: [
+      { crystal: 'Turquoise', id: 'turquoise', rationale: 'Both are copper-bearing stones of the heart-throat axis with ancient sacred histories. Turquoise brings sky-energy, protection, and wholeness; chrysocolla brings earth-wisdom, goddess energy, and emotional depth. Together they represent the complete sacred feminine — sky and earth, protection and healing.' },
+      { crystal: 'Malachite', id: 'malachite', rationale: 'Both are copper-based Heart-Throat stones — malachite drives emotional transformation through confrontation, chrysocolla soothes and heals through compassionate presence. They often appear together in nature (and are extraordinarily beautiful combined), and their energies complement: malachite excavates, chrysocolla restores.' },
+      { crystal: 'Lapis Lazuli', id: 'lapis-lazuli', rationale: 'Lapis lazuli adds royal authority, spiritual wisdom, and Third Eye depth to chrysocolla\'s embodied, feminine communication. Together they support the archetype of the wise woman-teacher: communicating from both spiritual knowing and lived bodily experience.' }
+    ],
+    conflicts: [
+      { crystal: 'Pyrite', id: 'pyrite', reason: 'Pyrite\'s solar, projective, masculine energy of bold action and confident assertion can overwhelm chrysocolla\'s receptive, Yin, listening-based wisdom. They represent very different modes of being in the world — use each separately for its own domain.' }
+    ],
+    grid_role: 'Goddess wisdom anchor in feminine healing and communication grids; earth-medicine stone in shamanic and earth-based layouts',
+
+    chakra_filter: ['Heart', 'Throat'],
+    element_filter: 'Water',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Common',
+    intention_filter: ['Communication', 'Healing', 'Wisdom', 'Calm', 'Love', 'Truth'],
+    planet_filter: 'Venus',
+    zodiac_filter: ['Taurus', 'Gemini', 'Virgo'],
+    energy_type_filter: 'Calming'
   }
 ];
