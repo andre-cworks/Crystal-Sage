@@ -21,8 +21,8 @@
   --purple:        #6b4fa0;
 
   --text:          #e8e0f0;
-  --text-muted:    #8878a0;
-  --text-faint:    #4a4260;
+  --text-muted:    #b0a0c8;
+  --text-faint:    #8070a4;
 
   --elixir-safe-bg:      rgba(22, 101, 52, 0.35);
   --elixir-safe-border:  #22c55e;
@@ -50,6 +50,9 @@
 
 /* ── Reset ──────────────────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* Ensure [hidden] beats any display rule in this stylesheet */
+[hidden] { display: none !important; }
 html { scroll-behavior: smooth; }
 body {
   background: var(--bg);
