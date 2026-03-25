@@ -4821,5 +4821,112 @@ window.CRYSTALS = [
     planet_filter: 'Venus',
     zodiac_filter: ['Taurus', 'Libra', 'Pisces', 'Cancer'],
     energy_type_filter: 'Calming'
+  },
+
+  {
+    id: 'charoite',
+    name: 'Charoite',
+    emoji: '🔮',
+    color: '#7b4fa6',
+
+    alt_names: ['Stone of Transformation', 'Stone of Magic', 'Lilac Stone'],
+    mineral_family: 'Silicate (Phyllosilicate)',
+    chemical_formula: 'K(Ca,Na)₂Si₄O₁₀(OH,F)·H₂O',
+    crystal_system: 'Monoclinic',
+    mohs_hardness: '5–6',
+    luster: 'Vitreous to pearly (silky in fibrous forms)',
+    transparency: 'Opaque',
+    color_range: 'Vivid violet, purple, lilac, lavender; often with swirling patterns of white, black, orange, and grey inclusions',
+    origins: ['Russia (Chara River, Siberia — the only source in the world)'],
+    rarity: 'Rare',
+    ethical_sourcing: 'Charoite exists in only one location on earth — the Murun massif along the Chara River in Siberia, Russia. Mining is conducted under Russian state licensing. Given current geopolitical circumstances, verify supply chain carefully and consider working with pre-existing stock from established dealers.',
+    simulant_warnings: 'Charoite is relatively difficult to fake convincingly — its swirling violet with characteristic white, orange, and black inclusions is distinctive. Some purple-dyed stones are sold as charoite; authentic specimens are heavier than dyed quartzite and show the characteristic fibrous, swirling internal texture. Purchase from reputable dealers.',
+
+    short_intention: 'Spiritual transformation, fearless service, and the alchemy of the soul',
+    intention: 'Charoite is what happens when the soul agrees to be fundamentally changed — not refined or improved but transformed at the level of its essential orientation. It is the stone of the spiritual alchemist who has decided that the old self, however comfortable, is no longer large enough for what is trying to emerge. Charoite dissolves fear of the unknown, the resistance to change, and the attachment to familiar suffering, replacing them with a fierce, violet clarity: the courage to become, over and over again, what life is calling you toward. It is the stone of those in service — healers, teachers, wayshowers — who must continuously release their personal agenda to carry something larger.',
+
+    chakras: ['Crown', 'Third Eye'],
+    element: 'Air',
+    planet: 'Pluto',
+    day_of_week: 'Saturday',
+    zodiac: ['Scorpio', 'Sagittarius', 'Virgo'],
+    numerology: 7,
+    polarity: 'Yin',
+    solfeggio_frequency: '963 Hz (divine consciousness, pineal activation)',
+    energy_type: 'Activating',
+
+    emotional: [
+      'Dissolves fear of change, the unknown, and fundamental transformation',
+      'Releases attachment to familiar patterns that no longer serve growth',
+      'Supports those in deep life transitions — illness, loss, calling, or awakening',
+      'Encourages the courage to live authentically even when it requires radical change',
+      'Transforms existential anxiety into purposeful engagement with life\'s larger arc'
+    ],
+    mental: [
+      'Breaks down rigid mental constructs and fixed belief systems that limit growth',
+      'Supports integration of paradox — holding contradictions without needing resolution',
+      'Encourages visionary thinking that perceives possibilities beyond current circumstances',
+      'Reduces obsessive thinking by elevating awareness to a higher vantage point',
+      'Supports those in service professions in maintaining spiritual clarity of purpose'
+    ],
+    spiritual: [
+      'One of the most powerfully transformative stones in the crystal kingdom',
+      'Activates the Crown and Third Eye for soul-level insight and direction',
+      'Used in shamanic practice for soul retrieval and deep spiritual excavation',
+      'Embodies the Plutonian principle of death and rebirth — the necessary ending before new becoming',
+      'Supports those navigating the dark night of the soul with fearless presence'
+    ],
+    physical: [
+      'Traditionally associated with the liver and the body\'s capacity for deep detoxification',
+      'Used in crystal healing to support the nervous system during intense transformation processes',
+      'Associated with the legs, feet, and the body\'s capacity to stand and move forward',
+      'May support the body\'s recovery from chronic illness rooted in unexpressed life purpose',
+      'Used to reduce physical tension held in the body from resisting necessary change'
+    ],
+
+    vedic_tradition: 'Charoite\'s Pluto rulership and transformative, violet nature align it with Ketu (the south node of the moon) in Vedic practice — the point of spiritual liberation, release of past karma, and dissolution of ego-identification. It supports Scorpio placements in embracing the full transformative cycle of death and rebirth.',
+    tcm_use: 'Associated with the Kidney meridian (governing willpower, the capacity to face fear, and the deep reserves required for transformation) and the Triple Burner (governing the three-level transformation of essence, energy, and spirit). Charoite supports the Kidney\'s role as the root of Yang — the primal fire that enables transformation without being consumed by it.',
+    five_element_theory: 'Water and Metal — charoite holds Water\'s capacity for dissolution and depth alongside Metal\'s clarity and the courage to release what has been completed. It represents the Winter of the soul: the necessary dissolution before new growth becomes possible.',
+    feng_shui_bagua: 'Knowledge & Wisdom (Gen), Career & Life Path (Kan)',
+    feng_shui_placement: 'Place in the northeast (Knowledge) for developing wisdom through transformative experience. In the north (Career) for navigating major life-path transitions with clarity and courage. On a meditation altar as a primary transformation stone. Not for relaxation spaces — charoite activates deep processes.',
+
+    ancient_lore: 'Charoite was unknown to the outside world until 1978, when it was first described by Soviet mineralogists from specimens found along the Chara River in Siberia. Its discovery was delayed partly by Soviet-era restrictions on sharing geological discoveries. Despite its recent emergence, charoite has rapidly become one of the most significant stones in the crystal healing tradition — its unique combination of profound violet beauty and powerful transformative energy gave it immediate recognition as something spiritually significant. Some practitioners consider its emergence in 1978 — a time of major global spiritual awakening — to be meaningful.',
+    indigenous_traditions: 'The indigenous Evenki people of Siberia inhabit the region where charoite is found and have their own relationship with the striking violet stone of their homeland. As charoite was only formally identified in 1978, its formal metaphysical traditions are entirely modern, though the Evenki connection to the land carries its own deep wisdom.',
+
+    meditation_guidance: 'Hold charoite at the Crown or Third Eye, or place it on the forehead while lying in savasana. Close your eyes and breathe slowly. Bring to awareness something in your life that you know needs to change but have been resisting. Rather than solving it or planning around it, simply acknowledge it fully: "This needs to change, and I am afraid." Let charoite\'s violet light illuminate the fear without judgment. Then ask: "If fear were not present, what would I do?" Let the answer arise without forcing. Charoite works best when approached with complete honesty.',
+    body_placement: 'Crown chakra (top of head) for soul-level transformation; Third Eye for visionary clarity; held in both hands during periods of major life transition; placed at the feet to support moving forward into change.',
+    space_placement: 'Meditation room and spaces for deep personal work. Healing rooms for practitioners who hold transformation space for others. On a desk or altar during periods of major life transition. Not ideal for passive relaxation — charoite is a working stone.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Charoite contains manganese and other trace minerals. Do not use for elixirs. Use as a visual and energetic presence only.',
+    jewelry_recommendations: 'Moderate softness (5–6 Mohs) — best as pendants and earrings rather than rings subject to daily impact. The swirling violet cabochons are extraordinarily beautiful and distinctive. As a rare single-source stone, fine charoite jewelry is both spiritually significant and materially valuable.',
+
+    safe_cleansing: ['Moonlight', 'Sound', 'Smudging', 'Visualization', 'Selenite'],
+    unsafe_cleansing: ['Water (can affect surface over time)', 'Salt', 'Sunlight (may affect color)', 'Ultrasonic cleaners'],
+    charging_methods: ['Full moon', 'Moonlight', 'Pluto visualization (deep transformation intention)', 'Sound bath', 'Clear quartz proximity'],
+    storage_guidance: 'Store individually in soft cloth — moderately soft and should be protected from scratching. Keep away from direct sunlight and moisture. Handle with intentional awareness — charoite responds to conscious engagement.',
+
+    cautions: 'Charoite is one of the most powerful transformation stones available — use with intentionality and support. It can accelerate change processes that the practitioner may not be fully prepared for. Ground thoroughly after use (hematite, black tourmaline, red jasper). Not recommended for casual or continuous wear without conscious engagement.',
+    toxicity: 'Contains manganese and complex silicates; not safe for elixirs. Safe for careful handling.',
+    fragility: 'Moderate — handle with care and store protected.',
+
+    synergies: [
+      { crystal: 'Moldavite', id: 'moldavite', rationale: 'The two most powerfully transformative stones in common use — moldavite accelerates cosmic-level change from without; charoite transforms the soul\'s orientation from within. Together they create an extraordinarily intense transformation field. Use only with clear intention and strong grounding support.' },
+      { crystal: 'Amethyst', id: 'amethyst', rationale: 'Amethyst provides spiritual clarity and calm Upper chakra awareness; charoite provides transformative depth and the courage to change. Together they support spiritual transformation with both clarity (amethyst) and courage (charoite) — the full spectrum needed for genuine growth.' },
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', rationale: 'Essential grounding companion for charoite\'s intense transformative work. Black tourmaline anchors the practitioner in physical reality while charoite works at the soul level — preventing the disorientation that can accompany deep transformation without grounding.' }
+    ],
+    conflicts: [
+      { crystal: 'Rose Quartz', id: 'rose-quartz', reason: 'Rose quartz cultivates gentle, comfortable, unconditional love that accepts and soothes; charoite drives fierce transformation that requires release of the comfortable and familiar. Their energetic intentions conflict — rose quartz says "you are loved as you are," charoite says "you are called to become more." Use separately for their distinct purposes.' }
+    ],
+    grid_role: 'Transformation anchor at the center or crown of deep-change grids; soul-purpose activator in service and calling layouts',
+
+    chakra_filter: ['Crown', 'Third Eye'],
+    element_filter: 'Air',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Rare',
+    intention_filter: ['Transformation', 'Spiritual', 'Courage', 'Clarity', 'Intuition'],
+    planet_filter: 'Saturn',
+    zodiac_filter: ['Scorpio', 'Sagittarius', 'Virgo'],
+    energy_type_filter: 'Activating'
   }
 ];
