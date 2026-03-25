@@ -4928,5 +4928,112 @@ window.CRYSTALS = [
     planet_filter: 'Saturn',
     zodiac_filter: ['Scorpio', 'Sagittarius', 'Virgo'],
     energy_type_filter: 'Activating'
+  },
+
+  {
+    id: 'seraphinite',
+    name: 'Seraphinite',
+    emoji: '🪶',
+    color: '#3a6b3a',
+
+    alt_names: ['Seraphite', 'Clinochlore (gem variety)', 'Angel Wing Stone', 'Stone of the Angels'],
+    mineral_family: 'Silicate (Phyllosilicate / Chlorite group)',
+    chemical_formula: '(Mg,Fe²⁺)₅Al(Si₃Al)O₁₀(OH)₈',
+    crystal_system: 'Monoclinic',
+    mohs_hardness: '2–4',
+    luster: 'Pearly to silky',
+    transparency: 'Opaque',
+    color_range: 'Deep forest green to dark green with distinctive silver-white feathery chatoyancy patterns that resemble angel wings or feathers',
+    origins: ['Russia (Lake Baikal region, Siberia — primary source)', 'USA (limited)', 'Austria'],
+    rarity: 'Rare',
+    ethical_sourcing: 'Seraphinite comes primarily from the Lake Baikal region of Siberia. Mining is small-scale and artisanal. As with all Russian-sourced stones, verify supply chain under current geopolitical conditions. The stone\'s rarity and the beauty of fine specimens mean responsible sourcing is worth prioritizing.',
+    simulant_warnings: 'Seraphinite\'s distinctive silver feathery chatoyancy on deep green is very difficult to fake convincingly. Some green stones with painted or dyed silver patterns are sold as seraphinite; authentic specimens show the chatoyancy shifting naturally with light as a result of the stone\'s fibrous structure, not as a surface treatment.',
+
+    short_intention: 'Angelic healing, spiritual illumination, and wholeness of the soul',
+    intention: 'Seraphinite is named for the Seraphim — the highest order of angels in the celestial hierarchy, beings of pure fire and light who stand in the immediate presence of the divine. To hold seraphinite is to hold a piece of that proximity: the feeling of being seen, held, and cared for by something vastly loving and wise. It is the stone of spiritual healing in its most complete sense — not the targeted healing of specific wounds but the restoration of the soul\'s original wholeness, as if the divine simply looked at you and remembered you complete. In its silver-feathered green depths, the angelic and earthly meet: heaven touching earth, spirit animating matter.',
+
+    chakras: ['Heart', 'Crown'],
+    element: 'Air',
+    planet: 'Venus',
+    day_of_week: 'Friday',
+    zodiac: ['Scorpio', 'Sagittarius', 'Taurus'],
+    numerology: 5,
+    polarity: 'Yin',
+    solfeggio_frequency: '528 Hz (love, DNA repair, transformation)',
+    energy_type: 'Harmonizing',
+
+    emotional: [
+      'Dissolves emotional fragmentation and restores a sense of inner wholeness',
+      'Brings profound healing comfort in the presence of grief, illness, or spiritual crisis',
+      'Supports the feeling of being held, seen, and cared for by something greater',
+      'Releases old emotional wounds at a cellular and soul level',
+      'Encourages the experience of grace — unearned, unconditional, complete acceptance'
+    ],
+    mental: [
+      'Quiets the critical, judging mind and replaces it with compassionate witnessing',
+      'Supports integration of fragmented aspects of self into a coherent whole',
+      'Encourages the recognition of divine order within apparent chaos or suffering',
+      'Reduces mental resistance to healing and the process of being helped',
+      'Supports those in healing professions in maintaining connection to spiritual source'
+    ],
+    spiritual: [
+      'Named for the Seraphim — the highest angelic order in the Abrahamic celestial hierarchy',
+      'Opens the Crown chakra to angelic presence and divine healing light',
+      'Activates the Heart as the meeting point of earthly and divine love',
+      'Used in angelic communication, healing invocation, and divine presence practices',
+      'Supports near-death experience integration and the healing of death-related fear'
+    ],
+    physical: [
+      'Traditionally associated with cellular healing and the body\'s deep regenerative capacity',
+      'Used in crystal healing to support the nervous system and recovery from chronic illness',
+      'Associated with the purification of the blood and overall physical detoxification',
+      'May support the body\'s healing response through the mind-spirit-body connection',
+      'Used for pain relief and the easing of physical conditions rooted in spiritual distress'
+    ],
+
+    vedic_tradition: 'Seraphinite\'s Venus rulership and deeply healing, green nature align it with Shukra (Venus) in its aspect of divine healing grace rather than sensory pleasure. Its angelic quality also resonates with Jupiter\'s expansion of spiritual awareness. Supports deep healing practices in Taurus and Libra placements.',
+    tcm_use: 'Associated with the Heart meridian (Shen — spirit) and the Liver meridian (governing the smooth flow of Qi and the capacity for spiritual vision). Seraphinite\'s deep green tonifies Liver Blood while its Heart-Crown frequency nourishes the Shen — supporting both the physical substrate and spiritual presence of healing.',
+    five_element_theory: 'Wood and Fire — seraphinite bridges Wood\'s healing, growing, regenerative energy with Fire\'s warmth, spiritual radiance, and the Heart\'s capacity for divine love. It represents the moment when natural healing and spiritual grace meet.',
+    feng_shui_bagua: 'Health (Tai Qi), Helpful People & Travel (Qian)',
+    feng_shui_placement: 'Place in the center of the home (Health/Tai Qi) for overall healing and spiritual wellbeing of all household members. In the northwest (Helpful People) to invite angelic guidance and healing support. On a healing altar as a primary stone for invoking divine healing presence.',
+
+    ancient_lore: 'Seraphinite was first formally described in the 19th century from Siberian specimens. Its name was coined by the American mineralogist and author Robert Simmons in recognition of the stone\'s extraordinary resemblance to angel feathers and its profoundly spiritual energy. The stone takes its name from the Seraphim of the Book of Isaiah — six-winged beings of pure fire who stand before the throne of God, crying "Holy, holy, holy." The silver feathery patterns within the green stone evoke these celestial wings with remarkable visual accuracy.',
+    indigenous_traditions: 'The Lake Baikal region of Siberia is one of the most spiritually significant landscapes in indigenous Siberian shamanic tradition — the lake itself is considered sacred, a dwelling place of powerful spirits. The green stones of the region carry the shamanic power of this landscape. Seraphinite specifically is a more recently named stone, but its spiritual lineage includes the deep healing traditions of Siberian shamanism.',
+
+    meditation_guidance: 'Lie down in savasana and place seraphinite over the heart. Rest completely. Close your eyes. Rather than directing the meditation, simply invite: "I am open to healing." Breathe slowly and allow the stone\'s green and silver light to do the work — you do not need to help it, guide it, or understand it. Seraphinite meditation is fundamentally receptive: the practitioner\'s role is to become as open and still as possible, and allow healing to move through rather than be achieved. Stay for at least twenty minutes.',
+    body_placement: 'Heart chakra for angelic healing; Crown for divine connection; along the spine for full-body healing integration; placed over any area of physical pain or illness for targeted healing support.',
+    space_placement: 'Healing rooms and therapy spaces as a primary healing-presence stone. Meditation altars for angelic invocation. Beside the bed for healing sleep and angelic protection. Any space where someone is ill, grieving, or in spiritual crisis.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Seraphinite (clinochlore) contains iron, magnesium, and aluminum silicates. Do not use for elixirs. Use as visual and energetic presence only.',
+    jewelry_recommendations: 'Very soft (2–4 Mohs) — not suitable for rings or bracelets. Best as pendants worn with care. The silvery-green feathered cabochons are among the most visually extraordinary stones available. As a rare stone, fine seraphinite jewelry is both spiritually and materially valuable.',
+
+    safe_cleansing: ['Moonlight', 'Sound', 'Smudging', 'Visualization', 'Selenite'],
+    unsafe_cleansing: ['Water (affects the soft surface)', 'Salt (abrasive)', 'Sunlight (may affect color)', 'Ultrasonic cleaners'],
+    charging_methods: ['Full moon', 'Moonlight', 'Angelic invocation', 'Sound bath', 'Selenite cluster proximity'],
+    storage_guidance: 'Very soft — store individually in padded cloth, away from all other stones. Handle gently; the silky surface scratches easily. Keep away from moisture and direct sunlight.',
+
+    cautions: 'Extremely soft — not suitable for jewelry subject to any impact. Handle with exceptional care. As a powerful healing stone, seraphinite may accelerate healing processes; use with grounding support and allow time for integration after deep work.',
+    toxicity: 'Non-toxic in solid form; do not use for elixirs. Safe for careful handling.',
+    fragility: 'Very soft and fragile. Store and handle with great care.',
+
+    synergies: [
+      { crystal: 'Celestite', id: 'celestite', rationale: 'Both are angelic-frequency stones — celestite opens the channel to angelic communication and divine peace; seraphinite embodies angelic healing and the presence of divine love. Together they create the most complete angelic healing field available, encompassing both the receiving of divine guidance (celestite) and the experience of divine healing love (seraphinite).' },
+      { crystal: 'Selenite', id: 'selenite', rationale: 'Selenite\'s pure, Crown-frequency luminosity complements seraphinite\'s Heart-Crown angelic healing perfectly. Selenite clears and elevates the field; seraphinite fills it with healing love. Together they create a complete angelic healing environment.' },
+      { crystal: 'Malachite', id: 'malachite', rationale: 'Both are deep green stones of profound healing. Malachite excavates what needs to be healed through transformation; seraphinite holds the healed space with divine love and grace. Together they form the complete healing cycle: what malachite surfaces, seraphinite restores.' }
+    ],
+    conflicts: [
+      { crystal: 'Obsidian', id: 'obsidian', reason: 'Obsidian is a raw, volcanic, earthly stone of shadow confrontation and fierce truth; seraphinite is a refined, angelic stone of divine healing grace and spiritual wholeness. Their energetic orientations are opposite — obsidian strips away illusion, seraphinite fills with light. Use sequentially if needed, but not together.' }
+    ],
+    grid_role: 'Angelic healing centerpiece in spiritual healing grids; Crown-Heart bridge stone in divine love and wholeness layouts',
+
+    chakra_filter: ['Heart', 'Crown'],
+    element_filter: 'Air',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Rare',
+    intention_filter: ['Healing', 'Spiritual', 'Love', 'Calm', 'Transformation'],
+    planet_filter: 'Venus',
+    zodiac_filter: ['Scorpio', 'Sagittarius', 'Taurus'],
+    energy_type_filter: 'Harmonizing'
   }
 ];
