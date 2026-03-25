@@ -4714,5 +4714,112 @@ window.CRYSTALS = [
     planet_filter: 'Jupiter',
     zodiac_filter: ['Sagittarius', 'Capricorn', 'Aquarius'],
     energy_type_filter: 'Activating'
+  },
+
+  {
+    id: 'morganite',
+    name: 'Morganite',
+    emoji: '🌷',
+    color: '#f4a7b9',
+
+    alt_names: ['Pink Beryl', 'Rose Beryl', 'Pink Emerald', 'Cesian Beryl'],
+    mineral_family: 'Silicate (Cyclosilicate / Beryl group)',
+    chemical_formula: 'Be₃Al₂Si₆O₁₈ (with manganese for pink color)',
+    crystal_system: 'Hexagonal',
+    mohs_hardness: '7.5–8',
+    luster: 'Vitreous',
+    transparency: 'Transparent to translucent',
+    color_range: 'Pale blush pink, peach-pink, salmon, rose; the finest stones are a soft, even pink with excellent clarity',
+    origins: ['Brazil (Minas Gerais)', 'Madagascar', 'Afghanistan', 'USA (California — original discovery)', 'Mozambique', 'Namibia'],
+    rarity: 'Uncommon',
+    ethical_sourcing: 'Brazilian morganite from Minas Gerais is widely available through established trade channels. Madagascar material has improving but variable sourcing standards. Afghan material carries complex supply chain considerations. Verify provenance for fine gem-quality stones.',
+    simulant_warnings: 'Rose quartz, pink kunzite, pink tourmaline, and pink topaz are sometimes confused with morganite. Authentic morganite has excellent clarity (unlike rose quartz which is typically milky), strong hardness (7.5–8), and a distinctly peachy-pink rather than cool pink hue. It belongs to the beryl family — the same as emerald and aquamarine.',
+
+    short_intention: 'Divine love, tender compassion, and healing the wounded heart',
+    intention: 'Morganite is the frequency of love in its most healing, encompassing expression — not the passionate fire of ruby or the wise abundance of emerald, but the soft, unconditional warmth of a love that asks nothing and offers everything. It belongs to the beryl family alongside emerald (heart wisdom) and aquamarine (courageous truth), making it part of one of gemology\'s great spiritual families. Morganite specifically holds the Heart chakra\'s most vulnerable and tender aspect: the place that has been hurt, that needs to be held rather than fixed, that opens again not through force but through the patient presence of something safe and loving.',
+
+    chakras: ['Heart'],
+    element: 'Water',
+    planet: 'Venus',
+    day_of_week: 'Friday',
+    zodiac: ['Taurus', 'Libra', 'Pisces', 'Cancer'],
+    numerology: 3,
+    polarity: 'Yin',
+    solfeggio_frequency: '528 Hz (love, DNA repair, transformation)',
+    energy_type: 'Calming',
+
+    emotional: [
+      'Heals the wounded heart with extraordinary gentleness — no forcing, no rushing',
+      'Dissolves emotional pain held in the chest from past heartbreak, grief, or loss',
+      'Encourages the reopening of the heart after it has closed in self-protection',
+      'Supports the development of genuine self-compassion and tender self-regard',
+      'Brings a quality of emotional warmth and safety that allows deep vulnerability'
+    ],
+    mental: [
+      'Quiets the mental narratives of unworthiness and "I am not lovable"',
+      'Supports the recognition that love is a quality of being, not a reward for performance',
+      'Encourages patience — with oneself, with others, with the timing of healing',
+      'Reduces the tendency to intellectualize feelings as a defense against experiencing them',
+      'Supports the integration of the emotional body\'s wisdom into conscious awareness'
+    ],
+    spiritual: [
+      'Embodies the divine feminine principle of unconditional, encompassing love',
+      'Connects the practitioner with the frequency of angelic compassion and divine motherly love',
+      'Supports the spiritual practice of metta (loving-kindness) at its deepest level',
+      'Opens the heart to receive divine love — not just to project love outward',
+      'Bridges the Heart chakra with higher spiritual awareness through the frequency of love'
+    ],
+    physical: [
+      'Traditionally associated with the heart, lungs, and the nervous system\'s capacity for rest',
+      'Used in crystal healing to support stress-related heart conditions and hypertension',
+      'Associated with the endocrine system and the body\'s love-chemistry (oxytocin, serotonin)',
+      'May support the immune system through the body-mind connection of emotional wellbeing',
+      'Promotes deep physical relaxation and the release of tension held in the chest and heart'
+    ],
+
+    vedic_tradition: 'Morganite\'s Venus (Shukra) rulership and pink beryl nature align it with Shukra\'s highest expression in Vedic practice: not sensory pleasure but the refined, compassionate love of the awakened heart. Supports Taurus and Libra placements in developing genuine heart-openness and beauty as a spiritual quality.',
+    tcm_use: 'Associated with the Heart meridian (governing Shen — spirit, consciousness, and the quality of joy) and the Pericardium meridian (the Heart Protector). Morganite nourishes Heart Yin and supports the Shen\'s settled residence in the Heart — the warm, present, loving quality of a spirit at peace in its own dwelling.',
+    five_element_theory: 'Fire and Water — morganite bridges Fire\'s warmth and radiant heart-joy with Water\'s depth, stillness, and capacity for receiving. It represents the meeting of warmth and receptivity: the open, loving heart that is both giving and able to receive.',
+    feng_shui_bagua: 'Love & Partnership (Kun), Health (Tai Qi)',
+    feng_shui_placement: 'Place in the southwest (Love & Partnership) for attracting and deepening loving relationships rooted in genuine tenderness. In the center of the home (Health) for emotional wellbeing of all household members. In the bedroom for gentle, loving, open-hearted relational energy.',
+
+    ancient_lore: 'Morganite was first identified in 1910 from California specimens and named by gemologist George Frederick Kunz after financier J.P. Morgan, a prominent gem collector. Despite its recent naming, pink beryl (morganite\'s mineral form) has been known and prized for its beauty throughout history. As part of the beryl family — which includes emerald, aquamarine, and golden heliodor — morganite carries the spiritual lineage of one of the great gem families.',
+    indigenous_traditions: 'Pink stones universally carry associations with love, tenderness, and the heart across virtually every tradition. Morganite\'s specific tradition is relatively modern given its recent naming, but its beryl family lineage connects it to ancient gem traditions across Persia, India, and Egypt where beryl stones were prized for their clarity and beauty.',
+
+    meditation_guidance: 'Lie down and place morganite over the heart. Rest both hands lightly over the stone. Close your eyes and breathe slowly and deeply into the chest. With each inhale, receive — simply practice the act of receiving without earning it. Imagine the stone\'s soft pink light expanding outward from the heart in all directions, holding you in a field of unconditional warmth. Ask: "Can I allow myself to be loved exactly as I am?" Let morganite\'s gentle answer be: yes.',
+    body_placement: 'Heart chakra exclusively — morganite is a stone of singular heart focus. Worn as a pendant at heart level for ongoing gentle activation. Held against the sternum during moments of grief or emotional pain.',
+    space_placement: 'Bedroom for loving relational energy. Therapy and healing rooms for creating a safe, warm, held field. Personal sanctuary for self-love practice. Any space where the quality of tender, unconditional warmth is most needed.',
+    elixir_safety: 'Generally Safe',
+    elixir_notes: 'Morganite (beryl) is generally considered safe for indirect elixirs. Use indirect method as standard precaution. Only use verified natural, untreated stones.',
+    jewelry_recommendations: 'Excellent hardness (7.5–8) makes morganite ideal for all jewelry. Has become extremely popular for engagement rings as an alternative to diamond, particularly in rose gold settings. The peachy-pink color is particularly flattering against warm skin tones. One of the more affordable precious gemstones.',
+
+    safe_cleansing: ['Running water (brief)', 'Moonlight', 'Sound', 'Smudging', 'Selenite'],
+    unsafe_cleansing: ['Prolonged sunlight (may fade color)', 'Ultrasonic cleaners for included specimens', 'Steam for treated stones'],
+    charging_methods: ['Full moon', 'Moonlight', 'Rose quartz proximity', 'Venus planetary hours (Friday)', 'Sound bath'],
+    storage_guidance: 'Good durability for everyday wear. Store separately from harder stones to prevent surface scratching. Keep away from prolonged direct sunlight to preserve the delicate pink color.',
+
+    cautions: 'One of the gentlest and most universally accessible stones — appropriate for all levels of practitioners. Its heart-opening work can surface tender emotions; use with self-compassion and support when doing deep healing work.',
+    toxicity: 'Non-toxic; safe to handle.',
+    fragility: 'Good durability. An excellent everyday stone.',
+
+    synergies: [
+      { crystal: 'Rose Quartz', id: 'rose-quartz', rationale: 'Rose quartz creates the broad, encompassing field of unconditional love; morganite focuses that love with greater clarity, tenderness, and healing depth. Together they create the most complete and nurturing heart-healing field available.' },
+      { crystal: 'Kunzite', id: 'kunzite', rationale: 'Kunzite bridges the Heart to the Crown with divine love; morganite holds the Heart\'s most vulnerable healing space. Together they form the perfect heart-healing pairing: morganite softening what has been hurt, kunzite elevating it toward divine love.' },
+      { crystal: 'Aquamarine', id: 'aquamarine', rationale: 'Both are beryl family members — morganite (pink beryl, Heart) and aquamarine (blue beryl, Throat) are spiritual siblings. Together they create the complete heart-throat alignment within the beryl family: loving fully (morganite) and expressing that love clearly and courageously (aquamarine).' }
+    ],
+    conflicts: [
+      { crystal: 'Obsidian', id: 'obsidian', reason: 'Obsidian is an intense, volcanic truth-mirror that forces confrontation with shadow material; morganite is a tender, gentle stone that heals through unconditional love and safety. Obsidian\'s intensity can overwhelm morganite\'s soft holding space. Use sequentially — obsidian to surface, morganite to heal.' }
+    ],
+    grid_role: 'Tender heart-healing center stone in love and self-compassion grids; gentle anchor in emotional recovery layouts',
+
+    chakra_filter: ['Heart'],
+    element_filter: 'Water',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Use with Caution',
+    rarity_filter: 'Uncommon',
+    intention_filter: ['Love', 'Healing', 'Calm', 'Spiritual', 'Inspiration'],
+    planet_filter: 'Venus',
+    zodiac_filter: ['Taurus', 'Libra', 'Pisces', 'Cancer'],
+    energy_type_filter: 'Calming'
   }
 ];
