@@ -4607,5 +4607,112 @@ window.CRYSTALS = [
     planet_filter: 'Neptune',
     zodiac_filter: ['Leo', 'Pisces', 'Sagittarius'],
     energy_type_filter: 'Calming'
+  },
+
+  {
+    id: 'azurite',
+    name: 'Azurite',
+    emoji: '🔵',
+    color: '#1a3f6f',
+
+    alt_names: ['Chessylite', 'Stone of Heaven', 'Blue Malachite', 'Lapis Armenus'],
+    mineral_family: 'Carbonate (Copper carbonate hydroxide)',
+    chemical_formula: 'Cu₃(CO₃)₂(OH)₂',
+    crystal_system: 'Monoclinic',
+    mohs_hardness: '3.5–4',
+    luster: 'Vitreous to adamantine',
+    transparency: 'Transparent to opaque',
+    color_range: 'Deep azure blue, royal blue, vivid indigo; often found intergrown with green malachite creating stunning blue-green specimens',
+    origins: ['Morocco (Touissit — finest)', 'USA (Arizona — Bisbee Blue)', 'Australia', 'France (Chessy — original type locality)', 'Namibia', 'Russia', 'China'],
+    rarity: 'Uncommon',
+    ethical_sourcing: 'Azurite is generally sourced from copper mining regions with reasonable traceability. Moroccan and Arizona material is widely available from reputable dealers. As with all copper minerals, verify responsible mining practices. Azurite-malachite combinations are particularly popular and widely available.',
+    simulant_warnings: 'Azurite\'s vivid royal blue is distinctive and difficult to simulate convincingly. Blue glass and dyed stones are sometimes sold as azurite, but the characteristic combination with green malachite and the stone\'s softness (easily scratched by a key) are reliable authenticators. Azurite also effervesces slightly in acid.',
+
+    short_intention: 'Third Eye awakening, psychic clarity, and the courage to see truth',
+    intention: 'Azurite is the color of the deep sky before dawn — the hour when the night has released its darkness but light has not yet arrived, when the mind is most permeable to what lies beneath ordinary awareness. It is the premier stone for activating the Third Eye, not gently but insistently: azurite does not coax open psychic perception, it illuminates it. Ancient Egyptians, Greeks, and Native American shamans all used this vivid blue stone to pierce the veil between ordinary and non-ordinary reality. In its presence, what has been obscured becomes visible.',
+
+    chakras: ['Third Eye', 'Crown'],
+    element: 'Air',
+    planet: 'Jupiter',
+    day_of_week: 'Thursday',
+    zodiac: ['Sagittarius', 'Capricorn', 'Aquarius'],
+    numerology: 1,
+    polarity: 'Yin',
+    solfeggio_frequency: '852 Hz (returning to spiritual order, awakening intuition)',
+    energy_type: 'Activating',
+
+    emotional: [
+      'Dissolves habitual emotional patterns by illuminating their unconscious root',
+      'Encourages honest confrontation with self-deception and emotional avoidance',
+      'Supports the courage to acknowledge what one has been unwilling to see',
+      'Releases old mental and emotional programming stored in the unconscious',
+      'Encourages clear, undefended emotional expression once truth has been seen'
+    ],
+    mental: [
+      'Powerfully activates the Third Eye and the capacity for clear psychic perception',
+      'Dissolves mental confusion, uncertainty, and the paralysis of competing perspectives',
+      'Supports concentration, mental clarity, and the penetration of complex ideas',
+      'Enhances memory, learning, and the retention of spiritual and intellectual knowledge',
+      'Activates latent psychic abilities — clairvoyance, telepathy, and precognition'
+    ],
+    spiritual: [
+      'One of the oldest Third Eye activation stones in recorded use',
+      'Used by Egyptian priests and priestesses for prophetic dreaming and oracle work',
+      'In Native American traditions, used by shamans to access visionary states',
+      'Activates the Crown chakra and creates a clear channel between mind and divine intelligence',
+      'Used in the development of all psychic gifts — especially visual perception'
+    ],
+    physical: [
+      'Traditionally associated with the brain, nervous system, and cognitive function',
+      'Used in crystal healing to support the thyroid, spleen, and liver',
+      'Associated with skin conditions and the body\'s circulation in some traditions',
+      'May support the alignment of the spine and the nervous system\'s signaling',
+      'Used for throat conditions and communication difficulties in some crystal healing traditions'
+    ],
+
+    vedic_tradition: 'Azurite\'s Jupiter rulership and deep blue color align it with wisdom, expansion, and the higher mind in Vedic practice. It supports Sagittarius and Pisces placements in developing genuine spiritual wisdom and prophetic capacity beyond intellectual accumulation.',
+    tcm_use: 'Associated with the Liver meridian (governing vision — both physical and spiritual) and the Gallbladder meridian (governing the courage to act on clear perception). Azurite\'s deep blue, activating energy supports the Liver\'s visionary function and the Gallbladder\'s capacity for bold, clear decision-making.',
+    five_element_theory: 'Metal and Water — azurite combines Metal\'s precision and clarity with Water\'s depth and capacity for seeing into hidden things. It represents the meeting of sharp mental discrimination and profound inner perception.',
+    feng_shui_bagua: 'Knowledge & Wisdom (Gen), Career & Life Path (Kan)',
+    feng_shui_placement: 'Place in the northeast (Knowledge) corner for deepening spiritual wisdom and psychic perception. In the north (Career) for clear visionary leadership and penetrating professional insight. On a meditation altar as a primary Third Eye activation stone.',
+
+    ancient_lore: 'Azurite has been used for spiritual and artistic purposes for at least 5,000 years. Ancient Egyptians ground it into powder for the distinctive blue paint used in temple murals — the very walls of sacred spaces were colored with the Third Eye stone. Greeks called it "kuanos" and associated it with the sky and divine wisdom. In the Middle Ages, azurite was the primary blue pigment in European religious paintings before ultramarine became available — the blue robes of the Virgin Mary in countless medieval masterpieces were painted with azurite. Native American shamans of the American Southwest used azurite crystals in vision ceremonies.',
+    indigenous_traditions: 'The Hohokam and other prehistoric peoples of Arizona mined azurite and malachite from the rich copper deposits that still produce Bisbee Blue azurite today. Native American shamanic traditions of the Southwest used azurite for vision quests and to develop the capacity to see beyond ordinary reality.',
+
+    meditation_guidance: 'Place azurite on the Third Eye (between the eyebrows) or hold it gently in both hands at face level. Close your eyes and breathe slowly. Become aware of the space behind your closed eyes — the inner visual field. Without straining to see anything, simply remain present to that space and notice what arises. Azurite activates the visual-psychic faculty; your work is simply to remain open and receptive. Practice regularly — azurite\'s gifts deepen over months of consistent work, not in a single session.',
+    body_placement: 'Third Eye chakra (between eyebrows) for psychic activation; Crown chakra for divine channel opening; placed under the pillow for prophetic and clarifying dreams.',
+    space_placement: 'Meditation altar as a primary Third Eye stone. Study or library for penetrating intellectual clarity. Healing spaces where clear perception is required. Not ideal for relaxation spaces — azurite activates rather than calms.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Azurite contains copper and is toxic if dissolved in water. Do not use for elixirs in any method. Not safe for drinking water contact.',
+    jewelry_recommendations: 'Soft (3.5–4 Mohs) — azurite is best as pendants or earrings worn with care rather than rings or bracelets. The vivid blue is extraordinary but the stone is fragile. Azurite-malachite combinations make particularly striking pendants.',
+
+    safe_cleansing: ['Moonlight', 'Sound', 'Smudging', 'Visualization', 'Selenite proximity'],
+    unsafe_cleansing: ['Water (copper mineral — do not use water)', 'Salt', 'Sunlight (fades color)', 'Acidic solutions'],
+    charging_methods: ['Full moon', 'Moonlight', 'Jupiter planetary hours (Thursday)', 'Sound bath', 'Clear quartz proximity'],
+    storage_guidance: 'Store individually in padded cloth — azurite is soft and the vivid blue surface scratches easily. Keep completely dry and away from direct sunlight (color fades). Handle gently; azurite specimens are often fragile.',
+
+    cautions: 'Contains copper — toxic if dissolved; never use for elixirs. Azurite can powerfully activate psychic perception — use with grounding support (hematite, black tourmaline) when doing intensive Third Eye work. Color fades in sunlight; store and display away from UV exposure.',
+    toxicity: 'Contains copper; toxic if dissolved or ingested. Safe for careful handling; wash hands after prolonged contact.',
+    fragility: 'Soft and fragile. Handle with care and store protected.',
+
+    synergies: [
+      { crystal: 'Malachite', id: 'malachite', rationale: 'Azurite and malachite are the classic copper-mineral pairing — they often form together in nature and are sold as combined specimens. Malachite excavates emotional truth from the Heart chakra; azurite illuminates it from the Third Eye. Together they create the complete copper-wisdom field: feeling clearly and seeing clearly simultaneously.' },
+      { crystal: 'Lapis Lazuli', id: 'lapis-lazuli', rationale: 'Both are deep blue Third Eye stones with ancient sacred histories. Lapis lazuli brings accumulated wisdom and spiritual authority; azurite brings sharp, activating psychic penetration. Together they create the most powerful Third Eye wisdom field available.' },
+      { crystal: 'Clear Quartz', id: 'clear-quartz', rationale: 'Clear quartz amplifies and focuses azurite\'s Third Eye activation, extending its psychic-clarity field further into the aura. Quartz also grounds azurite\'s intense activation energy into usable, stable perception.' }
+    ],
+    conflicts: [
+      { crystal: 'Citrine', id: 'citrine', reason: 'Citrine is a solar, Solar Plexus-activating stone of earthly abundance and confident action; azurite is a deep, Third Eye-activating stone of inward psychic perception. Their directions of activation conflict — citrine moves energy outward and downward into manifestation, azurite moves it inward and upward into perception. Use separately for their distinct domains.' }
+    ],
+    grid_role: 'Third Eye activator and truth-illuminator at the apex of vision and psychic grids; copper-wisdom anchor in combined azurite-malachite layouts',
+
+    chakra_filter: ['Third Eye', 'Crown'],
+    element_filter: 'Air',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Uncommon',
+    intention_filter: ['Intuition', 'Clarity', 'Spiritual', 'Truth', 'Wisdom'],
+    planet_filter: 'Jupiter',
+    zodiac_filter: ['Sagittarius', 'Capricorn', 'Aquarius'],
+    energy_type_filter: 'Activating'
   }
 ];
