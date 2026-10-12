@@ -1,6 +1,6 @@
 # Crystal Sage: crystal database
 
-49 crystals, generated from data/crystals.js. Filter fields, emoji and colors are left out.
+55 crystals, generated from data/crystals.js. Filter fields, emoji and colors are left out.
 
 ## Contents
 
@@ -53,6 +53,12 @@
 47. Morganite (`morganite`)
 48. Charoite (`charoite`)
 49. Seraphinite (`seraphinite`)
+50. Bacan (`bacan`)
+51. Kalimaya Opal (`kalimaya`)
+52. Idocrase (`idocrase`)
+53. Aceh Black Jade (`aceh-black-jade`)
+54. Klawing Jasper (`klawing-jasper`)
+55. Akar Bahar (Black Coral) (`akar-bahar`)
 
 ---
 
@@ -6938,3 +6944,829 @@
 - Obsidian (`obsidian`): Obsidian is a raw, volcanic, earthly stone of shadow confrontation and fierce truth; seraphinite is a refined, angelic stone of divine healing grace and spiritual wholeness. Their energetic orientations are opposite — obsidian strips away illusion, seraphinite fills with light. Use sequentially if needed, but not together.
 
 **Grid role:** Angelic healing centerpiece in spiritual healing grids; Crown-Heart bridge stone in divine love and wholeness layouts
+
+---
+
+## Bacan
+
+**Id:** `bacan`
+
+**Alt names:** Batu Bacan, Chrysocolla Chalcedony, Chrysocolla Quartz, Gem Silica, Batu Kawat (Obi Island type)
+
+**Mineral family:** Chalcedony coloured by chrysocolla
+
+**Chemical formula:** SiO₂ host + chrysocolla (hydrated copper silicate)
+
+**Crystal system:** Trigonal (microcrystalline quartz host)
+
+**Mohs hardness:** 6
+
+**Luster:** Waxy to vitreous when polished
+
+**Transparency:** Translucent to opaque. More quartz gives an even, clearer look; more chrysocolla gives a mottled look.
+
+**Color range:** Blue to green and blue-green. Stones that look one colour often show many colours under magnification.
+
+**Origins:** Indonesia (Kasiruta Island, Bacan Archipelago, North Maluku), Indonesia (Obi Island, North Maluku), Taiwan, United States (Arizona), Mexico, Peru
+
+**Rarity:** Uncommon
+
+**Ethical sourcing:** Fine Bacan comes from chrysocolla-bearing quartz veins in basaltic lavas on Kasiruta Island, North Maluku, and has been mined there for about two decades. No published study of labor or environmental conditions at the mines was found, so ask the seller where and how the stone was mined. Indonesia banned the export of raw (uncut) gemstones in 2004 (Kepmenperindag 385/MPP/Kep/6/2004); check the current rules before you export rough material.
+
+**Simulant warnings:** "Bacan" is a place name (Bacan Archipelago), not a mineral name. Synthetic and dyed Bacan is sold openly on Indonesian marketplaces. Dyed chalcedony or quartz is the most common imitation: wipe the stone with a cotton swab and acetone, and look for colour on the swab. Under a loupe, dye collects in cracks. Chrysocolla chalcedony from Taiwan, the USA and Indonesia looks alike, and only lab geochemistry can separate the origins. Prices range from about Rp70,000 to Rp20,000,000, so ask for a lab report on expensive stones.
+
+**Short intention:** Speak with a calm heart and grow with patience
+
+**Intention:** Communication & Patient Growth
+
+**Chakras:** Throat, Heart
+
+**Element:** Water
+
+**Planet:** Venus
+
+**Day of week:** Friday
+
+**Zodiac:** Taurus, Gemini, Virgo
+
+**Numerology:** 5
+
+**Polarity:** Yin
+
+**Solfeggio frequency:** 741 Hz
+
+**Energy type:** Calming
+
+**Emotional:**
+- Calms agitation and supports gentle, honest expression of feelings
+- Encourages patience during slow personal change
+- Soothes the heart after conflict or misunderstanding
+- Supports a steady, peaceful mood
+
+**Mental:**
+- Supports clear and kind communication
+- Helps the mind stay steady under pressure
+- Encourages careful listening before speaking
+- Supports teaching, negotiation and diplomacy
+
+**Spiritual:**
+- Opens the Throat and Heart chakras together, linking truth with compassion
+- Connected in Indonesian folk belief with a stone that "lives" and matures with its owner
+- Supports a bond between the wearer and the stone over years of wear
+- Draws on the chrysocolla tradition of the "Goddess Stone" and feminine wisdom
+
+**Physical:**
+- Traditionally associated with soothing the throat and voice
+- Associated in crystal practice with calming tension and stress
+- Traditionally linked to cooling and balancing body energy
+- These are folk and metaphysical beliefs, not medical claims
+
+**Vedic tradition:** No classical Jyotish basis. Bacan is not a navaratna or a recognized upratna.
+
+**Tcm use:** No traditional Chinese materia medica use found.
+
+**Five element theory:** Corresponds to the Water element through its blue-green colour and calming nature, with Wood qualities of slow, living growth.
+
+**Feng shui bagua:** Family & Health (Zhen), Knowledge & Wisdom (Gen)
+
+**Feng shui placement:** East area of the home or office for family harmony and growth. On a desk where you talk, teach or negotiate. Bacan is mostly worn as a ring stone, so the main "placement" is on the body.
+
+**Ancient lore:** Bacan has no ancient written lore; its fame is modern. It became a national symbol during the Indonesian batu akik boom, helped by reports that President Susilo Bambang Yudhoyono gave a Bacan stone to US President Barack Obama. A 1.5-tonne Bacan stone is kept at the Bacan palace (Keraton) in North Maluku.
+
+**Indigenous traditions:** Indonesian collectors believe Bacan "lives": with wear, the stone becomes clearer and its colour changes and deepens. A detik.com investigation at the Bacan Keraton explained the change as porosity: the stone absorbs or loses material over time. No peer-reviewed study of this "living stone" effect was found. Collectors value a stone that has "matured" through years of wear.
+
+**Meditation guidance:** Hold Bacan in the palm of your hand or rest it at the throat. Breathe slowly and picture blue-green water moving gently from the heart up to the throat. Say aloud one true thing you have held back. Bacan suits short, regular practice; the tradition that the stone matures with its owner makes daily contact the core of the practice.
+
+**Body placement:** Worn as a ring stone, the traditional Indonesian way. At the throat for communication; over the heart for emotional calm.
+
+**Space placement:** On a desk used for calls, teaching or writing. In a family room in the east of the home. Keep it away from humid places and water features, because the stone is porous.
+
+**Elixir safety:** Indirect
+
+**Elixir notes:** Bacan contains copper (in chrysocolla) and is porous; soaking can change its colour. Do not put it directly in drinking water. If you make an elixir, use the indirect method only (stone in a sealed glass container placed in the water).
+
+**Jewelry recommendations:** The classic Indonesian ring stone (cincin akik), usually cut as a cabochon. Hardness is uneven (about 6 on average), so protect rings from hard knocks. Remove before washing hands, swimming or bathing.
+
+**Safe cleansing:**
+- Dry soft cloth
+- Short wipe with a damp cloth, then dry
+- Moonlight
+- Sound bath
+- Smudging
+- Visualization
+
+**Unsafe cleansing:**
+- Long soaking in water (porous; colour can change)
+- Salt water
+- Ultrasonic cleaners
+- Acetone or solvents (can remove dye from treated stones and damage the polish)
+
+**Charging methods:**
+- Daily wear (the traditional way to let the stone mature)
+- Moonlight
+- Sound frequency 741 Hz
+- Clear quartz cluster nearby
+
+**Storage guidance:** Store dry, in a soft pouch, away from harder stones. Keep out of bathrooms and humid places. Do not store in water.
+
+**Cautions:** Contains copper. Do not cut, sand or grind it without water and a dust mask. Do not soak it. Synthetic and dyed imitations are common in Indonesian markets.
+
+**Toxicity:** Contains copper in chrysocolla; avoid ingestion and dust from cutting. Polished stones are safe to handle and wear.
+
+**Fragility:** Moderate — hardness about 6 on average but uneven across the stone. Porous; sensitive to soaking.
+
+**Synergies:**
+- Chrysocolla (`chrysocolla`): Bacan is chrysocolla held in hard chalcedony. Pairing the two joins chrysocolla's soft "Goddess Stone" calm with the durability and living reputation of Bacan, for communication and heart work.
+- Turquoise (`turquoise`): Both are blue-green copper stones of the Throat chakra. Turquoise protects and Bacan calms; together they support honest speech that stays kind.
+- Kalimaya Opal (`kalimaya`): Two iconic Indonesian stones. Bacan brings calm, steady communication; Kalimaya brings creative fire. Together they balance expression and inspiration.
+
+**Conflicts:**
+- Carnelian (`carnelian`): Carnelian pushes for fast action and heat; Bacan supports slow, patient growth and calm speech. Worn together, they can feel like two different tempos.
+
+**Grid role:** Throat-Heart bridge stone in communication grids; centre stone in Indonesian-stone layouts
+
+---
+
+## Kalimaya Opal
+
+**Id:** `kalimaya`
+
+**Alt names:** Kalimaya, Batu Kalimaya, Banten Opal, Opal Hitam, Indonesian Black Opal
+
+**Mineral family:** Opal (opal-CT)
+
+**Chemical formula:** SiO₂·nH₂O
+
+**Crystal system:** Amorphous to poorly ordered (opal-CT: disordered cristobalite/tridymite)
+
+**Mohs hardness:** 5.5
+
+**Luster:** Vitreous to waxy
+
+**Transparency:** Translucent to opaque
+
+**Color range:** Dark to black body colour with play of colour (flashes of red, green, blue and violet)
+
+**Origins:** Indonesia (Lebak Regency, Banten — mainly Maja and Sajira districts)
+
+**Rarity:** Rare
+
+**Ethical sourcing:** Kalimaya is mined by small local community miners in Lebak Regency, Banten, the only known source of precious opal in Indonesia. The opal occurs in dark claystone more than 8 m below the surface, and traditional shafts reach about 80 m deep, which is a real safety risk for the miners. No accident data or official mine-status statement was found. Indonesia banned raw gemstone export in 2004; check the current rules before you export rough material.
+
+**Simulant warnings:** "Black opal" here means Banten opal, not Australian Lightning Ridge opal. Very often faked. Indonesian sellers openly list synthetic Kalimaya, and African (Ethiopian) opal is sold under the Banten name. Smoke-treated Ethiopian opal imitates black opal: under a loupe, black stain collects in surface scratches and pits. Dyed Ethiopian hydrophane opal also appears; acetone can partly remove the dye. Glass "opalite" and synthetic opal are other imitations. Ask for a lab report on expensive stones; labs use microscopy and Raman spectroscopy.
+
+**Short intention:** Wake the creative fire hidden in the dark
+
+**Intention:** Creativity & Inner Fire
+
+**Chakras:** Sacral, Crown
+
+**Element:** Water
+
+**Planet:** Neptune
+
+**Day of week:** Monday
+
+**Zodiac:** Libra, Scorpio, Cancer
+
+**Numerology:** 8
+
+**Polarity:** Yin
+
+**Solfeggio frequency:** 417 Hz
+
+**Energy type:** Amplifying
+
+**Emotional:**
+- Helps bring hidden feelings into the light in a safe way
+- Encourages emotional honesty and passion
+- Supports confidence in one's own uniqueness
+- Lifts the mood when life feels grey or flat
+
+**Mental:**
+- Stimulates imagination and original ideas
+- Supports artists, designers and makers
+- Encourages seeing many possibilities in one situation
+- Helps break creative blocks
+
+**Spiritual:**
+- Amplifies whatever intention or emotion it is used with, as opal does in crystal tradition
+- Links the Sacral (creation) with the Crown (inspiration)
+- Supports dream work and visionary states
+- Symbolizes light held inside darkness
+
+**Physical:**
+- Traditionally associated with vitality and creative energy
+- Associated in crystal practice with restful sleep and dream recall
+- Folk tradition links opal with eye health
+- These are folk and metaphysical beliefs, not medical claims
+
+**Vedic tradition:** No classical Jyotish basis for Kalimaya itself. In modern Indian practice, opal is sometimes worn as a substitute for diamond (a Venus stone), but this is not a classical navaratna rule.
+
+**Tcm use:** No traditional Chinese materia medica use found.
+
+**Five element theory:** Corresponds to Water (its dark body and hydrated nature) carrying Fire (its play of colour) — a stone of balance between the two.
+
+**Feng shui bagua:** Fame & Reputation (Li), Children & Creativity (Dui)
+
+**Feng shui placement:** West area of the home for creativity and new projects. In a studio or workspace. Keep out of direct sunlight and away from heaters, because heat and strong light can crack opal.
+
+**Ancient lore:** Opal is the October birthstone on the 1912 list of the American National Association of Jewelers (now Jewelers of America), as quoted by George Kunz in 1913. Kalimaya itself has no ancient written lore. It became famous during the Indonesian batu akik boom, when Banten opal was sold nationwide as the pride of Lebak.
+
+**Indigenous traditions:** Kalimaya is a regional identity stone in Lebak, Banten, where community mining has gone on for generations. The 2019 Lebak geoheritage study lists a traditional Kalimaya mine as a geological heritage site of the Bayah Dome geopark. No documented folk rituals specific to Kalimaya were found.
+
+**Meditation guidance:** Sit in a dim room and hold Kalimaya under a single soft light. Turn it slowly and watch the colours appear and vanish. Let each flash stand for one idea you want to create. Then close your eyes and picture the same colours glowing below the navel (Sacral) and rising to the crown. Keep the session short and creative; write down what comes.
+
+**Body placement:** Below the navel for creativity; at the crown for inspiration; worn as a ring or pendant.
+
+**Space placement:** Studio, workshop or creative desk. Away from windows with strong sun and away from heaters and lamps.
+
+**Elixir safety:** Indirect
+
+**Elixir notes:** Opal contains water in its structure, and some opal is porous. Water can affect the stone. Use the indirect method only (stone in a sealed glass container).
+
+**Jewelry recommendations:** Best in pendants, earrings and protected ring settings (bezel). Hardness about 5–6.5, so avoid daily rings that take knocks. Remove before washing, cooking, sports or sunbathing. Never use ultrasonic or steam cleaners.
+
+**Safe cleansing:**
+- Warm water with mild soap and a soft cloth (only if the stone is not hydrophane)
+- Moonlight
+- Sound bath
+- Visualization
+- Smudging
+
+**Unsafe cleansing:**
+- Sunlight charging (heat and strong light can cause crazing)
+- Sudden temperature changes
+- Alkaline cleaners and hydrofluoric acid
+- Ultrasonic and steam cleaners
+- Salt (abrasive)
+
+**Charging methods:**
+- Moonlight
+- Sound frequency 417 Hz
+- Creative work done while wearing it
+- Clear quartz nearby
+
+**Storage guidance:** Store alone in a soft pouch, away from heat, strong light and harder stones. Do not keep it in a very dry place for long periods. Banten opal can have "shatter cracks", so handle with care.
+
+**Cautions:** Heat, strong light and sudden temperature changes can crack opal ("crazing"). Synthetic Kalimaya and African opal sold as Banten opal are common.
+
+**Toxicity:** Non-toxic (silica). Avoid breathing dust if cutting.
+
+**Fragility:** Moderately fragile — hardness 5–6.5; sensitive to heat, knocks and sudden temperature change.
+
+**Synergies:**
+- Bacan (`bacan`): Two famous Indonesian stones. Kalimaya brings creative fire; Bacan brings calm, patient communication. Together they turn inspiration into clear expression.
+- Labradorite (`labradorite`): Both show colour flashes from a dark body. Labradorite protects the aura while Kalimaya amplifies creativity — a strong pair for artists who feel exposed when sharing their work.
+- Moonstone (`moonstone`): Both are Water-element stones of dreams and intuition. Moonstone softens and steadies; Kalimaya amplifies and inspires.
+
+**Conflicts:**
+- Shungite (`shungite`): Shungite absorbs and neutralizes energy; Kalimaya amplifies it. Used together, they can work against each other.
+
+**Grid role:** Amplifier and centre stone in creativity grids; Sacral anchor in inspiration layouts
+
+---
+
+## Idocrase
+
+**Id:** `idocrase`
+
+**Alt names:** Vesuvianite, Giok Lumut, Bio-Solar, Solar, Lumut Aceh, Sungai Dareh, Totol Sayur, Es Jade
+
+**Mineral family:** Vesuvianite (sorosilicate)
+
+**Chemical formula:** Ca₁₀Mg₂Al₄(SiO₄)₅(Si₂O₇)₂(OH)₄
+
+**Crystal system:** Tetragonal
+
+**Mohs hardness:** 6.5
+
+**Luster:** Vitreous to resinous
+
+**Transparency:** Transparent to translucent
+
+**Color range:** Olive to emerald green, yellow, brown and brown-black; Aceh "Bio-Solar" is brown with green, "Solar" is brown without green. Rarely white, red, violet or blue-green.
+
+**Origins:** Indonesia (Beutong / Gunung Singgah Mata, Nagan Raya, Aceh), Indonesia (Gayo Lues, Aceh), Indonesia (Sungai Dareh, West Sumatra), Italy (Mount Vesuvius, type locality), Canada, Pakistan, Kenya, United States
+
+**Rarity:** Uncommon
+
+**Ethical sourcing:** Much Aceh idocrase is dug in the Beutong area, part of which is protected forest (hutan lindung). Mining there without a permit is illegal and damages the forest. During the batu akik boom, seekers reported earning over Rp20 million per month, which drove heavy digging. Ask the seller where the stone was mined.
+
+**Simulant warnings:** Idocrase can look like jade, peridot, tourmaline, zircon or garnet. It is itself often sold as "giok" (jade) in Aceh, but it is not jade (not jadeite or nephrite). A gem lab separates it by refractive index (about 1.70–1.72) and specific gravity (about 3.3–3.4), which are higher than nephrite or serpentine. At home, a hydrostatic weighing (SG test) can separate it from glass and serpentine. Most idocrase is not treated, but no lab study confirms this for Aceh material.
+
+**Short intention:** Release old fear and grow toward courage
+
+**Intention:** Courage & Release
+
+**Chakras:** Heart, Solar Plexus
+
+**Element:** Earth
+
+**Planet:** Jupiter
+
+**Day of week:** Thursday
+
+**Zodiac:** Sagittarius, Capricorn
+
+**Numerology:** 4
+
+**Polarity:** Yang
+
+**Solfeggio frequency:** 639 Hz
+
+**Energy type:** Grounding
+
+**Emotional:**
+- Helps release feelings of being trapped or held back
+- Encourages courage to change a stuck situation
+- Supports letting go of old anger and resentment
+- Brings a steady, hopeful mood
+
+**Mental:**
+- Supports clear decisions after a long period of doubt
+- Helps break repeating negative thought patterns
+- Encourages practical planning for change
+- Supports focus on long-term goals
+
+**Spiritual:**
+- Links the Heart with personal will (Solar Plexus)
+- Associated in crystal practice with connecting to one's higher purpose
+- Supports spiritual growth that is grounded in daily life
+- A forest-green stone carrying the energy of the Sumatran mountains
+
+**Physical:**
+- Traditionally associated with supporting vitality and recovery
+- Associated in crystal practice with the digestive system
+- Linked in folk practice with strength and endurance
+- These are folk and metaphysical beliefs, not medical claims
+
+**Vedic tradition:** No classical Jyotish basis. Idocrase is not a navaratna or a recognized upratna.
+
+**Tcm use:** No traditional Chinese materia medica use found.
+
+**Five element theory:** Corresponds to Wood through its green colour and growing, forest-like energy, with Earth for its grounding nature.
+
+**Feng shui bagua:** Family & Health (Zhen), Wealth & Prosperity (Xun)
+
+**Feng shui placement:** East or southeast areas of the home for growth and health. Near plants or in a green corner. On a desk when planning a big change.
+
+**Ancient lore:** The mineral was first described from Mount Vesuvius, Italy, which gave it the name vesuvianite. The name idocrase comes from Greek words meaning "mixed form", because its crystals look like those of other minerals. In Indonesia, idocrase became famous during the batu akik boom of 2014–2015, when Aceh "giok" was traded nationwide.
+
+**Indigenous traditions:** An ethnographic study of Beutong Ateuh, Nagan Raya, records ritual practices by local seekers when hunting giok in the Singgah Mata mountains. A Bio-Solar stone from Nagan Raya won first place in a national gemstone contest. Local names describe the look of the stone: "lumut" (moss), "solar" (diesel-fuel colour), "totol sayur" (vegetable spots).
+
+**Meditation guidance:** Hold idocrase between both hands at the solar plexus. Name one situation where you feel stuck. With each out-breath, picture green light loosening the hold of that situation. With each in-breath, draw in courage. End by placing the stone over the heart and choosing one small, real step to take.
+
+**Body placement:** Solar plexus for courage; heart for release; worn as a ring or pendant.
+
+**Space placement:** East side of the home. Office or study during times of change. Near plants.
+
+**Elixir safety:** Indirect
+
+**Elixir notes:** Vesuvianite is almost insoluble in acids, but Aceh Bio-Solar contains about 1.3% nickel oxide (XRF study). Use the indirect method only.
+
+**Jewelry recommendations:** Good for rings, pendants and cabochons (hardness 6.5). It is brittle with poor cleavage, so protect from hard knocks.
+
+**Safe cleansing:**
+- Running water
+- Mild soap and water
+- Moonlight
+- Sound bath
+- Smudging
+- Earth burial (brief)
+
+**Unsafe cleansing:**
+- Hard knocks or tumbling (brittle)
+- Ultrasonic cleaners (risk to fractured stones)
+
+**Charging methods:**
+- Morning sunlight (short)
+- Earth contact
+- Placing among green plants
+- Sound frequency 639 Hz
+
+**Storage guidance:** Store in a soft pouch away from harder stones such as quartz and sapphire. Protect from drops.
+
+**Cautions:** Brittle — avoid drops and knocks. Contains a small amount of nickel in some Aceh material; people with nickel allergy should avoid long skin contact.
+
+**Toxicity:** Low toxicity. Some Aceh material contains about 1.3% nickel oxide; avoid ingestion and dust from cutting.
+
+**Fragility:** Moderate — hardness 6.5 but brittle with poor cleavage.
+
+**Synergies:**
+- Jade (`jade`): Idocrase is sold as "giok" in Aceh. Pairing it with true jade joins jade's calm, long-lasting harmony with idocrase's courage to change.
+- Peridot (`peridot`): Both are green stones of the Heart and Solar Plexus. Peridot clears old emotional patterns; idocrase gives the courage to act after the release.
+- Klawing Jasper (`klawing-jasper`): Two Indonesian earth stones. Klawing jasper grounds and protects; idocrase moves the heart toward change. Together they support steady, safe transformation.
+
+**Conflicts:**
+- Lepidolite (`lepidolite`): Lepidolite slows things down and soothes; idocrase pushes for release and change. Used together, the message can feel mixed.
+
+**Grid role:** Courage stone in change and release grids; Heart-Solar Plexus bridge in growth layouts
+
+---
+
+## Aceh Black Jade
+
+**Id:** `aceh-black-jade`
+
+**Alt names:** Giok Hitam Aceh, Giok Hitam, Serpentine Jade, Black Serpentine, Antigorite, Giok Serpentin
+
+**Mineral family:** Serpentine (antigorite) — not true jade
+
+**Chemical formula:** (Mg,Fe²⁺)₃Si₂O₅(OH)₄ (antigorite)
+
+**Crystal system:** Monoclinic (antigorite)
+
+**Mohs hardness:** 2.5–5.5
+
+**Luster:** Resinous, greasy, waxy to silky
+
+**Transparency:** Translucent to opaque
+
+**Color range:** Black, blackish green, dark green; Aceh serpentine also occurs in yellowish green and brown
+
+**Origins:** Indonesia (Aceh Tengah / Takengon, Aceh), Indonesia (Nagan Raya and Beutong, Aceh)
+
+**Rarity:** Common
+
+**Ethical sourcing:** Aceh black jade is dug in the same Beutong area as idocrase, part of which is protected forest. Mining without a permit is illegal there. Serpentine rock can contain chrysotile (asbestos) fibres, so cutting and polishing workers face a dust risk without water and masks. No other labor or environmental data was found.
+
+**Simulant warnings:** Aceh black jade is itself a trade name: the stone is serpentine, not jadeite or nephrite. The serpentine ID comes from one XRF study only; the high iron content (35–39% Fe₂O₃) suggests iron-oxide inclusions such as magnetite. Black glass, black-dyed stones and other dark stones are sold under the same name. A gem lab separates serpentine by specific gravity (about 2.6) and refractive index (about 1.56), which are lower than nephrite or jadeite. Raman spectroscopy or XRD confirms the mineral. Some sellers say the stone is magnetic; this is not verified but would point to magnetite inclusions.
+
+**Short intention:** Shield the body and settle the mind
+
+**Intention:** Protection & Grounding
+
+**Chakras:** Root, Heart
+
+**Element:** Earth
+
+**Planet:** Saturn
+
+**Day of week:** Saturday
+
+**Zodiac:** Scorpio, Capricorn
+
+**Numerology:** 4
+
+**Polarity:** Yin
+
+**Solfeggio frequency:** 396 Hz
+
+**Energy type:** Protective
+
+**Emotional:**
+- Brings a sense of safety and calm
+- Helps settle worry and restlessness
+- Supports emotional steadiness during hard times
+- Encourages quiet self-control
+
+**Mental:**
+- Supports a calm, focused mind
+- Helps cut through mental noise
+- Encourages patience and careful thought
+- Supports discipline in long tasks
+
+**Spiritual:**
+- Associated in crystal practice with serpentine as a stone of protection and inner calm
+- Grounds spiritual energy into the body
+- Used as a personal protective talisman
+- Links the Root and the Heart for a protected, open heart
+
+**Physical:**
+- Believed locally in Aceh to support health and calm
+- Traditionally associated with steady energy
+- Associated in crystal practice with serpentine and body detox, but there is no evidence for this
+- These are folk and metaphysical beliefs, not medical claims
+
+**Vedic tradition:** No classical Jyotish basis. Serpentine is not a navaratna or a recognized upratna.
+
+**Tcm use:** No traditional Chinese materia medica use found for this stone.
+
+**Five element theory:** Corresponds to Water (black colour) and Earth (grounding) — a stone of deep, still protection.
+
+**Feng shui bagua:** Career & Life Path (Kan), Knowledge & Wisdom (Gen)
+
+**Feng shui placement:** North area of the home for career stability. Near the main door as a protective stone.
+
+**Ancient lore:** Aceh black jade has no ancient written lore. It became popular in Aceh in 2014 during the national batu akik boom, when Aceh "giok" was traded across Indonesia.
+
+**Indigenous traditions:** Local sellers and blogs say the stone brings health benefits and psychological calm; this is a modern local belief. Aceh traders sell it under many names, including "Badar Lumut Aceh", "Giok Sumatera", "Giok China" and "Giok Aswad".
+
+**Meditation guidance:** Sit on the floor and hold the stone at the base of the spine or in your lap. Breathe slowly and picture a dark green shell forming around your body. With each breath, feel heavier and more settled. When calm, move the stone to the heart and let the sense of safety spread there.
+
+**Body placement:** Root for grounding; heart for a protected, calm heart; worn as a pendant or carried in a pocket.
+
+**Space placement:** Near the front door as a protective stone. On a desk in the north of the home.
+
+**Elixir safety:** Avoid
+
+**Elixir notes:** Do not use for elixirs. The stone contains 2–2.6% nickel oxide (XRF study), and Aceh serpentine rock can contain chrysotile (asbestos) fibres.
+
+**Jewelry recommendations:** Soft (hardness about 2.5–5.5) — best as pendants or carved pieces, not rings for daily wear. Contains nickel; people with nickel allergy should avoid long skin contact.
+
+**Safe cleansing:**
+- Wipe with a damp cloth, then dry
+- Moonlight
+- Sound bath
+- Smudging
+- Visualization
+
+**Unsafe cleansing:**
+- Dry sanding or cutting (dust and possible asbestos fibres)
+- Heat
+- Abrasive cloths (scratches easily)
+- Salt (abrasive)
+- Ultrasonic cleaners
+
+**Charging methods:**
+- Earth contact
+- Moonlight
+- Sound frequency 396 Hz
+- Black tourmaline nearby
+
+**Storage guidance:** Store separately in a soft pouch; it scratches easily. Keep away from heat.
+
+**Cautions:** Never cut, sand or polish it dry — serpentine dust can contain chrysotile (asbestos) fibres. Contains nickel (2–2.6% NiO): avoid long skin contact if you have a nickel allergy. Not true jade.
+
+**Toxicity:** Contains nickel; possible chrysotile (asbestos) fibres in Aceh serpentine rock. Safe to handle when polished and intact; never create dust.
+
+**Fragility:** Soft — hardness 2.5–5.5 with perfect cleavage. Scratches easily.
+
+**Synergies:**
+- Black Tourmaline (`black-tourmaline`): Both are black protective stones of the Root. Black tourmaline deflects; Aceh black jade settles and calms. Together they form a strong protection pair.
+- Jade (`jade`): Pairs the "jade" name with the real jade it is sold as. True jade brings harmony; serpentine brings protection and calm.
+- Smoky Quartz (`smoky-quartz`): Both ground and protect. Smoky quartz transmutes heavy energy; Aceh black jade holds a calm, safe space.
+
+**Conflicts:**
+- Moldavite (`moldavite`): Moldavite brings fast, intense change; Aceh black jade brings stillness and protection. Together the effect can feel unsettled.
+
+**Grid role:** Corner protection stone in shielding grids; Root anchor in calming layouts
+
+---
+
+## Klawing Jasper
+
+**Id:** `klawing-jasper`
+
+**Alt names:** Batu Klawing, Nogo Sui, Pancawarna Purbalingga, Pancawati, Telur Kodok
+
+**Mineral family:** Jasper (microcrystalline quartz)
+
+**Chemical formula:** SiO₂ + impurities (iron oxides give the red colour)
+
+**Crystal system:** Trigonal (microcrystalline quartz)
+
+**Mohs hardness:** 6.5
+
+**Luster:** Dull to vitreous when polished
+
+**Transparency:** Opaque; translucent pieces grade into chalcedony
+
+**Color range:** Green, red, yellow, brown and multicolour; Pancawarna is green-blue with layers and red spots
+
+**Origins:** Indonesia (Klawing River, Bobotsari, Purbalingga, Central Java)
+
+**Rarity:** Common
+
+**Ethical sourcing:** Klawing jasper occurs as veins in basalt lava near Limbasari village and as river stones in the Klawing River terraces. Sand and gravel mining in the river destroys gem stones, according to local reports. Green-jasper artefacts also occur along the Klawing River: do not collect or export artefacts, because cultural-heritage objects are on Indonesia's prohibited-export list.
+
+**Simulant warnings:** "Klawing" is the river name; Nogo Sui, Pancawarna and Pancawati are pattern or trade names. No Klawing-specific fakes have been reported. As with other chalcedony and jasper, dyed material exists: wipe with an acetone swab and look for colour, and check cracks under a loupe for concentrated dye. Red-spotted green Klawing material resembles bloodstone (heliotrope) and is sometimes sold under that name.
+
+**Short intention:** Stand firm on home ground
+
+**Intention:** Grounding & Endurance
+
+**Chakras:** Root, Heart
+
+**Element:** Earth
+
+**Planet:** Mars
+
+**Day of week:** Tuesday
+
+**Zodiac:** Aries, Virgo
+
+**Numerology:** 6
+
+**Polarity:** Yang
+
+**Solfeggio frequency:** 396 Hz
+
+**Energy type:** Grounding
+
+**Emotional:**
+- Brings stability and a sense of belonging
+- Supports patience and endurance in hard times
+- Calms emotional ups and downs
+- Encourages loyalty and reliability
+
+**Mental:**
+- Supports practical thinking and steady work
+- Helps finish long tasks
+- Encourages organization and order
+- Supports clear, realistic goals
+
+**Spiritual:**
+- Connects to the land and to local, ancestral roots
+- Associated in crystal practice with jasper as the "supreme nurturer"
+- Protects while staying open-hearted (green types)
+- A river stone of Central Java carrying the energy of moving water and earth
+
+**Physical:**
+- Traditionally associated with stamina and endurance
+- Associated in crystal practice with jasper and general vitality
+- Linked in folk practice with recovery after illness
+- These are folk and metaphysical beliefs, not medical claims
+
+**Vedic tradition:** No classical Jyotish basis for jasper.
+
+**Tcm use:** No traditional Chinese materia medica use found.
+
+**Five element theory:** Corresponds to Earth (stability) with Wood in green types and Fire in red types.
+
+**Feng shui bagua:** Knowledge & Wisdom (Gen), Family & Health (Zhen)
+
+**Feng shui placement:** Northeast area of the home for steady self-improvement. In the family room for stability. Large river pieces work well in gardens.
+
+**Ancient lore:** Green-jasper artefacts have been found along the Klawing River, showing that people used this stone long ago; the published report does not give their culture or date. Bloodstone, the red-spotted green type of jasper/chalcedony, is the March birthstone on the 1912 American jewelers' list.
+
+**Indigenous traditions:** Klawing jasper is a regional identity stone of Purbalingga, Central Java. Local collectors hunt stones in the Klawing River and name them by pattern: "Nogo Sui" (dragon pattern), "Pancawarna" (five colours) and "Telur Kodok" (frog egg). No documented folk rituals specific to Klawing jasper were found.
+
+**Meditation guidance:** Hold Klawing jasper while sitting with your feet flat on the ground. Picture the river: water moving, stones staying in place. With each breath, let your body be the stone — steady while life moves around you. Stay until you feel heavy and calm.
+
+**Body placement:** Root for grounding; heart for green types; carried in a pocket for daily stability.
+
+**Space placement:** Family room or entrance. Garden or plant pots. A study desk for steady work.
+
+**Elixir safety:** Generally Safe
+
+**Elixir notes:** Jasper is silica with iron oxides and has low solubility. Clean, polished pieces can be used directly; the indirect method is a sensible precaution for rough river stones.
+
+**Jewelry recommendations:** Durable (hardness about 6.5–7) — good for rings, bracelets, pendants and cabochons for daily wear.
+
+**Safe cleansing:**
+- Running water
+- Mild soap and water
+- Earth burial
+- Moonlight
+- Sunlight
+- Smudging
+- Sound bath
+
+**Unsafe cleansing:**
+- Acid cleaners (can affect iron-oxide colours)
+
+**Charging methods:**
+- Earth contact
+- Running river water
+- Sunlight
+- Sound frequency 396 Hz
+
+**Storage guidance:** Durable; store with other stones of similar hardness. Keep polished pieces in a pouch to protect the shine.
+
+**Cautions:** Avoid breathing silica dust when cutting or polishing. Do not collect or export archaeological artefacts from the Klawing River.
+
+**Toxicity:** Non-toxic; safe to handle. Silica dust from cutting is a lung hazard.
+
+**Fragility:** Low — tough and durable.
+
+**Synergies:**
+- Red Jasper (`red-jasper`): Both are jaspers of the Root. Red jasper energizes and Klawing jasper steadies; together they give lasting, calm stamina.
+- Idocrase (`idocrase`): Two Indonesian earth stones. Klawing jasper grounds; idocrase gives the courage to change. Together they support safe, steady growth.
+- Green Aventurine (`green-aventurine`): Green Klawing jasper and green aventurine both work at the Heart. Aventurine invites opportunity; jasper keeps you steady enough to use it.
+
+**Conflicts:**
+- Moldavite (`moldavite`): Moldavite brings sudden, high-intensity change; Klawing jasper brings slow, steady stability. Together they can feel like they pull in opposite directions.
+
+**Grid role:** Foundation and corner stone in grounding grids; anchor stone in Indonesian-stone layouts
+
+---
+
+## Akar Bahar (Black Coral)
+
+**Id:** `akar-bahar`
+
+**Alt names:** Akar Bahar, Koral Hitam, Black Coral, Antipathes, King's Coral
+
+**Mineral family:** Organic — black coral (Antipatharia)
+
+**Chemical formula:** Organic (protein + chitin)
+
+**Crystal system:** None (organic)
+
+**Mohs hardness:** 3
+
+**Luster:** Waxy to resinous when polished
+
+**Transparency:** Opaque
+
+**Color range:** Black to dark brown; sometimes bleached to gold ("golden coral")
+
+**Origins:** Oceans worldwide (2 to 8,600 m deep), Indonesia (Alor, East Nusa Tenggara), Indonesia (Banggai, Central Sulawesi)
+
+**Rarity:** Rare
+
+**Ethical sourcing:** PROTECTED SPECIES — DO NOT BUY OR SELL. All black corals (Antipatharia) have been listed in CITES Appendix II since 1981, so international trade needs CITES permits. In Indonesia, PP 7/1999 (annex row 222) protects "Antipathes spp. — Akar bahar, Koral hitam", and Law 5/1990 (amended by Law 32/2024) bans taking, keeping and trading protected species; this covers craftsmen and traders as well as collectors. Black corals grow extremely slowly — some deep-sea colonies are estimated to be over 2,000 years old — and over-collection for jewellery led to the CITES listing. Illegal collection still happens in Alor. This entry exists for identification and legal awareness only.
+
+**Simulant warnings:** Black coral is often coated with thick resin or black lacquer (SSEF, GIA). Black-coated horn coral, plastic, glass and dyed materials are sold as akar bahar. In Indonesia, "akar bahar" also names gorgonian sea fans (Rumphella, Hicksonella), so many "akar bahar" bracelets are not black coral at all. Real black coral shows concentric "tree-ring" growth layers on cut ends and small spine dimples on the surface. A hot-needle test gives a burnt-protein smell on horn coral and melts plastic — but because the material is protected, the right action is not to buy it.
+
+**Short intention:** Respect the sea — protect, do not possess
+
+**Intention:** Protection & Respect for Nature
+
+**Chakras:** Root
+
+**Element:** Water
+
+**Planet:** Saturn
+
+**Day of week:** Saturday
+
+**Zodiac:** Scorpio, Capricorn
+
+**Numerology:** 8
+
+**Polarity:** Yin
+
+**Solfeggio frequency:** 396 Hz
+
+**Energy type:** Protective
+
+**Emotional:**
+- In regional belief, gives a feeling of safety and protection
+- Symbolizes endurance through very slow growth
+- Invites respect and care for living things
+- Reminds the wearer that real protection includes protecting nature
+
+**Mental:**
+- Encourages awareness of the law and of conservation
+- Supports patient, long-term thinking
+- Teaches the difference between a mineral and a living animal
+- Encourages checking what you buy before you buy it
+
+**Spiritual:**
+- In Alor, believed to ward off black magic (menangkal ilmu gaib)
+- Very old pieces are believed to protect the body
+- A living sea animal, not a mineral — its "energy" is the life of the reef
+- Modern practice: honour it by protecting it in the sea, not by wearing it
+
+**Physical:**
+- Used in regional folk practice as a remedy for rheumatism
+- Some gorgonian "akar bahar" contains radium (IPB study) — another reason not to wear it
+- No medical evidence supports any health use
+- These are folk beliefs, not medical claims
+
+**Vedic tradition:** No classical basis for black coral. The navaratna coral (praval, a Mars stone) is red coral, not black coral.
+
+**Tcm use:** No traditional Chinese materia medica use found for black coral.
+
+**Five element theory:** Corresponds to Water — a living animal of the deep sea.
+
+**Feng shui bagua:** Not recommended — do not use protected species in feng shui.
+
+**Feng shui placement:** Not recommended. Do not buy or display protected coral. Use black tourmaline or obsidian for protection instead.
+
+**Ancient lore:** Black coral has a long history as a protective amulet in many sea cultures. In Hawaii, black coral (ʻēkaha kū moana) is the state gem. No scholarly source for ancient Indonesian lore was found.
+
+**Indigenous traditions:** In Alor, East Nusa Tenggara, akar bahar is believed to ward off black magic, and pieces "hundreds of years old" are believed to protect the body (Mahkamah journal study). It is also used as a folk remedy for rheumatism. The same study found that illegal collection continues because of low income, weak supervision and low legal awareness.
+
+**Meditation guidance:** Do not use akar bahar for meditation. For a sea-protection meditation, hold a legal stone such as black tourmaline or larimar, picture the deep ocean and its slow-growing coral forests, and set an intention to protect them.
+
+**Body placement:** Not recommended. Wearing akar bahar bracelets supports illegal trade of a protected species.
+
+**Space placement:** Not recommended. Do not display protected coral.
+
+**Elixir safety:** Avoid
+
+**Elixir notes:** Never use for elixirs. It is organic and can degrade; it may be coated with resin; some gorgonian akar bahar contains radium (IPB study). It is also illegal to possess as a protected species in Indonesia.
+
+**Jewelry recommendations:** Do not buy or wear. Akar bahar bracelets are the main illegal trade item. If you already own a piece, do not sell or give it away; ask the local BKSDA (Natural Resources Conservation Agency) for advice.
+
+**Safe cleansing:**
+- Not applicable — do not use protected coral
+
+**Unsafe cleansing:**
+- Heat (organic; burns)
+- Solvents such as acetone (remove coatings and dyes)
+- Long soaking
+
+**Charging methods:**
+- Not applicable — do not use protected coral
+
+**Storage guidance:** If you already own a piece, keep it dry and away from heat. Do not sell, trade or export it.
+
+**Cautions:** PROTECTED SPECIES: CITES Appendix II and Indonesian PP 7/1999. Buying, selling, keeping or exporting it can break Indonesian law. Many items labelled "akar bahar" are gorgonians, which are also covered by KKP protection plans. The status of black coral in the current annex (Permen LHK P.106/2018) was not verified.
+
+**Toxicity:** Radium reported in gorgonian akar bahar (IPB study). Resin coatings unknown. Do not ingest.
+
+**Fragility:** Organic; damaged by heat, solvents and long soaking.
+
+**Synergies:**
+- Black Tourmaline (`black-tourmaline`): Use black tourmaline instead of akar bahar. It gives the same protective intention without harming a protected species.
+- Obsidian (`obsidian`): A legal, mineral alternative for protection against negative energy, the main use of akar bahar in folk belief.
+- Larimar (`larimar`): For a sea connection, larimar carries ocean energy without taking anything living from the reef.
+
+**Conflicts:** none
+
+**Grid role:** Not for use in grids — reference entry for identification and legal awareness only
