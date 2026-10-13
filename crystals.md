@@ -1,6 +1,6 @@
 # Crystal Sage: crystal database
 
-55 crystals, generated from data/crystals.js. Filter fields, emoji and colors are left out.
+60 crystals, generated from data/crystals.js. Filter fields, emoji and colors are left out.
 
 ## Contents
 
@@ -59,6 +59,11 @@
 53. Aceh Black Jade (`aceh-black-jade`)
 54. Klawing Jasper (`klawing-jasper`)
 55. Akar Bahar (Black Coral) (`akar-bahar`)
+56. Opal (`opal`)
+57. Amber (`amber`)
+58. Orange Calcite (`orange-calcite`)
+59. Pearl (`pearl`)
+60. Petrified Wood (`petrified-wood`)
 
 ---
 
@@ -480,7 +485,7 @@
 
 **Id:** `clear-quartz`
 
-**Alt names:** Rock Crystal, Master Healer, Crystal of Light, Rhinestone (historic)
+**Alt names:** Rock Crystal, Master Healer, Crystal of Light, Rhinestone (historic), Herkimer Diamond, Middleville Diamond, Little Falls Diamond
 
 **Mineral family:** Quartz
 
@@ -496,13 +501,13 @@
 
 **Color range:** Colorless and perfectly clear to slightly milky white
 
-**Origins:** Brazil, United States, China, Madagascar, Russia, Worldwide
+**Origins:** Brazil, United States (incl. Herkimer County, New York), China, Madagascar, Russia, Worldwide
 
 **Rarity:** Common
 
 **Ethical sourcing:** The most abundant crystal mineral on Earth. Choose vendors who source from small-scale ethical miners rather than large industrial suppliers. Brazilian and Arkansas (USA) sources tend to be well-documented.
 
-**Simulant warnings:** Glass (lead crystal) is frequently sold as quartz. True quartz feels colder to the touch and warms more slowly than glass. Natural quartz often contains inclusions, veils, or "phantoms" — glass is uniformly perfect. A simple thermal test or specific gravity test distinguishes them.
+**Simulant warnings:** Glass (lead crystal) is frequently sold as quartz. True quartz feels colder to the touch and warms more slowly than glass. Natural quartz often contains inclusions, veils, or "phantoms" — glass is uniformly perfect. A simple thermal test or specific gravity test distinguishes them. "Herkimer Diamond" is a trade name for water-clear, doubly terminated quartz from Herkimer County and the Mohawk Valley, New York — it is quartz, not diamond. The crystals grow in cavities in the Little Falls Dolostone and often carry black hydrocarbon inclusions or bits of dolostone matrix. Doubly terminated quartz from other places is often sold under the Herkimer name, and a lab cannot easily prove locality, so buy from sources that state the mine.
 
 **Short intention:** Amplify all intentions, clarify the mind, channel pure light
 
@@ -7770,3 +7775,700 @@
 **Conflicts:** none
 
 **Grid role:** Not for use in grids — reference entry for identification and legal awareness only
+
+---
+
+## Opal
+
+**Id:** `opal`
+
+**Alt names:** Precious Opal, Fire Opal, Black Opal, Jelly Opal, Welo Opal, Kalimaya, Opal Banten
+
+**Mineral family:** Mineraloid (hydrated silica)
+
+**Chemical formula:** SiO₂·nH₂O
+
+**Crystal system:** Amorphous (opal-A) to poorly ordered (opal-CT)
+
+**Mohs hardness:** 5.5
+
+**Luster:** Vitreous to waxy
+
+**Transparency:** Transparent to opaque
+
+**Color range:** Body colour from colourless and white to black. Precious opal shows play of colour: flashes of spectral colours that move as the stone turns.
+
+**Origins:** Australia (Lightning Ridge, Coober Pedy), Ethiopia (Welo, since 2008), Indonesia (Lebak, Banten — see Kalimaya Opal), Mexico
+
+**Rarity:** Uncommon
+
+**Ethical sourcing:** Much opal comes from small-scale and hand mining. In Banten, Indonesia, local people dig shafts more than ten metres deep by hand. No published labour or safety data was found for the main opal fields, so ask sellers about the source. Opal is a mineral, so CITES and Indonesian protected-species rules do not apply.
+
+**Simulant warnings:** Opal has many imitations. (1) Synthetic (Gilson) opal, sold since 1974: under magnification it shows a "snake skin" or "lizard skin" pattern of colour patches. (2) Polymer-impregnated synthetic opal and opal-like plastic ("Oparex"), which is mostly resin. (3) Doublets (a thin opal slice glued to a dark backing) and triplets (the same with a clear dome on top): look at the side of the stone for a flat, straight glue line; a triplet top looks glassy. (4) Natural opal impregnated with black plastic, and dyed Welo opal, which is porous and takes dye easily. Labs (GIA, SSEF) use microscopy and infrared spectroscopy. "Kalimaya" is a local trade name for precious opal, not a separate mineral.
+
+**Short intention:** Let every colour of the self be seen
+
+**Intention:** Creativity & Self-Expression
+
+**Chakras:** Sacral, Crown
+
+**Element:** Water
+
+**Planet:** Venus
+
+**Day of week:** Friday
+
+**Zodiac:** Libra, Cancer, Scorpio
+
+**Numerology:** 8
+
+**Polarity:** Yin
+
+**Solfeggio frequency:** 417 Hz
+
+**Energy type:** Amplifying
+
+**Emotional:**
+- Encourages emotional honesty and free expression
+- Supports confidence in one's own uniqueness
+- Lifts the mood when life feels flat
+- Helps feelings surface in a gentle, colourful way
+
+**Mental:**
+- Stimulates imagination and original ideas
+- Supports artists, writers and designers
+- Helps break creative blocks
+- Encourages seeing many possibilities at once
+
+**Spiritual:**
+- Amplifies the intention or emotion it is used with, in crystal tradition
+- Links creative power (Sacral) with inspiration (Crown)
+- Supports dream work and visionary states
+- Symbolizes the many colours of light held in one stone
+
+**Physical:**
+- Traditionally associated with vitality and creative energy
+- Associated in crystal practice with restful sleep and dream recall
+- Folk tradition links opal with eye health
+- These are folk and metaphysical beliefs, not medical claims
+
+**Vedic tradition:** In modern Indian gem practice, retailers list opal as an upratna (substitute) for diamond, the gem of Venus (Shukra). No classical text basis was found.
+
+**Tcm use:** No traditional Chinese materia medica use found.
+
+**Five element theory:** Corresponds to Water (its hydrated nature) carrying Fire (its play of colour).
+
+**Feng shui bagua:** Children & Creativity (Dui), Fame & Reputation (Li)
+
+**Feng shui placement:** West area of the home for creativity. In a studio or creative workspace. Keep away from heaters, lamps and windows with strong sun.
+
+**Ancient lore:** Opal is the October birthstone on the modern American list set by the jewellers' association in Kansas City in 1912; tourmaline was added for October in 1952. Synthetic opal entered the market in 1974, when Pierre Gilson began selling it.
+
+**Indigenous traditions:** In Indonesia, Banten miners use "kalimaya" for opal with play of colour and "opal" only for white opal without it. The name comes from Kali Maja, the place where it was first found. No documented Indonesian folk beliefs about opal were found.
+
+**Meditation guidance:** Sit in soft light and turn the opal slowly in your fingers. Watch each flash of colour appear and fade. Let each colour stand for one part of yourself you want to express. Then close your eyes and picture those colours glowing below the navel and rising to the crown. Write down any ideas that come.
+
+**Body placement:** Below the navel for creativity; at the crown for inspiration; worn as a pendant or earrings.
+
+**Space placement:** Studio, workshop or creative desk. Away from direct sun, heaters and very dry air.
+
+**Elixir safety:** Use with Caution
+
+**Elixir notes:** Water does not dissolve opal, but hydrophane opal (such as Welo) takes up liquid and changes appearance, and the glue in doublets and triplets fails in water. Use the indirect method only (stone in a sealed glass container).
+
+**Jewelry recommendations:** Best in pendants, earrings and protected bezel settings. Hardness about 5.5–6.5, so avoid daily rings that take knocks. Remove before washing, cooking or applying lotion. Never soak doublets or triplets.
+
+**Safe cleansing:**
+- Dry, soft cloth
+- Moonlight
+- Sound bath
+- Visualization
+- Smudging
+
+**Unsafe cleansing:**
+- Soaking in water, oils or lotions (hydrophane opal takes them up)
+- Soaking doublets or triplets (glue fails)
+- Heat
+- Fast drying after wetting (can cause crazing)
+- Ultrasonic and steam cleaners
+
+**Charging methods:**
+- Moonlight
+- Sound frequency 417 Hz
+- Creative work done while wearing it
+- Clear quartz nearby
+
+**Storage guidance:** Store alone in a soft pouch, away from heat, strong light and harder stones. Avoid long storage in very dry places.
+
+**Cautions:** Opal can crack ("craze") when it dries too fast or meets heat. Doublets, triplets and synthetic opal are common; ask the seller what you are buying.
+
+**Toxicity:** Non-toxic (silica). Cutting dust is a respirable silica hazard.
+
+**Fragility:** Moderately fragile — hardness 5.5–6.5; sensitive to knocks, heat and fast drying.
+
+**Synergies:**
+- Kalimaya Opal (`kalimaya`): Kalimaya is Indonesia's own precious opal from Banten. Pairing it with opal from other fields honours one stone family across many lands.
+- Labradorite (`labradorite`): Both flash colour from within. Labradorite protects the aura while opal amplifies creative expression — a strong pair for artists who feel exposed.
+- Moonstone (`moonstone`): Both are Water stones of dreams and feeling. Moonstone steadies; opal amplifies and inspires.
+
+**Conflicts:**
+- Shungite (`shungite`): Shungite absorbs and neutralizes energy; opal amplifies it. Used together, they can work against each other.
+
+**Grid role:** Amplifier and centre stone in creativity grids
+
+---
+
+## Amber
+
+**Id:** `amber`
+
+**Alt names:** Succinite, Baltic Amber, Blue Amber, Borneo Amber, Burmite, Succinum, Hu Po (琥珀)
+
+**Mineral family:** Organic — fossil tree resin
+
+**Chemical formula:** No fixed formula (polymerised resin; Baltic amber contains succinic acid)
+
+**Crystal system:** None (organic, amorphous)
+
+**Mohs hardness:** 2.5
+
+**Luster:** Resinous
+
+**Transparency:** Transparent to opaque
+
+**Color range:** Yellow, honey and brown (classic). Also red, green and orange. Dominican and Indonesian "blue amber" glows blue under UV light and daylight.
+
+**Origins:** Indonesia (Sumatra — Jambi, Bukit Asam, West Sumatra; also Borneo, Sulawesi, New Guinea), Baltic region, Dominican Republic, Myanmar (Kachin State)
+
+**Rarity:** Common
+
+**Ethical sourcing:** AVOID BURMESE AMBER. Burmese amber comes from Kachin State, Myanmar, where armed conflict has continued since 1962. A 2018 UN fact-finding mission reported forced labour and sexual violence by the military in mining areas, and the army took control of the amber mines in 2017. In 2020 the Society of Vertebrate Paleontology asked journals to stop publishing amber obtained after 2017. Indonesian amber is mostly a by-product of coal mining: villagers collect it from coal waste piles. Baltic and Dominican amber are the safer choices.
+
+**Simulant warnings:** Copal (young resin) is the main imitation; GIA treats it as a separate material. Plastic, glass, pressed amber (small pieces fused under heat) and heat-treated "green amber" are also sold. Home tests do not prove much: in GIA's 2009 study, the saltwater float test, the hot-point test and UV light did not separate amber from copal well. Clues: copal glows whiter under short-wave UV; acetone makes copal sticky and softens plastic, while amber resists; pressed amber shows flow lines and long bubbles under magnification. Labs use infrared and NMR spectroscopy.
+
+**Short intention:** Hold warmth, light and old wisdom
+
+**Intention:** Warmth & Vitality
+
+**Chakras:** Sacral, Solar Plexus
+
+**Element:** Fire
+
+**Planet:** Sun
+
+**Day of week:** Sunday
+
+**Zodiac:** Leo, Aquarius
+
+**Numerology:** 3
+
+**Polarity:** Yang
+
+**Solfeggio frequency:** 528 Hz
+
+**Energy type:** Activating
+
+**Emotional:**
+- Brings warmth, cheer and optimism
+- Helps lift heavy or anxious moods
+- Encourages self-confidence
+- Supports a sunny, open disposition
+
+**Mental:**
+- Supports clear decisions and positive thinking
+- Encourages patience and perspective
+- Associated with memory and old wisdom
+- Helps balance intellect with feeling
+
+**Spiritual:**
+- A gift of ancient trees, linking the wearer to deep time
+- Carries the light and warmth of the sun
+- Associated in crystal practice with clearing and protection
+- Links creative energy (Sacral) with personal power (Solar Plexus)
+
+**Physical:**
+- In traditional Chinese medicine, Hu Po is used to "calm the Spirit" and stop palpitations
+- Folk tradition links amber with soothing pain
+- Associated in crystal practice with vitality
+- These are traditional beliefs, not medical claims
+
+**Vedic tradition:** No classical Jyotish basis for amber.
+
+**Tcm use:** Named in the Chinese materia medica as Hu Po 琥珀 (Succinum), first recorded under this name in the Ming Yi Bie Lu. It is described as sweet and neutral, entering the Heart, Liver and Bladder channels. It is used to "calm the Spirit", stop palpitations and promote urination, taken as powder or pill, not boiled. This is a traditional belief system, not clinical medicine; a practitioner source warns it may increase the effect of sedatives.
+
+**Five element theory:** Corresponds to Fire (its warmth and golden light) and Wood (its origin as tree resin).
+
+**Feng shui bagua:** Fame & Reputation (Li), Wealth & Prosperity (Xun)
+
+**Feng shui placement:** South area of the home for warmth and recognition. Living rooms where people gather. Keep away from heaters and direct sun.
+
+**Ancient lore:** The Chinese name "hu po" comes from a legend that a tiger's soul enters the earth after death and turns into amber. Amber has been carved and traded since prehistoric times, and its ability to preserve insects and plants has made it valuable to science.
+
+**Indigenous traditions:** No documented Indonesian folk beliefs about amber were found. In Indonesia, amber is mainly collected by villagers from coal waste piles, and "Borneo amber" is used as a trade name.
+
+**Meditation guidance:** Hold amber in the palm of your hand until it warms. Picture sunlight caught inside it millions of years ago. Breathe that warm, golden light into the belly and the solar plexus. Let it melt tension and fear. End by giving thanks to the ancient forest the amber came from.
+
+**Body placement:** Solar plexus for confidence; below the navel for creativity; worn as beads or a pendant.
+
+**Space placement:** Living room or family area. South side of the home. Away from heat sources and solvents.
+
+**Elixir safety:** Generally Safe
+
+**Elixir notes:** Polished amber is suitable for brief contact. It is soft and reacts to solvents, so do not use alcohol-based elixirs. The indirect method is the safer choice.
+
+**Jewelry recommendations:** Light and warm to wear — good for beads, pendants and earrings. Very soft (about 2–2.5), so it scratches easily; store separately. Put on perfume and hairspray before wearing amber.
+
+**Safe cleansing:**
+- Soft dry cloth
+- Moonlight
+- Sound bath
+- Visualization
+- Smudging (at a distance)
+
+**Unsafe cleansing:**
+- Heat or open flame
+- Solvents (acetone, alcohol, perfume)
+- Abrasives and salt
+- Ultrasonic cleaners
+- Long sun exposure
+
+**Charging methods:**
+- Gentle morning sunlight (short)
+- Holding it until it warms
+- Sound frequency 528 Hz
+- Citrine nearby
+
+**Storage guidance:** Store separately in a soft pouch, away from harder stones, heat and chemicals.
+
+**Cautions:** Very soft and heat-sensitive. Avoid Burmese amber because of documented conflict and forced-labour links. Copal and plastic are often sold as amber.
+
+**Toxicity:** Non-toxic in polished form. Do not ingest amber as a supplement without professional advice.
+
+**Fragility:** Soft (2–2.5) — scratches easily; damaged by heat and solvents.
+
+**Synergies:**
+- Citrine (`citrine`): Both carry golden, solar warmth. Citrine draws abundance; amber brings cheer and vitality.
+- Carnelian (`carnelian`): Two warm orange stones of the Sacral. Carnelian drives action; amber brings steady warmth and confidence.
+- Petrified Wood (`petrified-wood`): Both are gifts of ancient trees. Petrified wood grounds in deep time; amber holds its light.
+
+**Conflicts:**
+- Black Tourmaline (`black-tourmaline`): Amber radiates warm, outward energy; black tourmaline pulls energy down and seals it. Together the effect can feel muted.
+
+**Grid role:** Warmth and vitality stone in Sacral and Solar Plexus grids
+
+---
+
+## Orange Calcite
+
+**Id:** `orange-calcite`
+
+**Alt names:** Calcite, Honey Calcite, Amber Calcite
+
+**Mineral family:** Calcite (carbonate)
+
+**Chemical formula:** CaCO₃
+
+**Crystal system:** Trigonal (hexagonal)
+
+**Mohs hardness:** 3
+
+**Luster:** Vitreous to dull
+
+**Transparency:** Transparent, translucent or opaque
+
+**Color range:** Pale to deep orange and honey. Pure calcite is colourless or white; impurities give the orange colour.
+
+**Origins:** Mexico, United States (Tennessee), Worldwide (limestone, marble and caves)
+
+**Rarity:** Common
+
+**Ethical sourcing:** Calcite is one of the most common rock-forming minerals, found in limestone, marble and caves. No specific labour or environmental issues were found for orange calcite. "Orange calcite" is a colour name, not a separate mineral.
+
+**Simulant warnings:** Low fake risk. To confirm calcite: a steel knife scratches it (hardness 3); a drop of dilute acid makes it fizz as carbon dioxide is released; and it breaks along three perfect cleavage planes into rhombs. The acid test damages the surface, so test only a hidden spot. No source was found on dyed or waxed orange calcite.
+
+**Short intention:** Warm the belly fire and play again
+
+**Intention:** Creativity & Joy
+
+**Chakras:** Sacral
+
+**Element:** Fire
+
+**Planet:** Sun
+
+**Day of week:** Sunday
+
+**Zodiac:** Leo, Cancer
+
+**Numerology:** 2
+
+**Polarity:** Yang
+
+**Solfeggio frequency:** 417 Hz
+
+**Energy type:** Activating
+
+**Emotional:**
+- Lifts low mood and brings playfulness
+- Helps release shame and emotional blocks
+- Encourages joy and enthusiasm
+- Supports emotional recovery after a hard time
+
+**Mental:**
+- Stimulates creative ideas
+- Helps overcome procrastination
+- Encourages new approaches to old problems
+- Supports learning through play
+
+**Spiritual:**
+- A main Sacral chakra stone in many crystal teaching lists
+- Encourages joyful, embodied spirituality
+- Supports creative flow and pleasure
+- Clears stagnant energy, as calcite does in crystal tradition
+
+**Physical:**
+- Associated in crystal practice with vitality and energy
+- Traditionally linked to the lower belly and reproductive area (Sacral chakra)
+- Associated with digestion in crystal practice
+- These are metaphysical beliefs, not medical claims
+
+**Vedic tradition:** No classical Jyotish basis.
+
+**Tcm use:** No traditional Chinese materia medica use found for orange calcite.
+
+**Five element theory:** Corresponds to Fire (orange warmth) with Earth (its origin in limestone).
+
+**Feng shui bagua:** Children & Creativity (Dui), Fame & Reputation (Li)
+
+**Feng shui placement:** West area for creativity and children. Play rooms, studios and kitchens. Keep away from damp places and acids.
+
+**Ancient lore:** Calcite defines hardness 3 on the Mohs scale. Clear calcite ("Iceland spar") shows strong double refraction, and calcite in its many colours has long been used in carving and building stone, since limestone and marble are made of it.
+
+**Indigenous traditions:** No documented traditions specific to orange calcite were found.
+
+**Meditation guidance:** Lie down and place orange calcite just below the navel. Picture a warm orange glow, like late-afternoon sun, filling the belly. With each breath, let the glow loosen tension and invite play. Ask: "What would I create if I were not afraid?" Write down the first answer.
+
+**Body placement:** Below the navel (Sacral) for creativity and joy; held in the hand during creative work.
+
+**Space placement:** Studio, play room or kitchen. West side of the home. Keep dry.
+
+**Elixir safety:** Use with Caution
+
+**Elixir notes:** Calcite dissolves in acids, even weak acids such as vinegar or citrus. Never place it in acidic drinks. Use the indirect method only.
+
+**Jewelry recommendations:** Too soft (hardness 3) for rings and bracelets. Best as a tumbled pocket stone, a carved piece or a pendant worn with care.
+
+**Safe cleansing:**
+- Dry brush or soft cloth
+- Moonlight
+- Sound bath
+- Smudging
+- Visualization
+
+**Unsafe cleansing:**
+- Vinegar, lemon or any acid
+- Long soaking in water
+- Salt (scratches the surface)
+- Rough handling (perfect cleavage)
+
+**Charging methods:**
+- Short morning sunlight
+- Sound frequency 417 Hz
+- Creative work done with it nearby
+- Carnelian nearby
+
+**Storage guidance:** Store separately in a soft pouch, away from harder stones and damp places. Handle gently; it splits along cleavage planes when knocked.
+
+**Cautions:** Soft and splits easily along cleavage planes. Dissolves in acids.
+
+**Toxicity:** Non-toxic (calcium carbonate). Safe to handle.
+
+**Fragility:** Soft (hardness 3) with perfect cleavage in three directions.
+
+**Synergies:**
+- Carnelian (`carnelian`): Two Sacral stones. Carnelian drives action and courage; orange calcite brings joy and playfulness.
+- Amber (`amber`): Both bring warm, golden-orange energy. Amber holds steady warmth; orange calcite lifts the mood.
+- Sunstone (`sunstone`): Both carry sunny, uplifting energy. Sunstone builds confidence; orange calcite frees creative play.
+
+**Conflicts:**
+- Lepidolite (`lepidolite`): Lepidolite slows and sedates; orange calcite energizes and stimulates. Together the effect can feel muddled.
+
+**Grid role:** Sacral centre stone in creativity and joy grids
+
+---
+
+## Pearl
+
+**Id:** `pearl`
+
+**Alt names:** Mutiara, South Sea Pearl, Cultured Pearl, Tahitian Pearl, Margarita, Zhen Zhu (珍珠), Moti, Mukta
+
+**Mineral family:** Organic — nacre made by molluscs
+
+**Chemical formula:** CaCO₃ (nacre) + organic matter
+
+**Crystal system:** None (organic)
+
+**Mohs hardness:** 2.5–4.5
+
+**Luster:** Pearly (nacreous)
+
+**Transparency:** Opaque
+
+**Color range:** White, cream, silver, champagne, gold (South Sea); grey to black (Tahitian)
+
+**Origins:** Indonesia (South Sea pearls — including Raja Ampat, Lombok, Sulawesi, Maluku, Papua), Australia, Philippines, Myanmar, French Polynesia (Tahitian pearls)
+
+**Rarity:** Common
+
+**Ethical sourcing:** Indonesia is the largest producer of South Sea pearls, with about 43% of world supply (government data cited by Mongabay). All Indonesian commercial pearl production is hatchery-based (FAO), so farms do not depend on wild oysters. The South Sea pearl oyster (Pinctada maxima) is not a protected species in Indonesia. Cultured pearls are common; natural pearls (formed with no human help) are very rare. Pearl is animal-derived — note this for vegan users.
+
+**Simulant warnings:** Imitations include glass, plastic and shell beads with a pearly coating. The Majorica imitation (a glass bead with an iridescent coating) is the most widely sold. The tooth test (cultured pearls feel gritty, imitations feel smooth) is only an indication: GIA warns it can damage pearls, and some imitations are made gritty. Look at the drill hole with a loupe: a chipped coating shows an imitation. Labs use X-radiography to separate natural from cultured pearls and to detect imitations, filled pearls and dyed pearls.
+
+**Short intention:** Turn irritation into beauty, layer by layer
+
+**Intention:** Purity & Emotional Calm
+
+**Chakras:** Heart, Crown
+
+**Element:** Water
+
+**Planet:** Moon
+
+**Day of week:** Monday
+
+**Zodiac:** Cancer, Gemini
+
+**Numerology:** 2
+
+**Polarity:** Yin
+
+**Solfeggio frequency:** 639 Hz
+
+**Energy type:** Calming
+
+**Emotional:**
+- Calms strong emotions and brings gentle peace
+- Supports patience and emotional maturity
+- Symbolizes turning pain into something beautiful
+- Encourages self-acceptance and grace
+
+**Mental:**
+- Supports calm, clear thinking
+- Encourages integrity and sincerity
+- Helps focus attention inward
+- Supports patient work done layer by layer
+
+**Spiritual:**
+- In Vedic tradition, the navaratna gem of the Moon (Chandra)
+- A symbol of purity and wisdom in many cultures
+- Linked to the sea and the lunar tides
+- Encourages a soft, receptive, devotional heart
+
+**Physical:**
+- In traditional Chinese medicine, Zhen Zhu is used to "sedate the Heart" and calm palpitations
+- Used in traditional Chinese practice as a powder on the skin and eyes
+- Folk tradition links pearl with calm sleep
+- These are traditional beliefs, not medical claims
+
+**Vedic tradition:** Pearl (Moti, Sanskrit mukta) is the navaratna gem of the Moon (Chandra). Moonstone is the usual upratna (substitute). (Sources are modern gem retailers; no classical text citation was found.)
+
+**Tcm use:** Named in the Chinese materia medica as Zhen Zhu 珍珠 (Margarita). Described as sweet, salty and cold, entering the Heart and Liver. Used to "sedate the Heart", treat palpitations and childhood convulsions, on the eyes as a powder, and to "generate flesh" on ulcers. This is a traditional belief system, not clinical medicine.
+
+**Five element theory:** Corresponds to Water (the sea) and Metal (its white lustre).
+
+**Feng shui bagua:** Love & Relationships (Kun), Children & Creativity (Dui)
+
+**Feng shui placement:** Southwest area for love and partnership. Bedroom for calm. Keep away from kitchens and bathrooms (steam, acids and cosmetics).
+
+**Ancient lore:** Pearl is the June birthstone on the modern American list of 1912; alexandrite was added in 1952, and moonstone is also listed. Pearls have been prized as jewels for thousands of years across Asia, the Middle East and Europe.
+
+**Indigenous traditions:** Indonesia's pearl farming regions, including Lombok and Raja Ampat, supply South Sea pearls worldwide. No documented Indonesian folk beliefs about pearls (mutiara) were found.
+
+**Meditation guidance:** Hold a pearl in your palm. Remember that it began as an irritation the oyster covered, layer by layer, with nacre. Bring to mind one thing that troubles you. With each breath, picture a soft, pearly layer of patience covering it. Rest in the calm that forms.
+
+**Body placement:** Worn at the throat or over the heart, the traditional way. Crown for calm meditation.
+
+**Space placement:** Bedroom or a quiet meditation corner. Away from steam, perfume and cleaning products.
+
+**Elixir safety:** Avoid
+
+**Elixir notes:** Do not use for elixirs. Nacre is calcium carbonate and dissolves in acids, and liquids can damage lustre.
+
+**Jewelry recommendations:** The classic necklace and earring gem. Soft (about 2.5–4.5), so it scratches easily. Put pearls on last, after perfume, hairspray and makeup; wipe after wearing; store flat and separately.
+
+**Safe cleansing:**
+- Soft dry cloth
+- Moonlight
+- Sound bath
+- Visualization
+
+**Unsafe cleansing:**
+- Vinegar, lemon or any acid
+- Salt
+- Perfume and cosmetics
+- Abrasives
+- Ultrasonic or steam cleaners
+- Heat
+
+**Charging methods:**
+- Moonlight, especially the full moon
+- Wearing against the skin
+- Sound frequency 639 Hz
+- Moonstone nearby
+
+**Storage guidance:** Store flat in a soft pouch, away from harder stones. Do not hang pearl strands for long periods. Do not seal in plastic for years; pearls need a little moisture.
+
+**Cautions:** Soft and damaged by acids, perfume and cosmetics. "Pearls" and shells from protected species are illegal to trade in Indonesia: Hippopus giant clams (kima), Cassis cornuta (kepala kambing), Charonia tritonis (triton) and Nautilus (Permen LHK P.106/2018). Giant clams and nautilus are CITES Appendix II. Pinctada maxima pearls are legal.
+
+**Toxicity:** Non-toxic. Safe to handle and wear.
+
+**Fragility:** Soft (2.5–4.5) — scratches easily; damaged by acids and heat.
+
+**Synergies:**
+- Moonstone (`moonstone`): Moonstone is the Vedic substitute for pearl, and both belong to the Moon. Together they deepen calm and intuition.
+- Larimar (`larimar`): Both carry the gentle energy of the sea. Larimar soothes; pearl brings grace and patience.
+- Rose Quartz (`rose-quartz`): Both are soft, loving Heart stones. Rose quartz opens the heart; pearl calms and purifies it.
+
+**Conflicts:**
+- Pyrite (`pyrite`): Pyrite is hard, fiery and driving; pearl is soft, lunar and calming. Pyrite can also scratch pearls when stored together.
+
+**Grid role:** Lunar centre stone in calm and love grids
+
+---
+
+## Petrified Wood
+
+**Id:** `petrified-wood`
+
+**Alt names:** Batu Sempur, Fosil Kayu, Kayu Fosil, Silicified Wood, Kayu Terkersikkan
+
+**Mineral family:** Fossil — wood replaced by silica (chalcedony, opal or quartz)
+
+**Chemical formula:** Mostly SiO₂ with impurities (iron gives colour; carbon gives black)
+
+**Crystal system:** Varies (quartz is trigonal; opal is amorphous)
+
+**Mohs hardness:** 7
+
+**Luster:** Dull to vitreous when polished
+
+**Transparency:** Opaque
+
+**Color range:** Pale white, jet black, brown, yellow, red and greenish; polished pieces often show tree rings and bark texture
+
+**Origins:** Indonesia (Lebak, Banten — Gajrug, Maja, Sajira, Gunung Kencana), Indonesia (Merangin, Jambi — protected geopark), United States, Madagascar
+
+**Rarity:** Common
+
+**Ethical sourcing:** Banten petrified wood ("batu sempur") is abundant, but the Banten energy and mineral agency warns that supply may run out after decades of digging, and calls for it to be conserved. "Possibly thousands of containers" of raw Banten fossil wood were exported before 2005. Do not buy pieces taken from geosites such as Merangin Geopark in Jambi, where Early Permian fossil trees (about 290–300 million years old) are protected. In the USA, personal collection on BLM land is limited to 25 lb plus one piece per day and 250 lb per year, and collected wood may not be sold.
+
+**Simulant warnings:** Low fake risk. Banten craftsmen grind and polish pieces until they are "glossy and smooth like marble" — this is finishing, not fakery. No source was found on dyed or resin-stabilised petrified wood. Ask where a piece was collected, because legal origin matters more than authenticity for this stone.
+
+**Short intention:** Stand rooted in deep time
+
+**Intention:** Grounding & Patience
+
+**Chakras:** Root
+
+**Element:** Earth
+
+**Planet:** Saturn
+
+**Day of week:** Saturday
+
+**Zodiac:** Capricorn, Taurus
+
+**Numerology:** 4
+
+**Polarity:** Yang
+
+**Solfeggio frequency:** 396 Hz
+
+**Energy type:** Grounding
+
+**Emotional:**
+- Brings deep calm and a sense of stability
+- Helps put present worries in a long perspective
+- Supports patience during slow change
+- Encourages resilience after loss
+
+**Mental:**
+- Supports steady, practical thinking
+- Encourages long-term planning
+- Helps finish slow, careful work
+- Supports learning from the past
+
+**Spiritual:**
+- Links the wearer to ancient forests and deep time
+- Associated in crystal practice with ancestral connection
+- A stone of transformation: living wood turned to stone
+- Grounds spiritual work into the body and the earth
+
+**Physical:**
+- Associated in crystal practice with strength and endurance
+- Traditionally linked to the bones and back
+- A Banten seller says fossil wood furniture "brings coolness" to a room (a modern claim)
+- These are metaphysical beliefs, not medical claims
+
+**Vedic tradition:** No classical Jyotish basis.
+
+**Tcm use:** No traditional Chinese materia medica use found.
+
+**Five element theory:** Corresponds to Wood turned to Earth — growth transformed into stability.
+
+**Feng shui bagua:** Family & Health (Zhen), Knowledge & Wisdom (Gen)
+
+**Feng shui placement:** East area for family and ancestry. Large slabs and furniture suit living rooms and entrances. Garden pieces work well near trees.
+
+**Ancient lore:** Petrified wood forms when buried wood is slowly replaced by silica, keeping the shape of rings and bark. At Merangin, Jambi, fossil trees including Araucarioxylon trunks from the Early Permian Mengkarang Formation are about 290–300 million years old. In Banten, pieces range from a few centimetres to whole trunks up to 1.5 m across and tens of metres long.
+
+**Indigenous traditions:** In Banten, petrified wood is called "batu sempur", after the sempur tree, which people say is the most common fossil wood. Sajira, Lebak is a craft centre for polished fossil-wood furniture and ornaments, and Baduy people help supply raw material to one craft seller. No documented folklore was found.
+
+**Meditation guidance:** Sit with your back against a wall or tree and hold petrified wood in your lap. Picture the living tree it once was, then the millions of years of slow change. Let your breath slow to match that pace. Feel roots grow from your spine into the earth. Stay until the mind is still.
+
+**Body placement:** Root for grounding; held in both hands during stressful times; carried in a pocket.
+
+**Space placement:** Living room, entrance or garden. Large slabs as tables or bookends. East side of the home for family and ancestry.
+
+**Elixir safety:** Generally Safe
+
+**Elixir notes:** Polished silica pieces are generally safe for direct elixirs. For iron-stained or rough pieces, use the indirect method.
+
+**Jewelry recommendations:** Durable silica (about 7) — suitable for cabochons, pendants and beads. Heavier pieces suit display rather than wear.
+
+**Safe cleansing:**
+- Water and soft brush
+- Earth burial
+- Moonlight
+- Sunlight
+- Smudging
+- Sound bath
+
+**Unsafe cleansing:**
+- Dry cutting or grinding (silica dust)
+- Dropping large logs (they can split along old fractures)
+
+**Charging methods:**
+- Earth contact
+- Placing under a living tree
+- Sound frequency 396 Hz
+- Smoky quartz nearby
+
+**Storage guidance:** Durable. Support large logs and slabs well; they are heavy and can split along old fractures.
+
+**Cautions:** Do not collect or buy wood taken from protected geosites such as Merangin Geopark. Silica dust from cutting is a lung hazard. Large pieces are heavy.
+
+**Toxicity:** Non-toxic when polished. Silica dust from cutting or grinding is a respirable hazard.
+
+**Fragility:** Low — hard and durable, but large pieces can split along old fractures.
+
+**Synergies:**
+- Amber (`amber`): Both are gifts of ancient trees. Petrified wood grounds in deep time; amber holds the forest's light.
+- Smoky Quartz (`smoky-quartz`): Both ground and stabilize. Smoky quartz clears heavy energy; petrified wood brings patience and endurance.
+- Klawing Jasper (`klawing-jasper`): Two Indonesian earth stones. Klawing jasper protects; petrified wood roots you in time and ancestry.
+
+**Conflicts:**
+- Moldavite (`moldavite`): Moldavite brings sudden, intense change; petrified wood brings slow, steady patience. Together they pull in opposite directions.
+
+**Grid role:** Foundation and anchor stone in grounding and ancestor grids
