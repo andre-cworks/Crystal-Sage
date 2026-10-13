@@ -1,6 +1,6 @@
 # Crystal Sage: crystal database
 
-60 crystals, generated from data/crystals.js. Filter fields, emoji and colors are left out.
+67 crystals, generated from data/crystals.js. Filter fields, emoji and colors are left out.
 
 ## Contents
 
@@ -64,6 +64,13 @@
 58. Orange Calcite (`orange-calcite`)
 59. Pearl (`pearl`)
 60. Petrified Wood (`petrified-wood`)
+61. Bumblebee Calcite (`bumblebee-calcite`)
+62. Diamond (`diamond`)
+63. Topaz (`topaz`)
+64. Bloodstone (`bloodstone`)
+65. Tanzanite (`tanzanite`)
+66. Ammolite (`ammolite`)
+67. Chrysoprase (`chrysoprase`)
 
 ---
 
@@ -7922,7 +7929,7 @@
 
 **Id:** `amber`
 
-**Alt names:** Succinite, Baltic Amber, Blue Amber, Borneo Amber, Burmite, Succinum, Hu Po (琥珀)
+**Alt names:** Succinite, Baltic Amber, Blue Amber, Indonesian Blue Amber, Sumatran Amber, Borneo Amber, Burmite, Succinum, Hu Po (琥珀)
 
 **Mineral family:** Organic — fossil tree resin
 
@@ -7936,15 +7943,15 @@
 
 **Transparency:** Transparent to opaque
 
-**Color range:** Yellow, honey and brown (classic). Also red, green and orange. Dominican and Indonesian "blue amber" glows blue under UV light and daylight.
+**Color range:** Yellow, honey and brown (classic). Also red, green and orange. Dominican and Indonesian "blue amber" glows blue under UV light and daylight. GIA found that the blue of Indonesian blue amber is UV-stimulated fluorescence confined to the surface; the body colour is red-brown or yellow.
 
 **Origins:** Indonesia (Sumatra — Jambi, Bukit Asam, West Sumatra; also Borneo, Sulawesi, New Guinea), Baltic region, Dominican Republic, Myanmar (Kachin State)
 
 **Rarity:** Common
 
-**Ethical sourcing:** AVOID BURMESE AMBER. Burmese amber comes from Kachin State, Myanmar, where armed conflict has continued since 1962. A 2018 UN fact-finding mission reported forced labour and sexual violence by the military in mining areas, and the army took control of the amber mines in 2017. In 2020 the Society of Vertebrate Paleontology asked journals to stop publishing amber obtained after 2017. Indonesian amber is mostly a by-product of coal mining: villagers collect it from coal waste piles. Baltic and Dominican amber are the safer choices.
+**Ethical sourcing:** AVOID BURMESE AMBER. Burmese amber comes from Kachin State, Myanmar, where armed conflict has continued since 1962. A 2018 UN fact-finding mission reported forced labour and sexual violence by the military in mining areas, and the army took control of the amber mines in 2017. In 2020 the Society of Vertebrate Paleontology asked journals to stop publishing amber obtained after 2017. Indonesian amber is mostly a by-product of coal mining: villagers collect it from coal waste piles. Baltic and Dominican amber are the safer choices. Indonesian amber belongs to the glessite group and comes from dipterocarp trees (genus disputed: Dipterocarpus vs Shorea). Indonesia bans export of palaeontological collections with special scientific or cultural value (Permendag 22/2023, HS 97.05); ordinary gem amber is likely not covered, but a scientifically important fossil inclusion could be.
 
-**Simulant warnings:** Copal (young resin) is the main imitation; GIA treats it as a separate material. Plastic, glass, pressed amber (small pieces fused under heat) and heat-treated "green amber" are also sold. Home tests do not prove much: in GIA's 2009 study, the saltwater float test, the hot-point test and UV light did not separate amber from copal well. Clues: copal glows whiter under short-wave UV; acetone makes copal sticky and softens plastic, while amber resists; pressed amber shows flow lines and long bubbles under magnification. Labs use infrared and NMR spectroscopy.
+**Simulant warnings:** Copal (young resin) is the main imitation; GIA treats it as a separate material. Plastic, glass, pressed amber (small pieces fused under heat) and heat-treated "green amber" are also sold. Home tests do not prove much: in GIA's 2009 study, the saltwater float test, the hot-point test and UV light did not separate amber from copal well. Clues: copal glows whiter under short-wave UV; acetone makes copal sticky and softens plastic, while amber resists; pressed amber shows flow lines and long bubbles under magnification. Labs use infrared and NMR spectroscopy. For Indonesian amber, a mindat expert notes that material on sale is "some true amber but also much young polymerised resin", and that almost all amber and much copal fluoresce, so a blue glow under UV alone proves nothing. Copal with UV dyes or coatings is also sold as blue amber.
 
 **Short intention:** Hold warmth, light and old wisdom
 
@@ -8472,3 +8479,960 @@
 - Moldavite (`moldavite`): Moldavite brings sudden, intense change; petrified wood brings slow, steady patience. Together they pull in opposite directions.
 
 **Grid role:** Foundation and anchor stone in grounding and ancestor grids
+
+---
+
+## Bumblebee Calcite
+
+**Id:** `bumblebee-calcite`
+
+**Alt names:** Bumblebee Jasper, Eclipse Stone, Eclipse Jasper, Fumarole Jasper, Mustard Jasper, Batu Badar Belerang
+
+**Mineral family:** Calcite rock with realgar (contains arsenic)
+
+**Chemical formula:** CaCO₃ (calcite) + As₄S₄ (realgar) + FeS₂ (pyrite)
+
+**Crystal system:** Rock (calcite is trigonal)
+
+**Mohs hardness:** 3
+
+**Luster:** Vitreous to dull when polished
+
+**Transparency:** Opaque
+
+**Color range:** Bands of yellow, orange, grey, white and black
+
+**Origins:** Indonesia (West Java — listed under Papandayan volcano, Garut, and Kuningan Regency; exact source unresolved)
+
+**Rarity:** Uncommon
+
+**Ethical sourcing:** TOXIC STONE — CONTAINS ARSENIC. "Bumblebee Jasper" is a trade name. Lab tests (XRD and wet chemistry, reported by mindat manager Alfredo Petrov) show it is not jasper but limestone made mainly of calcite, coloured by realgar, an arsenic sulfide. An ICP-MS test found it "quite rich in arsenic". Cutting and polishing creates arsenic-bearing dust, which is a health risk for cutters in Indonesia and Jaipur. Small-scale local digging is reported; no labour or environmental study was found.
+
+**Simulant warnings:** Chinese orpiment (another arsenic sulfide) and other yellow-banded stones are sold under the same name. A lab separates them with XRD or Raman, and measures arsenic with ICP-MS. Do NOT do acid tests at home: acid plus arsenic sulfide is hazardous. No source was found on dyed or resin-stabilised pieces.
+
+**Short intention:** Admire the colour — keep it out of mouths and water
+
+**Intention:** Confidence & Creativity (display only)
+
+**Chakras:** Sacral, Solar Plexus
+
+**Element:** Fire
+
+**Planet:** Sun
+
+**Day of week:** Sunday
+
+**Zodiac:** Taurus, Leo
+
+**Numerology:** 3
+
+**Polarity:** Yang
+
+**Solfeggio frequency:** 528 Hz
+
+**Energy type:** Activating
+
+**Emotional:**
+- Retailers describe it as a stone of confidence and enthusiasm
+- Associated in modern crystal practice with lifting low mood
+- Bright yellow colour linked to optimism
+- Best enjoyed as a display stone, not a handled worry stone
+
+**Mental:**
+- Associated with focus and manifestation in retailer texts
+- Linked to creativity and new ideas
+- Encourages decisive action
+- Supports motivation (modern attribution)
+
+**Spiritual:**
+- Modern retailers link it to the Sacral and Solar Plexus chakras
+- Associated with volcanic Fire energy
+- Formed near volcanic activity in West Java
+- Use from a distance: place on a shelf, not on the body
+
+**Physical:**
+- NO health use. It contains arsenic and must never be ingested or used in water
+- Do not let children handle or mouth it
+- Wash hands after handling
+- Any healing claims are modern retail claims with no evidence
+
+**Vedic tradition:** No classical basis.
+
+**Tcm use:** None for this stone. (Realgar itself, "xionghuang", is a TCM substance, but it is toxic and this stone must not be used medicinally.)
+
+**Five element theory:** Corresponds to Fire (volcanic origin, yellow-orange colour) and Earth (limestone).
+
+**Feng shui bagua:** Fame & Reputation (Li) — display only
+
+**Feng shui placement:** Only on a high shelf or in a closed display case, out of reach of children and pets. Away from direct light.
+
+**Ancient lore:** No ancient lore. The stone entered the commercial market in the 1990s. The name "Eclipse Stone" is said to have started in Jaipur, India, where much of it is cut.
+
+**Indigenous traditions:** No documented Sundanese or Indonesian folklore was found. The local market term "batu badar belerang" (sulfur badar stone) is reported only by a retailer.
+
+**Meditation guidance:** Do not hold or place this stone on the body for meditation. Instead, set it on a shelf in front of you and gaze at its bands of colour. Picture the warm yellow light filling the solar plexus. For hands-on Solar Plexus work, use citrine or orange calcite instead.
+
+**Body placement:** Not recommended. Do not wear it against the skin for long periods, and never put it in the mouth.
+
+**Space placement:** Closed display case or high shelf, away from children, pets, food areas and direct sunlight.
+
+**Elixir safety:** Avoid
+
+**Elixir notes:** NEVER use for elixirs, direct or indirect. It contains arsenic sulfide (realgar), and calcite is attacked by acids.
+
+**Jewelry recommendations:** Not recommended for jewellery. It is soft (about 3), contains arsenic, and wear can release particles. If you own beads, do not let children handle them.
+
+**Safe cleansing:**
+- Dry soft cloth
+- Sound bath
+- Smudging at a distance
+- Moonlight
+- Visualization
+
+**Unsafe cleansing:**
+- Water soaking (may release fine particles)
+- Salt (abrasive)
+- Sun charging (light breaks down realgar)
+- Acids such as vinegar or lemon
+- Heat (realgar releases arsenic fumes)
+- Ultrasonic cleaning, tumbling or polishing at home
+
+**Charging methods:**
+- Sound frequency 528 Hz
+- Visualization
+- Placing near citrine (not touching food or water)
+
+**Storage guidance:** Store in a closed container out of direct light, away from children and pets. Light slowly breaks down realgar into yellow pararealgar (Douglass et al. 1992, American Mineralogist).
+
+**Cautions:** CONTAINS ARSENIC. Never ingest, never use in water or elixirs, never cut, sand or grind it. Keep away from children and pets. Wash hands after handling. Polished, intact stones are low risk to touch.
+
+**Toxicity:** Toxic — contains realgar (arsenic sulfide). Harmful if swallowed or if dust is inhaled. Intact polished stone is low risk to touch; wash hands after.
+
+**Fragility:** Soft (about 3); scratches easily; fibrous calcite can split.
+
+**Synergies:**
+- Citrine (`citrine`): Use citrine as the hands-on, non-toxic stone for the same sunny Solar Plexus intention, and keep bumblebee calcite on display nearby.
+- Orange Calcite (`orange-calcite`): Orange calcite is the safe calcite for Sacral work; pair it with bumblebee calcite on a display shelf for colour and theme.
+- Black Tourmaline (`black-tourmaline`): A grounding display partner that balances bumblebee calcite's bright, fiery look.
+
+**Conflicts:** none
+
+**Grid role:** Display-only accent; do not use in grids that involve water or handling
+
+---
+
+## Diamond
+
+**Id:** `diamond`
+
+**Alt names:** Intan, Berlian, Galuh, Intan Martapura, Galuh Banjar, Adamas, Vajra, Heera
+
+**Mineral family:** Native element (carbon)
+
+**Chemical formula:** C
+
+**Crystal system:** Cubic (isometric)
+
+**Mohs hardness:** 10
+
+**Luster:** Adamantine
+
+**Transparency:** Transparent to opaque
+
+**Color range:** Colourless, yellow and brown; rarely blue, pink, green or black. Cempaka guides describe "clear, milk and black" stones.
+
+**Origins:** Indonesia (Cempaka, Banjarbaru, South Kalimantan — cut and sold in Martapura), Botswana, Russia, Canada, Australia, South Africa
+
+**Rarity:** Uncommon
+
+**Ethical sourcing:** Buy diamonds with a Kimberley Process certificate for the rough, and ask for origin information. Indonesia joined the Kimberley Process in 2005 but reports zero official production, so Cempaka diamonds do not appear in KP statistics. About 1,000 people mine diamonds by hand in South Kalimantan, many in poverty. A UGM study found heavy environmental damage at one Sungai Tiung mine site. Cempaka gravels also yield gold; no source confirms mercury use in diamond panning there.
+
+**Simulant warnings:** Lab-grown diamond (CVD/HPHT) is real diamond and passes a thermal "diamond tester"; only a gem lab can identify it. Moissanite also passes basic thermal testers; a thermal + electrical tester or strong doubling under a loupe separates it. Cubic zirconia and glass fail thermal testers, and CZ is much heavier. Some coloured diamonds are irradiated. Home tests are screening only — get a lab report for valuable stones.
+
+**Short intention:** Clear light, unbreakable will
+
+**Intention:** Clarity & Strength
+
+**Chakras:** Crown
+
+**Element:** Fire
+
+**Planet:** Venus
+
+**Day of week:** Friday
+
+**Zodiac:** Aries, Leo, Libra
+
+**Numerology:** 1
+
+**Polarity:** Yang
+
+**Solfeggio frequency:** 963 Hz
+
+**Energy type:** Amplifying
+
+**Emotional:**
+- Symbolizes lasting love and commitment
+- Encourages courage and resilience
+- Supports clarity in relationships
+- Brings a sense of inner brilliance and worth
+
+**Mental:**
+- Associated with mental clarity and focus
+- Supports clear, firm decisions
+- Encourages integrity and honesty
+- Helps cut through confusion
+
+**Spiritual:**
+- In Vedic tradition, one of the navaratna, linked to Venus (Shukra)
+- Amplifies intention, as clear crystals do in crystal practice
+- Symbol of purity and the light of the Crown
+- In Banjar tradition, a stone treated with deep respect and taboos at the mine
+
+**Physical:**
+- Associated in crystal practice with strength and vitality
+- Traditionally linked to endurance
+- No medical evidence supports any health use
+- These are traditional beliefs, not medical claims
+
+**Vedic tradition:** Diamond (vajra, heera) is one of the navaratna, the nine gems of Jyotish, linked to Venus (Shukra).
+
+**Tcm use:** No traditional Chinese materia medica use found.
+
+**Five element theory:** Corresponds to Metal (hardness, brilliance and clarity).
+
+**Feng shui bagua:** Love & Relationships (Kun), Fame & Reputation (Li)
+
+**Feng shui placement:** Worn as jewellery rather than placed. Small rough diamonds can sit on a Crown or meditation altar.
+
+**Ancient lore:** Diamond is the April birthstone on the modern list. In South Kalimantan, the largest Cempaka find is the "Intan Trisakti" (166.75 carats, 26 August 1965); a USGS deposit record notes that the largest diamond found in these paleochannel gravels weighed 167 carats.
+
+**Indigenous traditions:** In Banjar tradition at the Cempaka mines, saying "intan" or "berlian" at the panning site is taboo; it is believed to make the diamond go away, so miners say "galuh" instead (Banjarbaru city government). Other taboos reported by RRI include no harsh words, sneezing, hands on hips, whistling or relieving oneself at the site, and choosing a good day to start. Blog sources add substitute words (a snake is called "akar", root) and say entering the pit is called "naik" (go up). Named Cempaka stones include Intan Trisakti, Galuh Cempaka, Puteri Malu and Galuh Pumpung.
+
+**Meditation guidance:** Hold a diamond (or wear a diamond ring) and look into its light. Picture a clear white beam entering the crown of the head and moving down the spine. With each breath, let the light cut through confusion. Set one clear, firm intention and repeat it three times.
+
+**Body placement:** Worn as a ring, pendant or earrings. Crown for meditation.
+
+**Space placement:** Mostly worn, not placed. A rough diamond can sit on a meditation altar.
+
+**Elixir safety:** Safe
+
+**Elixir notes:** Diamond is inert and insoluble. Remove metal settings before making an elixir.
+
+**Jewelry recommendations:** Ideal for daily rings and all jewellery (hardness 10). It has perfect cleavage, so a sharp knock on an edge can still chip or split it.
+
+**Safe cleansing:**
+- Warm soapy water
+- Running water
+- Salt
+- Sunlight
+- Smudging
+- Sound bath
+
+**Unsafe cleansing:**
+- Harsh cleaning of fracture-filled stones
+- Torch heat (burns the surface)
+
+**Charging methods:**
+- Sunlight
+- Full moon
+- Clear quartz cluster
+- Sound frequency 963 Hz
+
+**Storage guidance:** Store separately — diamond scratches all other gems and other diamonds.
+
+**Cautions:** Hard but can chip along cleavage. Lab-grown diamond and moissanite pass basic testers; get a lab report for valuable stones. Ask for Kimberley Process paperwork.
+
+**Toxicity:** Non-toxic (inert carbon).
+
+**Fragility:** Hardest mineral, but perfect octahedral cleavage means a sharp knock can split it.
+
+**Synergies:**
+- Clear Quartz (`clear-quartz`): Both are clear amplifiers. Clear quartz is the accessible companion; diamond adds lasting brilliance and focus.
+- Ruby (`ruby`): Two navaratna gems. Ruby brings passion and vitality; diamond brings clarity and commitment.
+- Emerald (`emerald`): Two classic precious gems of love. Emerald brings heart-centred loyalty; diamond adds strength and permanence.
+
+**Conflicts:** none
+
+**Grid role:** Centre amplifier in clarity and commitment grids
+
+---
+
+## Topaz
+
+**Id:** `topaz`
+
+**Alt names:** Imperial Topaz, Precious Topaz, Sherry Topaz, Blue Topaz, Topas
+
+**Mineral family:** Nesosilicate
+
+**Chemical formula:** Al₂SiO₄(F,OH)₂
+
+**Crystal system:** Orthorhombic
+
+**Mohs hardness:** 8
+
+**Luster:** Vitreous
+
+**Transparency:** Transparent to translucent
+
+**Color range:** Colourless, yellow, sherry, orange, pink, red and light blue. Strong blue is almost always irradiated. Imperial topaz is orange-yellow to reddish-orange.
+
+**Origins:** Brazil (Ouro Preto, Minas Gerais — imperial topaz), Indonesia (non-commercial, in Cempaka diamond gravels), Worldwide
+
+**Rarity:** Common
+
+**Ethical sourcing:** Most blue topaz is colourless topaz irradiated in reactors or accelerators, then held back until the radioactivity falls (one patent says 4–12 months). In the USA, the first sale of neutron-irradiated gems needs an NRC licence; the NRC says wearing legally sold irradiated gems is not harmful (dose at the highest allowed level is about 0.03 millirem per year). The NRC knows of some stones sold without the required licence between 2002 and 2007. No labour data was found for Ouro Preto. Natural imperial topaz is rare; blue and colourless topaz are common.
+
+**Simulant warnings:** Assume blue topaz is treated unless a lab says otherwise. "Mystic" topaz is colourless topaz with a thin metal-oxide coating that GIA says is "not very durable"; look for worn facet edges and scratches. Pink topaz is often heated imperial topaz (lab only). Citrine and smoky quartz have been sold as "Madeira topaz" or "smoky topaz"; topaz is much heavier (SG about 3.5 vs 2.65 for quartz).
+
+**Short intention:** Shine with warm, generous confidence
+
+**Intention:** Joy & Abundance
+
+**Chakras:** Solar Plexus, Throat
+
+**Element:** Fire
+
+**Planet:** Jupiter
+
+**Day of week:** Thursday
+
+**Zodiac:** Sagittarius, Scorpio
+
+**Numerology:** 4
+
+**Polarity:** Yang
+
+**Solfeggio frequency:** 528 Hz
+
+**Energy type:** Activating
+
+**Emotional:**
+- Brings warmth, generosity and joy (golden topaz)
+- Calms and soothes (blue topaz)
+- Supports self-confidence
+- Encourages optimism
+
+**Mental:**
+- Supports clear goals and planning
+- Encourages generous, open communication (blue)
+- Helps focus energy where it is needed
+- Associated with success and recognition
+
+**Spiritual:**
+- In modern Indian practice, yellow topaz is used as a substitute for yellow sapphire (Jupiter)
+- Golden topaz links to the Solar Plexus; blue topaz to the Throat
+- A November birthstone of warmth and light
+- Associated in crystal practice with manifestation
+
+**Physical:**
+- Associated in crystal practice with vitality
+- Traditionally linked to digestion (golden topaz)
+- No medical evidence supports any health use
+- These are metaphysical beliefs, not medical claims
+
+**Vedic tradition:** In modern Indian gem practice, yellow topaz (sunela) is used as an upratna (substitute) for yellow sapphire (pukhraj), the gem of Jupiter. No classical text source was found.
+
+**Tcm use:** No traditional Chinese materia medica use found.
+
+**Five element theory:** Golden topaz corresponds to Fire and Earth; blue topaz to Water.
+
+**Feng shui bagua:** Wealth & Prosperity (Xun), Fame & Reputation (Li)
+
+**Feng shui placement:** Southeast for prosperity. Keep golden and imperial topaz out of direct sun to prevent fading.
+
+**Ancient lore:** Topaz is the November birthstone, and blue topaz is a modern December stone. Imperial topaz has been mined near Ouro Preto, Brazil, since the early 1800s (Capão mine). Heating Ouro Preto topaz above about 450 °C fades its orange-red colour, which is how much pink topaz is made.
+
+**Indigenous traditions:** No documented folk traditions were found. In Indonesia, topaz appears as a waste mineral in the Cempaka diamond gravels and in batu akik lists as "batu topas".
+
+**Meditation guidance:** Hold golden topaz at the solar plexus and picture warm sunlight spreading through the body. Breathe in confidence; breathe out doubt. For calm speech, use blue topaz at the throat instead and picture clear blue water.
+
+**Body placement:** Solar plexus (golden); throat (blue); worn as rings, pendants and earrings.
+
+**Space placement:** Desk or office for success. Out of direct sunlight.
+
+**Elixir safety:** Generally Safe
+
+**Elixir notes:** Natural, uncoated topaz is generally safe; the indirect method is preferred. Use the indirect method only for coated ("mystic") topaz, because water and abrasion damage the coating.
+
+**Jewelry recommendations:** Good for rings and all jewellery (hardness 8), but it has perfect cleavage and "poor" toughness (GIA), so protect it from hard knocks. Avoid steam and ultrasonic cleaners.
+
+**Safe cleansing:**
+- Warm soapy water
+- Moonlight
+- Sound bath
+- Smudging
+
+**Unsafe cleansing:**
+- Steam or ultrasonic cleaners
+- Sun charging of yellow, brown or imperial topaz (fades)
+- Heat or sudden temperature change (can break)
+- Salt or abrasives on coated topaz
+
+**Charging methods:**
+- Moonlight
+- Sound frequency 528 Hz
+- Citrine nearby
+- Visualization of golden light
+
+**Storage guidance:** Store in a soft pouch away from harder stones and out of light. Protect from knocks because of cleavage.
+
+**Cautions:** Perfect cleavage — avoid knocks. Yellow-brown topaz can fade in sun or heat. Most blue topaz is irradiated; buy from sellers who follow licensing rules.
+
+**Toxicity:** Non-toxic. Contains fluorine bound in the crystal; no practical hazard.
+
+**Fragility:** Hard (8) but perfect basal cleavage and poor toughness.
+
+**Synergies:**
+- Citrine (`citrine`): Both are golden stones of abundance. Citrine attracts; golden topaz radiates generosity and success.
+- Sapphire (`sapphire`): Yellow topaz is the Vedic substitute for yellow sapphire. Together they honour Jupiter's wisdom and expansion.
+- Aquamarine (`aquamarine`): Blue topaz and aquamarine both calm the Throat and support clear, gentle speech.
+
+**Conflicts:** none
+
+**Grid role:** Abundance and success stone in prosperity grids
+
+---
+
+## Bloodstone
+
+**Id:** `bloodstone`
+
+**Alt names:** Heliotrope, Stone of Babylon, Plasma (no red spots)
+
+**Mineral family:** Chalcedony / jasper (microcrystalline quartz)
+
+**Chemical formula:** SiO₂
+
+**Crystal system:** Trigonal (microcrystalline)
+
+**Mohs hardness:** 6.5
+
+**Luster:** Vitreous to waxy
+
+**Transparency:** Translucent to opaque
+
+**Color range:** Dark green with red (sometimes yellow) spots. Pliny: "leek-green in colour, but … marked with blood-red streaks".
+
+**Origins:** India (Deccan Traps), Historically Ethiopia, Africa and Cyprus (Pliny)
+
+**Rarity:** Common
+
+**Ethical sourcing:** No sourcing issues were found. Modern supply is mostly from India. "African bloodstone" (setonite) and "Dragon's Blood" (jasper with epidote) are different rocks sold under similar names.
+
+**Simulant warnings:** No source was found on dyed bloodstone. A gem lab identifies it by refractive index (about 1.53–1.54) and specific gravity (about 2.6). Red-spotted green Klawing jasper from Purbalingga, Java, is sometimes sold as bloodstone.
+
+**Short intention:** Courage of the heart, strength of the blood
+
+**Intention:** Courage & Vitality
+
+**Chakras:** Root, Heart
+
+**Element:** Earth
+
+**Planet:** Mars
+
+**Day of week:** Tuesday
+
+**Zodiac:** Aries, Pisces
+
+**Numerology:** 4
+
+**Polarity:** Yang
+
+**Solfeggio frequency:** 396 Hz
+
+**Energy type:** Grounding
+
+**Emotional:**
+- Encourages courage and determination
+- Helps stay calm and grounded in a crisis
+- Supports selflessness and kindness
+- Reduces irritability and impatience
+
+**Mental:**
+- Supports clear decisions under pressure
+- Encourages adaptability
+- Helps focus on practical solutions
+- Supports persistence
+
+**Spiritual:**
+- An ancient stone of the sun and of protection
+- Links the Root (strength) with the Heart (compassion)
+- In Pliny's time, the Magi claimed it could make the wearer invisible
+- Associated in modern practice with courage and sacrifice
+
+**Physical:**
+- Modern blogs claim it stops bleeding or purifies blood — these claims have no medical support
+- Associated in crystal practice with vitality and stamina
+- Traditionally linked to the blood because of its red spots
+- These are traditional beliefs, not medical claims
+
+**Vedic tradition:** No classical Jyotish basis found.
+
+**Tcm use:** No traditional Chinese materia medica use found.
+
+**Five element theory:** Corresponds to Wood (green) with Fire (red spots).
+
+**Feng shui bagua:** Family & Health (Zhen), Fame & Reputation (Li)
+
+**Feng shui placement:** East area for family and health. Carried in a pocket for courage.
+
+**Ancient lore:** Pliny the Elder (Natural History 37.165) describes heliotrope as "leek-green … marked with blood-red streaks". Dropped in water in sunlight, it was said to turn the light blood-red; out of water it showed solar eclipses. Pliny called the Magi's claim that the stone, the heliotrope plant and prayers make the wearer invisible "quite the most blatant instance of effrontery". Albertus Magnus called it the "stone of Babylon", and it appears as an invisibility stone in Boccaccio's Decameron. A Christian legend says it formed when Christ's blood fell on green jasper, but no primary source for this was found. Bloodstone is the traditional March birthstone.
+
+**Indigenous traditions:** No documented regional traditions were found.
+
+**Meditation guidance:** Hold bloodstone in your dominant hand. Picture deep green roots growing from your feet into the earth, with red sparks of courage rising up into the heart. Breathe steadily. Name the challenge you face and say: "I meet this with courage and kindness."
+
+**Body placement:** Root for grounding; heart for courage; carried in a pocket.
+
+**Space placement:** Entrance or east area of the home. Desk during stressful work.
+
+**Elixir safety:** Generally Safe
+
+**Elixir notes:** Silica, insoluble. Use the indirect method for dyed or resin-treated pieces.
+
+**Jewelry recommendations:** Tough with no cleavage — good for rings, signet stones, beads and pendants.
+
+**Safe cleansing:**
+- Running water
+- Smudging
+- Sound bath
+- Moonlight
+- Earth burial
+
+**Unsafe cleansing:**
+- Long salt soaks (can dull the polish)
+- Harsh heat or thermal shock
+
+**Charging methods:**
+- Sunlight (heliotrope means "sun-turner")
+- Earth contact
+- Sound frequency 396 Hz
+- Hematite nearby
+
+**Storage guidance:** Durable. Store with stones of similar hardness.
+
+**Cautions:** Health claims (stopping bleeding, purifying blood) have no medical support. Several different rocks are sold as "bloodstone".
+
+**Toxicity:** Non-toxic. Silica dust only when cutting.
+
+**Fragility:** Low — tough, no cleavage.
+
+**Synergies:**
+- Hematite (`hematite`): Both are traditional "blood" stones of the Root. Hematite grounds; bloodstone adds courage and heart.
+- Klawing Jasper (`klawing-jasper`): Red-spotted green Klawing jasper resembles bloodstone. Together they ground and protect.
+- Carnelian (`carnelian`): Both bring courage. Carnelian fires up action; bloodstone keeps it grounded and kind.
+
+**Conflicts:** none
+
+**Grid role:** Courage and protection stone in Root and Heart grids
+
+---
+
+## Tanzanite
+
+**Id:** `tanzanite`
+
+**Alt names:** Blue Zoisite
+
+**Mineral family:** Zoisite (sorosilicate, epidote group)
+
+**Chemical formula:** Ca₂Al₃(SiO₄)(Si₂O₇)O(OH)
+
+**Crystal system:** Orthorhombic
+
+**Mohs hardness:** 6.5
+
+**Luster:** Vitreous
+
+**Transparency:** Transparent
+
+**Color range:** Blue to violet; strongly pleochroic (shows blue, violet and reddish tones from different angles). Rough is usually brownish before heating.
+
+**Origins:** Tanzania only (Merelani / Mirerani Hills, Simanjiro District, Manyara Region)
+
+**Rarity:** Rare
+
+**Ethical sourcing:** Tanzanite comes from one small area. About 40% of production was reported lost to smuggling before Tanzania built a wall (about 24 km) around the mines, opened in April 2018. Royalty compliance by small-scale miners has been very low. On 28 March 2008 heavy rain flooded the Block B pits and tunnels, killing at least 57 miners according to JCK (at least 65 according to a later occupational-injury paper). Tanzania now requires mined tanzanite to pass through the Tanzanite Exchange Centre.
+
+**Simulant warnings:** Nearly all tanzanite is heated at low temperature to remove brown; this is standard, stable and often not disclosed. Coating is rare but exists (look for iridescence and worn facet edges). Synthetic forsterite ("Tanzanion") is the main imitation and shows strong doubling of back facets; tanzanite has RI 1.691–1.704 and SG 3.30. Glass, YAG and cubic zirconia show no pleochroism. There is no commercial lab-grown tanzanite. Home check: tilt the stone and look for the colour change between blue, violet and reddish.
+
+**Short intention:** Speak the truth the heart already knows
+
+**Intention:** Intuition & Truthful Expression
+
+**Chakras:** Third Eye, Throat, Crown
+
+**Element:** Air
+
+**Planet:** Neptune
+
+**Day of week:** Monday
+
+**Zodiac:** Sagittarius, Gemini, Libra
+
+**Numerology:** 2
+
+**Polarity:** Yin
+
+**Solfeggio frequency:** 852 Hz
+
+**Energy type:** Calming
+
+**Emotional:**
+- Calms an overactive mind and emotional stress
+- Encourages compassion
+- Supports a gentle transition through change
+- Helps express deep feelings
+
+**Mental:**
+- Supports clear communication of intuitive insights
+- Encourages thoughtful speech
+- Helps align thoughts with values
+- Supports study of spiritual subjects
+
+**Spiritual:**
+- Links the Third Eye, Throat and Crown
+- Associated in modern crystal practice with spiritual awakening
+- A December birthstone (added by AGTA in 2002)
+- Supports meditation and visionary work
+
+**Physical:**
+- Associated in crystal practice with calm and restful sleep
+- Traditionally linked to the throat and head
+- No medical evidence supports any health use
+- These are metaphysical beliefs, not medical claims
+
+**Vedic tradition:** No classical basis (tanzanite was discovered in 1967).
+
+**Tcm use:** No traditional Chinese materia medica use found.
+
+**Five element theory:** Corresponds to Water (blue-violet calm) and Metal (clarity).
+
+**Feng shui bagua:** Knowledge & Wisdom (Gen), Career & Life Path (Kan)
+
+**Feng shui placement:** Meditation room or study. Northeast for knowledge.
+
+**Ancient lore:** Tanzanite has no ancient lore; it was discovered in 1967 in the Merelani Hills of Tanzania. Credit for the find is disputed between Jumanne Mhero Ngoma and a Maasai herder. In October 2002, AGTA added tanzanite to the list of December birthstones.
+
+**Indigenous traditions:** No documented folklore was found.
+
+**Meditation guidance:** Hold tanzanite at the third eye, then at the throat. Picture violet-blue light connecting what you sense inside with what you say aloud. Breathe slowly. Ask one honest question and wait quietly for an answer.
+
+**Body placement:** Third eye for intuition; throat for truthful speech; worn as earrings or a pendant.
+
+**Space placement:** Meditation room or quiet study.
+
+**Elixir safety:** Generally Safe
+
+**Elixir notes:** Use the indirect method, because tanzanite has perfect cleavage and some stones are coated.
+
+**Jewelry recommendations:** Best in pendants and earrings, or rings with protective settings. Hardness 6–7 with perfect cleavage and fair to poor toughness, so avoid daily hard wear. No ultrasonic or steam cleaning.
+
+**Safe cleansing:**
+- Warm soapy water
+- Moonlight
+- Smudging
+- Sound bath
+
+**Unsafe cleansing:**
+- Ultrasonic or steam cleaners
+- Salt scrubs
+- Heat and thermal shock (can crack along cleavage)
+
+**Charging methods:**
+- Moonlight
+- Sound frequency 852 Hz
+- Amethyst cluster nearby
+
+**Storage guidance:** Store in a soft pouch away from harder stones. Protect from knocks.
+
+**Cautions:** Perfect cleavage — avoid knocks, heat and ultrasonic cleaning. Synthetic forsterite is sold as tanzanite.
+
+**Toxicity:** Non-toxic.
+
+**Fragility:** Moderately fragile — perfect cleavage, fair to poor toughness.
+
+**Synergies:**
+- Amethyst (`amethyst`): Both are violet stones of the Third Eye and Crown. Amethyst calms; tanzanite helps voice what intuition shows.
+- Iolite (`iolite`): Both are strongly pleochroic blue-violet gems of vision. Iolite guides inner journeys; tanzanite helps express them.
+- Sapphire (`sapphire`): Two deep blue gems of wisdom. Sapphire brings discipline; tanzanite brings gentle intuition.
+
+**Conflicts:** none
+
+**Grid role:** Third Eye–Throat bridge in intuition and expression grids
+
+---
+
+## Ammolite
+
+**Id:** `ammolite`
+
+**Alt names:** Gem Ammonite, Calcentine, Korite, Aapoak, Iniskim (Buffalo Stone)
+
+**Mineral family:** Organic — aragonite nacre from fossil ammonite shells
+
+**Chemical formula:** CaCO₃ (aragonite)
+
+**Crystal system:** Organic (aragonite is orthorhombic)
+
+**Mohs hardness:** 3.5–4.5
+
+**Luster:** Vitreous to pearly; iridescent
+
+**Transparency:** Opaque
+
+**Color range:** Play of colour in red, orange, green, blue and violet
+
+**Origins:** Canada (southern Alberta — Bearpaw Formation, along the St. Mary River)
+
+**Rarity:** Rare
+
+**Ethical sourcing:** Gem ammolite is found only in southern Alberta, Canada. Two main companies mine it (Korite and Aurora Ammolite Mine); Korite claims 90–95% of production or reserves. Indigenous-owned mining also exists (Buffalo Rock Mining). Alberta's Historical Resources Act protects fossils: excavation needs a permit and sale needs a Disposition Certificate through the Royal Tyrrell Museum (details from a retailer blog; the act was not read). No land-use or labour studies were found.
+
+**Simulant warnings:** Almost all jewellery ammolite is treated or assembled: the University of Alberta says it "must be stabilized with epoxy, and is often capped with quartz". Doublets (ammolite on a backing) and triplets (with a quartz or spinel cap) are standard; look at the side edge for layers and a glue line. Marcel Charbonneau began making quartz-capped doublets in 1967. No source was found on imitations made from opal, shell, foil-backed glass or plastic.
+
+**Short intention:** Carry ancient wisdom into new prosperity
+
+**Intention:** Prosperity & Transformation
+
+**Chakras:** Root, Solar Plexus, Crown
+
+**Element:** Water
+
+**Planet:** Jupiter
+
+**Day of week:** Thursday
+
+**Zodiac:** Virgo, Capricorn
+
+**Numerology:** 9
+
+**Polarity:** Yin
+
+**Solfeggio frequency:** 528 Hz
+
+**Energy type:** Grounding
+
+**Emotional:**
+- Encourages patience and perspective through deep time
+- Supports resilience during change
+- Brings a sense of continuity and belonging
+- Lifts the mood with its vivid colours
+
+**Mental:**
+- Associated in modern feng shui with prosperity and success
+- Supports long-term planning
+- Encourages creative problem-solving
+- Helps see patterns in life
+
+**Spiritual:**
+- Sacred to the Blackfoot (Niitsitapi) as iniskim, "buffalo calling stones"
+- A spiral form linked to growth and evolution
+- Connects the wearer to the ancient sea and to ancestors
+- Respect its cultural meaning to Plains First Nations
+
+**Physical:**
+- Associated in crystal practice with vitality and longevity
+- Traditionally used by the Blackfoot as a medicine object
+- No medical evidence supports any health use
+- These are traditional and metaphysical beliefs, not medical claims
+
+**Vedic tradition:** No classical basis.
+
+**Tcm use:** No traditional Chinese materia medica use found.
+
+**Five element theory:** Corresponds to Water (ancient sea origin) and Earth (fossil).
+
+**Feng shui bagua:** Wealth & Prosperity (Xun)
+
+**Feng shui placement:** The University of Alberta notes that ammolite "is used in the practice of feng shui" (a modern practice). Place in the southeast for prosperity, away from sun, heat and moisture.
+
+**Ancient lore:** Plains First Nations have collected ammonite shells for about a thousand years (Province of Alberta). CIBJO recognised ammolite as a gemstone in 1981. Alberta named ammolite its official gemstone in 2022 (Bill 6, the Emblems of Alberta Amendment Act); some sources give 2004, but the province said in 2022 that no official gemstone was yet recognised.
+
+**Indigenous traditions:** For the Blackfoot (Niitsitapi), pieces of ammonite shell are iniskim, "buffalo calling stones", used in hunting rituals and as medicine objects (University of Alberta). The Royal Ontario Museum holds iniskim buffalo stones and a pouch that belonged to Charlie Crow Eagle (Blackfoot, Peigan), c. 1890–1940, covered with red ochre and used on an altar in ceremony. The Kainah (Blood) name "aapoak" means "small, crawling stone". Blackfoot communities still collect these stones for sacred purposes.
+
+**Meditation guidance:** Hold ammolite and follow its colours with your eyes. Remember that it was a living sea creature some 70 million years ago. Breathe slowly and picture your own life as one turn of a long spiral. Ask what you are ready to grow into next.
+
+**Body placement:** Solar plexus for confidence; worn as a pendant (protected setting).
+
+**Space placement:** Southeast area for prosperity; office or shop. Away from sun, heat and moisture.
+
+**Elixir safety:** Avoid
+
+**Elixir notes:** Do not use for elixirs. Aragonite dissolves in acids, and doublets and triplets are held together with glue.
+
+**Jewelry recommendations:** Best in pendants and earrings with protective settings. The layer is thin and brittle, and most pieces are doublets or triplets, so avoid rings and bracelets that take knocks. Remove before washing or swimming.
+
+**Safe cleansing:**
+- Damp soft cloth
+- Smudging
+- Sound bath
+- Moonlight
+
+**Unsafe cleansing:**
+- Soaking (lifts the glue on doublets and triplets)
+- Salt
+- Acids such as lemon or vinegar
+- Ultrasonic or steam cleaners
+- Heat
+
+**Charging methods:**
+- Moonlight
+- Sound frequency 528 Hz
+- Placing near a plant or water feature (not in water)
+
+**Storage guidance:** Store flat in a soft pouch, away from harder stones, heat and moisture.
+
+**Cautions:** Brittle and usually assembled with glue. Keep away from water, acids and heat. Respect its sacred meaning to Blackfoot and other Plains First Nations.
+
+**Toxicity:** Non-toxic.
+
+**Fragility:** Very brittle thin layer; flakes easily.
+
+**Synergies:**
+- Opal (`opal`): Both show vivid play of colour. Opal amplifies creativity; ammolite grounds it in ancient wisdom and prosperity.
+- Citrine (`citrine`): Both are used for prosperity. Citrine draws abundance; ammolite supports steady, long-term success.
+- Petrified Wood (`petrified-wood`): Two fossils. Petrified wood carries the ancient forest; ammolite carries the ancient sea.
+
+**Conflicts:** none
+
+**Grid role:** Prosperity centre stone in abundance grids
+
+---
+
+## Chrysoprase
+
+**Id:** `chrysoprase`
+
+**Alt names:** Hijau Garut, Batu Hijau Garut, Garut Ijo, Ohen, Krisopras, Kristopas, Green Chalcedony
+
+**Mineral family:** Chalcedony (nickel-coloured microcrystalline quartz)
+
+**Chemical formula:** SiO₂ with nickel
+
+**Crystal system:** Trigonal (microcrystalline)
+
+**Mohs hardness:** 7
+
+**Luster:** Waxy to vitreous
+
+**Transparency:** Translucent
+
+**Color range:** Apple green, moss green, crystal green and teal ("tosca")
+
+**Origins:** Indonesia (Bungbulang, Garut, West Java — "Hijau Garut"), Australia, Poland, Tanzania
+
+**Rarity:** Uncommon
+
+**Ethical sourcing:** In Garut, West Java, the stone is dug by village residents, and a disused traditional chalcedony mine lies on the Citanggeuleuk River. No labour or environmental study was found. "Hijau Garut" is a regional trade name: the West Java provincial museum (Museum Negeri Sri Baduga) and a UGM Press textbook identify it as chrysoprase, with green colour from nickel, but no published lab test (XRF, XRD or Raman) confirms this.
+
+**Simulant warnings:** Dyed green chalcedony is the main fake: an Indonesian dealer notes colour concentrated at the surface. Glass and plastic look "too perfect", with no fibres. Imported green chalcedony may be sold as "Garut". Home check: look for colour pooling in cracks under a loupe. Lab: XRF to detect nickel; RI about 1.53–1.54. "Lemon chrysoprase" is a trade name for magnesite. Do not confuse Hijau Garut with Bungbulang pancawarna (multicolour) jasper.
+
+**Short intention:** Grow a fresh, forgiving heart
+
+**Intention:** Heart Renewal & Hope
+
+**Chakras:** Heart
+
+**Element:** Earth
+
+**Planet:** Venus
+
+**Day of week:** Friday
+
+**Zodiac:** Libra, Taurus, Gemini
+
+**Numerology:** 3
+
+**Polarity:** Yin
+
+**Solfeggio frequency:** 639 Hz
+
+**Energy type:** Calming
+
+**Emotional:**
+- Encourages forgiveness and compassion
+- Lifts sadness and brings hope
+- Supports emotional renewal after hurt
+- Encourages joy in small things
+
+**Mental:**
+- Calms anxious thoughts
+- Supports a fresh perspective
+- Encourages acceptance of self and others
+- Helps break negative thought loops
+
+**Spiritual:**
+- A Heart chakra stone of renewal and growth
+- In Garut, believed to be a "therapeutic tool" and "body energy transmitter" (Universitas Garut study)
+- Connects the wearer to nature and new growth
+- Supports gentle, heart-led spiritual practice
+
+**Physical:**
+- Regional belief in Garut holds that the stone has therapeutic value (modern belief)
+- Associated in crystal practice with calm and rest
+- No medical evidence supports any health use
+- These are folk and metaphysical beliefs, not medical claims
+
+**Vedic tradition:** No classical basis.
+
+**Tcm use:** No traditional Chinese materia medica use found.
+
+**Five element theory:** Corresponds to Wood (fresh green growth).
+
+**Feng shui bagua:** Family & Health (Zhen), Wealth & Prosperity (Xun)
+
+**Feng shui placement:** East area for health and family. Keep out of strong direct sun, which can fade chrysoprase.
+
+**Ancient lore:** No ancient lore was found for Hijau Garut. The top grade, "Ohen" (Ijo Ohen), is named after Aki Ohen, a Bungbulang farmer who found it while hoeing his rice field (detik.com). Interest peaked during Indonesia's batu akik boom of 2013–2016.
+
+**Indigenous traditions:** In Garut, a Universitas Garut study reports beliefs that Garut stones work as a "therapeutic tool" and "body energy transmitter", and "batu akik garut ijo" is singled out as believed in. It is one of West Java's best-known regional stones.
+
+**Meditation guidance:** Hold chrysoprase over the heart. Picture fresh green leaves opening in spring. Breathe in hope; breathe out an old hurt. Name one person — perhaps yourself — you are ready to forgive, and let the green light soften the memory.
+
+**Body placement:** Heart for renewal and forgiveness; worn as a ring (the traditional Indonesian way) or pendant.
+
+**Space placement:** Bedroom or living room in the east of the home. Out of strong sunlight.
+
+**Elixir safety:** Generally Safe
+
+**Elixir notes:** Undyed chrysoprase is generally safe (silica). Use the indirect method if the stone might be dyed.
+
+**Jewelry recommendations:** Tough and hard (7) with no cleavage — excellent for rings, the classic Indonesian akik setting. Keep out of long sun exposure to protect the colour.
+
+**Safe cleansing:**
+- Running water
+- Smudging
+- Sound bath
+- Moonlight
+
+**Unsafe cleansing:**
+- Long sun charging (colour may fade)
+- Heat
+- Long salt soaks (can dull the polish)
+
+**Charging methods:**
+- Moonlight
+- Among green plants
+- Sound frequency 639 Hz
+- Rose quartz nearby
+
+**Storage guidance:** Store away from strong light and heat. Durable; store with stones of similar hardness.
+
+**Cautions:** Colour may fade in strong sun or heat. Dyed chalcedony and imports are sold as Hijau Garut; the nickel identification has no published lab test.
+
+**Toxicity:** Non-toxic. Nickel is bound in the silica.
+
+**Fragility:** Low — tough, no cleavage.
+
+**Synergies:**
+- Rose Quartz (`rose-quartz`): Both are gentle Heart stones. Rose quartz opens to love; chrysoprase brings forgiveness and renewal.
+- Bacan (`bacan`): Two famous Indonesian akik stones. Bacan calms speech; Hijau Garut renews the heart.
+- Green Aventurine (`green-aventurine`): Both are green Heart stones. Aventurine invites opportunity; chrysoprase brings hope and forgiveness.
+
+**Conflicts:** none
+
+**Grid role:** Heart renewal stone in love and forgiveness grids
