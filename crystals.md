@@ -1,6 +1,6 @@
 # Crystal Sage: crystal database
 
-67 crystals, generated from data/crystals.js. Filter fields, emoji and colors are left out.
+75 crystals, generated from data/crystals.js. Filter fields, emoji and colors are left out.
 
 ## Contents
 
@@ -71,6 +71,14 @@
 65. Tanzanite (`tanzanite`)
 66. Ammolite (`ammolite`)
 67. Chrysoprase (`chrysoprase`)
+68. Apophyllite (`apophyllite`)
+69. Ocean Jasper (`ocean-jasper`)
+70. Moss Agate (`moss-agate`)
+71. Howlite (`howlite`)
+72. Rutilated Quartz (`rutilated-quartz`)
+73. Aragonite (`aragonite`)
+74. Ametrine (`ametrine`)
+75. Pink Tourmaline (`pink-tourmaline`)
 
 ---
 
@@ -9307,29 +9315,29 @@
 
 **Id:** `chrysoprase`
 
-**Alt names:** Hijau Garut, Batu Hijau Garut, Garut Ijo, Ohen, Krisopras, Kristopas, Green Chalcedony
+**Alt names:** Hijau Garut, Batu Hijau Garut, Garut Ijo, Ohen, Batu Ohen, Akik Bawang, Akik Garut, Krisopras, Kristopas, Krisopas Hijau, Manik Ringin, Chrysoprasus, Green Chalcedony
 
 **Mineral family:** Chalcedony (nickel-coloured microcrystalline quartz)
 
-**Chemical formula:** SiO₂ with nickel
+**Chemical formula:** SiO₂ with nickel compounds as tiny colloidal particles
 
 **Crystal system:** Trigonal (microcrystalline)
 
-**Mohs hardness:** 7
+**Mohs hardness:** 6.5–7
 
 **Luster:** Waxy to vitreous
 
 **Transparency:** Translucent
 
-**Color range:** Apple green, moss green, crystal green and teal ("tosca")
+**Color range:** Apple green; more yellowish green with a little Fe³⁺ (GIA). Indonesian trade also names moss green, crystal green and teal ("tosca")
 
-**Origins:** Indonesia (Bungbulang, Garut, West Java — "Hijau Garut"), Australia, Poland, Tanzania
+**Origins:** Indonesia (Bungbulang, Garut, West Java — "Hijau Garut"), Australia (Marlborough, Queensland; Eastern Goldfields, Western Australia), Tanzania (Haneti, central Tanzania), Poland
 
 **Rarity:** Uncommon
 
-**Ethical sourcing:** In Garut, West Java, the stone is dug by village residents, and a disused traditional chalcedony mine lies on the Citanggeuleuk River. No labour or environmental study was found. "Hijau Garut" is a regional trade name: the West Java provincial museum (Museum Negeri Sri Baduga) and a UGM Press textbook identify it as chrysoprase, with green colour from nickel, but no published lab test (XRF, XRD or Raman) confirms this.
+**Ethical sourcing:** In Garut, West Java, the stone is dug by village residents, and a disused traditional chalcedony mine lies on the Citanggeuleuk River. No labour or environmental study was found. "Hijau Garut" is a regional trade name: the West Java provincial museum (Museum Negeri Sri Baduga) labels a Bungbulang specimen "Chrysoprase Chalcedony", and a UGM Press textbook identifies it as chrysoprase with green colour from nickel, but no published lab test (XRF, XRD or Raman) confirms this. A Palpres news item calls Garut stones only "diduga" (suspected) chrysoprase, so do not treat all Garut green stone as chrysoprase. Australian chrysoprase forms in nickel laterite (Gemmological Association of Australia). GIA calls chrysoprase the "most prized" chalcedony (quoting Webster 1994).
 
-**Simulant warnings:** Dyed green chalcedony is the main fake: an Indonesian dealer notes colour concentrated at the surface. Glass and plastic look "too perfect", with no fibres. Imported green chalcedony may be sold as "Garut". Home check: look for colour pooling in cracks under a loupe. Lab: XRF to detect nickel; RI about 1.53–1.54. "Lemon chrysoprase" is a trade name for magnesite. Do not confuse Hijau Garut with Bungbulang pancawarna (multicolour) jasper.
+**Simulant warnings:** Dyed green chalcedony or agate is the main fake: an Indonesian dealer notes colour concentrated at the surface. Glass and plastic look "too perfect", with no fibres. Imported green chalcedony may be sold as "Garut". Home check: look for colour pooling in cracks under a loupe; an acetone swab may pick up dye (no lab source). Lab: EDXRF to confirm nickel, Raman; RI about 1.53–1.54. Look-alikes that are NOT chrysoprase: "lemon chrysoprase" (nickel-bearing magnesite — softer, and the carbonate reacts with acid; GAA, GIA), prase opal (nickel-bearing common opal; GIA), chrome chalcedony or "mtorolite" from Zimbabwe (coloured by chromium), prehnite, and "Batu Sungai Dareh" (idocrase/vesuvianite). "Australian jade" is a misleading trade name. Do not confuse Hijau Garut with Bungbulang pancawarna (multicolour) jasper.
 
 **Short intention:** Grow a fresh, forgiving heart
 
@@ -9387,9 +9395,9 @@
 
 **Feng shui placement:** East area for health and family. Keep out of strong direct sun, which can fade chrysoprase.
 
-**Ancient lore:** No ancient lore was found for Hijau Garut. The top grade, "Ohen" (Ijo Ohen), is named after Aki Ohen, a Bungbulang farmer who found it while hoeing his rice field (detik.com). Interest peaked during Indonesia's batu akik boom of 2013–2016.
+**Ancient lore:** Named as the tenth foundation stone of the New Jerusalem in Revelation 21:20 (Greek "khrusoprasos"; "krisopras" in the Indonesian LAI-TB Bible). A retailer claims chrysoprase was found at a 7,000-year-old site in present-day Pakistan, and a news item calls it a favourite of Alexander the Great; neither has a scholarly source. No ancient lore was found for Hijau Garut. The top grade, "Ohen" (Ijo Ohen), is named after Aki Ohen, a Bungbulang farmer who found it while hoeing his rice field (detik.com). Interest peaked during Indonesia's batu akik boom of 2013–2016.
 
-**Indigenous traditions:** In Garut, a Universitas Garut study reports beliefs that Garut stones work as a "therapeutic tool" and "body energy transmitter", and "batu akik garut ijo" is singled out as believed in. It is one of West Java's best-known regional stones.
+**Indigenous traditions:** In Garut, a Universitas Garut study reports beliefs that Garut stones work as a "therapeutic tool" and "body energy transmitter", and "batu akik garut ijo" is singled out as believed in. "Akik bawang" is valued for its glow when lit from below with a torch (Pusakapusaka blog). It is one of West Java's best-known regional stones.
 
 **Meditation guidance:** Hold chrysoprase over the heart. Picture fresh green leaves opening in spring. Breathe in hope; breathe out an old hurt. Name one person — perhaps yourself — you are ready to forgive, and let the green light soften the memory.
 
@@ -9397,11 +9405,11 @@
 
 **Space placement:** Bedroom or living room in the east of the home. Out of strong sunlight.
 
-**Elixir safety:** Generally Safe
+**Elixir safety:** Indirect
 
-**Elixir notes:** Undyed chrysoprase is generally safe (silica). Use the indirect method if the stone might be dyed.
+**Elixir notes:** Use the indirect method only. Chrysoprase contains nickel compounds (GIA), and nickel is the most common contact allergen: about 17.5% of patients patch-tested in North America were nickel-sensitive (NIH StatPearls). A seller also advises not to drink water the stone has soaked in. Dyed stones may also leach dye.
 
-**Jewelry recommendations:** Tough and hard (7) with no cleavage — excellent for rings, the classic Indonesian akik setting. Keep out of long sun exposure to protect the colour.
+**Jewelry recommendations:** Hard (6.5–7) and tough, with no cleavage — excellent for rings, the classic Indonesian akik setting. Keep out of long sun exposure to protect the colour. People with a nickel allergy may prefer a setting where the stone does not rest on the skin.
 
 **Safe cleansing:**
 - Running water
@@ -9410,8 +9418,8 @@
 - Moonlight
 
 **Unsafe cleansing:**
-- Long sun charging (colour may fade)
-- Heat
+- Long sun charging (colour can fade — gemdat)
+- Heat (colour can fade — gemdat)
 - Long salt soaks (can dull the polish)
 
 **Charging methods:**
@@ -9422,9 +9430,9 @@
 
 **Storage guidance:** Store away from strong light and heat. Durable; store with stones of similar hardness.
 
-**Cautions:** Colour may fade in strong sun or heat. Dyed chalcedony and imports are sold as Hijau Garut; the nickel identification has no published lab test.
+**Cautions:** Colour can fade in sunlight and when heated; it may recover under moist storage (gemdat). Contains nickel, a common contact allergen. Dyed chalcedony and imports are sold as Hijau Garut; the nickel identification of Garut stone has no published lab test.
 
-**Toxicity:** Non-toxic. Nickel is bound in the silica.
+**Toxicity:** Contains nickel compounds (GIA). Nickel is the most common contact allergen (17.5% sensitivity in North American patch tests, NIH StatPearls). No other hazard source found.
 
 **Fragility:** Low — tough, no cleavage.
 
@@ -9436,3 +9444,1082 @@
 **Conflicts:** none
 
 **Grid role:** Heart renewal stone in love and forgiveness grids
+
+---
+
+## Apophyllite
+
+**Id:** `apophyllite`
+
+**Alt names:** Fluorapophyllite-(K), Hydroxyapophyllite-(K), Fluorapophyllite-(Na), Apophyllite-(KF), Apophyllite-(KOH), Natroapophyllite
+
+**Mineral family:** Apophyllite group (phyllosilicate) — a group name, not one species
+
+**Chemical formula:** KCa₄(Si₈O₂₀)(F,OH)·8H₂O (fluorapophyllite-(K))
+
+**Crystal system:** Tetragonal (the -(K) species); orthorhombic (fluorapophyllite-(Na))
+
+**Mohs hardness:** 4.5–5
+
+**Luster:** Vitreous; pearly on the cleavage face
+
+**Transparency:** Transparent to translucent
+
+**Color range:** Colourless, white, yellow, green or violet (fluorapophyllite-(K)); brown or yellow (fluorapophyllite-(Na))
+
+**Origins:** India (Poona, Nasik and Bombay districts, Maharashtra — exceptional groups), China, Finland, Germany, Italy, Tajikistan (fluorapophyllite-(Cs))
+
+**Rarity:** Uncommon
+
+**Ethical sourcing:** "Apophyllite" is a group name. The IMA renamed the species in 2013: apophyllite-(KF), -(KOH) and -(NaF) became fluorapophyllite-(K), hydroxyapophyllite-(K) and fluorapophyllite-(Na). A caesium species, fluorapophyllite-(Cs), was described from Tajikistan in 2019. The Handbook of Mineralogy names the Poona, Nasik and Bombay districts of India for exceptional groups; no source gives India's share of production. No labour or environmental source was found. No Indonesian locality was found. Rarity "Uncommon" is a placeholder; no rarity source was found.
+
+**Simulant warnings:** No source was found for specific fakes. Claims that green apophyllite is dyed or coated are not verified. Green is a natural colour of fluorapophyllite-(K) (mindat).
+
+**Short intention:** Clear the mind and open to higher light
+
+**Intention:** Clarity & Spiritual Connection
+
+**Chakras:** Third Eye, Crown
+
+**Element:** Air
+
+**Planet:** Mercury
+
+**Day of week:** Wednesday
+
+**Zodiac:** Gemini, Libra
+
+**Numerology:** 4
+
+**Polarity:** Yin
+
+**Solfeggio frequency:** 963 Hz
+
+**Energy type:** Clarifying
+
+**Emotional:**
+- Associated in crystal practice with releasing stress and worry
+- Encourages honesty with oneself
+- Supports a calm, open mood
+- Helps let go of emotional clutter
+
+**Mental:**
+- Associated with mental clarity
+- Supports reflection and self-study
+- Encourages clear decisions
+- Helps quiet a busy mind before meditation
+
+**Spiritual:**
+- A common modern meditation stone for the Crown and Third Eye
+- Clusters are used to "charge" other stones in modern practice
+- Associated with light and higher awareness
+- Supports quiet, reflective practice
+
+**Physical:**
+- Associated in crystal practice with rest and easy breathing
+- No medical evidence supports any health use
+- Holds water in its structure; keep away from heat
+- These are metaphysical beliefs, not medical claims
+
+**Vedic tradition:** No source found.
+
+**Tcm use:** No source found.
+
+**Five element theory:** Corresponds to Metal (clear, bright, structured crystals). Modern attribution; no source found.
+
+**Feng shui bagua:** Knowledge & Wisdom (Gen)
+
+**Feng shui placement:** Northeast area or a meditation corner. Keep clusters out of hot sun and away from heaters.
+
+**Ancient lore:** No source found.
+
+**Indigenous traditions:** No source found.
+
+**Meditation guidance:** Place an apophyllite pyramid or cluster in front of you. Look into its clear faces for a few breaths, then close your eyes. Picture clear light entering at the top of the head. Let each out-breath carry away one thought until the mind is still.
+
+**Body placement:** Hold or place near the forehead or crown during meditation. Not suited to daily-wear jewellery.
+
+**Space placement:** Meditation altar or desk, out of direct sun and away from heat.
+
+**Elixir safety:** Indirect
+
+**Elixir notes:** Use the indirect method only. The mineral holds 8 H₂O in its structure, contains fluorine, has perfect cleavage and is brittle (Handbook of Mineralogy; mindat). No source was found on a hazard.
+
+**Jewelry recommendations:** Not recommended for rings or bracelets: Mohs 4.5–5 with perfect cleavage, so it splits easily. Use as a pendant only with a protective setting.
+
+**Safe cleansing:**
+- Dry soft brush
+- Sound bath
+- Moonlight (no contact)
+- Visualization
+
+**Unsafe cleansing:**
+- Heat (structural water may be driven off — inferred from the formula, not tested)
+- Salt (abrasive)
+- Ultrasonic cleaners (perfect cleavage)
+
+**Charging methods:**
+- Moonlight
+- Sound frequency 963 Hz
+- Visualization of clear light
+
+**Storage guidance:** Store clusters on a soft base, away from heat and harder stones. Do not stack.
+
+**Cautions:** "Apophyllite" is a group name. Brittle, with perfect cleavage on {001}. Keep away from heat. Many fields have no source yet: Vedic, TCM, lore and metaphysical book attributions were not checked.
+
+**Toxicity:** No hazard source found. Fluorapophyllite contains fluorine in its formula.
+
+**Fragility:** High — perfect cleavage on {001}, imperfect on {110}; brittle (Handbook of Mineralogy).
+
+**Synergies:**
+- Clear Quartz (`clear-quartz`): Both are clear meditation stones. Clear quartz amplifies; apophyllite brings stillness and light.
+- Selenite (`selenite`): Two soft, light-filled stones for the Crown. Keep both dry and use together on a meditation altar.
+- Amethyst (`amethyst`): Amethyst calms the mind; apophyllite opens it to clear light. A common pairing for meditation.
+
+**Conflicts:** none
+
+**Grid role:** Clarity stone at the top of meditation grids
+
+---
+
+## Ocean Jasper
+
+**Id:** `ocean-jasper`
+
+**Alt names:** Orbicular Jasper, Sea Jasper, Marovato Jasper, Kabamby Jasper
+
+**Mineral family:** Trade name — orbicular chalcedony / silicified rhyolite (a rock, not a mineral species)
+
+**Chemical formula:** SiO₂ (chalcedony and quartz, main phase)
+
+**Crystal system:** Trigonal (quartz / chalcedony phase)
+
+**Mohs hardness:** No source found
+
+**Luster:** No source found
+
+**Transparency:** Opaque to translucent; drusy pockets occur
+
+**Color range:** White, pink, green, red or yellow background with round "orbs"
+
+**Origins:** Madagascar (Marovato and Kabamby, Analalava District, Sofia Region — northwest coast)
+
+**Rarity:** Uncommon
+
+**Ethical sourcing:** TRADE NAME; DEALER-SOURCED. Almost every fact in this entry comes from sellers. A Lapidary Journal description (quoted by a retailer, original not checked) says the deposit "formed as a rhyolite flow but has been completely silicified". Sellers name the original coastal deposit at Marovato and a second deposit at Kabamby, about 16 km away and mostly green and yellow. The "8th Vein" (pastel pink, mauve and green orbs) is sold as mined out, and was reportedly "mined from the base of a cliff that is only accessible by boat during low tide" (Etsy listing). Named-vein grades are "Rare" by seller report only. No labour or environmental source was found.
+
+**Simulant warnings:** Sellers say: "Every ocean jasper is an orbicular stone, but not every orbicular jasper is ocean jasper." Other orbicular jaspers, and Kambaba jasper (a different stone), are sold under the name. A buyer cannot verify "8th Vein" or other vein labels. No lab test was found that separates Ocean Jasper from other orbicular jaspers.
+
+**Short intention:** Slow down, breathe, let calm come in like the tide
+
+**Intention:** Calm & Self-Care
+
+**Chakras:** Heart, Solar Plexus
+
+**Element:** Water
+
+**Planet:** Moon
+
+**Day of week:** Monday
+
+**Zodiac:** Capricorn, Cancer
+
+**Numerology:** 2
+
+**Polarity:** Yin
+
+**Solfeggio frequency:** 639 Hz
+
+**Energy type:** Calming
+
+**Emotional:**
+- Modern sellers link it with stillness and calm
+- Encourages patience with oneself
+- Supports a gentle, steady mood
+- Helps release tension at the end of the day
+
+**Mental:**
+- Associated with centering and grounding
+- Supports slow, unhurried thinking
+- Encourages rest from overwork
+- Helps focus during meditation
+
+**Spiritual:**
+- Modern attribution: purification and meditation (retailer)
+- Its orbs are read as cycles and renewal
+- Linked to the sea and the tide in modern practice
+- A newly found stone with no traditional lore
+
+**Physical:**
+- Associated in crystal practice with relaxation
+- Cutting or grinding makes silica dust; do not breathe it
+- No medical evidence supports any health use
+- These are modern metaphysical beliefs, not medical claims
+
+**Vedic tradition:** No source found.
+
+**Tcm use:** No source found.
+
+**Five element theory:** Corresponds to Water (modern attribution, retailer).
+
+**Feng shui bagua:** Family & Health (Zhen)
+
+**Feng shui placement:** Living room or bathroom shelf (dry place) for a calm feeling. Modern attribution; no source found.
+
+**Ancient lore:** None. The stone entered the trade recently. Lapidary Journal (quoted by a retailer) says it was found "after years of unsuccessful searching".
+
+**Indigenous traditions:** No source found.
+
+**Meditation guidance:** Hold ocean jasper in both hands and look at one orb. Breathe in as a wave comes in; breathe out as it goes back. Follow ten slow waves. Let each one carry away a small worry.
+
+**Body placement:** Heart or solar plexus; held in the hand.
+
+**Space placement:** Bedroom, bathroom shelf (dry) or desk.
+
+**Elixir safety:** Generally Safe
+
+**Elixir notes:** Generally safe by composition (silica). This is inferred, not sourced. Drusy pits can trap dirt; use the indirect method for drusy pieces.
+
+**Jewelry recommendations:** Polished cabochons and beads are popular. Sellers report minor cracks, pits and drusy cavities as typical, so check each piece. No hardness source was found.
+
+**Safe cleansing:**
+- Water rinse
+- Soft brush
+- Sound bath
+- Moonlight
+
+**Unsafe cleansing:**
+- Salt (abrades and leaves residue in drusy pits)
+
+**Charging methods:**
+- Moonlight
+- Near the sea or a water feature
+- Sound frequency 639 Hz
+
+**Storage guidance:** Store in a soft pouch. Protect drusy pockets from knocks.
+
+**Cautions:** TRADE NAME; DEALER-SOURCED. "Ocean Jasper" is a trade name for a rock, not a mineral. Nearly every fact here comes from sellers. Vein names and grades cannot be checked. Hardness and luster have no source.
+
+**Toxicity:** No source found. Main phase is silica; cutting dust is a silica dust risk.
+
+**Fragility:** Moderate — sellers report minor cracks, pits and drusy cavities as typical.
+
+**Synergies:**
+- Larimar (`larimar`): Two sea stones for calm. Larimar soothes; ocean jasper brings patience.
+- Green Aventurine (`green-aventurine`): Both are gentle green Heart stones for calm and renewal.
+- Moss Agate (`moss-agate`): Both are patterned chalcedony stones used for grounding and calm.
+
+**Conflicts:** none
+
+**Grid role:** Calming stone at the edge of rest and self-care grids
+
+---
+
+## Moss Agate
+
+**Id:** `moss-agate`
+
+**Alt names:** Akik Lumut, Badar Lumut (disputed), Lumut Suliki, Lumut Trenggalek, Lumut Sawe, Akik Aquarium, Lumut Kalimantan, Green Moss Agate Borneo
+
+**Mineral family:** Chalcedony (microcrystalline quartz) with dendritic inclusions
+
+**Chemical formula:** SiO₂
+
+**Crystal system:** Trigonal (microcrystalline)
+
+**Mohs hardness:** No source found this run
+
+**Luster:** No source found
+
+**Transparency:** Translucent
+
+**Color range:** Colourless to white with green, brown or red moss-like patterns
+
+**Origins:** India, Brazil, Uruguay, Central Europe, United States, Indonesia (Suliki, West Sumatra — seller claim), Indonesia (Trenggalek, East Java — seller claim), Indonesia (Aceh — seller claim), Indonesia (Kalimantan — news claim)
+
+**Rarity:** Common
+
+**Ethical sourcing:** Widely available worldwide and in Indonesian markets. The Indonesian localities (Suliki, Trenggalek, Aceh, Kalimantan) come from sellers and news reports; no geological survey confirms them. No labour or environmental source was found.
+
+**Simulant warnings:** No lab source was found on fakes. It is not a true agate: gemdat notes the name is "generally accepted even though the stone is not banded as a true agate should be". An Indonesian seller says real stone "does not scorch when burned" — this is NOT a safe or reliable test; do not use it. "Lumut Aceh" is also used for idocrase (vesuvianite) from Aceh, so check what a "lumut" stone really is.
+
+**Short intention:** Grow steadily, like moss on stone
+
+**Intention:** Growth & New Beginnings
+
+**Chakras:** Heart, Root
+
+**Element:** Earth
+
+**Planet:** Venus
+
+**Day of week:** Friday
+
+**Zodiac:** Gemini, Virgo
+
+**Numerology:** 1
+
+**Polarity:** Yin
+
+**Solfeggio frequency:** 639 Hz
+
+**Energy type:** Grounding
+
+**Emotional:**
+- Modern attribution: stress release (retailer)
+- Encourages patience during slow change
+- Supports a calm, hopeful mood
+- Connects the wearer to nature
+
+**Mental:**
+- Associated with new beginnings (retailer)
+- Supports steady planning and follow-through
+- Encourages practical thinking
+- Helps reset after a setback
+
+**Spiritual:**
+- In Indonesian folk belief, "Badar Lumut" is said to bring victory to its bearer
+- A modern Heart-chakra stone of growth (retailer)
+- Linked to gardens, plants and the earth
+- Supports grounded spiritual practice
+
+**Physical:**
+- Associated in crystal practice with abundance and grounding
+- No medical evidence supports any health use
+- Silica host; no hazard source found
+- These are folk and metaphysical beliefs, not medical claims
+
+**Vedic tradition:** No source found.
+
+**Tcm use:** No source found.
+
+**Five element theory:** Corresponds to Wood (green growth) and Earth. Modern attribution; no source found.
+
+**Feng shui bagua:** Family & Health (Zhen), Wealth & Prosperity (Xun)
+
+**Feng shui placement:** East or southeast, near plants. Modern attribution; no source found.
+
+**Ancient lore:** No source found.
+
+**Indigenous traditions:** In Indonesia, "Badar Lumut" is believed to bring victory to its bearer (Manual Jakarta, a lifestyle magazine; not scholarly). The name is disputed: other Indonesian sources use "Badar Lumut" for green jasper. "Akik lumut" is a popular ring stone, with regional names such as Lumut Suliki (West Sumatra) and Lumut Trenggalek (East Java).
+
+**Meditation guidance:** Hold moss agate up to the light and look at the green patterns. Picture a small garden growing inside the stone. Name one thing you want to grow in your life. Breathe slowly and let it take root.
+
+**Body placement:** Heart for growth and calm; worn as a ring (the classic Indonesian akik setting) or pendant.
+
+**Space placement:** Near house plants, in a garden room, or on a desk for new projects.
+
+**Elixir safety:** Generally Safe
+
+**Elixir notes:** Generally safe: silica host with oxide or silicate inclusions (gemdat). No source specific to the stone was found.
+
+**Jewelry recommendations:** A popular ring and pendant stone. A seller says the colour is stable in sunlight because it comes from mineral inclusions, not organic pigment.
+
+**Safe cleansing:**
+- Running water
+- Soft brush
+- Moonlight
+- Sound bath
+
+**Unsafe cleansing:**
+- Heat (unverified)
+
+**Charging methods:**
+- Among green plants
+- Buried in garden soil briefly
+- Moonlight
+- Sound frequency 639 Hz
+
+**Storage guidance:** Store in a soft pouch with stones of similar hardness.
+
+**Cautions:** "Badar Lumut" is a disputed name: some Indonesian sources mean green jasper. Indonesian localities are seller claims. Do not use burning as a test.
+
+**Toxicity:** None known. Inclusions are hornblende, chlorite, or iron and manganese oxides (gemdat). No hazard source found.
+
+**Fragility:** No source found.
+
+**Synergies:**
+- Green Aventurine (`green-aventurine`): Both are green stones of growth. Aventurine brings opportunity; moss agate brings steady growth.
+- Petrified Wood (`petrified-wood`): Two stones of the plant world. Petrified wood gives patience; moss agate gives new growth.
+- Ocean Jasper (`ocean-jasper`): Both are patterned chalcedony stones used for grounding and calm.
+
+**Conflicts:** none
+
+**Grid role:** Growth stone in abundance and garden grids
+
+---
+
+## Howlite
+
+**Id:** `howlite`
+
+**Alt names:** Silicoborocalcite, White Turquoise (misleading), Turquenite (dyed — misleading)
+
+**Mineral family:** Borosilicate
+
+**Chemical formula:** Ca₂B₅SiO₉(OH)₅
+
+**Crystal system:** Monoclinic
+
+**Mohs hardness:** 3.5
+
+**Luster:** Sub-vitreous; chalky to porcelaneous when massive
+
+**Transparency:** Opaque (nodules)
+
+**Color range:** White, colourless or brown; often with grey or black veins
+
+**Origins:** Canada (Windsor, Nova Scotia — type area), United States (Daggett, California)
+
+**Rarity:** Uncommon
+
+**Ethical sourcing:** A gem dealer (Epigem) says genuine howlite "has become a rarity in the gemstone sector" after deposits dried up. No labour or environmental source was found. No Indonesian locality was found.
+
+**Simulant warnings:** MOST "HOWLITE" MAY BE MAGNESITE. A gem dealer says: "Just about all of the drum and gemstones offered as howlite are made of magnesite" (Epigem; dealer claim, no lab survey). Dyed howlite and dyed magnesite are top turquoise fakes, sold as "turquoise", "turquenite" or "white turquoise" (mindat forum; Epigem). Home check: an acetone swab picks up dye (retailer advice, not lab-verified). Lab or acid test: in 10% hydrochloric acid, magnesite (a carbonate) gives off CO₂ gas; howlite turns to gelatinous silica; genuine turquoise does not react (Epigem; Edelsteine.at). Do not acid-test pieces you plan to keep. No source was found on Indonesian listings or on dyed blue stones sold as "pirus".
+
+**Short intention:** Quiet the mind and soften anger
+
+**Intention:** Calm & Patience
+
+**Chakras:** Crown
+
+**Element:** Air
+
+**Planet:** Moon
+
+**Day of week:** Monday
+
+**Zodiac:** Gemini
+
+**Numerology:** 3
+
+**Polarity:** Yin
+
+**Solfeggio frequency:** 963 Hz
+
+**Energy type:** Calming
+
+**Emotional:**
+- Modern attribution: calm and anger relief (retailer)
+- Encourages patience
+- Supports a gentle mood before sleep
+- Helps soften harsh reactions
+
+**Mental:**
+- Associated with calm thinking
+- Modern attribution: better communication (retailer)
+- Helps quiet racing thoughts
+- Supports study and focus
+
+**Spiritual:**
+- A common modern Crown-chakra stone
+- Used in modern practice for quiet meditation
+- Associated with stillness and rest
+- No traditional lore; described in the 19th century
+
+**Physical:**
+- Modern attribution: restful sleep (retailer)
+- Contains boron; no hazard source found
+- No medical evidence supports any health use
+- These are modern metaphysical beliefs, not medical claims
+
+**Vedic tradition:** No source found.
+
+**Tcm use:** No source found.
+
+**Five element theory:** Corresponds to Metal (white). Modern attribution; no source found.
+
+**Feng shui bagua:** Children & Creativity (Dui)
+
+**Feng shui placement:** Bedroom for calm sleep. Modern attribution; no source found.
+
+**Ancient lore:** None. Henry How described it in the 19th century as "silicoborocalcite"; James Dwight Dana later renamed it howlite (mindat).
+
+**Indigenous traditions:** No source found.
+
+**Meditation guidance:** Hold howlite before sleep. Breathe out slowly and picture each tense thought turning white and quiet, like snow settling. Rest your attention on the cool weight of the stone until the mind is still.
+
+**Body placement:** Under the pillow or held before sleep; worn as beads.
+
+**Space placement:** Bedroom nightstand; a quiet reading corner.
+
+**Elixir safety:** Indirect
+
+**Elixir notes:** Use the indirect method only. Howlite is soft and porous and is often dyed; dye may leach into water (Epigem).
+
+**Jewelry recommendations:** Mostly sold as beads. Soft (3.5) and scratches easily; avoid rings that take knocks. Ask whether the piece is howlite or magnesite, and whether it is dyed.
+
+**Safe cleansing:**
+- Dry cloth
+- Sound bath
+- Moonlight
+- Visualization
+
+**Unsafe cleansing:**
+- Acids such as vinegar or lemon (reacts)
+- Salt (abrasive to a 3.5 stone)
+- Long soaks (dyed pieces may bleed)
+
+**Charging methods:**
+- Moonlight
+- Sound frequency 963 Hz
+- Selenite plate
+
+**Storage guidance:** Store separately in a soft pouch; it scratches easily.
+
+**Cautions:** WARNING: most stones sold as howlite may be magnesite, and dyed howlite or magnesite is often sold as turquoise. Soft and porous. Keep away from acids.
+
+**Toxicity:** No hazard source found. Contains boron.
+
+**Fragility:** Moderate — soft (Mohs 3.5) and scratches easily.
+
+**Synergies:**
+- Amethyst (`amethyst`): Both are used for calm and sleep. Amethyst quiets the mind; howlite softens anger.
+- Lepidolite (`lepidolite`): Two soft calming stones for the bedroom.
+- Selenite (`selenite`): Two white Crown stones for stillness. Keep both dry.
+
+**Conflicts:**
+- Turquoise (`turquoise`): Not an energetic conflict: dyed howlite is a top turquoise fake. Keep them apart so a dyed piece is not mixed up with real turquoise.
+
+**Grid role:** Calming stone in sleep and patience grids
+
+---
+
+## Rutilated Quartz
+
+**Id:** `rutilated-quartz`
+
+**Alt names:** Kecubung Rambut, Rambut Sedana, Batu Rambut Sedana, Kecubung Rambut Emas, Kecubung Rambut Cendana, Kinyang Rambut Emas, Kinyang Rambut Merah, Kecubung Sempalai, Rutile Quartz
+
+**Mineral family:** Quartz with rutile (TiO₂) needle inclusions
+
+**Chemical formula:** SiO₂ host; TiO₂ needles
+
+**Crystal system:** Trigonal (quartz)
+
+**Mohs hardness:** 7
+
+**Luster:** Vitreous
+
+**Transparency:** Transparent to translucent
+
+**Color range:** Colourless host with gold, coppery red-yellow or black needles
+
+**Origins:** Indonesia (Kalimantan — seller claims), Indonesia (Sempalai, Sambas/Tebas, West Kalimantan — found 2009, blog report)
+
+**Rarity:** Common
+
+**Ethical sourcing:** Small stones are common. GIA notes that "large and well-formed rutilated quartz is quite rare", so large clean spheres are uncommon. Indonesian localities come from seller listings and blogs. Brazil and other foreign sources were not verified this run. No labour or environmental source was found.
+
+**Simulant warnings:** Glass is "a convincing substitute" (GIA); round gas bubbles under a 10x loupe point to glass (retailer advice). GIA Gems & Gemology (Fall 2020) reports a composite sphere: real quartz glued to epoxy resin mixed with mineral powder, confirmed by Raman. Doublets with glass or synthetic quartz caps also exist. "Lab-created rutilated quartz" is listed online. Lab methods: Raman, FTIR, polariscope, microscope. Indonesian buyers search for "batu rambut cendana palsu" and "kecubung rambut emas palsu", but no source says which fakes these are. Black needles are often not rutile; no source names the mineral.
+
+**Short intention:** Draw in prosperity and amplify your intention
+
+**Intention:** Prosperity & Amplification
+
+**Chakras:** Solar Plexus, Crown
+
+**Element:** Fire
+
+**Planet:** Sun
+
+**Day of week:** Sunday
+
+**Zodiac:** Gemini, Taurus, Leo
+
+**Numerology:** 4
+
+**Polarity:** Yang
+
+**Solfeggio frequency:** 528 Hz
+
+**Energy type:** Amplifying
+
+**Emotional:**
+- Associated in crystal practice with optimism
+- Encourages confidence in business and work
+- Supports courage to start new ventures
+- Helps lift a heavy mood
+
+**Mental:**
+- Associated with focus and drive
+- Supports clear goals and decisions
+- Encourages follow-through
+- Amplifies intention in modern practice (quartz)
+
+**Spiritual:**
+- In Bali, linked to Dewi Rambut Sedana, goddess of fortune
+- Linked in folk belief to Dewa Sri Sedana, of fertility and prosperity
+- Stones with an odd number of single fibres (1, 3, 5) are believed best for business (Bali)
+- Modern practice: an amplifier of intention
+
+**Physical:**
+- Associated in crystal practice with vitality
+- No medical evidence supports any health use
+- Quartz and rutile; no hazard source found
+- These are folk and metaphysical beliefs, not medical claims
+
+**Vedic tradition:** No source found.
+
+**Tcm use:** No source found.
+
+**Five element theory:** Corresponds to Metal (gold needles) and Fire. Modern attribution; no source found.
+
+**Feng shui bagua:** Wealth & Prosperity (Xun)
+
+**Feng shui placement:** Southeast area, cash desk or office. Modern attribution; no source found.
+
+**Ancient lore:** No source found.
+
+**Indigenous traditions:** Bali: "Masyarakat Bali memercayai Batu Rambut Sedana erat kaitannya dengan Dewi Rejeki atau Dewi Rambut Sedana." It is popular with business people, and stones with an odd number of single fibres (1, 3, 5) are believed best for business (IDN Times Bali, reporting a collector). A low-quality blog links it to Dewa Sri Sedana, god of fertility and prosperity, worn to bring rezeki. In Java, some sellers of spiritual services offer "akik berkhodam" rambut emas; this is market presence only. In Indonesian, "kecubung" names amethyst and quartz in general; "kecubung rambut" is quartz with needles, not amethyst.
+
+**Meditation guidance:** Hold the stone up to the light and follow one golden needle with your eyes. Picture it as a line of light running from your goal to you. State your intention clearly three times. Breathe in confidence; breathe out doubt.
+
+**Body placement:** Solar plexus for confidence; worn as a ring (the classic Indonesian setting) or pendant.
+
+**Space placement:** Office, shop counter or cash box; southeast area.
+
+**Elixir safety:** Generally Safe
+
+**Elixir notes:** Quartz and rutile are insoluble (general fact). Use the indirect method if the piece may be a composite or doublet glued with epoxy.
+
+**Jewelry recommendations:** Hard (7) and good for rings and pendants. Needles that reach the surface can be weak points (no source). Ask whether a sphere or cabochon is solid or assembled.
+
+**Safe cleansing:**
+- Running water
+- Soft brush
+- Moonlight
+- Sound bath
+
+**Unsafe cleansing:**
+- Heat (glued composites may react — inferred from GIA 2020)
+- Ultrasonic cleaners on assembled pieces
+
+**Charging methods:**
+- Morning sunlight (brief)
+- Clear quartz cluster
+- Sound frequency 528 Hz
+
+**Storage guidance:** Store in a soft pouch away from harder stones.
+
+**Cautions:** Glass, glued composites and doublets are sold as rutilated quartz. Black needles are often not rutile. Indonesian localities are seller claims.
+
+**Toxicity:** No hazard source found.
+
+**Fragility:** Low — Mohs 7. Surface-reaching needles may be weak points (no source).
+
+**Synergies:**
+- Citrine (`citrine`): Both are golden prosperity stones. Citrine draws abundance; rutilated quartz amplifies the intention.
+- Clear Quartz (`clear-quartz`): Same host mineral. Clear quartz amplifies; the golden needles direct it toward prosperity.
+- Pyrite (`pyrite`): Two golden stones for business and confidence.
+
+**Conflicts:** none
+
+**Grid role:** Amplifier and prosperity centre in business grids
+
+---
+
+## Aragonite
+
+**Id:** `aragonite`
+
+**Alt names:** none
+
+**Mineral family:** Carbonate, aragonite group (this entry covers mineral aragonite only — not coral or shell)
+
+**Chemical formula:** CaCO₃
+
+**Crystal system:** Orthorhombic (pseudohexagonal)
+
+**Mohs hardness:** 3.5–4
+
+**Luster:** Vitreous; resinous on fracture
+
+**Transparency:** No source found
+
+**Color range:** White, red, yellow, orange, green, purple, grey, blue or brown
+
+**Origins:** Worldwide (warm marine waters, cave dripstone, hot springs, evaporites) — producing countries not verified this run
+
+**Rarity:** Common
+
+**Ethical sourcing:** MINERAL ONLY — NOT CORAL OR SHELL. Mineral aragonite is not a plant or animal species, so Indonesian protected-species law (Permen LHK P.106/2018, "Jenis Tumbuhan dan Satwa yang Dilindungi") does not cover it. Biogenic aragonite is different: stony corals (Scleractinia) build aragonite skeletons and are in CITES Appendix II. Coral rock must be reported as "Scleractinia spp."; coral sand is outside CITES. A fossil-coral exemption exists, but CITES has not agreed what counts as fossil coral. The current CITES Appendices are valid from 5 March 2026, after CoP20. Blue coral (Heliopora coerulea) is also Appendix II. In Indonesia, P.106/2018 lists protected molluscs (e.g. Nautilus pompilius, Hippopus hippopus, Charonia tritonis, Cassis cornuta); their shells are partly aragonite — do not sell them as "aragonite". No coral section was found in P.106 (secondary reading only). "Akar bahar" (black coral) was protected under PP 7/1999. "Badar Tawon" is petrified sea coral, not mineral aragonite. Do not read this entry as a green light to buy coral.
+
+**Simulant warnings:** No source was found on dyed blue aragonite or on calcite sold as aragonite. Both aragonite and calcite are CaCO₃ and both fizz in dilute acid, so the acid test cannot separate them. XRD or Raman separates the two polymorphs (general fact; no source fetched). "Sputnik" aragonite from Morocco: no source found.
+
+**Short intention:** Steady yourself and stay patient under pressure
+
+**Intention:** Grounding & Patience
+
+**Chakras:** Root, Sacral
+
+**Element:** Earth
+
+**Planet:** Saturn
+
+**Day of week:** Saturday
+
+**Zodiac:** Capricorn
+
+**Numerology:** 9
+
+**Polarity:** Yin
+
+**Solfeggio frequency:** 396 Hz
+
+**Energy type:** Grounding
+
+**Emotional:**
+- Associated in crystal practice with patience
+- Encourages calm under stress
+- Supports emotional steadiness
+- Helps release anger slowly
+
+**Mental:**
+- Associated with practical, grounded thinking
+- Supports discipline and routine
+- Encourages finishing tasks
+- Helps reduce scattered thinking
+
+**Spiritual:**
+- A modern Earth-healing and grounding stone
+- Linked to cave dripstone and the slow work of water
+- Supports grounded meditation
+- Respect the sea: coral and shell are not mineral aragonite
+
+**Physical:**
+- Associated in crystal practice with steadiness and rest
+- Calcium carbonate; no hazard source found
+- No medical evidence supports any health use
+- These are metaphysical beliefs, not medical claims
+
+**Vedic tradition:** No source found for mineral aragonite. The navaratna coral (pravala) is precious coral, a separate material; not verified this run.
+
+**Tcm use:** No source found. Do not equate "hua rui shi" (ophicalcite) with aragonite.
+
+**Five element theory:** Corresponds to Earth. Modern attribution; no source found.
+
+**Feng shui bagua:** Center (Tai Qi)
+
+**Feng shui placement:** Centre of the home for stability. Keep dry and away from acids. Modern attribution; no source found.
+
+**Ancient lore:** No source found for mineral aragonite.
+
+**Indigenous traditions:** No source found for mineral aragonite.
+
+**Meditation guidance:** Hold aragonite in both hands and picture water dripping slowly in a cave, building stone over thousands of years. Breathe with that slow rhythm. Let impatience settle like sediment.
+
+**Body placement:** Held at the root or lower belly; carried in a pocket for steadiness.
+
+**Space placement:** Centre of the home or a work desk. Dry place.
+
+**Elixir safety:** Indirect
+
+**Elixir notes:** Use the indirect method only. Aragonite is calcium carbonate: it dissolves in acid and is soft (3.5–4, Handbook of Mineralogy).
+
+**Jewelry recommendations:** Soft and brittle; best for display pieces and pendants, not rings. Never buy coral or shell sold as "aragonite".
+
+**Safe cleansing:**
+- Dry brush
+- Sound bath
+- Moonlight
+- Smudging
+
+**Unsafe cleansing:**
+- Acids such as vinegar or lemon (dissolves)
+- Salt (abrasive)
+- Heat (changes to calcite — within days above about 300 °C, per a secondary source)
+- Long soaks
+
+**Charging methods:**
+- Placed on earth or stone
+- Moonlight
+- Sound frequency 396 Hz
+
+**Storage guidance:** Store dry, in a soft pouch, away from harder stones.
+
+**Cautions:** This entry is for mineral aragonite only. Coral (CITES Appendix II, coral rock reported as "Scleractinia spp.") and protected shells are not covered and may be illegal to trade. Soft, brittle, dissolves in acid.
+
+**Toxicity:** No hazard source found (CaCO₃).
+
+**Fragility:** Moderate — brittle (Handbook of Mineralogy), Mohs 3.5–4.
+
+**Synergies:**
+- Orange Calcite (`orange-calcite`): Same compound (CaCO₃) in a different crystal form. Calcite warms; aragonite grounds.
+- Smoky Quartz (`smoky-quartz`): Both are grounding stones for stress. Smoky quartz clears; aragonite steadies.
+- Petrified Wood (`petrified-wood`): Two stones of slow geological time for patience.
+
+**Conflicts:**
+- Akar Bahar (Black Coral) (`akar-bahar`): Not an energetic conflict: coral is a protected animal, not a mineral. Do not let "aragonite" cover coral or shell.
+
+**Grid role:** Grounding stone at the base of stability grids
+
+---
+
+## Ametrine
+
+**Id:** `ametrine`
+
+**Alt names:** Amethyst-Citrine, Bolivianite (unverified)
+
+**Mineral family:** Quartz (bicolour)
+
+**Chemical formula:** SiO₂
+
+**Crystal system:** Trigonal (quartz)
+
+**Mohs hardness:** 7
+
+**Luster:** No source found
+
+**Transparency:** Transparent
+
+**Color range:** Bicolour: purple and orange to yellow in one stone
+
+**Origins:** Bolivia (Anahí mine, Puerto Suárez, Germán Busch Province, Santa Cruz — the only commercial source), Canada (Ontario Gem Mine — mindat locality)
+
+**Rarity:** Rare
+
+**Ethical sourcing:** GIA says "there is only one commercial source": the Anahí mine in Bolivia, described in Vasconcelos, Wenk & Rossman (1994), Gems & Gemology 30(1):4–23. GIA tells the legend that a Spanish conquistador found the deposit in the 1600s and that it was lost for over 300 years. No labour or environmental source was found.
+
+**Simulant warnings:** Synthetic hydrothermal ametrine from Russia has been in commercial supply since 1994 (Balitsky et al. 1999, Gems & Gemology). Labs separate it by growth features (twinning, colour zoning), EDXRF and IR spectra. Heat-treated amethyst can produce ametrine-like stones (Rock & Gem). Green-yellow or golden-blue "ametrine" does not occur naturally (secondary source). Glass check: bubbles and a single image through a loupe (retailer advice). Indonesian marketplaces: no source found.
+
+**Short intention:** Balance calm intuition with bright action
+
+**Intention:** Balance & Clarity
+
+**Chakras:** Solar Plexus, Third Eye, Crown
+
+**Element:** Air
+
+**Planet:** Jupiter
+
+**Day of week:** Thursday
+
+**Zodiac:** Libra
+
+**Numerology:** 3
+
+**Polarity:** Neutral
+
+**Solfeggio frequency:** 528 Hz
+
+**Energy type:** Balancing
+
+**Emotional:**
+- Associated in crystal practice with balance between calm and drive
+- Encourages optimism
+- Supports emotional steadiness
+- Helps ease tension
+
+**Mental:**
+- Associated with clear decisions
+- Supports creative problem-solving
+- Balances logic and intuition
+- Encourages focus
+
+**Spiritual:**
+- Joins the meanings of amethyst (intuition) and citrine (action) in modern practice
+- Associated with harmony of opposites
+- Supports meditation and goal-setting together
+- Linked to Bolivian legends of the Anahí mine
+
+**Physical:**
+- Associated in crystal practice with vitality and rest
+- Quartz; no hazard source found
+- No medical evidence supports any health use
+- These are metaphysical beliefs, not medical claims
+
+**Vedic tradition:** No source found.
+
+**Tcm use:** No source found.
+
+**Five element theory:** Joins Fire (citrine zone) and Water (amethyst zone). Modern attribution; no source found.
+
+**Feng shui bagua:** Center (Tai Qi)
+
+**Feng shui placement:** Centre of the home or a desk for balanced work. Out of strong sun. Modern attribution; no source found.
+
+**Ancient lore:** Legend (as told by GIA): a Spanish conquistador found the Anahí deposit in the 1600s; it was then lost for over 300 years.
+
+**Indigenous traditions:** Legend: the mine came to the conquistador as the dowry of an Ayoreo princess, Anahí (secondary source; legend).
+
+**Meditation guidance:** Hold ametrine with the purple end toward you. Breathe in calm and stillness. Turn it so the golden end faces you and breathe in energy and confidence. Hold both in mind together, and feel them balance.
+
+**Body placement:** Solar plexus for drive; third eye for intuition; worn as a ring or pendant.
+
+**Space placement:** Desk or study; centre of the home. Away from strong sun and heat.
+
+**Elixir safety:** Generally Safe
+
+**Elixir notes:** Quartz is insoluble (general fact). Use the indirect method to protect the colour from heat and sun.
+
+**Jewelry recommendations:** Hard (7) and good for rings, pendants and earrings. Ask whether the stone is natural Bolivian or synthetic.
+
+**Safe cleansing:**
+- Running water
+- Soft brush
+- Moonlight
+- Sound bath
+
+**Unsafe cleansing:**
+- Heat (changes the purple zone)
+- Long strong sun (unverified)
+
+**Charging methods:**
+- Moonlight
+- Amethyst or citrine cluster
+- Sound frequency 528 Hz
+
+**Storage guidance:** Store in a soft pouch away from heat and strong light.
+
+**Cautions:** Only one commercial source exists. Synthetic ametrine has been sold since 1994. Heat changes the colour.
+
+**Toxicity:** None known (quartz). No hazard source found.
+
+**Fragility:** No source found. Quartz, Mohs 7.
+
+**Synergies:**
+- Amethyst (`amethyst`): Ametrine contains an amethyst zone. Amethyst deepens its calm side.
+- Citrine (`citrine`): Ametrine contains a citrine zone. Citrine strengthens its bright, active side.
+- Clear Quartz (`clear-quartz`): Same mineral; clear quartz amplifies the balance.
+
+**Conflicts:** none
+
+**Grid role:** Balancing centre stone in decision and harmony grids
+
+---
+
+## Pink Tourmaline
+
+**Id:** `pink-tourmaline`
+
+**Alt names:** Rubellite (trade name for pink to red), Elbaite, Liddicoatite, Fluor-liddicoatite, Toromalli
+
+**Mineral family:** Tourmaline supergroup — most pink gem tourmaline is elbaite
+
+**Chemical formula:** XY₃Z₆(T₆O₁₈)(BO₃)₃V₃W (general tourmaline formula)
+
+**Crystal system:** Trigonal
+
+**Mohs hardness:** 7–7.5
+
+**Luster:** No source found
+
+**Transparency:** No source found
+
+**Color range:** Pink to red; manganese causes the reds and pinks
+
+**Origins:** Nigeria, Madagascar (fluor-liddicoatite, near Antsirabe), Brazil, Afghanistan, Indonesia (West Kalimantan — tourmaline of unstated colour, blog report)
+
+**Rarity:** Uncommon
+
+**Ethical sourcing:** No source found. Nomenclature changed twice: in 2011 the "liddicoatite" type material was redefined as fluor-liddicoatite (Henry et al. 2011), and in 2025 "liddicoatite" was approved again using a neotype (mindat). GIA notes that "rubellite" covers pink to red tourmaline, "although some in the trade argue that the term shouldn't apply to pink tourmaline". The name tourmaline comes from the Sinhalese "toromalli" (Jewelers of America).
+
+**Simulant warnings:** Pink tourmaline is irradiated (gamma or electron beam) to deepen the colour toward rubellite (Chulalongkorn University thesis). GIA says pink colour centres "can be natural or laboratory-induced", so treatment is often hard to prove; a forum post claims GIA cannot detect it (forum claim only). GIA warns that "colour changes due to irradiation can fade with exposure to heat or bright light". Home check: tourmaline is doubly refractive, while glass shows one image through a loupe (retailer advice). No source was found on glass or dyed quartz fakes, or on Indonesian listings.
+
+**Short intention:** Love yourself gently and open to kindness
+
+**Intention:** Love & Emotional Healing
+
+**Chakras:** Heart
+
+**Element:** Water
+
+**Planet:** Venus
+
+**Day of week:** Friday
+
+**Zodiac:** Libra, Scorpio
+
+**Numerology:** 9
+
+**Polarity:** Yin
+
+**Solfeggio frequency:** 639 Hz
+
+**Energy type:** Calming
+
+**Emotional:**
+- Associated in crystal practice with self-love and kindness
+- Supports healing after heartbreak
+- Encourages compassion for others
+- Helps ease emotional fear
+
+**Mental:**
+- Associated with calm, kind thinking
+- Supports gentle self-talk
+- Encourages patience in relationships
+- Helps soften harsh judgement
+
+**Spiritual:**
+- A modern Heart-chakra stone of love
+- Associated with gentle protection of the heart
+- Supports loving-kindness meditation
+- Watermelon tourmaline (pink core, green rim) is used to balance the heart
+
+**Physical:**
+- Associated in crystal practice with calm and rest
+- No hazard source found
+- No medical evidence supports any health use
+- These are metaphysical beliefs, not medical claims
+
+**Vedic tradition:** No source found.
+
+**Tcm use:** No source found.
+
+**Five element theory:** Corresponds to Fire (heart, pink to red). Modern attribution; no source found.
+
+**Feng shui bagua:** Love & Relationships (Kun)
+
+**Feng shui placement:** Southwest area or bedroom for love. Out of bright sun. Modern attribution; no source found.
+
+**Ancient lore:** No source found. Birthstone: October (modern list), added in 1952 by Jewelers of America (then the American National Retail Jewelers Association) with alexandrite, citrine and zircon (National Jeweler; American Gem Society). A secondary source says the 1952 list named pink tourmaline.
+
+**Indigenous traditions:** No source found.
+
+**Meditation guidance:** Hold pink tourmaline over the heart. Picture a soft pink light filling the chest. Silently say: "May I be kind to myself." Then widen the light to someone you love, then to someone you find hard to love.
+
+**Body placement:** Heart; worn as a pendant close to the chest, or as a ring.
+
+**Space placement:** Bedroom or southwest corner, out of bright sun.
+
+**Elixir safety:** Generally Safe
+
+**Elixir notes:** An insoluble silicate (general fact). Use the indirect method for irradiated stones, whose colour can fade with heat or bright light (GIA). No source on residual activity was found.
+
+**Jewelry recommendations:** Hard (7–7.5) with fair toughness (GIA); good for rings, pendants and earrings. Avoid knocks and sudden temperature changes.
+
+**Safe cleansing:**
+- Warm soapy water and a soft brush (GIA care guide)
+- Moonlight
+- Sound bath
+- Smudging
+
+**Unsafe cleansing:**
+- Heat (can alter colour; thermal shock can fracture — GIA)
+- Ultrasonic cleaners (not recommended — GIA)
+- Steam cleaners (not recommended — GIA)
+- Long bright sun (irradiated colour may fade)
+
+**Charging methods:**
+- Moonlight
+- Rose quartz nearby
+- Sound frequency 639 Hz
+
+**Storage guidance:** Store in a soft pouch, away from heat and bright light. Tourmaline is pyroelectric and picks up dust when warm (retailer), so wipe before wear.
+
+**Cautions:** Often irradiated, and the treatment is hard to detect. Heat and bright light can fade treated colour. Heat or thermal shock can crack the stone (GIA).
+
+**Toxicity:** No source found.
+
+**Fragility:** Low to moderate — Mohs 7–7.5, toughness fair (GIA); sensitive to thermal shock.
+
+**Synergies:**
+- Rose Quartz (`rose-quartz`): Two pink Heart stones. Rose quartz opens to love; pink tourmaline protects and heals the heart.
+- Black Tourmaline (`black-tourmaline`): Same mineral group. Black tourmaline grounds and shields; pink tourmaline softens the heart.
+- Kunzite (`kunzite`): Both are pink lithium-bearing gems for gentle love. Keep both out of strong sun.
+
+**Conflicts:** none
+
+**Grid role:** Heart centre stone in love and self-care grids
