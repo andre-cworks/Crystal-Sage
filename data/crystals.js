@@ -5643,7 +5643,7 @@ window.CRYSTALS = [
   {
     id: 'opal',
     name: 'Opal',
-    emoji: '✨',
+    emoji: '🎇',
     color: '#c9d6e8',
 
     alt_names: ['Precious Opal', 'Fire Opal', 'Black Opal', 'Jelly Opal', 'Welo Opal', 'Kalimaya', 'Opal Banten'],
