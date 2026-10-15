@@ -5557,7 +5557,7 @@ window.CRYSTALS = [
     color_range: 'Black to dark brown; sometimes bleached to gold ("golden coral")',
     origins: ['Oceans worldwide (2 to 8,600 m deep)', 'Indonesia (Alor, East Nusa Tenggara)', 'Indonesia (Banggai, Central Sulawesi)'],
     rarity: 'Rare',
-    ethical_sourcing: 'PROTECTED SPECIES — DO NOT BUY OR SELL. All black corals (Antipatharia) have been listed in CITES Appendix II since 1981, so international trade needs CITES permits. In Indonesia, PP 7/1999 (annex row 222) protects "Antipathes spp. — Akar bahar, Koral hitam", and Law 5/1990 (amended by Law 32/2024) bans taking, keeping and trading protected species; this covers craftsmen and traders as well as collectors. Black corals grow extremely slowly — some deep-sea colonies are estimated to be over 2,000 years old — and over-collection for jewellery led to the CITES listing. Illegal collection still happens in Alor. This entry exists for identification and legal awareness only.',
+    ethical_sourcing: 'PROTECTED SPECIES — DO NOT BUY OR SELL. All black corals (Antipatharia) have been listed in CITES Appendix II since 1981, so international trade needs CITES permits. INDONESIAN STATUS IS DISPUTED: PP 7/1999 (annex no. 222) listed "Antipathes spp. — Akar bahar, Koral hitam". Permen LHK P.20/2018 revoked that annex, and the current P.106/2018 fauna list on ksdae.kehutanan.go.id shows no Antipathes and no coral at all. In 2024, BRIN researcher M. Reza Cordova told Kompas that akar bahar "itu salah satu jenis karang yang dilindungi", citing PP 7/1999. The signed P.106/2018 PDF on jdih.kehutanan.go.id was not read, and UU 32/2024 (amending UU 5/1990) may bring new implementing rules. Treat akar bahar as legally risky; export always needs CITES papers. KKP marine rules: not checked. Black corals grow extremely slowly — some deep-sea colonies are estimated to be over 2,000 years old — and over-collection for jewellery led to the CITES listing. Illegal collection still happens in Alor. This entry exists for identification and legal awareness only.',
     simulant_warnings: 'Black coral is often coated with thick resin or black lacquer (SSEF, GIA). Black-coated horn coral, plastic, glass and dyed materials are sold as akar bahar. In Indonesia, "akar bahar" also names gorgonian sea fans (Rumphella, Hicksonella), so many "akar bahar" bracelets are not black coral at all. Real black coral shows concentric "tree-ring" growth layers on cut ends and small spine dimples on the surface. A hot-needle test gives a burnt-protein smell on horn coral and melts plastic — but because the material is protected, the right action is not to buy it.',
 
     short_intention: 'Respect the sea — protect, do not possess',
@@ -5607,10 +5607,10 @@ window.CRYSTALS = [
     indigenous_traditions: 'In Alor, East Nusa Tenggara, akar bahar is believed to ward off black magic, and pieces "hundreds of years old" are believed to protect the body (Mahkamah journal study). It is also used as a folk remedy for rheumatism. The same study found that illegal collection continues because of low income, weak supervision and low legal awareness.',
 
     meditation_guidance: 'Do not use akar bahar for meditation. For a sea-protection meditation, hold a legal stone such as black tourmaline or larimar, picture the deep ocean and its slow-growing coral forests, and set an intention to protect them.',
-    body_placement: 'Not recommended. Wearing akar bahar bracelets supports illegal trade of a protected species.',
+    body_placement: 'Not recommended. Wearing akar bahar bracelets may support illegal trade (CITES Appendix II; Indonesian status disputed).',
     space_placement: 'Not recommended. Do not display protected coral.',
     elixir_safety: 'Avoid',
-    elixir_notes: 'Never use for elixirs. It is organic and can degrade; it may be coated with resin; some gorgonian akar bahar contains radium (IPB study). It is also illegal to possess as a protected species in Indonesia.',
+    elixir_notes: 'Never use for elixirs. It is organic and can degrade; it may be coated with resin; some gorgonian akar bahar contains radium (IPB study). It may also be illegal to possess in Indonesia (status disputed; see cautions).',
     jewelry_recommendations: 'Do not buy or wear. Akar bahar bracelets are the main illegal trade item. If you already own a piece, do not sell or give it away; ask the local BKSDA (Natural Resources Conservation Agency) for advice.',
 
     safe_cleansing: ['Not applicable — do not use protected coral'],
@@ -5618,7 +5618,7 @@ window.CRYSTALS = [
     charging_methods: ['Not applicable — do not use protected coral'],
     storage_guidance: 'If you already own a piece, keep it dry and away from heat. Do not sell, trade or export it.',
 
-    cautions: 'PROTECTED SPECIES: CITES Appendix II and Indonesian PP 7/1999. Buying, selling, keeping or exporting it can break Indonesian law. Many items labelled "akar bahar" are gorgonians, which are also covered by KKP protection plans. The status of black coral in the current annex (Permen LHK P.106/2018) was not verified.',
+    cautions: 'CITES Appendix II (since 1981): export always needs CITES papers. Indonesian status is disputed: PP 7/1999 listed it, P.20/2018 revoked that annex, and the current P.106/2018 list on the KSDAE site does not show it, but a BRIN researcher (Kompas 2024) says it is protected. Treat it as legally risky and do not trade it. Many items labelled "akar bahar" are gorgonians, which are also covered by KKP protection plans. Red coral is a different material (see Red Coral).',
     toxicity: 'Radium reported in gorgonian akar bahar (IPB study). Resin coatings unknown. Do not ingest.',
     fragility: 'Organic; damaged by heat, solvents and long soaking.',
 
@@ -7633,5 +7633,1498 @@ window.CRYSTALS = [
     planet_filter: 'Venus',
     zodiac_filter: ['Libra', 'Scorpio'],
     energy_type_filter: 'Calming'
+  },
+  {
+    id: 'blue-apatite',
+    name: 'Blue Apatite',
+    emoji: '🔷',
+    color: '#2f8fb5',
+
+    alt_names: [],
+    mineral_family: 'Apatite group (phosphate); usually fluorapatite. "Blue apatite" is a colour name, not a species — the exact species needs a lab test.',
+    chemical_formula: 'Ca₅(PO₄)₃F (fluorapatite; std ref, not re-checked)',
+    crystal_system: 'Hexagonal (std ref, not re-checked)',
+    mohs_hardness: 5,
+    luster: 'Vitreous to subresinous (std ref, not re-checked)',
+    transparency: 'Transparent to opaque (std ref, not re-checked)',
+    color_range: 'Greenish-blue to deep blue in the trade; apatite as a species occurs in many colours',
+    origins: ['Madagascar (not re-checked)', 'Brazil (not re-checked)', 'Mexico (not re-checked)'],
+    rarity: 'Common',
+    ethical_sourcing: 'No source found. No Indonesian locality was found. Apatite is a widespread accessory mineral (std ref, not re-checked).',
+    simulant_warnings: 'Dyed material and glass are possible (no lab source found this run). Home check: glass often shows round gas bubbles under a 10x loupe. Lab test: refractive index and Raman. Trade names such as "neon blue apatite" have no source. No source was found on fakes sold on Tokopedia, Shopee or Bukalapak.',
+
+    short_intention: 'Speak clearly and move toward your goals',
+    intention: 'Communication & Motivation',
+    chakras: ['Throat', 'Third Eye'],
+    element: 'Air',
+    planet: 'Mercury',
+    day_of_week: 'Wednesday',
+    zodiac: ['Gemini'],
+    numerology: 9,
+    polarity: 'Yang',
+    solfeggio_frequency: '741 Hz',
+    energy_type: 'Activating',
+
+    emotional: [
+      'Modern attribution: motivation and drive (no book source checked)',
+      'Associated with lifting a flat mood',
+      'Encourages confidence in speaking',
+      'Supports steady self-expression'
+    ],
+    mental: [
+      'Associated with clear communication',
+      'Supports study and learning',
+      'Encourages focus on goals',
+      'Helps put ideas into words'
+    ],
+    spiritual: [
+      'A common modern Throat and Third Eye stone',
+      'Used in modern practice for insight',
+      'No traditional lore found',
+      'Metaphysical fields not checked against Hall, Simmons or Melody'
+    ],
+    physical: [
+      'Modern attribution: appetite and bones (no source checked)',
+      'Contains fluorine; no handling hazard documented (no source found)',
+      'No medical evidence supports any health use',
+      'These are modern metaphysical beliefs, not medical claims'
+    ],
+
+    vedic_tradition: 'No classical basis found.',
+    tcm_use: 'None found.',
+    five_element_theory: 'Corresponds to Water (blue). Modern attribution; no source found.',
+    feng_shui_bagua: 'Career (Kan)',
+    feng_shui_placement: 'Study or work desk for clear communication. Modern attribution; no source found.',
+
+    ancient_lore: 'No source found.',
+    indigenous_traditions: 'No source found. Indonesian, Javanese and Sundanese names and marketplace terms were not verified.',
+
+    meditation_guidance: 'Hold blue apatite at the throat. Breathe in and picture a clear blue light. Breathe out and say one goal aloud, slowly and plainly.',
+    body_placement: 'At the throat or held in the hand while speaking or studying.',
+    space_placement: 'Study desk or workspace.',
+    elixir_safety: 'Indirect',
+    elixir_notes: 'Use the indirect method only, so the stone does not touch the liquid. Apatite is attacked by acids (std ref, not re-checked).',
+    jewelry_recommendations: 'Mohs 5: a steel knife can scratch it. Best for pendants and earrings, not rings worn every day.',
+
+    safe_cleansing: ['Smudging', 'Sound bath', 'Moonlight', 'Short rinse in plain water'],
+    unsafe_cleansing: ['Acids such as vinegar or lemon', 'Salt soak (grit and brine can dull the polish)', 'Ultrasonic cleaner', 'Sudden heat'],
+    charging_methods: ['Moonlight', 'Sound frequency 741 Hz', 'Selenite plate'],
+    storage_guidance: 'Store in a soft pouch away from harder stones. Avoid sudden heat.',
+
+    cautions: 'Soft (Mohs 5) and attacked by acids. Avoid sudden heat. Dyed material and glass are possible.',
+    toxicity: 'Contains fluorine. No toxic dust hazard documented for normal handling (no source found).',
+    fragility: 'Moderate — Mohs 5; a steel knife can scratch it.',
+
+    synergies: [
+      { crystal: 'Sodalite', id: 'sodalite', rationale: 'Two blue Throat stones for clear speech and logical thought.' },
+      { crystal: 'Lapis Lazuli', id: 'lapis-lazuli', rationale: 'Both are blue stones for communication and insight.' },
+      { crystal: 'Carnelian', id: 'carnelian', rationale: 'Carnelian adds courage; apatite adds focus on goals.' }
+    ],
+    conflicts: [],
+    grid_role: 'Focus stone in communication and goal grids',
+
+    chakra_filter: ['Throat', 'Third Eye'],
+    element_filter: 'Air',
+    polarity_filter: 'Yang',
+    elixir_filter: 'Indirect',
+    rarity_filter: 'Common',
+    intention_filter: ['Communication', 'Clarity'],
+    planet_filter: 'Mercury',
+    zodiac_filter: ['Gemini'],
+    energy_type_filter: 'Activating'
+  },
+  {
+    id: 'sugilite',
+    name: 'Sugilite',
+    emoji: '🟣',
+    color: '#7a3a8c',
+
+    alt_names: ['Luvulite (trade name; not verified)', 'Royal Azel (trade name; not verified)'],
+    mineral_family: 'Cyclosilicate, milarite group (Handbook of Mineralogy; mindat Dana class 63.2.1a, Milarite–Osumilite group)',
+    chemical_formula: 'KNa₂(Fe³⁺,Mn³⁺,Al)₂Li₃Si₁₂O₃₀ (Handbook of Mineralogy)',
+    crystal_system: 'Hexagonal, space group P6/mcc (mindat)',
+    mohs_hardness: '5.5–6.5',
+    luster: 'Vitreous to waxy (std ref, not re-checked)',
+    transparency: 'Mostly opaque to translucent; rare "gel" pieces are translucent (std ref, not re-checked)',
+    color_range: 'Purple to violet (colour from manganese). Type material from Japan is pale brownish-yellow, not purple (Handbook of Mineralogy; Murakami et al. 1976).',
+    origins: ['South Africa (Wessels and N\'Chwaning mines, Kalahari Manganese Field — gem source)', 'Japan (Iwagi Islet, Ehime Prefecture — type locality, in aegirine syenite)'],
+    rarity: 'Rare',
+    ethical_sourcing: 'Gem-grade purple sugilite comes almost only from the Kalahari Manganese Field, South Africa (Handbook of Mineralogy; Shigley, Koivula and Fryer 1987, Gems & Gemology, "The occurrence and gemological properties of Wessels Mine sugilite"). It is a by-product of large industrial manganese mining (HOM: "in bedded manganese deposits"). No labour or conflict source was found. No Indonesian locality.',
+    simulant_warnings: 'Dyed chalcedony, dyed howlite and mislabelled "gel sugilite" are possible (no GIA or Gem-A source found this run). Home check: dyed howlite and dyed chalcedony often show colour pooled in cracks. Lab test: Raman or XRD. "Gel sugilite" and "manganoan sugilite" are trade terms with no lab source.',
+
+    short_intention: 'Protect your spirit and accept yourself',
+    intention: 'Spiritual Protection & Self-Acceptance',
+    chakras: ['Crown', 'Third Eye'],
+    element: 'Air',
+    planet: 'Jupiter',
+    day_of_week: 'Thursday',
+    zodiac: ['Virgo'],
+    numerology: 7,
+    polarity: 'Yin',
+    solfeggio_frequency: '963 Hz',
+    energy_type: 'Calming',
+
+    emotional: [
+      'Modern attribution: self-acceptance (no book source checked)',
+      'Associated with easing a feeling of not fitting in',
+      'Encourages calm',
+      'Supports gentle self-forgiveness'
+    ],
+    mental: [
+      'Associated with calm, clear thinking',
+      'Helps reduce mental noise',
+      'Encourages perspective',
+      'Supports quiet reflection'
+    ],
+    spiritual: [
+      'A common modern Crown stone for spiritual protection',
+      'Used in modern practice for meditation',
+      'No traditional lore: described in 1976',
+      'Metaphysical fields not checked against Hall, Simmons or Melody'
+    ],
+    physical: [
+      'Modern attribution: rest and recovery (no source checked)',
+      'Contains manganese and lithium in a stable silicate; no handling hazard documented',
+      'No medical evidence supports any health use',
+      'These are modern metaphysical beliefs, not medical claims'
+    ],
+
+    vedic_tradition: 'No classical basis.',
+    tcm_use: 'None.',
+    five_element_theory: 'Corresponds to Fire (purple). Modern attribution; no source found.',
+    feng_shui_bagua: 'Wealth & Prosperity (Xun)',
+    feng_shui_placement: 'Meditation space or bedroom. Modern attribution; no source found.',
+
+    ancient_lore: 'None. The mineral was described in 1976 (Murakami et al. 1976, Mineralogical Journal 8:110–121). It is named for Ken-ichi Sugi, a Japanese petrologist (mindat; webmineral).',
+    indigenous_traditions: 'None found.',
+
+    meditation_guidance: 'Hold sugilite at the crown or third eye. Picture a soft violet light around your whole body. With each breath out, let a harsh thought about yourself go.',
+    body_placement: 'Crown or third eye; worn as a pendant near the heart.',
+    space_placement: 'Meditation altar or bedside table.',
+    elixir_safety: 'Safe',
+    elixir_notes: 'Generally safe in direct contact. Use the indirect method if the piece has a lot of matrix, because manganese oxide matrix can shed (no source found; judgment).',
+    jewelry_recommendations: 'Mohs 5.5–6.5. Good for pendants and cabochons. Ask whether the piece is dyed chalcedony or howlite.',
+
+    safe_cleansing: ['Smudging', 'Sound bath', 'Short rinse in plain water', 'Moonlight'],
+    unsafe_cleansing: ['Long salt soaks (scratch the polish)', 'Ultrasonic cleaner on matrix pieces'],
+    charging_methods: ['Moonlight', 'Amethyst cluster', 'Sound frequency 963 Hz'],
+    storage_guidance: 'Store in a soft pouch away from harder stones.',
+
+    cautions: 'Gem sugilite is rare; dyed look-alikes are possible. Matrix pieces may shed manganese oxide.',
+    toxicity: 'No handling hazard documented (no source found). Contains Mn and Li in a stable silicate.',
+    fragility: 'Moderate — massive material; matrix may be softer.',
+
+    synergies: [
+      { crystal: 'Amethyst', id: 'amethyst', rationale: 'Two purple Crown stones for calm meditation.' },
+      { crystal: 'Charoite', id: 'charoite', rationale: 'Both are rare purple stones used in modern practice for spiritual change.' },
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', rationale: 'Black tourmaline grounds; sugilite protects the spirit.' }
+    ],
+    conflicts: [
+      { crystal: 'Howlite', id: 'howlite', reason: 'Not an energetic conflict: dyed howlite can be sold as sugilite. Keep them apart so a dyed piece is not mixed up with real sugilite.' }
+    ],
+    grid_role: 'Crown or centre stone in protection and self-acceptance grids',
+
+    chakra_filter: ['Crown', 'Third Eye'],
+    element_filter: 'Air',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Safe',
+    rarity_filter: 'Rare',
+    intention_filter: ['Spiritual', 'Protection', 'Calm'],
+    planet_filter: 'Jupiter',
+    zodiac_filter: ['Virgo'],
+    energy_type_filter: 'Calming'
+  },
+  {
+    id: 'unakite',
+    name: 'Unakite',
+    emoji: '🍉',
+    color: '#8a9a5b',
+
+    alt_names: ['Unakyte (Bradley 1874 spelling)'],
+    mineral_family: 'A rock, not a mineral: epidotized granite. Pink is orthoclase feldspar, green is epidote, and veins and patches are quartz (Rock & Gem Magazine, "Exploring Unakite"). A University of Maryland geology paper (Councell) calls it "a rare, altered granitoid consisting chiefly of epidote, orthoclase feldspar, and quartz".',
+    chemical_formula: 'None (a rock)',
+    crystal_system: 'None (polymineralic rock)',
+    mohs_hardness: '6–7',
+    luster: 'Vitreous when polished',
+    transparency: 'Opaque',
+    color_range: 'Mottled pistachio green and salmon pink',
+    origins: ['United States (Blue Ridge province: eastern Tennessee, western North Carolina, Virginia — Rock & Gem Magazine)', 'United States (Shenandoah National Park, Catoctin Formation — Wikipedia)'],
+    rarity: 'Common',
+    ethical_sourcing: 'No source found. No authoritative source was found for a locality outside the USA. No Indonesian locality. Rarity "Common" is a judgment from the many sellers; a geology paper (Councell) calls the rock "rare", which conflicts.',
+    simulant_warnings: 'No source found. Low fake risk because it is cheap.',
+
+    short_intention: 'Heal the heart and move forward in balance',
+    intention: 'Emotional Balance & Healing',
+    chakras: ['Heart'],
+    element: 'Earth',
+    planet: 'Venus',
+    day_of_week: 'Friday',
+    zodiac: ['Scorpio'],
+    numerology: 9,
+    polarity: 'Yin',
+    solfeggio_frequency: '639 Hz',
+    energy_type: 'Grounding',
+
+    emotional: [
+      'Modern attribution: emotional balance (no book source checked)',
+      'Associated with letting go of old hurt',
+      'Encourages patience with yourself',
+      'Supports a steady, warm mood'
+    ],
+    mental: [
+      'Associated with balanced decisions',
+      'Helps join feeling and reason',
+      'Encourages practical next steps',
+      'Supports steady effort'
+    ],
+    spiritual: [
+      'A common modern Heart stone',
+      'Its pink and green are linked with the Heart chakra in modern practice',
+      'No traditional lore found',
+      'Metaphysical fields not checked against Hall, Simmons or Melody'
+    ],
+    physical: [
+      'Modern attribution: recovery and rest (no source checked)',
+      'Silicate rock; no hazard known',
+      'No medical evidence supports any health use',
+      'These are modern metaphysical beliefs, not medical claims'
+    ],
+
+    vedic_tradition: 'No classical basis.',
+    tcm_use: 'None.',
+    five_element_theory: 'Corresponds to Wood (green) and Earth. Modern attribution; no source found.',
+    feng_shui_bagua: 'Family & Health (Zhen)',
+    feng_shui_placement: 'Living room or family area. Modern attribution; no source found.',
+
+    ancient_lore: 'None. Named for the Unaka Mountains of North Carolina. Frank Bradley first described it in 1874 ("On unakyte, an epidotic rock from the Unaka Range, on the borders of Tennessee and North Carolina"; Rock & Gem Magazine).',
+    indigenous_traditions: 'No source found.',
+
+    meditation_guidance: 'Hold unakite over the heart. Breathe in and picture green growth; breathe out and picture warm pink light. Let the two colours mix until you feel balanced.',
+    body_placement: 'Over the heart; carried in a pocket.',
+    space_placement: 'Living room or a quiet family space.',
+    elixir_safety: 'Safe',
+    elixir_notes: 'Generally safe (silicate rock; judgment). Rinse first.',
+    jewelry_recommendations: 'Mohs about 6–7. Good for beads, cabochons and everyday wear.',
+
+    safe_cleansing: ['Running water', 'Smudging', 'Sound bath', 'Sunlight', 'Moonlight'],
+    unsafe_cleansing: ['Thermal shock (sudden heat or cold)'],
+    charging_methods: ['Sunlight', 'Placed on earth', 'Sound frequency 639 Hz'],
+    storage_guidance: 'No special care. Store with other hard stones.',
+
+    cautions: 'A rock, not a mineral species. No toxicity known. Avoid thermal shock.',
+    toxicity: 'None known.',
+    fragility: 'Low — Mohs about 6–7 (parts: feldspar 6, epidote 6–7, quartz 7).',
+
+    synergies: [
+      { crystal: 'Rose Quartz', id: 'rose-quartz', rationale: 'Two Heart stones; rose quartz softens, unakite balances.' },
+      { crystal: 'Green Aventurine', id: 'green-aventurine', rationale: 'Both are green Heart stones for steady recovery.' },
+      { crystal: 'Rhodonite', id: 'rhodonite', rationale: 'Pink and green Heart stones for healing old hurt.' }
+    ],
+    conflicts: [],
+    grid_role: 'Heart stone in emotional healing grids',
+
+    chakra_filter: ['Heart'],
+    element_filter: 'Earth',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Safe',
+    rarity_filter: 'Common',
+    intention_filter: ['Healing', 'Love', 'Grounding'],
+    planet_filter: 'Venus',
+    zodiac_filter: ['Scorpio'],
+    energy_type_filter: 'Grounding'
+  },
+  {
+    id: 'hemimorphite',
+    name: 'Hemimorphite',
+    emoji: '🩵',
+    color: '#7cc3dd',
+
+    alt_names: ['Calamine (historical; shared with smithsonite — not verified)'],
+    mineral_family: 'Zinc sorosilicate (std ref, not re-checked)',
+    chemical_formula: 'Zn₄Si₂O₇(OH)₂·H₂O (std ref, not re-checked)',
+    crystal_system: 'Orthorhombic; crystals are polar ("hemimorphic"): the two ends have different forms (std ref, not re-checked)',
+    mohs_hardness: '4.5–5',
+    luster: 'Vitreous; silky in botryoidal crusts',
+    transparency: 'Transparent to translucent',
+    color_range: 'Colourless, white, pale blue to sky blue, green, brown',
+    origins: ['China (blue botryoidal; not re-checked)', 'Mexico (colourless bladed crystals; not re-checked)'],
+    rarity: 'Uncommon',
+    ethical_sourcing: 'No source found. No Indonesian locality found.',
+    simulant_warnings: 'Dyed blue material, and smithsonite (ZnCO₃) sold as hemimorphite (no lab source). Blue botryoidal hemimorphite is often confused with smithsonite; both were once sold as "calamine" (not verified). Test: smithsonite fizzes in cold dilute HCl; hemimorphite does not (std chemistry, not re-checked) — this test damages the stone. Lab test: Raman or XRD.',
+
+    short_intention: 'Speak kindly and grow with patience',
+    intention: 'Communication & Self-Growth',
+    chakras: ['Throat', 'Heart'],
+    element: 'Water',
+    planet: 'Venus',
+    day_of_week: 'Friday',
+    zodiac: ['Libra'],
+    numerology: 4,
+    polarity: 'Yin',
+    solfeggio_frequency: '741 Hz',
+    energy_type: 'Calming',
+
+    emotional: [
+      'Modern attribution: calm and self-acceptance (no book source checked)',
+      'Associated with gentle speech',
+      'Encourages patience',
+      'Supports a soft, steady mood'
+    ],
+    mental: [
+      'Associated with clear, kind communication',
+      'Supports personal growth',
+      'Helps put feelings into words',
+      'Encourages listening'
+    ],
+    spiritual: [
+      'A modern Throat and Heart stone',
+      'Its sky blue is linked with calm in modern practice',
+      'No traditional lore found',
+      'Metaphysical fields not checked against Hall, Simmons or Melody'
+    ],
+    physical: [
+      'Contains zinc; acids can leach zinc (judgment)',
+      'Do not use in drinks or near food',
+      'No medical evidence supports any health use',
+      'These are modern metaphysical beliefs, not medical claims'
+    ],
+
+    vedic_tradition: 'No classical basis.',
+    tcm_use: 'Possible link to luganshi 炉甘石 (calamine), but modern pharmacopoeias name smithsonite, not hemimorphite (not verified this run).',
+    five_element_theory: 'Corresponds to Water (blue). Modern attribution; no source found.',
+    feng_shui_bagua: 'Career (Kan)',
+    feng_shui_placement: 'A dry shelf in a study or living room, away from heat. Modern attribution; no source found.',
+
+    ancient_lore: 'No source found.',
+    indigenous_traditions: 'No source found.',
+
+    meditation_guidance: 'Hold hemimorphite near the throat. Picture a clear sky. Breathe out slowly and let one kind sentence form in your mind.',
+    body_placement: 'Held near the throat or heart. Not for daily wear.',
+    space_placement: 'Display shelf, dry and away from heat.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Avoid direct use; use the indirect method only. Reason: zinc content and acid solubility.',
+    jewelry_recommendations: 'Mohs 4.5–5; crusts and blades break easily. Best for display or protected pendants.',
+
+    safe_cleansing: ['Smudging', 'Sound bath', 'Dry brush'],
+    unsafe_cleansing: ['Acids such as vinegar or lemon', 'Salt (scratches)', 'Ultrasonic cleaner', 'Heat (the mineral holds water in its structure)', 'Long soaks'],
+    charging_methods: ['Moonlight', 'Sound frequency 741 Hz', 'Visualization'],
+    storage_guidance: 'Store dry, in a padded box. Crusts and blades break easily.',
+
+    cautions: 'Contains zinc. Avoid acids and heat. Smithsonite and dyed material are sold as hemimorphite.',
+    toxicity: 'Contains zinc. Acids can leach zinc (judgment).',
+    fragility: 'Moderate to high — crusts and blades break easily.',
+
+    synergies: [
+      { crystal: 'Larimar', id: 'larimar', rationale: 'Two sky-blue stones for calm, kind speech.' },
+      { crystal: 'Chrysocolla', id: 'chrysocolla', rationale: 'Both are blue Throat stones. Keep both away from water and acids.' },
+      { crystal: 'Rose Quartz', id: 'rose-quartz', rationale: 'Rose quartz adds warmth to hemimorphite\'s calm communication.' }
+    ],
+    conflicts: [],
+    grid_role: 'Throat stone in communication grids (display only)',
+
+    chakra_filter: ['Throat', 'Heart'],
+    element_filter: 'Water',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Uncommon',
+    intention_filter: ['Communication', 'Calm', 'Healing'],
+    planet_filter: 'Venus',
+    zodiac_filter: ['Libra'],
+    energy_type_filter: 'Calming'
+  },
+  {
+    id: 'dioptase',
+    name: 'Dioptase',
+    emoji: '💚',
+    color: '#0f8f6b',
+
+    alt_names: ['Historically mistaken for emerald (std ref, not re-checked)'],
+    mineral_family: 'Copper silicate, long classed as a cyclosilicate (std ref, not re-checked)',
+    chemical_formula: 'CuSiO₃·H₂O, also written Cu₆Si₆O₁₈·6H₂O (std ref, not re-checked)',
+    crystal_system: 'Trigonal (std ref, not re-checked)',
+    mohs_hardness: 5,
+    luster: 'Vitreous',
+    transparency: 'Transparent to translucent',
+    color_range: 'Emerald green to blue-green',
+    origins: ['Kazakhstan (Altyn-Tyube; not re-checked)', 'Namibia (Tsumeb; not re-checked)', 'Congo (not re-checked — much classic "Congo" dioptase is from the Republic of the Congo, Brazzaville, not the DRC; check each specimen)'],
+    rarity: 'Rare',
+    ethical_sourcing: 'DRC artisanal mining is a concern, but no source on dioptase-specific labour was fetched this run. Much classic "Congo" dioptase comes from the Republic of the Congo (Brazzaville), not the DRC (not verified). Ask for the exact locality.',
+    simulant_warnings: 'No source found.',
+
+    short_intention: 'Heal the heart and forgive',
+    intention: 'Heart Healing & Forgiveness',
+    chakras: ['Heart'],
+    element: 'Water',
+    planet: 'Venus',
+    day_of_week: 'Friday',
+    zodiac: ['Scorpio', 'Sagittarius'],
+    numerology: 4,
+    polarity: 'Yin',
+    solfeggio_frequency: '639 Hz',
+    energy_type: 'Calming',
+
+    emotional: [
+      'Modern attribution: forgiveness and heart healing (no book source checked)',
+      'Associated with easing grief',
+      'Encourages compassion',
+      'Supports emotional renewal'
+    ],
+    mental: [
+      'Associated with living in the present',
+      'Helps release old patterns',
+      'Encourages kind self-talk',
+      'Supports clear feeling'
+    ],
+    spiritual: [
+      'A common modern Heart stone',
+      'Its deep green is linked with the heart in modern practice',
+      'No traditional lore found',
+      'Metaphysical fields not checked against Hall, Simmons or Melody'
+    ],
+    physical: [
+      'Contains copper — do not use in drinks or near food',
+      'Wash hands after handling; do not handle while eating',
+      'No medical evidence supports any health use',
+      'These are modern metaphysical beliefs, not medical claims'
+    ],
+
+    vedic_tradition: 'No classical basis.',
+    tcm_use: 'None.',
+    five_element_theory: 'Corresponds to Wood (green). Modern attribution; no source found.',
+    feng_shui_bagua: 'Family & Health (Zhen)',
+    feng_shui_placement: 'A closed display case in the east of the home. Modern attribution; no source found.',
+
+    ancient_lore: 'No source found.',
+    indigenous_traditions: 'No source found.',
+
+    meditation_guidance: 'Place dioptase in a dish near you; do not hold it for long. Picture a deep green light in the chest. With each breath out, forgive one small thing.',
+    body_placement: 'Not for wearing or long handling. Place nearby during meditation.',
+    space_placement: 'Closed display case, out of reach of children.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Never use for elixirs. Reason: copper content and fragility.',
+    jewelry_recommendations: 'Not recommended. Mohs 5 with perfect cleavage, and it contains copper. Keep as a specimen.',
+
+    safe_cleansing: ['Smudging', 'Sound bath'],
+    unsafe_cleansing: ['Water soaks', 'Salt', 'Ultrasonic cleaner', 'Heat (hydrous mineral)', 'Handling with bare hands while eating'],
+    charging_methods: ['Sound frequency 639 Hz', 'Visualization', 'Moonlight (dry, in a dish)'],
+    storage_guidance: 'Store in a padded, closed box. Keep away from children and food.',
+
+    cautions: 'COPPER MINERAL. Dust and acid leaching are the main exposure routes (judgment). Very fragile. Wash hands after handling.',
+    toxicity: 'Contains copper. Dust and acid leaching are the main routes (judgment).',
+    fragility: 'High — perfect cleavage (std ref, not re-checked).',
+
+    synergies: [
+      { crystal: 'Malachite', id: 'malachite', rationale: 'Both are green copper minerals for the heart. Same care: dry, no elixirs.' },
+      { crystal: 'Rose Quartz', id: 'rose-quartz', rationale: 'Rose quartz is a safe Heart stone to hold while dioptase stays on display.' },
+      { crystal: 'Emerald', id: 'emerald', rationale: 'Dioptase was once mistaken for emerald; both are green Heart stones.' }
+    ],
+    conflicts: [],
+    grid_role: 'Heart centre stone in display grids only',
+
+    chakra_filter: ['Heart'],
+    element_filter: 'Water',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Rare',
+    intention_filter: ['Healing', 'Love'],
+    planet_filter: 'Venus',
+    zodiac_filter: ['Scorpio', 'Sagittarius'],
+    energy_type_filter: 'Calming'
+  },
+  {
+    id: 'astrophyllite',
+    name: 'Astrophyllite',
+    emoji: '✴️',
+    color: '#b8862b',
+
+    alt_names: [],
+    mineral_family: 'Astrophyllite-group titanosilicate (std ref, not re-checked)',
+    chemical_formula: 'About K₂NaFe₇Ti₂Si₈O₂₈(OH)₄F (std ref, not re-checked)',
+    crystal_system: 'Triclinic (std ref, not re-checked)',
+    mohs_hardness: 3,
+    luster: 'Submetallic to pearly',
+    transparency: 'Opaque; translucent in thin flakes',
+    color_range: 'Golden yellow to bronze brown, in star-like blades',
+    origins: ['Russia (Kola Peninsula; not re-checked)', 'Norway (not re-checked)', 'Canada (not re-checked)'],
+    rarity: 'Uncommon',
+    ethical_sourcing: 'No source found. Material from Russia may face sanction-related trade limits in some countries (not verified).',
+    simulant_warnings: 'No source found.',
+
+    short_intention: 'Find your own path and see your potential',
+    intention: 'Self-Discovery & Transformation',
+    chakras: ['Solar Plexus', 'Third Eye'],
+    element: 'Fire',
+    planet: 'Sun',
+    day_of_week: 'Sunday',
+    zodiac: ['Scorpio'],
+    numerology: 9,
+    polarity: 'Yang',
+    solfeggio_frequency: '852 Hz',
+    energy_type: 'Activating',
+
+    emotional: [
+      'Modern attribution: self-discovery (no book source checked)',
+      'Associated with confidence in change',
+      'Encourages hope',
+      'Supports letting go of what no longer fits'
+    ],
+    mental: [
+      'Associated with seeing your potential',
+      'Helps break old habits',
+      'Encourages new ideas',
+      'Supports clear direction'
+    ],
+    spiritual: [
+      'A modern stone for dreams and inner travel',
+      'Its star-shaped blades gave it its name (Greek "star leaf")',
+      'No traditional lore found',
+      'Metaphysical fields not checked against Hall, Simmons or Melody'
+    ],
+    physical: [
+      'No element hazard known, but the blades shed flakes',
+      'Do not put in water or drinks',
+      'No medical evidence supports any health use',
+      'These are modern metaphysical beliefs, not medical claims'
+    ],
+
+    vedic_tradition: 'No source found.',
+    tcm_use: 'No source found.',
+    five_element_theory: 'Corresponds to Fire (gold). Modern attribution; no source found.',
+    feng_shui_bagua: 'Fame & Reputation (Li)',
+    feng_shui_placement: 'A closed display case; keep dry. Modern attribution; no source found.',
+
+    ancient_lore: 'No source found.',
+    indigenous_traditions: 'No source found.',
+
+    meditation_guidance: 'Place astrophyllite in front of you; do not rub or handle it. Look at the golden blades and picture them as stars. Ask one question about your next step and wait quietly.',
+    body_placement: 'Not for wearing. Place nearby.',
+    space_placement: 'Closed display case or altar, dry.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Never use for elixirs. The fragile micaceous blades break up in liquid (judgment).',
+    jewelry_recommendations: 'Not recommended. Mohs about 3 with perfect cleavage; blades split. Only as a protected cabochon, if at all.',
+
+    safe_cleansing: ['Smudging', 'Sound bath'],
+    unsafe_cleansing: ['Water (lifts flakes)', 'Salt', 'Brushing', 'Ultrasonic cleaner', 'Heat'],
+    charging_methods: ['Sound frequency 852 Hz', 'Visualization', 'Moonlight (dry)'],
+    storage_guidance: 'Store in a padded, closed box. Do not stack.',
+
+    cautions: 'Very fragile: blades split and shed flakes. Keep dry.',
+    toxicity: 'No element hazard known. The blades shed flakes.',
+    fragility: 'Very high — perfect cleavage; blades split (std ref, not re-checked).',
+
+    synergies: [
+      { crystal: 'Labradorite', id: 'labradorite', rationale: 'Both are used in modern practice for insight and inner travel.' },
+      { crystal: 'Citrine', id: 'citrine', rationale: 'Two golden Solar Plexus stones for confidence.' },
+      { crystal: 'Smoky Quartz', id: 'smoky-quartz', rationale: 'Smoky quartz grounds astrophyllite\'s active energy.' }
+    ],
+    conflicts: [],
+    grid_role: 'Activating stone in transformation grids (display only)',
+
+    chakra_filter: ['Solar Plexus', 'Third Eye'],
+    element_filter: 'Fire',
+    polarity_filter: 'Yang',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Uncommon',
+    intention_filter: ['Transformation', 'Spiritual', 'Intuition'],
+    planet_filter: 'Sun',
+    zodiac_filter: ['Scorpio'],
+    energy_type_filter: 'Activating'
+  },
+  {
+    id: 'zircon',
+    name: 'Zircon',
+    emoji: '💎',
+    color: '#3ab0c9',
+
+    alt_names: ['Hyacinth (orange-red to brown; historical)', 'Jacinth (historical)', 'Jargoon (historical)', 'Pasir zirkon (Indonesian: industrial zircon sand — tekMIRA, ESDM, Kompas 2012)'],
+    mineral_family: 'Nesosilicate (std ref, not re-checked). NOT cubic zirconia: cubic zirconia (ZrO₂) is a lab-made simulant.',
+    chemical_formula: 'ZrSiO₄',
+    crystal_system: 'Tetragonal; metamict ("low") zircon is partly amorphous because of radiation damage',
+    mohs_hardness: 7.5,
+    luster: 'Adamantine to vitreous',
+    transparency: 'Transparent to translucent',
+    color_range: 'Colourless, blue, golden, red, brown, green. Variants: high zircon (crystalline); intermediate (slightly radiation-damaged); low or metamict (often green and cloudy) (International Gem Society; Gemology Project).',
+    origins: ['Cambodia (Ratanakiri — main source of rough heated to blue)', 'Sri Lanka (not re-checked)', 'Myanmar (not re-checked)', 'Indonesia (industrial zircon sand: Kalimantan Barat — Landak, Sanggau, Melawi; Kalimantan Tengah — Katingan, Kotawaringin Timur, Seruyan); no gem-grade Indonesian zircon found'],
+    rarity: 'Uncommon',
+    ethical_sourcing: 'Common as a mineral; uncommon as fine blue gem. INDONESIA (industrial sand, not gems): Kalimantan Tengah prosecutors investigated a company for exporting zircon from illegal mines, reported value Rp281 billion (KaltengPos, news). Industry experts say illegal Kalteng zircon gets legal certificates of origin (Balanganews, news). Export of zircon sand needs a minimum grade of ZrO₂+Hf 65.5% under Permen ESDM 8/2015 (Kontan, news; original text not fetched), and an IUP and RKAB under UU 3/2020 and PP 96/2021 (Balanganews, news). No CITES issue.',
+    simulant_warnings: 'Almost all blue and colourless zircon is heat-treated (International Gem Society). Simulants: cubic zirconia, glass, synthetic spinel. Home check: zircon is strongly doubly refractive — under a 10x loupe, look for doubled back facet edges; cubic zirconia shows none (std gemology, not re-checked). Lab test: RI over the limit (OTL) on a standard refractometer; SG about 4.6–4.7 for high type; 653.5 nm absorption line (Gemology Project). Heated blue can fade toward brown in strong UV light (J. Gemmology Ratanakiri paper; not fully read).',
+
+    short_intention: 'Bring clarity and steady confidence',
+    intention: 'Clarity & Confidence',
+    chakras: ['Root', 'Crown'],
+    element: 'Earth',
+    planet: 'Jupiter',
+    day_of_week: 'Thursday',
+    zodiac: ['Sagittarius'],
+    numerology: 4,
+    polarity: 'Yang',
+    solfeggio_frequency: '963 Hz',
+    energy_type: 'Amplifying',
+
+    emotional: [
+      'Modern attribution: confidence and self-worth (no book source checked)',
+      'Associated with a clear, bright mood',
+      'Encourages steady effort',
+      'Supports grounded optimism'
+    ],
+    mental: [
+      'Associated with clear thinking',
+      'Helps separate the real from the false',
+      'Encourages honest choices',
+      'Supports focus'
+    ],
+    spiritual: [
+      'A modern stone of clarity and brilliance',
+      'December birthstone on the modern list since 1952',
+      'Gomed (navaratna) is hessonite garnet, not zircon',
+      'Metaphysical fields not checked against Hall, Simmons or Melody'
+    ],
+    physical: [
+      'Low and metamict zircon can be mildly radioactive (International Gem Society)',
+      'Common jewellery zircon (high type) is not a concern',
+      'No medical evidence supports any health use',
+      'These are modern metaphysical beliefs, not medical claims'
+    ],
+
+    vedic_tradition: 'Gomed, the navaratna stone for Rahu, is hessonite garnet (skyjems navaratna summary [market presence]). Some sellers use zircon as an upratna substitute; no scholarly source found.',
+    tcm_use: 'None found.',
+    five_element_theory: 'Corresponds to Metal (brilliance). Modern attribution; no source found.',
+    feng_shui_bagua: 'Fame & Reputation (Li)',
+    feng_shui_placement: 'Worn as jewellery rather than placed. Keep blue stones out of strong sun. Modern attribution; no source found.',
+
+    ancient_lore: 'No source found.',
+    indigenous_traditions: 'No source found. Birthstone: December on the modern list. The Jewelry Industry Council of America updated the list in 1952 and "replaced December\'s lapis lazuli with zircon"; AGTA "added tanzanite as a December birthstone in 2002" (Wikipedia, "Birthstone", citing Knuth).',
+
+    meditation_guidance: 'Hold a zircon to the light and watch its fire. Breathe in brightness; breathe out doubt. End with one clear statement of what you want.',
+    body_placement: 'Ring or pendant; held at the crown in meditation.',
+    space_placement: 'Worn rather than displayed. Keep blue stones out of sun.',
+    elixir_safety: 'Indirect',
+    elixir_notes: 'Use the indirect method only. Reason: low and metamict types may carry trace radioactivity (U, Th).',
+    jewelry_recommendations: 'Mohs 7.5 but brittle: facet edges chip. Choose protective settings. Keep heated blue zircon out of strong sun and away from a jeweller\'s torch. Ask for disclosure of heat treatment.',
+
+    safe_cleansing: ['Warm soapy water', 'Smudging', 'Sound bath', 'Moonlight'],
+    unsafe_cleansing: ['Long sunlight on blue stones (colour may shift)', 'High heat or a jeweller\'s torch'],
+    charging_methods: ['Moonlight', 'Clear quartz cluster', 'Sound frequency 963 Hz'],
+    storage_guidance: 'Store apart from other stones; facet edges chip. Keep blue stones in the dark.',
+
+    cautions: 'Zircon is not cubic zirconia. Almost all blue and colourless zircon is heat-treated. Low and metamict types can be mildly radioactive. Industrial zircon sand from Kalimantan has been linked to illegal mining.',
+    toxicity: 'Traces of U and Th. Low and metamict types can be mildly radioactive; common high-type jewellery zircon is not a concern (International Gem Society).',
+    fragility: 'Brittle — facet edges chip easily (std ref, not re-checked). Metamict stones are softer than 7.5.',
+
+    synergies: [
+      { crystal: 'Tanzanite', id: 'tanzanite', rationale: 'Both are December birthstones.' },
+      { crystal: 'Turquoise', id: 'turquoise', rationale: 'Both are December birthstones and Sagittarius stones.' },
+      { crystal: 'Clear Quartz', id: 'clear-quartz', rationale: 'Clear quartz amplifies zircon\'s clarity.' }
+    ],
+    conflicts: [],
+    grid_role: 'Amplifier stone in clarity grids',
+
+    chakra_filter: ['Root', 'Crown'],
+    element_filter: 'Earth',
+    polarity_filter: 'Yang',
+    elixir_filter: 'Indirect',
+    rarity_filter: 'Uncommon',
+    intention_filter: ['Clarity', 'Spiritual', 'Abundance'],
+    planet_filter: 'Jupiter',
+    zodiac_filter: ['Sagittarius'],
+    energy_type_filter: 'Amplifying'
+  },
+  {
+    id: 'phenakite',
+    name: 'Phenakite',
+    emoji: '🤍',
+    color: '#e8eef2',
+
+    alt_names: ['Phenacite (spelling variant)'],
+    mineral_family: 'Beryllium nesosilicate (std ref, not re-checked)',
+    chemical_formula: 'Be₂SiO₄',
+    crystal_system: 'Trigonal (std ref, not re-checked)',
+    mohs_hardness: '7.5–8',
+    luster: 'Vitreous',
+    transparency: 'Transparent to translucent',
+    color_range: 'Colourless, white, pale yellow, pink',
+    origins: ['Brazil (not re-checked)', 'Russia (Ural emerald mines; not re-checked)', 'Madagascar (not re-checked)'],
+    rarity: 'Rare',
+    ethical_sourcing: 'No source found.',
+    simulant_warnings: 'Clear quartz is the likely substitute (no source found). Lab test: RI 1.65–1.67 for phenakite vs 1.54–1.55 for quartz (std ref, not re-checked).',
+
+    short_intention: 'Open to higher insight',
+    intention: 'Spiritual Awakening & Insight',
+    chakras: ['Third Eye', 'Crown'],
+    element: 'Ether',
+    planet: 'Neptune',
+    day_of_week: 'Monday',
+    zodiac: ['Gemini'],
+    numerology: 5,
+    polarity: 'Neutral',
+    solfeggio_frequency: '963 Hz',
+    energy_type: 'Amplifying',
+
+    emotional: [
+      'Modern attribution: inner peace (no book source checked)',
+      'Associated with a sense of lightness',
+      'Encourages openness',
+      'Supports calm after intense work'
+    ],
+    mental: [
+      'Associated with insight and vision',
+      'Helps quiet mental noise',
+      'Encourages focus in meditation',
+      'Supports clear intention'
+    ],
+    spiritual: [
+      'A modern "high vibration" stone for the Third Eye and Crown',
+      'Used in modern practice for meditation',
+      'No traditional lore found',
+      'Metaphysical fields not checked against Hall, Simmons or Melody'
+    ],
+    physical: [
+      'Contains beryllium — never cut, grind or sand it',
+      'Polished stones are not a handling risk; dust is',
+      'No medical evidence supports any health use',
+      'These are modern metaphysical beliefs, not medical claims'
+    ],
+
+    vedic_tradition: 'No source found.',
+    tcm_use: 'No source found.',
+    five_element_theory: 'Corresponds to Metal (white, clear). Modern attribution; no source found.',
+    feng_shui_bagua: 'Knowledge & Wisdom (Gen)',
+    feng_shui_placement: 'Meditation altar. Modern attribution; no source found.',
+
+    ancient_lore: 'No source found.',
+    indigenous_traditions: 'No source found.',
+
+    meditation_guidance: 'Hold phenakite at the third eye. Picture clear white light. Rest in silence for a few minutes, then ground yourself with a dark stone.',
+    body_placement: 'Third eye or crown during meditation.',
+    space_placement: 'Meditation altar.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Never use for elixirs. Reason: beryllium.',
+    jewelry_recommendations: 'Hard (7.5–8) and suitable for faceted jewellery. Never re-cut or sand at home.',
+
+    safe_cleansing: ['Running water', 'Smudging', 'Sound bath', 'Moonlight'],
+    unsafe_cleansing: ['Dry grinding, cutting or sanding (beryllium dust)'],
+    charging_methods: ['Moonlight', 'Clear quartz cluster', 'Sound frequency 963 Hz'],
+    storage_guidance: 'Store apart from softer stones; it can scratch them.',
+
+    cautions: 'BERYLLIUM. US OSHA ("Beryllium – Health Effects"): chronic beryllium disease "is a chronic granulomatous lung disease caused by inhaling airborne beryllium after becoming sensitized to beryllium", and it can occur below the OSHA limit (0.2 μg/m³). Cutting dust is the risk. Never sand, grind or cut it.',
+    toxicity: 'Beryllium. Inhaled dust can cause chronic beryllium disease (US OSHA). Polished stones are not a handling risk.',
+    fragility: 'Low to moderate.',
+
+    synergies: [
+      { crystal: 'Moldavite', id: 'moldavite', rationale: 'Both are used in modern practice as intense, high-energy stones. Ground afterwards.' },
+      { crystal: 'Selenite', id: 'selenite', rationale: 'Two white Crown stones for clear meditation.' },
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', rationale: 'Black tourmaline grounds phenakite\'s light, open energy.' }
+    ],
+    conflicts: [],
+    grid_role: 'Crown amplifier in meditation grids',
+
+    chakra_filter: ['Third Eye', 'Crown'],
+    element_filter: 'Ether',
+    polarity_filter: 'Neutral',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Rare',
+    intention_filter: ['Spiritual', 'Intuition'],
+    planet_filter: 'Neptune',
+    zodiac_filter: ['Gemini'],
+    energy_type_filter: 'Amplifying'
+  },
+  {
+    id: 'tektite',
+    name: 'Tektite',
+    emoji: '☄️',
+    color: '#2a2a28',
+
+    alt_names: [],
+    mineral_family: 'CATEGORY, NOT ONE STONE: natural glass formed by meteorite impact (mineraloid). Named types: Billitonite / batu satam (Belitung, Indonesia — own entry), Moldavite (Czech Republic — own entry), Indochinite (Australasian field; not re-checked), Philippinite / rizalite (Philippines; not re-checked). Libyan Desert Glass is impact glass, usually not classed as a true tektite (not verified).',
+    chemical_formula: 'Silica-rich glass; composition varies by type',
+    crystal_system: 'Amorphous',
+    mohs_hardness: '5.5–6.5',
+    luster: 'Vitreous on fresh breaks; dull, sculpted surface',
+    transparency: 'Opaque (billitonite, indochinite) to translucent (moldavite)',
+    color_range: 'Black (Australasian types) to bottle green (moldavite)',
+    origins: ['Indonesia (Belitung — billitonite)', 'Czech Republic (moldavite; not re-checked)', 'Thailand, Laos, Vietnam (indochinite; not re-checked)', 'Philippines (philippinite; not re-checked)'],
+    rarity: 'Uncommon',
+    ethical_sourcing: 'Depends on the type. Billitonite comes as a by-product of tin mining on Belitung, including informal mining (see the Billitonite entry). Moldavite supply is finite (see the Moldavite entry). No tektite-specific Indonesian export rule was found.',
+    simulant_warnings: 'Slag, man-made glass and obsidian are sold as tektite or moldavite (general; no lab source fetched). Real tektites have a sculpted, pitted surface. Bubbles in a translucent piece do not prove it is natural. Lab test: SG, XRF chemistry and Raman. "AGNI MANITITE" IS NOT LISTED AS A TEKTITE: the only claims come from sellers, and sellers themselves call it "pseudo tektite" or obsidian (mooncatcrystals; stapelvanstenen citing SEM-EDX/XRD 2022 and Jelinek & Adami 2024). Locality claims conflict (Java vs Sumatra).',
+
+    short_intention: 'Welcome change from beyond',
+    intention: 'Transformation & Cosmic Connection',
+    chakras: ['Third Eye', 'Crown'],
+    element: 'Ether',
+    planet: 'Uranus',
+    day_of_week: 'Saturday',
+    zodiac: ['Aquarius'],
+    numerology: 4,
+    polarity: 'Neutral',
+    solfeggio_frequency: '852 Hz',
+    energy_type: 'Activating',
+
+    emotional: [
+      'Modern attribution: courage to change (no book source checked)',
+      'Associated with breaking out of old patterns',
+      'Encourages openness to the new',
+      'Supports resilience after a sudden shock'
+    ],
+    mental: [
+      'Associated with new perspectives',
+      'Helps see the bigger picture',
+      'Encourages bold ideas',
+      'Supports decisive action'
+    ],
+    spiritual: [
+      'A modern "star stone" formed by meteorite impact',
+      'Used in modern practice for cosmic connection',
+      'Each named type has its own entry or notes',
+      'Metaphysical fields not checked against Hall, Simmons or Melody'
+    ],
+    physical: [
+      'Natural glass; no toxicity known',
+      'Brittle with conchoidal fracture; sharp edges possible',
+      'No medical evidence supports any health use',
+      'These are modern metaphysical beliefs, not medical claims'
+    ],
+
+    vedic_tradition: 'No classical basis.',
+    tcm_use: 'None.',
+    five_element_theory: 'Corresponds to Fire (formed by impact heat). Modern attribution; no source found.',
+    feng_shui_bagua: 'Helpful People & Travel (Qian)',
+    feng_shui_placement: 'Meditation space or desk. Modern attribution; no source found.',
+
+    ancient_lore: 'No source found for the category. See Moldavite and Billitonite for type-specific notes.',
+    indigenous_traditions: 'See Billitonite (batu satam, Belitung).',
+
+    meditation_guidance: 'Hold a tektite and think of its origin: rock melted by an impact and thrown through the sky. Breathe in that energy of sudden change; breathe out what you are ready to leave behind.',
+    body_placement: 'Held at the third eye; carried in a pocket.',
+    space_placement: 'Meditation altar or work desk.',
+    elixir_safety: 'Safe',
+    elixir_notes: 'Generally safe (natural glass; judgment). Check that the piece is not slag or coated glass.',
+    jewelry_recommendations: 'Brittle glass. Use protective settings for pendants. Buy from sellers who name the type and locality.',
+
+    safe_cleansing: ['Running water', 'Smudging', 'Sound bath', 'Sunlight', 'Moonlight'],
+    unsafe_cleansing: ['Sudden heat (thermal shock)'],
+    charging_methods: ['Sunlight', 'Moonlight', 'Sound frequency 852 Hz'],
+    storage_guidance: 'Store in a soft pouch; edges chip.',
+
+    cautions: '"Tektite" is a category. Ask for the named type and locality. "Agni Manitite" is not a tektite. Slag, glass and obsidian are common fakes.',
+    toxicity: 'None known.',
+    fragility: 'Brittle — conchoidal fracture.',
+
+    synergies: [
+      { crystal: 'Moldavite', id: 'moldavite', rationale: 'Moldavite is the green Central European tektite.' },
+      { crystal: 'Billitonite (Batu Satam)', id: 'billitonite', rationale: 'Billitonite is the black Indonesian tektite from Belitung.' },
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', rationale: 'Black tourmaline grounds tektite\'s sudden, active energy.' }
+    ],
+    conflicts: [
+      { crystal: 'Obsidian', id: 'obsidian', reason: 'Not an energetic conflict: obsidian (volcanic glass) is often sold as tektite, including as "Agni Manitite". Keep them labelled apart.' }
+    ],
+    grid_role: 'Catalyst stone in transformation grids',
+
+    chakra_filter: ['Third Eye', 'Crown'],
+    element_filter: 'Ether',
+    polarity_filter: 'Neutral',
+    elixir_filter: 'Safe',
+    rarity_filter: 'Uncommon',
+    intention_filter: ['Transformation', 'Spiritual'],
+    planet_filter: 'Uranus',
+    zodiac_filter: ['Aquarius'],
+    energy_type_filter: 'Activating'
+  },
+  {
+    id: 'billitonite',
+    name: 'Billitonite (Batu Satam)',
+    emoji: '🌠',
+    color: '#1c1c1e',
+
+    alt_names: ['Batu Satam', 'Batusatam', 'Billitonite', 'Belitung tektite', 'Batu meteor (no source found)'],
+    mineral_family: 'Tektite (natural impact glass, mineraloid) — a named type within the Tektite category; part of the Australasian strewn field (Harbowo et al. 2021, IOP Conf. Ser. Earth Environ. Sci. 882:012012). "Batusatam" is "a local term that refers to rare Billitonite tektite" (Harbowo et al. 2021).',
+    chemical_formula: 'Silica-rich glass with high FeₓOᵧ, CaO and MnO and unusual Sn (Harbowo et al. 2021)',
+    crystal_system: 'Amorphous',
+    mohs_hardness: '5.5–6.5',
+    luster: 'Vitreous on fresh breaks; dull, sculpted and pitted surface',
+    transparency: 'Opaque',
+    color_range: 'Black',
+    origins: ['Indonesia (Belitung Island — Birah Village, Simpang Pesak, southeast Belitung; Harbowo et al. 2021)'],
+    rarity: 'Rare',
+    ethical_sourcing: 'Harbowo et al. 2021: "Batusatam is a rare stone that can only be found on Belitung Island." It comes as a by-product of tin mining on Belitung, including informal mining, found by tin miners in alluvial pits (Etsy listing [market presence]; Harbowo et al. 2021 link it to tin-bearing granite soils). No labour source found. No Indonesian export rule specific to tektites was found. Harbowo et al. 2021 frame batu satam as geoheritage; no law cited.',
+    simulant_warnings: 'Slag, man-made glass and obsidian are sold as tektite (general; no lab source fetched). Home check: real billitonite has a sculpted, pitted surface; shapes include rods and teardrops (Harbowo et al. 2021). Lab test: SG — billitonite averages 2.37 ± 0.168 g/ml vs about 2.55 for obsidian (Harbowo et al. 2021); XRF chemistry (Sn in billitonite); Raman. "Agni Manitite" is not billitonite and is not accepted as a tektite.',
+
+    short_intention: 'Protection and strength from the island\'s sky stone',
+    intention: 'Protection & Transformation',
+    chakras: ['Root', 'Third Eye'],
+    element: 'Fire',
+    planet: 'Uranus',
+    day_of_week: 'Saturday',
+    zodiac: ['Aquarius', 'Scorpio'],
+    numerology: 4,
+    polarity: 'Yang',
+    solfeggio_frequency: '396 Hz',
+    energy_type: 'Protective',
+
+    emotional: [
+      'In Belitung belief (seller report only), protects against illness',
+      'Associated with a feeling of strength',
+      'Encourages pride in local heritage',
+      'Supports resilience'
+    ],
+    mental: [
+      'Associated with determination',
+      'Helps focus on the long term',
+      'Encourages bold change',
+      'Supports clear decisions'
+    ],
+    spiritual: [
+      'A modern "star stone" from an impact',
+      'A symbol of Belitung (no source found for its tourism use)',
+      'Respect it as geoheritage (Harbowo et al. 2021)',
+      'Metaphysical fields not checked against Hall, Simmons or Melody'
+    ],
+    physical: [
+      'Natural glass; no toxicity known',
+      'Belief that it protects from illness comes from one seller only',
+      'No medical evidence supports any health use',
+      'These are folk and modern beliefs, not medical claims'
+    ],
+
+    vedic_tradition: 'No classical basis.',
+    tcm_use: 'None.',
+    five_element_theory: 'Corresponds to Fire (impact heat) and Earth. Modern attribution; no source found.',
+    feng_shui_bagua: 'Helpful People & Travel (Qian)',
+    feng_shui_placement: 'Near the entrance for protection. Modern attribution; no source found.',
+
+    ancient_lore: 'No scholarly source found.',
+    indigenous_traditions: '[market presence] An Etsy seller says Belitung locals believe batu satam protects against illness; no scholarly source found. Batu satam is also used as a symbol of Belitung (no source found). Harbowo et al. 2021 treat it as geoheritage.',
+
+    meditation_guidance: 'Hold batu satam in both hands. Feel its pitted surface and think of the long fall from the sky. Breathe slowly and ask for strength and protection.',
+    body_placement: 'Held in the hand; worn as a pendant or ring stone.',
+    space_placement: 'Near the entrance or on a desk.',
+    elixir_safety: 'Safe',
+    elixir_notes: 'Generally safe (natural glass; judgment). Check that the piece is not slag or coated glass.',
+    jewelry_recommendations: 'Popular as a ring stone and pendant. Brittle: use protective settings. Ask for a Belitung source.',
+
+    safe_cleansing: ['Running water', 'Smudging', 'Sound bath', 'Sunlight', 'Moonlight'],
+    unsafe_cleansing: ['Sudden heat (thermal shock)'],
+    charging_methods: ['Sunlight', 'Placed on earth', 'Sound frequency 396 Hz'],
+    storage_guidance: 'Store in a soft pouch; edges chip.',
+
+    cautions: 'Rare; fakes (slag, glass, obsidian) are common. Use the SG test (about 2.37) to check. "Agni Manitite" is not billitonite.',
+    toxicity: 'None known.',
+    fragility: 'Brittle — conchoidal fracture.',
+
+    synergies: [
+      { crystal: 'Tektite', id: 'tektite', rationale: 'Parent category: billitonite is the Indonesian tektite type.' },
+      { crystal: 'Moldavite', id: 'moldavite', rationale: 'Another named tektite type, from the Czech Republic.' },
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', rationale: 'Two black protection stones; tourmaline adds grounding.' }
+    ],
+    conflicts: [
+      { crystal: 'Obsidian', id: 'obsidian', reason: 'Not an energetic conflict: obsidian is sold as batu satam. Check SG (obsidian about 2.55, billitonite about 2.37).' }
+    ],
+    grid_role: 'Protection anchor in grids',
+
+    chakra_filter: ['Root', 'Third Eye'],
+    element_filter: 'Fire',
+    polarity_filter: 'Yang',
+    elixir_filter: 'Safe',
+    rarity_filter: 'Rare',
+    intention_filter: ['Protection', 'Transformation'],
+    planet_filter: 'Uranus',
+    zodiac_filter: ['Aquarius', 'Scorpio'],
+    energy_type_filter: 'Protective'
+  },
+  {
+    id: 'jet',
+    name: 'Jet',
+    emoji: '🖤',
+    color: '#141414',
+
+    alt_names: ['Azabache (Spain; not re-checked)', 'Whitby jet'],
+    mineral_family: 'Organic: fossilised wood (a lignite-type coal). Whitby jet comes from trees similar to the Chilean pine (Araucaria) (Whitby Museum). Hard jet (Whitby; formed in salt water) is good for jewellery; soft jet (formed in fresh water) cracks (whitby-jet-jewellery.com [market presence]; not lab-verified).',
+    chemical_formula: 'None (organic carbon)',
+    crystal_system: 'None (organic, amorphous)',
+    mohs_hardness: '2.5–4',
+    luster: 'Velvety to vitreous when polished',
+    transparency: 'Opaque',
+    color_range: 'Black; dark brown',
+    origins: ['United Kingdom (Whitby — Jurassic Whitby Mudstone Formation)', 'Spain (Asturias)', 'Turkey (Oltu; not re-checked)'],
+    rarity: 'Uncommon',
+    ethical_sourcing: 'Whitby jet is collected from beaches and cliffs (no source fetched). UK foreshore collecting rules may apply locally (not verified). Whitby jet is rare. No Indonesian locality found.',
+    simulant_warnings: 'Vulcanite (ebonite) is "by far the most widely-produced Whitby jet simulant" (Gem-A, Sarah Steele). Others: French jet (black glass), bog oak, horn, Bakelite and other plastics, coal (Gem-A; Whitby Museum). Home checks: jet feels warm; glass feels cold. Jet gives a brown streak on unglazed porcelain, but so does vulcanite, so the streak test is not reliable (Gem-A). Screw fittings point to horn or vulcanite; jet fittings are glued (Whitby Museum). Moulded hinges point to vulcanite. Vulcanite fades to khaki in UV (whatiswhitbyjet.com). DO NOT USE THE HOT-NEEDLE TEST: the Whitby Museum warns it is unreliable (coal and many fakes also smell of coal), and on celluloid it "could cause serious bodily harm". Lab test: FTIR or Raman.',
+
+    short_intention: 'Protection and comfort in grief',
+    intention: 'Protection & Grief Support',
+    chakras: ['Root'],
+    element: 'Earth',
+    planet: 'Saturn',
+    day_of_week: 'Saturday',
+    zodiac: ['Capricorn'],
+    numerology: 8,
+    polarity: 'Yin',
+    solfeggio_frequency: '396 Hz',
+    energy_type: 'Protective',
+
+    emotional: [
+      'Associated with comfort in grief (Victorian mourning jewellery)',
+      'Modern attribution: protection from negative feelings (no book source checked)',
+      'Encourages steadiness after loss',
+      'Supports quiet strength'
+    ],
+    mental: [
+      'Associated with self-control',
+      'Helps keep a sober, clear head',
+      'Encourages patience',
+      'Supports discipline'
+    ],
+    spiritual: [
+      'An old protective stone; jet use in Britain is ancient',
+      'Spanish azabache amulets are a regional tradition (no source fetched)',
+      'Formed from ancient trees, not a mineral',
+      'Metaphysical fields not checked against Hall, Simmons or Melody'
+    ],
+    physical: [
+      'Organic carbon; no toxicity',
+      'Celluloid fakes are flammable (Whitby Museum)',
+      'No medical evidence supports any health use',
+      'These are folk and modern beliefs, not medical claims'
+    ],
+
+    vedic_tradition: 'No classical basis.',
+    tcm_use: 'None.',
+    five_element_theory: 'Corresponds to Water (black) and Wood (fossil tree). Modern attribution; no source found.',
+    feng_shui_bagua: 'Career (Kan)',
+    feng_shui_placement: 'Near the entrance for protection, away from heat. Modern attribution; no source found.',
+
+    ancient_lore: '[historical] Jet use in Britain is ancient. [historical] Victorian mourning jewellery: Queen Victoria wore Whitby jet after Prince Albert died in 1861 (Rock & Gem Magazine; general). The phrase "jet black" comes from the stone.',
+    indigenous_traditions: 'Spanish azabache amulets (no source fetched).',
+
+    meditation_guidance: 'Hold jet in the palm and feel how it warms. Think of the ancient forest it came from. Breathe slowly and let grief or fear settle into the earth.',
+    body_placement: 'Worn as a pendant or brooch; held in the palm.',
+    space_placement: 'Bedside or entrance, away from heat and sun.',
+    elixir_safety: 'Indirect',
+    elixir_notes: 'Use the indirect method only. Jet is organic and porous; soft jet cracks (judgment).',
+    jewelry_recommendations: 'Light and warm to wear, but soft (2.5–4) and chips. Best for pendants, brooches and earrings. Ask whether it is hard Whitby jet, and check for vulcanite or glass fakes.',
+
+    safe_cleansing: ['Smudging', 'Sound bath', 'Soft dry cloth'],
+    unsafe_cleansing: ['Salt (scratches)', 'Heat (jet burns)', 'Ultrasonic cleaner', 'Solvents', 'Long water contact'],
+    charging_methods: ['Moonlight', 'Placed on earth', 'Sound frequency 396 Hz'],
+    storage_guidance: 'Store alone in a soft pouch, away from heat and harder stones.',
+
+    cautions: 'Soft and chips. Jet burns — keep away from flame. Never use the hot-needle test (Whitby Museum).',
+    toxicity: 'None. Celluloid fakes are flammable (Whitby Museum).',
+    fragility: 'High — soft; chips and cracks.',
+
+    synergies: [
+      { crystal: 'Black Onyx', id: 'black-onyx', rationale: 'Two black protection stones; onyx is harder for daily wear.' },
+      { crystal: 'Amber', id: 'amber', rationale: 'Both are organic fossil materials from ancient trees.' },
+      { crystal: 'Petrified Wood', id: 'petrified-wood', rationale: 'Both come from ancient trees: one turned to coal, one to stone.' }
+    ],
+    conflicts: [],
+    grid_role: 'Protective anchor in grief and protection grids',
+
+    chakra_filter: ['Root'],
+    element_filter: 'Earth',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Indirect',
+    rarity_filter: 'Uncommon',
+    intention_filter: ['Protection', 'Grounding', 'Healing'],
+    planet_filter: 'Saturn',
+    zodiac_filter: ['Capricorn'],
+    energy_type_filter: 'Protective'
+  },
+  {
+    id: 'vanadinite',
+    name: 'Vanadinite',
+    emoji: '🔶',
+    color: '#c8401f',
+
+    alt_names: ['Endlichite (arsenic-bearing variety; not re-checked)'],
+    mineral_family: 'Apatite-group lead vanadate (std ref, not re-checked)',
+    chemical_formula: 'Pb₅(VO₄)₃Cl',
+    crystal_system: 'Hexagonal',
+    mohs_hardness: 3,
+    luster: 'Resinous to subadamantine',
+    transparency: 'Transparent to opaque',
+    color_range: 'Bright red, orange-red, brown, yellow',
+    origins: ['Morocco (Mibladen, Taouz; not re-checked)'],
+    rarity: 'Uncommon',
+    ethical_sourcing: 'Moroccan artisanal mining (no source fetched).',
+    simulant_warnings: 'No source found.',
+
+    short_intention: 'Fuel drive and creative energy',
+    intention: 'Energy & Creativity',
+    chakras: ['Root', 'Sacral', 'Solar Plexus'],
+    element: 'Fire',
+    planet: 'Mars',
+    day_of_week: 'Tuesday',
+    zodiac: ['Virgo'],
+    numerology: 3,
+    polarity: 'Yang',
+    solfeggio_frequency: '417 Hz',
+    energy_type: 'Activating',
+
+    emotional: [
+      'Modern attribution: drive and stamina (no book source checked)',
+      'Associated with courage',
+      'Encourages enthusiasm',
+      'Supports follow-through'
+    ],
+    mental: [
+      'Associated with focus on a goal',
+      'Helps organise plans',
+      'Encourages creative work',
+      'Supports discipline'
+    ],
+    spiritual: [
+      'A modern stone of fire and drive',
+      'Used in modern practice for grounding active energy',
+      'No traditional lore found',
+      'Metaphysical fields not checked against Hall, Simmons or Melody'
+    ],
+    physical: [
+      'CONTAINS LEAD — do not lick, ingest or put in water',
+      'Wash hands after handling; keep away from children and food',
+      'No medical evidence supports any health use',
+      'These are modern metaphysical beliefs, not medical claims'
+    ],
+
+    vedic_tradition: 'No source found.',
+    tcm_use: 'No source found.',
+    five_element_theory: 'Corresponds to Fire (red). Modern attribution; no source found.',
+    feng_shui_bagua: 'Fame & Reputation (Li)',
+    feng_shui_placement: 'A closed display case, out of reach of children and pets. Modern attribution; no source found.',
+
+    ancient_lore: 'No source found.',
+    indigenous_traditions: 'No source found.',
+
+    meditation_guidance: 'Place vanadinite in front of you; do not hold it. Look at its red crystals and picture a steady fire in the belly. Name one task you will finish today. Wash your hands afterwards if you touch it.',
+    body_placement: 'Not for wearing or holding. Place nearby.',
+    space_placement: 'Closed display case, away from food, children and pets.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Never use for elixirs. Reason: lead.',
+    jewelry_recommendations: 'Not recommended. Contains lead; soft (about 3) and brittle. Keep as a specimen.',
+
+    safe_cleansing: ['Sound bath', 'Smudging at a distance', 'Visualization'],
+    unsafe_cleansing: ['Water', 'Salt', 'Acids', 'Heat', 'Any contact with food'],
+    charging_methods: ['Sound frequency 417 Hz', 'Visualization', 'Placed near a candle (not touching)'],
+    storage_guidance: 'Store in a closed, labelled box away from children and food. Do not stack; crystals break.',
+
+    cautions: 'LEAD MINERAL. A hazard if dust is swallowed or inhaled, or if acids leach it. Wash hands after handling. Keep away from children. May darken in light (no source found).',
+    toxicity: 'Lead. Hazard if dust is swallowed or inhaled or if acids leach it (judgment from the Pb content).',
+    fragility: 'High — soft, brittle crystals (Mohs about 2.5–4 in references; not re-checked).',
+
+    synergies: [
+      { crystal: 'Carnelian', id: 'carnelian', rationale: 'Carnelian is a safe red stone to hold while vanadinite stays on display.' },
+      { crystal: 'Red Jasper', id: 'red-jasper', rationale: 'Two red stones for stamina; jasper is safe to handle.' },
+      { crystal: 'Smoky Quartz', id: 'smoky-quartz', rationale: 'Smoky quartz grounds vanadinite\'s fiery energy.' }
+    ],
+    conflicts: [],
+    grid_role: 'Fire stone in creativity grids (display only)',
+
+    chakra_filter: ['Root', 'Sacral', 'Solar Plexus'],
+    element_filter: 'Fire',
+    polarity_filter: 'Yang',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Uncommon',
+    intention_filter: ['Creativity', 'Courage', 'Grounding'],
+    planet_filter: 'Mars',
+    zodiac_filter: ['Virgo'],
+    energy_type_filter: 'Activating'
+  },
+  {
+    id: 'abalone-shell',
+    name: 'Abalone Shell',
+    emoji: '🐚',
+    color: '#4f8d9c',
+
+    alt_names: ['Paua (Haliotis iris, New Zealand)', 'Perlemoen (H. midae, South Africa)', 'Ormer', 'Kerang mata tujuh ("seven-eye shell", H. asinina, Indonesia)', 'Siput lapar kenyang', 'Bia telinga (Maluku)', 'Kerang abalon', 'Medau (blog; weak source)', 'Sea ear (weak source)'],
+    mineral_family: 'Organic: shell of Haliotis spp. The nacre is aragonite plus conchiolin (std ref, not re-checked).',
+    chemical_formula: 'CaCO₃ (aragonite) plus protein',
+    crystal_system: 'None (organic; aragonite is orthorhombic)',
+    mohs_hardness: 3.5,
+    luster: 'Pearly, iridescent',
+    transparency: 'Opaque',
+    color_range: 'Iridescent blue, green, purple, pink',
+    origins: ['Indonesia (H. asinina: Bali, Lombok, Sumbawa, Sulawesi, Maluku, Papua — blog citing Geiger 2007; weak)', 'Indonesia (farmed: Balai Budidaya Laut Lombok — IOP Conf. Ser. 782:022039, 2021; Banggai, Central Sulawesi — Jurnal Maiyah 2023)', 'New Zealand (not re-checked)', 'South Africa (not re-checked)', 'United States and Mexico (not re-checked)'],
+    rarity: 'Common',
+    ethical_sourcing: 'PREFER SHELL FROM FARMED ABALONE. South Africa: severe poaching of H. midae by organised crime (TRAFFIC 2010; CoP20 Prop. 39). Indonesia: researchers urge farming because of wild overharvest (Maharani et al., Journal of Marine Research, Undip). LEGAL: no Haliotis species is listed in CITES today. H. midae was in Appendix III from 3 May 2007 until South Africa removed it in 2010 (TRAFFIC, 4 June 2010). South Africa\'s CoP20 proposal (Prop. 39, Appendix II, "dried specimens only") was "withdrawn by the proponent without debate" (Environment and Climate Change Canada, CoP20 outcomes). H. asinina is not on the Indonesian P.106/2018 protected list on the KSDAE site. New Zealand paua export rules and California abalone closures: not verified.',
+    simulant_warnings: 'Dyed shell, plastic or resin "abalone", and reconstituted shell in resin (no lab source fetched). Home check: real nacre feels gritty against a tooth; plastic is smooth and light. Lab test: Raman (aragonite vs polymer).',
+
+    short_intention: 'Soothe the heart and flow with change',
+    intention: 'Calm & Emotional Healing',
+    chakras: ['Heart', 'Throat', 'Third Eye'],
+    element: 'Water',
+    planet: 'Moon',
+    day_of_week: 'Monday',
+    zodiac: ['Cancer', 'Scorpio'],
+    numerology: 7,
+    polarity: 'Yin',
+    solfeggio_frequency: '639 Hz',
+    energy_type: 'Calming',
+
+    emotional: [
+      'Modern attribution: emotional calm (no book source checked)',
+      'Associated with gentleness',
+      'Encourages compassion',
+      'Supports flowing with change'
+    ],
+    mental: [
+      'Associated with intuition',
+      'Helps soften rigid thinking',
+      'Encourages imagination',
+      'Supports calm reflection'
+    ],
+    spiritual: [
+      'Often used as a smudge bowl in modern practice',
+      'Linked with the sea and the moon',
+      'Maori use of paua (not verified)',
+      'Metaphysical fields not checked against Hall, Simmons or Melody'
+    ],
+    physical: [
+      'Cutting and grinding make shell dust — use wet methods and a mask',
+      'Abalone is also a food; the shell is a by-product',
+      'No medical evidence supports any health use',
+      'These are folk and modern beliefs, not medical claims'
+    ],
+
+    vedic_tradition: 'No classical basis.',
+    tcm_use: 'Shijueming 石决明 (abalone shell) is in the Chinese materia medica (not verified this run).',
+    five_element_theory: 'Corresponds to Water. Modern attribution; no source found.',
+    feng_shui_bagua: 'Career (Kan)',
+    feng_shui_placement: 'North of the home or a meditation space, dry. Modern attribution; no source found.',
+
+    ancient_lore: 'No source found.',
+    indigenous_traditions: 'Maori use of paua (not verified this run). Indonesia: food and craft use, such as buttons and jewellery (Khoironi, PPPPTK Pertanian).',
+
+    meditation_guidance: 'Hold an abalone shell and tilt it to watch the colours move. Breathe in slowly with the image of a wave coming in, and out as it pulls back. Let feelings move the same way.',
+    body_placement: 'Held at the heart; worn as a pendant or earrings.',
+    space_placement: 'Meditation altar or as a dish (dry). Modern use as a smudge bowl.',
+    elixir_safety: 'Indirect',
+    elixir_notes: 'Use the indirect method only. Carbonate dissolves in acid; it is organic and may be dyed or resin-coated.',
+    jewelry_recommendations: 'Soft (about 3.5) and can delaminate. Good for pendants and earrings. Ask whether it is solid shell, dyed, or reconstituted in resin, and whether it is farmed.',
+
+    safe_cleansing: ['Smudging', 'Sound bath', 'Damp cloth', 'Moonlight'],
+    unsafe_cleansing: ['Acids such as vinegar or lemon', 'Salt', 'Heat (organic matter breaks down)', 'Long soaks'],
+    charging_methods: ['Moonlight', 'Sound frequency 639 Hz', 'Visualization'],
+    storage_guidance: 'Store dry and away from sun (dyed pieces fade) and heat.',
+
+    cautions: 'Animal product. Prefer farmed abalone; South African abalone is heavily poached. Not CITES-listed today. Dyed and resin pieces are common.',
+    toxicity: 'None in normal handling. Cutting and grinding create shell dust; use wet methods and a mask (no source fetched).',
+    fragility: 'Moderate — soft; delaminates.',
+
+    synergies: [
+      { crystal: 'Pearl', id: 'pearl', rationale: 'Both are nacre from molluscs; same care: no acids, no heat.' },
+      { crystal: 'Larimar', id: 'larimar', rationale: 'Two sea-coloured calming stones; larimar is mineral, not animal.' },
+      { crystal: 'Moonstone', id: 'moonstone', rationale: 'Both are Moon stones for intuition and emotional flow.' }
+    ],
+    conflicts: [],
+    grid_role: 'Water stone in calm and emotional healing grids; smudge bowl',
+
+    chakra_filter: ['Heart', 'Throat', 'Third Eye'],
+    element_filter: 'Water',
+    polarity_filter: 'Yin',
+    elixir_filter: 'Indirect',
+    rarity_filter: 'Common',
+    intention_filter: ['Calm', 'Healing', 'Intuition'],
+    planet_filter: 'Moon',
+    zodiac_filter: ['Cancer', 'Scorpio'],
+    energy_type_filter: 'Calming'
+  },
+  {
+    id: 'pietersite',
+    name: 'Pietersite',
+    emoji: '🌪️',
+    color: '#3f4f6b',
+
+    alt_names: ['Tempest stone [market presence]'],
+    mineral_family: 'Trade name for a breccia, not a mineral species: chalcedony and quartz with crocidolite (riebeckite asbestos) fibres, plus hematite and goethite (GIA, Gems & Gemology Winter 2010, "A microstructural study of pietersite from Namibia and China").',
+    chemical_formula: 'SiO₂ matrix plus crocidolite fibres',
+    crystal_system: 'Microcrystalline aggregate (rock-like)',
+    mohs_hardness: '6.5–7',
+    luster: 'Silky, chatoyant',
+    transparency: 'Opaque',
+    color_range: 'Blue, gold, red-brown. Namibian is mostly blue-grey; Chinese (Henan) has warmer gold and red tones, with fine-grained, jasper-like quartz (GIA 2010).',
+    origins: ['Namibia', 'China (Xichuan, Henan Province — found during prospecting for crocidolite; GIA 2010)'],
+    rarity: 'Rare',
+    ethical_sourcing: 'GIA 2010: "China and Namibia are the only known sources of gem-quality pietersite." It comes from a crocidolite-rich region; worker asbestos exposure is a concern (judgment; no labour source). Asbestos rules may affect cutting and import of rough (not verified).',
+    simulant_warnings: 'No source found. GIA 2010 found "no evidence for pseudomorphism of quartz after crocidolite, despite popular" belief — so the crocidolite fibres are still present.',
+
+    short_intention: 'See clearly through the storm',
+    intention: 'Insight & Inner Strength',
+    chakras: ['Third Eye', 'Solar Plexus'],
+    element: 'Air',
+    planet: 'Sun',
+    day_of_week: 'Sunday',
+    zodiac: ['Sagittarius'],
+    numerology: 7,
+    polarity: 'Yang',
+    solfeggio_frequency: '852 Hz',
+    energy_type: 'Activating',
+
+    emotional: [
+      'Modern attribution: calm in turbulent times (no book source checked)',
+      'Associated with courage',
+      'Encourages acceptance of change',
+      'Supports resilience'
+    ],
+    mental: [
+      'Associated with clear vision',
+      'Helps make decisions under pressure',
+      'Encourages self-direction',
+      'Supports focus'
+    ],
+    spiritual: [
+      'A modern "tempest stone" for insight',
+      'No historical lore: discovered in 1962 (gemdat)',
+      'Named for Sid Pieters, who discovered it in Namibia',
+      'Metaphysical fields not checked against Hall, Simmons or Melody'
+    ],
+    physical: [
+      'CONTAINS CROCIDOLITE (blue asbestos) fibres',
+      'Never cut, drill, sand or tumble it; polished pieces are low risk',
+      'No medical evidence supports any health use',
+      'These are modern metaphysical beliefs, not medical claims'
+    ],
+
+    vedic_tradition: 'No source found.',
+    tcm_use: 'No source found.',
+    five_element_theory: 'Corresponds to Metal and Fire. Modern attribution; no source found.',
+    feng_shui_bagua: 'Knowledge & Wisdom (Gen)',
+    feng_shui_placement: 'Study or desk. Modern attribution; no source found.',
+
+    ancient_lore: 'None. Named for Sid Pieters, who discovered it in Namibia and registered it in "the mineral records of Great Britain in 1964" (GIA 2010). Discovery year 1962 (gemdat; not in the GIA text).',
+    indigenous_traditions: 'No source found.',
+
+    meditation_guidance: 'Hold a polished pietersite and watch the light move across it like a storm. Breathe slowly. Picture yourself in the calm eye of the storm, seeing clearly.',
+    body_placement: 'Polished pieces only: worn as a pendant or held at the third eye.',
+    space_placement: 'Study or work desk.',
+    elixir_safety: 'Avoid',
+    elixir_notes: 'Never use for elixirs. Reason: asbestos (crocidolite) fibres.',
+    jewelry_recommendations: 'Polished cabochons and beads are low risk. Do not buy rough to cut, drill or tumble at home.',
+
+    safe_cleansing: ['Smudging', 'Sound bath', 'Damp wipe (polished pieces)', 'Moonlight'],
+    unsafe_cleansing: ['Sanding', 'Drilling', 'Tumbling', 'Ultrasonic cleaner', 'Salt (scratches)', 'Heat'],
+    charging_methods: ['Moonlight', 'Sound frequency 852 Hz', 'Visualization'],
+    storage_guidance: 'Store polished pieces in a soft pouch. Do not store rough or broken pieces where dust can spread.',
+
+    cautions: 'ASBESTOS DUST WARNING. Contains crocidolite (blue asbestos) fibres (GIA 2010). The risk is dust from cutting, drilling or breaking. No cutting, drilling, sanding or tumbling at home.',
+    toxicity: 'Crocidolite (blue asbestos). Risk is from dust made by cutting, drilling or breaking; polished pieces are low risk (GIA 2010 confirms the fibres; risk statement is judgment).',
+    fragility: 'Low to moderate.',
+
+    synergies: [
+      { crystal: 'Tiger\'s Eye', id: 'tigers-eye', rationale: 'Tiger\'s eye is related material (quartz with crocidolite); both are chatoyant stones for courage. Same dust care.' },
+      { crystal: 'Labradorite', id: 'labradorite', rationale: 'Two stones with moving light, used for insight.' },
+      { crystal: 'Black Tourmaline', id: 'black-tourmaline', rationale: 'Black tourmaline grounds pietersite\'s stormy energy.' }
+    ],
+    conflicts: [],
+    grid_role: 'Insight stone in decision grids',
+
+    chakra_filter: ['Third Eye', 'Solar Plexus'],
+    element_filter: 'Air',
+    polarity_filter: 'Yang',
+    elixir_filter: 'Avoid',
+    rarity_filter: 'Rare',
+    intention_filter: ['Intuition', 'Transformation', 'Courage'],
+    planet_filter: 'Sun',
+    zodiac_filter: ['Sagittarius'],
+    energy_type_filter: 'Activating'
+  },
+  {
+    id: 'red-coral',
+    name: 'Red Coral (Precious Coral)',
+    emoji: '🪸',
+    color: '#d1343a',
+
+    alt_names: ['Pravala (navaratna)', 'Moonga (navaratna)', 'Aka (Corallium japonicum — CIBJO)', 'Momo / Boké / Magai (Pleurocorallium elatius — CIBJO)', 'Misu (Hemicorallium sulcatum — CIBJO)', 'Merjan / Marjan (no source found)'],
+    mineral_family: 'Organic: calcareous skeleton (calcite) of precious corals (Coralliidae). Colour from carotenoid pigments (not re-checked). Species: Corallium rubrum (Mediterranean); C. japonicum ("Aka"); Pleurocorallium elatius ("Momo/Boké/Magai"); P. konojoi (white); Hemicorallium sulcatum ("Misu") (CIBJO Coral Guide). NOT AKAR BAHAR: in Indonesia "akar bahar" means BLACK coral (Antipathes), not red coral (PP 7/1999 annex no. 222). Black coral has its own entry.',
+    chemical_formula: 'CaCO₃ (Mg-calcite) plus organic matter',
+    crystal_system: 'None (organic)',
+    mohs_hardness: '3–4',
+    luster: 'Vitreous when polished; dull or waxy when rough',
+    transparency: 'Opaque',
+    color_range: 'White, pink, orange, red, oxblood',
+    origins: ['Mediterranean (Italy, Sardinia)', 'Japan', 'Taiwan (CoP15 Prop. 21; TRAFFIC)'],
+    rarity: 'Rare',
+    ethical_sourcing: 'CITES APPENDIX III (listed by China, effective 1 July 2008): Corallium elatius, C. japonicum, C. konjoi and C. secundum — trade needs CITES papers. CITES Notification 2026/018 (26 January 2026) updates the names under the WoRMS checklist adopted at CoP20. Corallium rubrum is NOT listed. Proposals to list Corallium in Appendix II failed: Spain 1987 (CoP6, C. rubrum), USA 2007 (CoP14), EU and USA 2010 (CoP15) (CITES AC31 Doc. 23). Slow growth and limited dispersal make precious corals "vulnerable to over-exploitation"; illegal fishing includes foreign boats in Japan\'s EEZ (CITES CoP17 Doc. 52). Taiwan licenses 56 vessels and uses VMS and logbooks (CoP15 Prop. 21). CITES proposals cite population decline (CoP14, CoP15). No Indonesian Corallium fishery source found. Indonesian KKP marine rules: not checked. Black coral (akar bahar) is a separate, CITES Appendix II material — see that entry.',
+    simulant_warnings: 'Dyed bamboo coral (Isididae, "sea bamboo") is the most common substitute: dye collects in drill holes and pits, and its ridges are 0.4–1 mm apart vs about 0.25–0.5 mm in Coralliidae (gemstones.com Gemopedia; weak). Gilson "created coral": calcite plus pigment, SG 2.44 (lower than natural), fine granular texture under magnification (International Gem Society). Also dyed bone, dyed marble, glass, plastic, sponge coral, and reconstituted coral (powder in resin). Home checks: an acetone swab lifts some dyes. A hot point makes plastic smell, and natural coral fizzes in acid — both tests damage the piece. Lab test: Raman (carotenoid peaks; polymer), FTIR, magnification.',
+
+    short_intention: 'Courage, vitality and the strength of Mars',
+    intention: 'Courage & Vitality',
+    chakras: ['Root', 'Sacral'],
+    element: 'Water',
+    planet: 'Mars',
+    day_of_week: 'Tuesday',
+    zodiac: ['Aries', 'Scorpio'],
+    numerology: 9,
+    polarity: 'Yang',
+    solfeggio_frequency: '396 Hz',
+    energy_type: 'Activating',
+
+    emotional: [
+      'In navaratna tradition, worn for the strength of Mars',
+      'Modern attribution: courage and vitality (no book source checked)',
+      'Encourages confidence',
+      'Supports emotional steadiness'
+    ],
+    mental: [
+      'Associated with determination',
+      'Helps act decisively',
+      'Encourages focus',
+      'Supports clear action'
+    ],
+    spiritual: [
+      'Navaratna stone for Mars (Mangala); primary verse not checked',
+      'A living sea animal, not a mineral',
+      'Respect the sea: buy only legally traded coral with papers',
+      'Metaphysical fields not checked against Hall, Simmons or Melody'
+    ],
+    physical: [
+      'Calcium carbonate; no toxicity',
+      'Dyed or resin-filled pieces are common',
+      'No medical evidence supports any health use',
+      'These are traditional and modern beliefs, not medical claims'
+    ],
+
+    vedic_tradition: 'Navaratna: red coral (moonga, pravala) for Mars (Mangala). Common in navaratna sources; primary verse not checked. [historical] The Garuda Purana\'s Ratna Pariksha section (Achara Kanda, ch. 68) covers the origin and testing of gems (JAIMS review, Niveditha et al.). [historical] The Brihat Samhita (Varahamihira, 6th c.), ch. 80, lists gems including coral (secondary summary; not verified from a primary source).',
+    tcm_use: 'Shanhu 珊瑚 (not verified this run).',
+    five_element_theory: 'Corresponds to Fire (red, Mars) and Water (sea). Modern attribution; no source found.',
+    feng_shui_bagua: 'Fame & Reputation (Li)',
+    feng_shui_placement: 'Worn as jewellery rather than displayed. Modern attribution; no source found.',
+
+    ancient_lore: '[historical] The Garuda Purana (Ratna Pariksha, Achara Kanda ch. 68) and the Brihat Samhita (ch. 80) cover gems including coral (see Vedic tradition).',
+    indigenous_traditions: 'Indonesia: akar bahar bracelets are worn for health (Kompas 2024 mentions use as bracelets and medicine) — but this is BLACK coral, not red coral. No Indonesian tradition for red coral was found.',
+
+    meditation_guidance: 'Hold red coral at the base of the spine. Picture a steady red warmth rising with each breath in. Name one brave step you will take.',
+    body_placement: 'Ring or pendant.',
+    space_placement: 'Worn rather than displayed.',
+    elixir_safety: 'Indirect',
+    elixir_notes: 'Use the indirect method only. Carbonate dissolves in acid; it may be dyed or resin-filled.',
+    jewelry_recommendations: 'Soft (3–4) and scratches. Put it on after perfume and cosmetics. Ask for the species and CITES papers for Pacific species (C. japonicum, C. elatius, C. konojoi, C. secundum). Never accept black coral (akar bahar) as "red coral".',
+
+    safe_cleansing: ['Smudging', 'Sound bath', 'Damp cloth'],
+    unsafe_cleansing: ['Acids such as vinegar or lemon', 'Salt', 'Ultrasonic cleaner', 'Perfume', 'Heat'],
+    charging_methods: ['Sound frequency 396 Hz', 'Visualization', 'Moonlight'],
+    storage_guidance: 'Store in a soft pouch, away from sun (dyed coral fades — International Gem Society), heat and harder stones.',
+
+    cautions: 'LEGAL BOX: four Pacific precious corals are CITES Appendix III (listed by China since 1 July 2008) and need CITES papers to trade. Corallium rubrum is not listed. Do not merge with akar bahar (black coral, CITES Appendix II since 1981, disputed Indonesian status). Dyed bamboo coral and resin fakes are common.',
+    toxicity: 'None. Cutting dust is calcium carbonate.',
+    fragility: 'Moderate — soft; scratches.',
+
+    synergies: [
+      { crystal: 'Carnelian', id: 'carnelian', rationale: 'Two red-orange stones for courage and vitality.' },
+      { crystal: 'Pearl', id: 'pearl', rationale: 'Both are organic gems from the sea and part of the navaratna; same care.' },
+      { crystal: 'Ruby', id: 'ruby', rationale: 'Ruby (Sun) and coral (Mars) sit together in the navaratna.' }
+    ],
+    conflicts: [
+      { crystal: 'Akar Bahar (Black Coral)', id: 'akar-bahar', reason: 'Not an energetic conflict: akar bahar is black coral (CITES Appendix II), not red coral. Do not let "red coral" cover it.' }
+    ],
+    grid_role: 'Root activator in courage grids',
+
+    chakra_filter: ['Root', 'Sacral'],
+    element_filter: 'Water',
+    polarity_filter: 'Yang',
+    elixir_filter: 'Indirect',
+    rarity_filter: 'Rare',
+    intention_filter: ['Courage', 'Protection', 'Grounding'],
+    planet_filter: 'Mars',
+    zodiac_filter: ['Aries', 'Scorpio'],
+    energy_type_filter: 'Activating'
   }
 ];
